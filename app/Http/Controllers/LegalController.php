@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace App\Http\Controllers;
 
+use App\Site\PageMeta;
 use Inertia\Inertia;
 use Inertia\Response;
 
@@ -18,19 +19,33 @@ final class LegalController extends Controller
 {
     public function about(): Response
     {
-        return Inertia::render('Legal/About');
+        return Inertia::render('Legal/About', [
+            'meta' => self::meta(
+                'About',
+                'Starting a campus chapter against automated plate readers should cost one '
+                    .'student and twenty minutes. What this is, and what it deliberately is not.',
+                '/about',
+            ),
+        ]);
     }
 
     public function contact(): Response
     {
         return Inertia::render('Legal/Contact', [
             'email' => self::contactAddress(),
+            'meta' => self::meta(
+                'Contact',
+                'One address, read by one person. For a chapter that has been abandoned, '
+                    .'something wrong in the shipped data, or a page that should come down.',
+                '/contact',
+            ),
         ]);
     }
 
     public function terms(): Response
     {
         return Inertia::render('Legal/Terms', [
+            'meta' => self::meta('Terms', 'The terms this site is used under.', '/terms'),
             'updated' => self::UPDATED,
             'contact' => self::contactAddress(),
             'operator' => self::operator(),
@@ -41,10 +56,26 @@ final class LegalController extends Controller
     public function privacy(): Response
     {
         return Inertia::render('Legal/Privacy', [
+            'meta' => self::meta(
+                'Privacy',
+                'What is kept, which is almost nothing: no accounts, no passwords, and no '
+                    .'record of who reads a page.',
+                '/privacy',
+            ),
             'updated' => self::UPDATED,
             'contact' => self::contactAddress(),
             'operator' => self::operator(),
         ]);
+    }
+
+    /** @return array<string, mixed> */
+    private static function meta(string $title, string $description, string $path): array
+    {
+        return PageMeta::make(
+            title: $title.' · '.PageMeta::SITE_NAME,
+            description: $description,
+            path: $path,
+        )->toArray();
     }
 
     /** Every page here names a reachable address; an unreachable one is worse than none. */

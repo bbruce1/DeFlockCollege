@@ -77,6 +77,8 @@ final class ChapterCreationController extends Controller
         $known = $ticket->domain->known();
 
         return Inertia::render('Chapters/Create', [
+            // Reached only by a signed link; never indexed or previewed.
+            'meta' => \App\Site\PageMeta::private('Start a chapter')->toArray(),
             'ticket' => (string) $request->query('ticket'),
             'domain' => $ticket->domain->registrable,
             'minutesRemaining' => $ticket->minutesRemaining(),

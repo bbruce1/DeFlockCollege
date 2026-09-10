@@ -1,2 +1,13 @@
 User-agent: *
-Disallow:
+
+# Reached only by a signed link or a passphrase. Nothing here is public, and
+# crawling it spends the rate limits meant for people.
+Disallow: /admin
+Disallow: /start
+Disallow: /verify
+Disallow: /districts
+Disallow: /places
+Disallow: /handle-check
+Disallow: /*/welcome
+Disallow: /*/edit
+Disallow: /*/unlock

@@ -71,6 +71,8 @@ final class ChapterEditController extends Controller
         // key rather than turning somebody away.
         if ($token === '' && $pass === '') {
             return Inertia::render('Chapters/Unlock', [
+            // Reached only by a signed link; never indexed or previewed.
+            'meta' => \App\Site\PageMeta::private('Unlock')->toArray(),
                 'chapter' => [
                     'slug' => $chapter->slug,
                     'shortName' => $chapter->shortName,

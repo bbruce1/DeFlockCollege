@@ -7,6 +7,7 @@ namespace App\Http\Controllers;
 use App\Chapters\ChapterRepository;
 use App\Chapters\StateCoverageRepository;
 use App\Chapters\States;
+use App\Site\PageMeta;
 use App\Chapters\Chapter;
 use App\Officials\Official;
 use App\Officials\OfficialsDirectory;
@@ -36,6 +37,12 @@ final class ChapterController extends Controller
                 static fn ($chapter): array => $chapter->toPublicArray(),
                 $this->chapters->all(),
             ),
+            'meta' => PageMeta::make(
+                title: 'Chapters · '.PageMeta::SITE_NAME,
+                description: 'Every campus chapter organising against automated licence plate '
+                    .'readers, and how many are mapped around each one.',
+                path: '/chapters',
+            )->toArray(),
         ]);
     }
 
@@ -58,6 +65,7 @@ final class ChapterController extends Controller
             // The points themselves are far too large to inline in every page.
             'coverage' => $this->coverageFor($chapter),
             'canonical' => $this->canonicalUrl($chapter->slug),
+            'meta' => $this->metaFor($chapter)->toArray(),
         ]);
     }
 
@@ -106,6 +114,39 @@ final class ChapterController extends Controller
             ]),
             'markers' => $campus === null ? [] : [$campus],
         ];
+    }
+
+    /**
+     * What a shared chapter link looks like in a message.
+     *
+     * This is the page students actually paste into group chats, so it carries
+     * its own school and its own count rather than the site's boilerplate. It
+     * never states a figure the chapter does not have: a preview reading "0
+     * plate readers" would argue against the person sharing it.
+     */
+    private function metaFor(Chapter $chapter): PageMeta
+    {
+        $stateName = States::name($chapter->state);
+        $nearby = $chapter->survey->readersWithinMile;
+
+        $description = $nearby === null
+            ? "Students at {$chapter->schoolName} organising against automated licence plate "
+                .'readers. Sign the petition, follow along, and write to the offices that can '
+                .'have them removed.'
+            : ($nearby > 0
+                ? "{$nearby} automated plate readers are mapped within a mile of "
+                    ."{$chapter->shortName}. Write to the offices that can have them removed — "
+                    .'every letter is different.'
+                : "No plate readers are mapped within a mile of {$chapter->shortName} yet, and "
+                    ."campuses across {$stateName} are where they go next. Write to the offices "
+                    .'that decide.');
+
+        return PageMeta::make(
+            title: "{$chapter->shortName} · ".PageMeta::SITE_NAME,
+            description: $description,
+            url: $this->canonicalUrl($chapter->slug),
+            type: 'article',
+        );
     }
 
     /**

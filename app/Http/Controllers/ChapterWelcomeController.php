@@ -42,6 +42,8 @@ final class ChapterWelcomeController extends Controller
         $request->session()->keep('editKey');
 
         return Inertia::render('Chapters/Welcome', [
+            // Reached only by a signed link; never indexed or previewed.
+            'meta' => \App\Site\PageMeta::private('Your chapter')->toArray(),
             'chapter' => [
                 'slug' => $chapter->slug,
                 'shortName' => $chapter->shortName,
