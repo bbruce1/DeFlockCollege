@@ -1,0 +1,125 @@
+{
+ "federalHouse": {
+  "0": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Eleanor Norton",
+    "party": "Democrat",
+    "phone": "202-225-8050",
+    "url": "https://norton.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [],
+ "lower": {},
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/dc.csv"
+ },
+ "state": "DC",
+ "unicameral": true,
+ "updated": "2026-09-09",
+ "upper": {
+  "At-Large": [
+   {
+    "email": "abonds@dccouncil.gov",
+    "name": "Anita Bonds",
+    "party": "Democratic",
+    "url": "https://dccouncil.gov/council/anita-bonds/"
+   },
+   {
+    "email": "chenderson@dccouncil.gov",
+    "name": "Christina Henderson",
+    "party": "Independent",
+    "url": "https://dccouncil.gov/council/at-large-councilmember-christina-henderson/"
+   },
+   {
+    "email": "esilverman@dccouncil.gov",
+    "name": "Elissa Silverman",
+    "party": "Independent",
+    "url": "https://dccouncil.gov/council/elissa-silverman/"
+   },
+   {
+    "email": "rwhite@dccouncil.gov",
+    "name": "Robert White",
+    "party": "Democratic",
+    "url": "https://dccouncil.gov/council/councilmember-robert-c-white-jr/"
+   }
+  ],
+  "Chairman": [
+   {
+    "email": "pmendelson@dccouncil.gov",
+    "name": "Phil Mendelson",
+    "party": "Democratic",
+    "url": "https://chairmanmendelson.com/"
+   }
+  ],
+  "Ward 1": [
+   {
+    "email": "bnadeau@dccouncil.gov",
+    "name": "Brianne Nadeau",
+    "party": "Democratic",
+    "url": "https://brianneknadeau.com/"
+   }
+  ],
+  "Ward 2": [
+   {
+    "email": "bpinto@dccouncil.gov",
+    "name": "Brooke Pinto",
+    "party": "Democratic",
+    "url": "https://dccouncil.gov/council/ward-2-councilmember-brooke-pinto/"
+   }
+  ],
+  "Ward 3": [
+   {
+    "email": "mfrumin@dccouncil.gov",
+    "name": "Matt Frumin",
+    "party": "Democratic",
+    "url": "https://dccouncil.gov/council/ward-3-councilmember-matthew-frumin/"
+   }
+  ],
+  "Ward 4": [
+   {
+    "email": "jlewisgeorge@dccouncil.gov",
+    "name": "Janeese Lewis George",
+    "party": "Democratic",
+    "url": "https://dccouncil.gov/council/ward-4-councilmember-janeese-lewis-george/"
+   }
+  ],
+  "Ward 5": [
+   {
+    "email": "zparker@dccouncil.gov",
+    "name": "Zachary Parker",
+    "party": "Democratic",
+    "url": "https://dccouncil.gov/council/ward-5-councilmember-zachary-parker/"
+   }
+  ],
+  "Ward 6": [
+   {
+    "email": "callen@dccouncil.gov",
+    "name": "Charles Allen",
+    "party": "Democratic",
+    "url": "https://dccouncil.gov/council/councilmember-allen/"
+   }
+  ],
+  "Ward 7": [
+   {
+    "email": "wfelder@dccouncil.gov",
+    "name": "Wendell Felder",
+    "party": "Democratic",
+    "url": "https://dccouncil.gov/council/ward-7-councilmember-wendell-felder/"
+   }
+  ],
+  "Ward 8": [
+   {
+    "email": "twhite@dccouncil.gov",
+    "name": "Trayon White",
+    "party": "Democratic",
+    "url": "https://dccouncil.gov/council/councilmember-trayon-white-sr/"
+   }
+  ]
+ },
+ "upperTitle": "Councilmember"
+}

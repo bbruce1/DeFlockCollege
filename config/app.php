@@ -55,6 +55,13 @@ return [
     'url' => env('APP_URL', 'http://localhost'),
 
     /*
+     * The apex a chapter subdomain hangs off, e.g. "deflock.school" so that
+     * gt.deflock.school and deflock.school/gt both reach the same chapter.
+     * Unset in local development, where subdomain routing is skipped.
+     */
+    'domain' => env('APP_DOMAIN'),
+
+    /*
     |--------------------------------------------------------------------------
     | Application Timezone
     |--------------------------------------------------------------------------

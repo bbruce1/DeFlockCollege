@@ -1,0 +1,1701 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Richard Neal",
+    "party": "Democrat",
+    "phone": "202-225-5601",
+    "url": "https://neal.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "James McGovern",
+    "party": "Democrat",
+    "phone": "202-225-6101",
+    "url": "https://mcgovern.house.gov"
+   }
+  ],
+  "3": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Lori Trahan",
+    "party": "Democrat",
+    "phone": "202-225-3411",
+    "url": "https://trahan.house.gov"
+   }
+  ],
+  "4": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Jake Auchincloss",
+    "party": "Democrat",
+    "phone": "202-225-5931",
+    "url": "https://auchincloss.house.gov"
+   }
+  ],
+  "5": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Katherine Clark",
+    "party": "Democrat",
+    "phone": "202-225-2836",
+    "url": "https://katherineclark.house.gov"
+   }
+  ],
+  "6": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Seth Moulton",
+    "party": "Democrat",
+    "phone": "202-225-8020",
+    "url": "https://moulton.house.gov"
+   }
+  ],
+  "7": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Ayanna Pressley",
+    "party": "Democrat",
+    "phone": "202-225-5111",
+    "url": "https://pressley.house.gov"
+   }
+  ],
+  "8": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Stephen Lynch",
+    "party": "Democrat",
+    "phone": "202-225-8273",
+    "url": "https://lynch.house.gov"
+   }
+  ],
+  "9": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "William Keating",
+    "party": "Democrat",
+    "phone": "202-225-3111",
+    "url": "https://keating.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.markey.senate.gov/contact",
+   "email": null,
+   "name": "Edward Markey",
+   "party": "Democrat",
+   "phone": "202-224-2742",
+   "url": "https://www.markey.senate.gov"
+  },
+  {
+   "contactForm": "https://www.warren.senate.gov/?p=email_senator",
+   "email": null,
+   "name": "Elizabeth Warren",
+   "party": "Democrat",
+   "phone": "202-224-4543",
+   "url": "https://www.warren.senate.gov"
+  }
+ ],
+ "lower": {
+  "10th Bristol": [
+   {
+    "email": "mark.sylvia@mahouse.gov",
+    "name": "Mark Sylvia",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/MDS1"
+   }
+  ],
+  "10th Essex": [
+   {
+    "email": "daniel.cahill@mahouse.gov",
+    "name": "Dan Cahill",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/DFC1"
+   }
+  ],
+  "10th Hampden": [
+   {
+    "email": "carlos.gonzalez@mahouse.gov",
+    "name": "Carlos Gonz\u00e1lez",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/C_G1"
+   }
+  ],
+  "10th Middlesex": [
+   {
+    "email": "john.lawn@mahouse.gov",
+    "name": "John Lawn",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/JJL2"
+   }
+  ],
+  "10th Norfolk": [
+   {
+    "email": "jeffrey.roy@mahouse.gov",
+    "name": "Jeff Roy",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/JNR1"
+   }
+  ],
+  "10th Plymouth": [
+   {
+    "email": "michelle.dubois@mahouse.gov",
+    "name": "Michelle DuBois",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/MMD1"
+   }
+  ],
+  "10th Suffolk": [
+   {
+    "email": "bill.macgregor@mahouse.gov",
+    "name": "Billy MacGregor",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/WFM1"
+   }
+  ],
+  "10th Worcester": [
+   {
+    "email": "brian.murray@mahouse.gov",
+    "name": "Brian Murray",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/BWM1"
+   }
+  ],
+  "11th Bristol": [
+   {
+    "email": "chris.hendricks@mahouse.gov",
+    "name": "Chris Hendricks",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/C_H1"
+   }
+  ],
+  "11th Essex": [
+   {
+    "email": "sean.reid@mahouse.gov",
+    "name": "Sean Reid",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/S_R1"
+   }
+  ],
+  "11th Hampden": [
+   {
+    "email": "bud.williams@mahouse.gov",
+    "name": "Bud Williams",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/BLW1"
+   }
+  ],
+  "11th Middlesex": [
+   {
+    "email": "amy.sangiolo@mahouse.gov",
+    "name": "Amy Sangiolo",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/AMS3"
+   }
+  ],
+  "11th Norfolk": [
+   {
+    "email": "paul.mcmurtry@mahouse.gov",
+    "name": "Paul McMurtry",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/P_M1"
+   }
+  ],
+  "11th Plymouth": [
+   {
+    "email": "rita.mendes@mahouse.gov",
+    "name": "Rita Mendes",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/RAM1"
+   }
+  ],
+  "11th Suffolk": [
+   {
+    "email": "judith.garcia@mahouse.gov",
+    "name": "Judith Garc\u00eda",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/JAG2"
+   }
+  ],
+  "11th Worcester": [
+   {
+    "email": "hannah.kane@mahouse.gov",
+    "name": "Hannah Kane",
+    "party": "Republican",
+    "url": "https://malegislature.gov/Legislators/Profile/HEK1"
+   }
+  ],
+  "12th Bristol": [
+   {
+    "email": "norman.orrall@mahouse.gov",
+    "name": "Norm Orrall",
+    "party": "Republican",
+    "url": "https://malegislature.gov/Legislators/Profile/NJO1"
+   }
+  ],
+  "12th Essex": [
+   {
+    "email": "thomas.walsh@mahouse.gov",
+    "name": "Tom Walsh",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/TJW1"
+   }
+  ],
+  "12th Hampden": [
+   {
+    "email": "angelo.puppolo@mahouse.gov",
+    "name": "Angelo Puppolo",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/AJP1"
+   }
+  ],
+  "12th Middlesex": [
+   {
+    "email": "greg.schwartz@mahouse.gov",
+    "name": "Greg Schwartz",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/G_S1"
+   }
+  ],
+  "12th Norfolk": [
+   {
+    "email": "john.rogers@mahouse.gov",
+    "name": "John Rogers",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/JHR1"
+   }
+  ],
+  "12th Plymouth": [
+   {
+    "email": "kathleen.lanatra@mahouse.gov",
+    "name": "Kathy LaNatra",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/KPL1"
+   }
+  ],
+  "12th Suffolk": [
+   {
+    "email": "brandy.flukerreid@mahouse.gov",
+    "name": "Brandy Fluker-Reid",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/BFO1"
+   }
+  ],
+  "12th Worcester": [
+   {
+    "email": "meghan.kilcoyne@mahouse.gov",
+    "name": "Meg Kilcoyne",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/M_K1"
+   }
+  ],
+  "13th Bristol": [
+   {
+    "email": "antonio.cabral@mahouse.gov",
+    "name": "Tony Cabral",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/AFC1"
+   }
+  ],
+  "13th Essex": [
+   {
+    "email": "sally.kerans@mahouse.gov",
+    "name": "Sally Kerans",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/SPK1"
+   }
+  ],
+  "13th Middlesex": [
+   {
+    "email": "carmine.gentile@mahouse.gov",
+    "name": "Carmine Gentile",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/CLG1"
+   }
+  ],
+  "13th Norfolk": [
+   {
+    "email": "joshua.tarsky@mahouse.gov",
+    "name": "Josh Tarsky",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/J_T1"
+   }
+  ],
+  "13th Suffolk": [
+   {
+    "email": "daniel.hunt@mahouse.gov",
+    "name": "Dan Hunt",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/djh1"
+   }
+  ],
+  "13th Worcester": [
+   {
+    "email": "john.mahoney@mahouse.gov",
+    "name": "John Mahoney",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/JJM2"
+   }
+  ],
+  "14th Bristol": [
+   {
+    "email": "adam.scanlon@mahouse.gov",
+    "name": "Adam Scanlon",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/AJS1"
+   }
+  ],
+  "14th Essex": [
+   {
+    "email": "adrianne.ramos@mahouse.gov",
+    "name": "Adrianne Ramos",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/APR1"
+   }
+  ],
+  "14th Middlesex": [
+   {
+    "email": "simon.cataldo@mahouse.gov",
+    "name": "Simon Cataldo",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/S_C1"
+   }
+  ],
+  "14th Norfolk": [
+   {
+    "email": "alice.peisch@mahouse.gov",
+    "name": "Alice Peisch",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/AHP1"
+   }
+  ],
+  "14th Suffolk": [
+   {
+    "email": "rob.consalvo@mahouse.gov",
+    "name": "Rob Consalvo",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/R_C1"
+   }
+  ],
+  "14th Worcester": [
+   {
+    "email": "james.o'day@mahouse.gov",
+    "name": "Jim O'Day",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/JJO1"
+   }
+  ],
+  "15th Essex": [
+   {
+    "email": "ryan.hamilton@mahouse.gov",
+    "name": "Ryan Hamilton",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/RMH2"
+   }
+  ],
+  "15th Middlesex": [
+   {
+    "email": "michelle.ciccolo@mahouse.gov",
+    "name": "Michelle Ciccolo",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/M_C2"
+   }
+  ],
+  "15th Norfolk": [
+   {
+    "email": "tommy.vitolo@mahouse.gov",
+    "name": "Tommy Vitolo",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/T_V1"
+   }
+  ],
+  "15th Suffolk": [
+   {
+    "email": "samantha.montano@mahouse.gov",
+    "name": "Sam Monta\u00f1o",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/S_M1"
+   }
+  ],
+  "15th Worcester": [
+   {
+    "email": "mary.keefe@mahouse.gov",
+    "name": "Mary Keefe",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/MSK1"
+   }
+  ],
+  "16th Essex": [
+   {
+    "email": "francisco.paulino@mahouse.gov",
+    "name": "Francisco Paulino",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/FEP1"
+   }
+  ],
+  "16th Suffolk": [
+   {
+    "email": "jessica.giannino@mahouse.gov",
+    "name": "Jessica Giannino",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/JAG1"
+   }
+  ],
+  "16th Worcester": [
+   {
+    "email": "daniel.donahue@mahouse.gov",
+    "name": "Dan Donahue",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/DMD1"
+   }
+  ],
+  "17th Essex": [
+   {
+    "email": "frank.moran@mahouse.gov",
+    "name": "Frank Moran",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/FAM1"
+   }
+  ],
+  "17th Suffolk": [
+   {
+    "email": "kevin.honan@mahouse.gov",
+    "name": "Kevin Honan",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/KGH1"
+   }
+  ],
+  "17th Worcester": [
+   {
+    "email": "david.leboeuf@mahouse.gov",
+    "name": "David LeBoeuf",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/DAL1"
+   }
+  ],
+  "18th Essex": [
+   {
+    "email": "tram.nguyen@mahouse.gov",
+    "name": "Tram Nguyen",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/TTN1"
+   }
+  ],
+  "18th Middlesex": [
+   {
+    "email": "tara.hong@mahouse.gov",
+    "name": "Tara Hong",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/TTH1"
+   }
+  ],
+  "18th Suffolk": [
+   {
+    "email": "michael.moran@mahouse.gov",
+    "name": "Mike Moran",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/MJM1"
+   }
+  ],
+  "18th Worcester": [
+   {
+    "email": "joseph.mckenna@mahouse.gov",
+    "name": "Joe McKenna",
+    "party": "Republican",
+    "url": "https://malegislature.gov/Legislators/Profile/JDM1"
+   }
+  ],
+  "19th Middlesex": [
+   {
+    "email": "david.robertson@mahouse.gov",
+    "name": "Dave Robertson",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/D_R1"
+   }
+  ],
+  "19th Suffolk": [
+   {
+    "email": "jeffrey.turco@mahouse.gov",
+    "name": "Jeff Turco",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/JRT1"
+   }
+  ],
+  "19th Worcester": [
+   {
+    "email": "kate.donaghue@mahouse.gov",
+    "name": "Kate Donaghue",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/K_D1"
+   }
+  ],
+  "1st Barnstable": [
+   {
+    "email": "christopher.flanagan@mahouse.gov",
+    "name": "Chris Flanagan",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/CRF1"
+   }
+  ],
+  "1st Berkshire": [
+   {
+    "email": "john.barrett@mahouse.gov",
+    "name": "John Barrett",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/J_B1"
+   }
+  ],
+  "1st Bristol": [
+   {
+    "email": "michael.chaisson@mahouse.gov",
+    "name": "Mike Chaisson",
+    "party": "Republican",
+    "url": "https://malegislature.gov/Legislators/Profile/MSC1"
+   }
+  ],
+  "1st Essex": [
+   {
+    "email": "dawne.shand@mahouse.gov",
+    "name": "Dawne Shand",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/D_S1"
+   }
+  ],
+  "1st Hampden": [
+   {
+    "email": "todd.smola@mahouse.gov",
+    "name": "Todd Smola",
+    "party": "Republican",
+    "url": "https://malegislature.gov/Legislators/Profile/TMS2"
+   }
+  ],
+  "1st Hampshire": [
+   {
+    "email": "lindsay.sabadosa@mahouse.gov",
+    "name": "Lindsay Sabadosa",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/L_S1"
+   }
+  ],
+  "1st Middlesex": [
+   {
+    "email": "margaret.scarsdale@mahouse.gov",
+    "name": "Margaret Scarsdale",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/MRS1"
+   }
+  ],
+  "1st Norfolk": [
+   {
+    "email": "bruce.ayers@mahouse.gov",
+    "name": "Bruce Ayers",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/BJA1"
+   }
+  ],
+  "1st Plymouth": [
+   {
+    "email": "michelle.badger@mahouse.gov",
+    "name": "Michelle Badger",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/MLB1"
+   }
+  ],
+  "1st Suffolk": [
+   {
+    "email": "adrian.madaro@mahouse.gov",
+    "name": "Adrian Madaro",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/ACM1"
+   }
+  ],
+  "1st Worcester": [
+   {
+    "email": "kimberly.ferguson@mahouse.gov",
+    "name": "Kim Ferguson",
+    "party": "Republican",
+    "url": "https://malegislature.gov/Legislators/Profile/KNF1"
+   }
+  ],
+  "20th Middlesex": [
+   {
+    "email": "bradley.jones@mahouse.gov",
+    "name": "Brad Jones",
+    "party": "Republican",
+    "url": "https://malegislature.gov/Legislators/Profile/BHJ1"
+   }
+  ],
+  "21st Middlesex": [
+   {
+    "email": "ken.gordon@mahouse.gov",
+    "name": "Ken Gordon",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/KIG1"
+   }
+  ],
+  "22nd Middlesex": [
+   {
+    "email": "marc.lombardo@mahouse.gov",
+    "name": "Marc Lombardo",
+    "party": "Republican",
+    "url": "https://malegislature.gov/Legislators/Profile/MTL1"
+   }
+  ],
+  "23rd Middlesex": [
+   {
+    "email": "sean.garballey@mahouse.gov",
+    "name": "Sean Garballey",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/S_G1"
+   }
+  ],
+  "24th Middlesex": [
+   {
+    "email": "dave.rogers@mahouse.gov",
+    "name": "Dave Rogers",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/DMR1"
+   }
+  ],
+  "25th Middlesex": [
+   {
+    "email": "marjorie.decker@mahouse.gov",
+    "name": "Marjorie Decker",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/MCD1"
+   }
+  ],
+  "26th Middlesex": [
+   {
+    "email": "mike.connolly@mahouse.gov",
+    "name": "Mike Connolly",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/M_C1"
+   }
+  ],
+  "27th Middlesex": [
+   {
+    "email": "erika.uyterhoeven@mahouse.gov",
+    "name": "Erika Uyterhoeven",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/E_U1"
+   }
+  ],
+  "28th Middlesex": [
+   {
+    "email": "joseph.mcgonagle@mahouse.gov",
+    "name": "Joe McGonagle",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/jwm1"
+   }
+  ],
+  "29th Middlesex": [
+   {
+    "email": "steven.owens@mahouse.gov",
+    "name": "Steve Owens",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/SCO1"
+   }
+  ],
+  "2nd Barnstable": [
+   {
+    "email": "kip.diggs@mahouse.gov",
+    "name": "Kip Diggs",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/KAD1"
+   }
+  ],
+  "2nd Berkshire": [
+   {
+    "email": "tricia.farley-bouvier@mahouse.gov",
+    "name": "Tricia Farley-Bouvier",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/TFB1"
+   }
+  ],
+  "2nd Bristol": [
+   {
+    "email": "james.hawkins@mahouse.gov",
+    "name": "Jim Hawkins",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/JKH1"
+   }
+  ],
+  "2nd Essex": [
+   {
+    "email": "kristin.kassner@mahouse.gov",
+    "name": "Kristin Kassner",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/K_K2"
+   }
+  ],
+  "2nd Franklin": [
+   {
+    "email": "susannah.whipps@mahouse.gov",
+    "name": "Susannah Whipps",
+    "party": "Independent",
+    "url": "https://malegislature.gov/Legislators/Profile/SLG1"
+   }
+  ],
+  "2nd Hampden": [
+   {
+    "email": "brian.ashe@mahouse.gov",
+    "name": "Brian Ashe",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/BMA1"
+   }
+  ],
+  "2nd Hampshire": [
+   {
+    "email": "homar.gomez@mahouse.gov",
+    "name": "Homar Gomez",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/H_G1"
+   }
+  ],
+  "2nd Middlesex": [
+   {
+    "email": "james.arciero@mahouse.gov",
+    "name": "Jim Arciero",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/J_A1"
+   }
+  ],
+  "2nd Norfolk": [
+   {
+    "email": "tackey.chan@mahouse.gov",
+    "name": "Tackey Chan",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/T_C1"
+   }
+  ],
+  "2nd Plymouth": [
+   {
+    "email": "john.gaskey@mahouse.gov",
+    "name": "John Gaskey",
+    "party": "Republican",
+    "url": "https://malegislature.gov/Legislators/Profile/JRG2"
+   }
+  ],
+  "2nd Suffolk": [
+   {
+    "email": "dan.ryan@mahouse.gov",
+    "name": "Danny Ryan",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/djr1"
+   }
+  ],
+  "2nd Worcester": [
+   {
+    "email": "jon.zlotnik@mahouse.gov",
+    "name": "Jon Zlotnik",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/JDZ1"
+   }
+  ],
+  "30th Middlesex": [
+   {
+    "email": "richard.haggerty@mahouse.gov",
+    "name": "Rich Haggerty",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/RMH1"
+   }
+  ],
+  "31st Middlesex": [
+   {
+    "email": "michael.day@mahouse.gov",
+    "name": "Mike Day",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/MSD1"
+   }
+  ],
+  "32nd Middlesex": [
+   {
+    "email": "kate.lipper-garabedian@mahouse.gov",
+    "name": "Kate Lipper-Garabedian",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/KLG1"
+   }
+  ],
+  "33rd Middlesex": [
+   {
+    "email": "steven.ultrino@mahouse.gov",
+    "name": "Steve Ultrino",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/S_G2"
+   }
+  ],
+  "34th Middlesex": [
+   {
+    "email": "christine.barber@mahouse.gov",
+    "name": "Christine Barber",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/CPB2"
+   }
+  ],
+  "35th Middlesex": [
+   {
+    "email": "paul.donato@mahouse.gov",
+    "name": "Paul Donato",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/PJD1"
+   }
+  ],
+  "36th Middlesex": [
+   {
+    "email": "colleen.garry@mahouse.gov",
+    "name": "Colleen Garry",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/CMG1"
+   }
+  ],
+  "37th Middlesex": [
+   {
+    "email": "danillo.sena@mahouse.gov",
+    "name": "Dan Sena",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/DAS1"
+   }
+  ],
+  "3rd Barnstable": [
+   {
+    "email": "david.vieira@mahouse.gov",
+    "name": "Dave Vieira",
+    "party": "Republican",
+    "url": "https://malegislature.gov/Legislators/Profile/DTV1"
+   }
+  ],
+  "3rd Berkshire": [
+   {
+    "email": "leigh.davis@mahouse.gov",
+    "name": "Leigh Davis",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/LSD1"
+   }
+  ],
+  "3rd Bristol": [
+   {
+    "email": "lisa.field@mahouse.gov",
+    "name": "Lisa Field",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/LMF1"
+   }
+  ],
+  "3rd Essex": [
+   {
+    "email": "andy.vargas@mahouse.gov",
+    "name": "Andy Vargas",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/AXV1"
+   }
+  ],
+  "3rd Hampden": [
+   {
+    "email": "nicholas.boldyga@mahouse.gov",
+    "name": "Nick Boldyga",
+    "party": "Republican",
+    "url": "https://malegislature.gov/Legislators/Profile/NAG1"
+   }
+  ],
+  "3rd Hampshire": [
+   {
+    "email": "mindy.domb@mahouse.gov",
+    "name": "Mindy Domb",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/M_D2"
+   }
+  ],
+  "3rd Middlesex": [
+   {
+    "email": "kate.hogan@mahouse.gov",
+    "name": "Kate Hogan",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/K_H1"
+   }
+  ],
+  "3rd Norfolk": [
+   {
+    "email": "ronald.mariano@mahouse.gov",
+    "name": "Ron Mariano",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/R_M1"
+   }
+  ],
+  "3rd Plymouth": [
+   {
+    "email": "joan.meschino@mahouse.gov",
+    "name": "Joan Meschino",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/J_M1"
+   }
+  ],
+  "3rd Suffolk": [
+   {
+    "email": "aaron.m.michlewitz@mahouse.gov",
+    "name": "Aaron Michlewitz",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/AMM1"
+   }
+  ],
+  "3rd Worcester": [
+   {
+    "email": "michael.kushmerek@mahouse.gov",
+    "name": "Mike Kushmerek",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/MPK1"
+   }
+  ],
+  "4th Barnstable": [
+   {
+    "email": "hadley.luddy@mahouse.gov",
+    "name": "Hadley Luddy",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/H_L1"
+   }
+  ],
+  "4th Bristol": [
+   {
+    "email": "steven.howitt@mahouse.gov",
+    "name": "Steven Howitt",
+    "party": "Republican",
+    "url": "https://malegislature.gov/Legislators/Profile/SSH1"
+   }
+  ],
+  "4th Essex": [
+   {
+    "email": "estela.reyes@mahouse.gov",
+    "name": "Estela Reyes",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/EAR1"
+   }
+  ],
+  "4th Hampden": [
+   {
+    "email": "kelly.pease@mahouse.gov",
+    "name": "Kelly Pease",
+    "party": "Republican",
+    "url": "https://malegislature.gov/Legislators/Profile/KWP1"
+   }
+  ],
+  "4th Middlesex": [
+   {
+    "email": "danielle.gregoire@mahouse.gov",
+    "name": "Danielle Gregoire",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/DWG1"
+   }
+  ],
+  "4th Norfolk": [
+   {
+    "email": "james.murphy@mahouse.gov",
+    "name": "Jamie Murphy",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/JMM1"
+   }
+  ],
+  "4th Plymouth": [
+   {
+    "email": "patrick.kearney@mahouse.gov",
+    "name": "Patrick Kearney",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/PJK1"
+   }
+  ],
+  "4th Suffolk": [
+   {
+    "email": "david.biele@mahouse.gov",
+    "name": "David Biele",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/D_B1"
+   }
+  ],
+  "4th Worcester": [
+   {
+    "email": "natalie.higgins@mahouse.gov",
+    "name": "Natalie Higgins",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/N_H1"
+   }
+  ],
+  "5th Barnstable": [
+   {
+    "email": "steven.xiarhos@mahouse.gov",
+    "name": "Steve Xiarhos",
+    "party": "Republican",
+    "url": "https://malegislature.gov/Legislators/Profile/SGX1"
+   }
+  ],
+  "5th Bristol": [
+   {
+    "email": "justin.thurber@mahouse.gov",
+    "name": "Justin Thurber",
+    "party": "Republican",
+    "url": "https://malegislature.gov/Legislators/Profile/J_T2"
+   }
+  ],
+  "5th Essex": [
+   {
+    "email": "andrew.tarr@mahouse.gov",
+    "name": "Dru Tarr",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/AFT1"
+   }
+  ],
+  "5th Hampden": [
+   {
+    "email": "patricia.duffy@mahouse.gov",
+    "name": "Pat Duffy",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/PAD1"
+   }
+  ],
+  "5th Middlesex": [
+   {
+    "email": "david.linsky@mahouse.gov",
+    "name": "David Linsky",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/DPL1"
+   }
+  ],
+  "5th Norfolk": [
+   {
+    "email": "mark.cusack@mahouse.gov",
+    "name": "Mark Cusack",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/MJC1"
+   }
+  ],
+  "5th Plymouth": [
+   {
+    "email": "david.decoste@mahouse.gov",
+    "name": "David DeCoste",
+    "party": "Republican",
+    "url": "https://malegislature.gov/Legislators/Profile/DFD1"
+   }
+  ],
+  "5th Suffolk": [
+   {
+    "email": "christopher.worrell@mahouse.gov",
+    "name": "Chris Worrell",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/CJW1"
+   }
+  ],
+  "5th Worcester": [
+   {
+    "email": "donald.berthiaume@mahouse.gov",
+    "name": "Donnie Berthiaume",
+    "party": "Republican",
+    "url": "https://malegislature.gov/Legislators/Profile/DRB1"
+   }
+  ],
+  "6th Bristol": [
+   {
+    "email": "carole.fiola@mahouse.gov",
+    "name": "Carole Fiola",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/CAF1"
+   }
+  ],
+  "6th Essex": [
+   {
+    "email": "hannah.bowen@mahouse.gov",
+    "name": "Hannah Bowen",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/HLB1"
+   }
+  ],
+  "6th Hampden": [
+   {
+    "email": "michael.finn@mahouse.gov",
+    "name": "Mike Finn",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/MJF1"
+   }
+  ],
+  "6th Middlesex": [
+   {
+    "email": "priscila.sousa@mahouse.gov",
+    "name": "Priscila Sousa",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/PSS1"
+   }
+  ],
+  "6th Norfolk": [
+   {
+    "email": "william.galvin@mahouse.gov",
+    "name": "Bill Galvin",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/WCG1"
+   }
+  ],
+  "6th Plymouth": [
+   {
+    "email": "ken.sweezey@mahouse.gov",
+    "name": "Ken Sweezey",
+    "party": "Republican",
+    "url": "https://malegislature.gov/Legislators/Profile/KPS1"
+   }
+  ],
+  "6th Suffolk": [
+   {
+    "email": "russell.holmes@mahouse.gov",
+    "name": "Russell Holmes",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/REH1"
+   }
+  ],
+  "6th Worcester": [
+   {
+    "email": "john.marsi@mahouse.gov",
+    "name": "John Marsi",
+    "party": "Republican",
+    "url": "https://malegislature.gov/Legislators/Profile/JJM1"
+   }
+  ],
+  "7th Bristol": [
+   {
+    "email": "alan.silvia@mahouse.gov",
+    "name": "Alan Silvia",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/A_S1"
+   }
+  ],
+  "7th Essex": [
+   {
+    "email": "manny.cruz@mahouse.gov",
+    "name": "Manny Cruz",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/M_C3"
+   }
+  ],
+  "7th Hampden": [
+   {
+    "email": "aaron.saunders@mahouse.gov",
+    "name": "Aaron Saunders",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/ALS1"
+   }
+  ],
+  "7th Middlesex": [
+   {
+    "email": "jack.lewis@mahouse.gov",
+    "name": "Jack Lewis",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/JPL1"
+   }
+  ],
+  "7th Norfolk": [
+   {
+    "email": "richard.wells@mahouse.gov",
+    "name": "Richard Wells",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/RGW1"
+   }
+  ],
+  "7th Plymouth": [
+   {
+    "email": "alyson.sullivan@mahouse.gov",
+    "name": "Alyson Sullivan-Almeida",
+    "party": "Republican",
+    "url": "https://malegislature.gov/Legislators/Profile/AMS2"
+   }
+  ],
+  "7th Suffolk": [
+   {
+    "email": "chynah.tyler@mahouse.gov",
+    "name": "Chynah Tyler",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/C_T1"
+   }
+  ],
+  "7th Worcester": [
+   {
+    "email": "paul.frost@mahouse.gov",
+    "name": "Paul Frost",
+    "party": "Republican",
+    "url": "https://malegislature.gov/Legislators/Profile/PKF1"
+   }
+  ],
+  "8th Bristol": [
+   {
+    "email": "steve.ouellette@mahouse.gov",
+    "name": "Steven Ouellette",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/SJO1"
+   }
+  ],
+  "8th Essex": [
+   {
+    "email": "jennifer.armini@mahouse.gov",
+    "name": "Jenny Armini",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/JBA1"
+   }
+  ],
+  "8th Hampden": [
+   {
+    "email": "shirley.arriaga@mahouse.gov",
+    "name": "Shirley Arriaga",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/SBA1"
+   }
+  ],
+  "8th Middlesex": [
+   {
+    "email": "james.arena-derosa@mahouse.gov",
+    "name": "James Arena-DeRosa",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/JCD1"
+   }
+  ],
+  "8th Norfolk": [
+   {
+    "email": "edward.philips@mahouse.gov",
+    "name": "Ted Philips",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/ERP1"
+   }
+  ],
+  "8th Plymouth": [
+   {
+    "email": "dennis.gallagher@mahouse.gov",
+    "name": "Dennis Gallagher",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/DCG2"
+   }
+  ],
+  "8th Suffolk": [
+   {
+    "email": "jay.livingstone@mahouse.gov",
+    "name": "Jay Livingstone",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/J_L1"
+   }
+  ],
+  "8th Worcester": [
+   {
+    "email": "michael.soter@mahouse.gov",
+    "name": "Mike Soter",
+    "party": "Republican",
+    "url": "https://malegislature.gov/Legislators/Profile/MJS3"
+   }
+  ],
+  "9th Bristol": [
+   {
+    "email": "christopher.markey@mahouse.gov",
+    "name": "Christopher Markey",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/CMM1"
+   }
+  ],
+  "9th Essex": [
+   {
+    "email": "donald.wong@mahouse.gov",
+    "name": "Donald Wong",
+    "party": "Republican",
+    "url": "https://malegislature.gov/Legislators/Profile/DHW1"
+   }
+  ],
+  "9th Hampden": [
+   {
+    "email": "orlando.ramos@mahouse.gov",
+    "name": "Orlando Ramos",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/O_R1"
+   }
+  ],
+  "9th Middlesex": [
+   {
+    "email": "thomas.stanley@mahouse.gov",
+    "name": "Tom Stanley",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/TMS1"
+   }
+  ],
+  "9th Norfolk": [
+   {
+    "email": "marcus.vaughn@mahouse.gov",
+    "name": "Marcus Vaughn",
+    "party": "Republican",
+    "url": "https://malegislature.gov/Legislators/Profile/MSV1"
+   }
+  ],
+  "9th Plymouth": [
+   {
+    "email": "bridget.plouffe@mahouse.gov",
+    "name": "Bridget Plouffe",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/BMP1"
+   }
+  ],
+  "9th Suffolk": [
+   {
+    "email": "john.moran@mahouse.gov",
+    "name": "John Moran",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/JFM1"
+   }
+  ],
+  "9th Worcester": [
+   {
+    "email": "david.muradian@mahouse.gov",
+    "name": "Dave Muradian",
+    "party": "Republican",
+    "url": "https://malegislature.gov/Legislators/Profile/DKM1"
+   }
+  ],
+  "Barnstable, Dukes and Nantucket": [
+   {
+    "email": "thomas.moakley@mahouse.gov",
+    "name": "Thomas Moakley",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/TWM1"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/ma.csv"
+ },
+ "state": "MA",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "Berkshire, Hampden, Franklin and Hampshire": [
+   {
+    "email": "paul.mark@masenate.gov",
+    "name": "Paul Mark",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/PWM0"
+   }
+  ],
+  "Bristol and Norfolk": [
+   {
+    "email": "paul.feeney@masenate.gov",
+    "name": "Paul Feeney",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/PRF0"
+   }
+  ],
+  "Cape and Islands": [
+   {
+    "email": "julian.cyr@masenate.gov",
+    "name": "Julian Cyr",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/JAC0"
+   }
+  ],
+  "Fifth Middlesex": [
+   {
+    "email": "jason.lewis@masenate.gov",
+    "name": "Jason Lewis",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/jml0"
+   }
+  ],
+  "First Bristol and Plymouth": [
+   {
+    "email": "michael.rodrigues@masenate.gov",
+    "name": "Michael Rodrigues",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/MJR0"
+   }
+  ],
+  "First Essex": [
+   {
+    "email": "pavel.payano@masenate.gov",
+    "name": "Pavel Payano",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/PMP0"
+   }
+  ],
+  "First Essex and Middlesex": [
+   {
+    "email": "bruce.tarr@masenate.gov",
+    "name": "Bruce Tarr",
+    "party": "Republican",
+    "url": "https://malegislature.gov/Legislators/Profile/BET0"
+   }
+  ],
+  "First Middlesex": [
+   {
+    "email": "vanna.howard@masenate.gov",
+    "name": "Vanna Howard",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/V_H0"
+   }
+  ],
+  "First Plymouth and Norfolk": [
+   {
+    "email": "patrick.oconnor@masenate.gov",
+    "name": "Patrick O'Connor",
+    "party": "Republican",
+    "url": "https://malegislature.gov/Legislators/Profile/PMO"
+   }
+  ],
+  "First Suffolk": [
+   {
+    "email": "nick.collins@masenate.gov",
+    "name": "Nick Collins",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/N_C0"
+   }
+  ],
+  "First Worcester": [
+   {
+    "email": "robyn.kennedy@masenate.gov",
+    "name": "Robyn Kennedy",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/RKK0"
+   }
+  ],
+  "Fourth Middlesex": [
+   {
+    "email": "cindy.friedman@masenate.gov",
+    "name": "Cindy Friedman",
+    "party": "Democratic",
+    "url": "https://cindyfriedman.org/"
+   }
+  ],
+  "Hampden": [
+   {
+    "email": "adam.gomez@masenate.gov",
+    "name": "Adam G\u00f3mez",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/A_G0"
+   }
+  ],
+  "Hampden and Hampshire": [
+   {
+    "email": "john.velis@masenate.gov",
+    "name": "John Velis",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/JCV0"
+   }
+  ],
+  "Hampden, Hampshire and Worcester": [
+   {
+    "email": "jacob.oliveira@masenate.gov",
+    "name": "Jake Oliveira",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/JRO0"
+   }
+  ],
+  "Hampshire, Franklin and Worcester": [
+   {
+    "email": "jo.comerford@masenate.gov",
+    "name": "Jo Comerford",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/JMC0"
+   }
+  ],
+  "Middlesex and Norfolk": [
+   {
+    "email": "karen.spilka@masenate.gov",
+    "name": "Karen Spilka",
+    "party": "Democratic",
+    "url": "https://karenspilka.com/"
+   }
+  ],
+  "Middlesex and Suffolk": [
+   {
+    "email": "sal.didomenico@masenate.gov",
+    "name": "Sal DiDomenico",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/SND0"
+   }
+  ],
+  "Middlesex and Worcester": [
+   {
+    "email": "james.eldridge@masenate.gov",
+    "name": "Jamie Eldridge",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/JBE0"
+   }
+  ],
+  "Norfolk and Middlesex": [
+   {
+    "email": "cynthia.creem@masenate.gov",
+    "name": "Cynthia Creem",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/CSC0"
+   }
+  ],
+  "Norfolk and Plymouth": [
+   {
+    "email": "john.keenan@masenate.gov",
+    "name": "John Keenan",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/JFK0"
+   }
+  ],
+  "Norfolk and Suffolk": [
+   {
+    "email": "mike.rush@masenate.gov",
+    "name": "Mike Rush",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/MFR0"
+   }
+  ],
+  "Norfolk, Plymouth and Bristol": [
+   {
+    "email": "william.driscoll@masenate.gov",
+    "name": "Bill Driscoll",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/WJD0"
+   }
+  ],
+  "Norfolk, Worcester and Middlesex": [
+   {
+    "email": "becca.rausch@masenate.gov",
+    "name": "Becca Rausch",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/RLR0"
+   }
+  ],
+  "Plymouth and Barnstable": [
+   {
+    "email": "dylan.fernandes@masenate.gov",
+    "name": "Dylan Fernandes",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/DAF0"
+   }
+  ],
+  "Second Bristol and Plymouth": [
+   {
+    "email": "mark.montigny@masenate.gov",
+    "name": "Mark Montigny",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/MCM0"
+   }
+  ],
+  "Second Essex": [
+   {
+    "email": "joan.lovely@masenate.gov",
+    "name": "Joan Lovely",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/JBL0"
+   }
+  ],
+  "Second Essex and Middlesex": [
+   {
+    "email": "barry.finegold@masenate.gov",
+    "name": "Barry Finegold",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/BRF0"
+   }
+  ],
+  "Second Middlesex": [
+   {
+    "email": "patricia.jehlen@masenate.gov",
+    "name": "Pat Jehlen",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/PDJ0"
+   }
+  ],
+  "Second Plymouth and Norfolk": [
+   {
+    "email": "michael.brady@masenate.gov",
+    "name": "Mike Brady",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/MDB0"
+   }
+  ],
+  "Second Suffolk": [
+   {
+    "email": "liz.miranda@masenate.gov",
+    "name": "Liz Miranda",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/L M0"
+   }
+  ],
+  "Second Worcester": [
+   {
+    "email": "michael.moore@masenate.gov",
+    "name": "Mike Moore",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/MOM0"
+   }
+  ],
+  "Suffolk and Middlesex": [
+   {
+    "email": "william.brownsberger@masenate.gov",
+    "name": "Will Brownsberger",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/WNB0"
+   }
+  ],
+  "Third Bristol and Plymouth": [
+   {
+    "email": "kelly.dooner@masenate.gov",
+    "name": "Kelly Dooner",
+    "party": "Republican",
+    "url": "https://malegislature.gov/Legislators/Profile/KAD0"
+   }
+  ],
+  "Third Essex": [
+   {
+    "email": "brendan.crighton@masenate.gov",
+    "name": "Brendan Crighton",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/BPC0"
+   }
+  ],
+  "Third Middlesex": [
+   {
+    "email": "mike.barrett@masenate.gov",
+    "name": "Mike Barrett",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/MJB0"
+   }
+  ],
+  "Third Suffolk": [
+   {
+    "email": "lydia.edwards@masenate.gov",
+    "name": "Lydia Edwards",
+    "party": "Democratic",
+    "url": "https://malegislature.gov/Legislators/Profile/LME0"
+   }
+  ],
+  "Worcester and Hampden": [
+   {
+    "email": "ryan.fattman@masenate.gov",
+    "name": "Ryan Fattman",
+    "party": "Republican",
+    "url": "https://malegislature.gov/Legislators/Profile/RCF0"
+   }
+  ],
+  "Worcester and Hampshire": [
+   {
+    "email": "peter.durant@masenate.gov",
+    "name": "Peter Durant",
+    "party": "Republican",
+    "url": "https://malegislature.gov/Legislators/Profile/PJD0"
+   }
+  ],
+  "Worcester and Middlesex": [
+   {
+    "email": "john.cronin@masenate.gov",
+    "name": "John Cronin",
+    "party": "Democratic",
+    "url": "https://johnjcronin.com/"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

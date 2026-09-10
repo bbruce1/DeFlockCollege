@@ -1,0 +1,785 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "David Schweikert",
+    "party": "Republican",
+    "phone": "202-225-2190",
+    "url": "https://schweikert.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Eli Crane",
+    "party": "Republican",
+    "phone": "202-225-3361",
+    "url": "https://crane.house.gov"
+   }
+  ],
+  "3": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Yassamin Ansari",
+    "party": "Democrat",
+    "phone": "202-225-4065",
+    "url": "https://ansari.house.gov"
+   }
+  ],
+  "4": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Greg Stanton",
+    "party": "Democrat",
+    "phone": "202-225-9888",
+    "url": "https://stanton.house.gov"
+   }
+  ],
+  "5": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Andy Biggs",
+    "party": "Republican",
+    "phone": "202-225-2635",
+    "url": "https://biggs.house.gov"
+   }
+  ],
+  "6": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Juan Ciscomani",
+    "party": "Republican",
+    "phone": "202-225-2542",
+    "url": "https://ciscomani.house.gov"
+   }
+  ],
+  "7": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Adelita Grijalva",
+    "party": "Democrat",
+    "phone": "202-225-2435",
+    "url": "https://grijalva.house.gov"
+   }
+  ],
+  "8": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Abraham Hamadeh",
+    "party": "Republican",
+    "phone": "202-225-4576",
+    "url": "https://hamadeh.house.gov"
+   }
+  ],
+  "9": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Paul Gosar",
+    "party": "Republican",
+    "phone": "202-225-2315",
+    "url": "https://gosar.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": null,
+   "email": null,
+   "name": "Ruben Gallego",
+   "party": "Democrat",
+   "phone": "202-224-4521",
+   "url": "https://www.gallego.senate.gov"
+  },
+  {
+   "contactForm": "https://www.kelly.senate.gov/contact/contact-form/",
+   "email": null,
+   "name": "Mark Kelly",
+   "party": "Democrat",
+   "phone": "202-224-2235",
+   "url": "https://www.kelly.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "qnguyen@azleg.gov",
+    "name": "Quang Nguyen",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2063"
+   },
+   {
+    "email": "sbliss@azleg.gov",
+    "name": "Selina Bliss",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2149"
+   }
+  ],
+  "10": [
+   {
+    "email": "jolson@azleg.gov",
+    "name": "Justin Olson",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=57&legislator=2359"
+   },
+   {
+    "email": "rheap@azleg.gov",
+    "name": "Ralph Heap",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2360"
+   }
+  ],
+  "11": [
+   {
+    "email": "jcavero@azleg.gov",
+    "name": "Junelle Cavero",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/house-member/?legislature=56&session=128&legislator=2287"
+   },
+   {
+    "email": "odelossantos@azleg.gov",
+    "name": "Oscar De Los Santos",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2158"
+   }
+  ],
+  "12": [
+   {
+    "email": "pcontreras@azleg.gov",
+    "name": "Patty Contreras",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2157"
+   },
+   {
+    "email": "stravers@azleg.gov",
+    "name": "Stacey Travers",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2203"
+   }
+  ],
+  "13": [
+   {
+    "email": "jweninger@azleg.gov",
+    "name": "Jeff Weninger",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2361"
+   },
+   {
+    "email": "jwilloughby@azleg.gov",
+    "name": "Julie Willoughby",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2270"
+   }
+  ],
+  "14": [
+   {
+    "email": "kpowell@azleg.gov",
+    "name": "Khyl Powell",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2362"
+   },
+   {
+    "email": "lhendrix@azleg.gov",
+    "name": "Laurin Hendrix",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2172"
+   }
+  ],
+  "15": [
+   {
+    "email": "mway@azleg.gov",
+    "name": "Michael Way",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2363"
+   },
+   {
+    "email": "ncarter@azleg.gov",
+    "name": "Neal Carter",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=55&session=123&legislator=2098"
+   }
+  ],
+  "16": [
+   {
+    "email": "clopez@azleg.gov",
+    "name": "Chris Lopez",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2364"
+   },
+   {
+    "email": "tmartinez@azleg.gov",
+    "name": "Teresa Martinez",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=55&session=123&legislator=2096"
+   }
+  ],
+  "17": [
+   {
+    "email": "kvolk@azleg.gov",
+    "name": "Kevin Volk",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2365"
+   },
+   {
+    "email": "rkeshel@azleg.gov",
+    "name": "Rachel Keshel",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2173"
+   }
+  ],
+  "18": [
+   {
+    "email": "cmathis@azleg.gov",
+    "name": "Chris Mathis",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/house-member/?legislature=55&session=123&legislator=2103"
+   },
+   {
+    "email": "ngutierrez@azleg.gov",
+    "name": "Nancy Gutierrez",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2165"
+   }
+  ],
+  "19": [
+   {
+    "email": "ggriffin@azleg.gov",
+    "name": "Gail Griffin",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2053"
+   },
+   {
+    "email": "ldiaz@azleg.gov",
+    "name": "Lupe Diaz",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=55&session=123&legislator=2100"
+   }
+  ],
+  "2": [
+   {
+    "email": "jwilmeth@azleg.gov",
+    "name": "Justin Wilmeth",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2068"
+   },
+   {
+    "email": "ssimacek@azleg.gov",
+    "name": "Stephanie Simacek",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2353"
+   }
+  ],
+  "20": [
+   {
+    "email": "ahernandez@azleg.gov",
+    "name": "Alma Hern\u00e1ndez",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2033"
+   },
+   {
+    "email": "bvillegas@azleg.gov",
+    "name": "Betty Villegas",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2274"
+   }
+  ],
+  "21": [
+   {
+    "email": "chernandez@azleg.gov",
+    "name": "Consuelo Hernandez",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2169"
+   },
+   {
+    "email": "sstahlhamilton@azleg.gov",
+    "name": "Stephanie Stahl Hamilton",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/house-member/?legislature=56&legislator=2199&session=128"
+   }
+  ],
+  "22": [
+   {
+    "email": "eluna-najera@azleg.gov",
+    "name": "Elda Luna-N\u00e1jera",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2281"
+   },
+   {
+    "email": "lcontreras@azleg.gov",
+    "name": "Lupe Contreras",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2156"
+   }
+  ],
+  "23": [
+   {
+    "email": "msandoval@azleg.gov",
+    "name": "Mariana Sandoval",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2194"
+   },
+   {
+    "email": "mpena@azleg.gov",
+    "name": "Michele Pe\u00f1a",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2189"
+   }
+  ],
+  "24": [
+   {
+    "email": "aabeytia@azleg.gov",
+    "name": "Anna Abeytia",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2366"
+   },
+   {
+    "email": "lhernandez@azleg.gov",
+    "name": "Lydia Hernandez",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2170"
+   }
+  ],
+  "25": [
+   {
+    "email": "mcarbone@azleg.gov",
+    "name": "Michael Carbone",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2153"
+   },
+   {
+    "email": "nkupper@azleg.gov",
+    "name": "Nick Kupper",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2367"
+   }
+  ],
+  "26": [
+   {
+    "email": "caguilar@azleg.gov",
+    "name": "Cesar Aguilar",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2146"
+   },
+   {
+    "email": "qcrews@azleg.gov",
+    "name": "Quant\u00e1 Crews",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2272"
+   }
+  ],
+  "27": [
+   {
+    "email": "lfink@azleg.gov",
+    "name": "Lisa Fink",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2369"
+   },
+   {
+    "email": "trivero@azleg.gov",
+    "name": "Tony Rivero",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1870"
+   }
+  ],
+  "28": [
+   {
+    "email": "bpingerelli@azleg.gov",
+    "name": "Beverly Pingerelli",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2071"
+   },
+   {
+    "email": "dlivingston@azleg.gov",
+    "name": "David Livingston",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=56&legislator=2175&session=128"
+   }
+  ],
+  "29": [
+   {
+    "email": "jtaylor@azleg.gov",
+    "name": "James Taylor",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2370"
+   },
+   {
+    "email": "smontenegro@azleg.gov",
+    "name": "Steve Montenegro",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2183"
+   }
+  ],
+  "3": [
+   {
+    "email": "akolodin@azleg.gov",
+    "name": "Alex Kolodin",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2174"
+   },
+   {
+    "email": "creim@azleg.gov",
+    "name": "Cody Reim",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2417"
+   }
+  ],
+  "30": [
+   {
+    "email": "jgillette@azleg.gov",
+    "name": "John Gillette",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2161"
+   },
+   {
+    "email": "lbiasiucci@azleg.gov",
+    "name": "Leo Biasiucci",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2034"
+   }
+  ],
+  "4": [
+   {
+    "email": "mgress@azleg.gov",
+    "name": "Matt Gress",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2163"
+   },
+   {
+    "email": "pcarter@azleg.gov",
+    "name": "Pamela Carter",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2354"
+   }
+  ],
+  "5": [
+   {
+    "email": "amarquez@azleg.gov",
+    "name": "Aaron M\u00e1rquez",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2355"
+   },
+   {
+    "email": "sliguori@azleg.gov",
+    "name": "Sarah Liguori",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/house-member/?legislature=56&session=128&legislator=2279"
+   }
+  ],
+  "6": [
+   {
+    "email": "mpeshlakai@azleg.gov",
+    "name": "Mae Peshlakai",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2190"
+   },
+   {
+    "email": "mtsosie@azleg.gov",
+    "name": "Myron Tsosie",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2037"
+   }
+  ],
+  "7": [
+   {
+    "email": "sallen@azleg.gov",
+    "name": "Sylvia Allen",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=57&legislator=2419"
+   },
+   {
+    "email": "wblackman@azleg.gov",
+    "name": "Walt Blackman",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2356"
+   }
+  ],
+  "8": [
+   {
+    "email": "bgarcia@azleg.gov",
+    "name": "Brian Garcia",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2358"
+   },
+   {
+    "email": "jconnolly@azleg.gov",
+    "name": "Janeen Connolly",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2357"
+   }
+  ],
+  "9": [
+   {
+    "email": "laustin@azleg.gov",
+    "name": "Lorena Austin",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2206"
+   },
+   {
+    "email": "sblattman@azleg.gov",
+    "name": "Seth Blattman",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2148"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/az.csv"
+ },
+ "state": "AZ",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "mfinchem@azleg.gov",
+    "name": "Mark Finchem",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1865"
+   }
+  ],
+  "10": [
+   {
+    "email": "dfarnsworth@azleg.gov",
+    "name": "Dave Farnsworth",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2123"
+   }
+  ],
+  "11": [
+   {
+    "email": "cmiranda@azleg.gov",
+    "name": "Catherine Miranda",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2138"
+   }
+  ],
+  "12": [
+   {
+    "email": "mepstein@azleg.gov",
+    "name": "Mitzi Epstein",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1881"
+   }
+  ],
+  "13": [
+   {
+    "email": "jmesnard@azleg.gov",
+    "name": "J.D. Mesnard",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2137"
+   }
+  ],
+  "14": [
+   {
+    "email": "wpetersen@azleg.gov",
+    "name": "Warren Petersen",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1966"
+   }
+  ],
+  "15": [
+   {
+    "email": "jake.hoffman@azleg.gov",
+    "name": "Jake Hoffman",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/House/House-member/?legislature=55&session=123&legislator=2066"
+   }
+  ],
+  "16": [
+   {
+    "email": "tshope@azleg.gov",
+    "name": "T.J. Shope",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1871"
+   }
+  ],
+  "17": [
+   {
+    "email": "vleach@azleg.gov",
+    "name": "Vince Leach",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1965"
+   }
+  ],
+  "18": [
+   {
+    "email": "psundareshan@azleg.gov",
+    "name": "Priya Sundareshan",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2143"
+   }
+  ],
+  "19": [
+   {
+    "email": "dgowan@azleg.gov",
+    "name": "David Gowan",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1968"
+   }
+  ],
+  "2": [
+   {
+    "email": "sbolick@azleg.gov",
+    "name": "Shawnna Bolick",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2273"
+   }
+  ],
+  "20": [
+   {
+    "email": "sgonzales@azleg.gov",
+    "name": "Sally Gonzales",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1957"
+   }
+  ],
+  "21": [
+   {
+    "email": "rgabaldon@azleg.gov",
+    "name": "Rosanna Gabald\u00f3n",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1956"
+   }
+  ],
+  "22": [
+   {
+    "email": "eva.diaz@azleg.gov",
+    "name": "Eva Diaz",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2121"
+   }
+  ],
+  "23": [
+   {
+    "email": "bfernandez@azleg.gov",
+    "name": "Brian Fernandez",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/house-member/?legislature=55&session=123&legislator=2101"
+   }
+  ],
+  "24": [
+   {
+    "email": "analise.ortiz@azleg.gov",
+    "name": "Analise Ortiz",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2178"
+   }
+  ],
+  "25": [
+   {
+    "email": "tdunn@azleg.gov",
+    "name": "Tim Dunn",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2031"
+   }
+  ],
+  "26": [
+   {
+    "email": "fbravo@azleg.gov",
+    "name": "Flavio Bravo",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/House/House-member/?legislature=56&session=127&legislator=2150"
+   }
+  ],
+  "27": [
+   {
+    "email": "kpayne@azleg.gov",
+    "name": "Kevin Payne",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2023"
+   }
+  ],
+  "28": [
+   {
+    "email": "fcarroll@azleg.gov",
+    "name": "Frank Carroll",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1906"
+   }
+  ],
+  "29": [
+   {
+    "email": "jshamp@azleg.gov",
+    "name": "Janae Shamp",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2141"
+   }
+  ],
+  "3": [
+   {
+    "email": "jkavanagh@azleg.gov",
+    "name": "John Kavanagh",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/house-member/?legislature=55&legislator=2056"
+   }
+  ],
+  "30": [
+   {
+    "email": "hangius@azleg.gov",
+    "name": "Hildy Angius",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2373"
+   }
+  ],
+  "4": [
+   {
+    "email": "cwerner@azleg.gov",
+    "name": "Carine Werner",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2389"
+   }
+  ],
+  "5": [
+   {
+    "email": "lalston@azleg.gov",
+    "name": "Lela Alston",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1978"
+   }
+  ],
+  "6": [
+   {
+    "email": "thatathlie@azleg.gov",
+    "name": "Theresa Hatathlie",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2128"
+   }
+  ],
+  "7": [
+   {
+    "email": "wrogers@azleg.gov",
+    "name": "Wendy Rogers",
+    "party": "Republican",
+    "url": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1960"
+   }
+  ],
+  "8": [
+   {
+    "email": "lkuby@azleg.gov",
+    "name": "Lauren Kuby",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2390"
+   }
+  ],
+  "9": [
+   {
+    "email": "ksears@azleg.gov",
+    "name": "Kiana Sears",
+    "party": "Democratic",
+    "url": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2415"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

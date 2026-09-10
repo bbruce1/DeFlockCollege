@@ -15,12 +15,29 @@ export default function Shell({ children, aside }: PropsWithChildren<{ aside?: R
 
             <header className="sticky top-0 z-40 border-b border-hair bg-void/80 backdrop-blur">
                 <div className="shell flex h-14 items-center justify-between gap-6">
-                    <Link href="/" className="font-data text-[13px] font-600 tracking-[0.1em] no-underline">
+                    <Link href="/" className="font-data text-[13px] font-semibold tracking-[0.1em] no-underline">
                         <span className="text-net">DE</span>
                         <span className="text-glow">FLOCK</span>
                         <span className="text-faint"> / CAMPUS</span>
                     </Link>
-                    {aside}
+
+                    <div className="flex items-center gap-6">
+                        <nav className="flex items-center gap-6">
+                            {[
+                                ['/about', 'About'],
+                                ['/contact', 'Contact'],
+                            ].map(([href, label]) => (
+                                <Link
+                                    key={href}
+                                    href={href}
+                                    className="annot text-dim no-underline hover:text-net"
+                                >
+                                    {label}
+                                </Link>
+                            ))}
+                        </nav>
+                        {aside}
+                    </div>
                 </div>
             </header>
 
@@ -28,7 +45,24 @@ export default function Shell({ children, aside }: PropsWithChildren<{ aside?: R
 
             <footer className="mt-24 border-t border-hair">
                 <div className="shell grid gap-3 py-10">
-                    <p className="annot">DeFlock Campus</p>
+                    <nav className="flex flex-wrap gap-x-6 gap-y-2">
+                        {[
+                            ['/about', 'About'],
+                            ['/chapters', 'Chapters'],
+                            ['/contact', 'Contact'],
+                            ['/terms', 'Terms'],
+                            ['/privacy', 'Privacy'],
+                        ].map(([href, label]) => (
+                            <Link
+                                key={href}
+                                href={href}
+                                className="annot text-dim no-underline hover:text-net"
+                            >
+                                {label}
+                            </Link>
+                        ))}
+                    </nav>
+                    <p className="annot mt-4">DeFlock Campus</p>
                     <p className="max-w-[70ch] text-sm text-faint">
                         Chapters are run by students. They are not affiliated with, endorsed by,
                         or sponsored by the schools they are named for. Reader and map data{' '}

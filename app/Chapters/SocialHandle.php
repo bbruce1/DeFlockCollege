@@ -15,9 +15,15 @@ use InvalidArgumentException;
  */
 final class SocialHandle
 {
+    /**
+     * `\A` and `\z` rather than `^` and `$`. The value is trimmed on the way in
+     * but the transformations below run afterwards, so stripping a trailing
+     * slash or a query string can re-expose a newline at the end — and `$` would
+     * treat that as the end of the subject and let it through the allowlist.
+     */
     private const PATTERNS = [
-        'instagram' => '/^[A-Za-z0-9._]{1,30}$/',
-        'tiktok' => '/^[A-Za-z0-9._]{1,24}$/',
+        'instagram' => '/\A[A-Za-z0-9._]{1,30}\z/',
+        'tiktok' => '/\A[A-Za-z0-9._]{1,24}\z/',
     ];
 
     public static function normalise(?string $raw, string $platform): ?string

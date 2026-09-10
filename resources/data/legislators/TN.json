@@ -1,0 +1,1181 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Diana Harshbarger",
+    "party": "Republican",
+    "phone": "202-225-6356",
+    "url": "https://harshbarger.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Tim Burchett",
+    "party": "Republican",
+    "phone": "202-225-5435",
+    "url": "https://burchett.house.gov"
+   }
+  ],
+  "3": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Charles Fleischmann",
+    "party": "Republican",
+    "phone": "202-225-3271",
+    "url": "https://fleischmann.house.gov"
+   }
+  ],
+  "4": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Scott DesJarlais",
+    "party": "Republican",
+    "phone": "202-225-6831",
+    "url": "https://desjarlais.house.gov"
+   }
+  ],
+  "5": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Andrew Ogles",
+    "party": "Republican",
+    "phone": "202-225-4311",
+    "url": "https://ogles.house.gov"
+   }
+  ],
+  "6": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "John Rose",
+    "party": "Republican",
+    "phone": "202-225-4231",
+    "url": "https://johnrose.house.gov"
+   }
+  ],
+  "7": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Matt Van Epps",
+    "party": "Republican",
+    "phone": "202-225-2811",
+    "url": "https://vanepps.house.gov"
+   }
+  ],
+  "8": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "David Kustoff",
+    "party": "Republican",
+    "phone": "202-225-4714",
+    "url": "https://kustoff.house.gov"
+   }
+  ],
+  "9": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Steve Cohen",
+    "party": "Democrat",
+    "phone": "202-225-3265",
+    "url": "https://cohen.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.blackburn.senate.gov/email-me",
+   "email": null,
+   "name": "Marsha Blackburn",
+   "party": "Republican",
+   "phone": "202-224-3344",
+   "url": "https://www.blackburn.senate.gov"
+  },
+  {
+   "contactForm": "https://www.hagerty.senate.gov/email-me/",
+   "email": null,
+   "name": "Bill Hagerty",
+   "party": "Republican",
+   "phone": "202-224-4944",
+   "url": "https://www.hagerty.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "rep.john.crawford@capitol.tn.gov",
+    "name": "John Crawford",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-john-crawford/"
+   }
+  ],
+  "10": [
+   {
+    "email": "rep.rick.eldridge@capitol.tn.gov",
+    "name": "Rick Eldridge",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H10"
+   }
+  ],
+  "11": [
+   {
+    "email": "rep.jeremy.faison@capitol.tn.gov",
+    "name": "Jeremy Faison",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-jeremy-faison/"
+   }
+  ],
+  "12": [
+   {
+    "email": "rep.fred.atchley@capitol.tn.gov",
+    "name": "Fred Atchley",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H12&ga=114"
+   }
+  ],
+  "13": [
+   {
+    "email": "rep.robert.stevens@capitol.tn.gov",
+    "name": "Robert Stevens",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H13"
+   }
+  ],
+  "14": [
+   {
+    "email": "rep.jason.zachary@capitol.tn.gov",
+    "name": "Jason Zachary",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-jason-zachary/"
+   }
+  ],
+  "15": [
+   {
+    "email": "rep.sam.mckenzie@capitol.tn.gov",
+    "name": "Sam McKenzie",
+    "party": "Democratic",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H15"
+   }
+  ],
+  "16": [
+   {
+    "email": "rep.michele.carringer@capitol.tn.gov",
+    "name": "Michele Carringer",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-michele-carringer/"
+   }
+  ],
+  "17": [
+   {
+    "email": "rep.andrew.farmer@capitol.tn.gov",
+    "name": "Andrew Farmer",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H17"
+   }
+  ],
+  "18": [
+   {
+    "email": "rep.elaine.davis@capitol.tn.gov",
+    "name": "Elaine Davis",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-elaine-davis/"
+   }
+  ],
+  "19": [
+   {
+    "email": "rep.dave.wright@capitol.tn.gov",
+    "name": "Dave Wright",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-dave-wright/"
+   }
+  ],
+  "2": [
+   {
+    "email": "rep.bud.hulsey@capitol.tn.gov",
+    "name": "Bud Hulsey",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H2"
+   }
+  ],
+  "20": [
+   {
+    "email": "rep.tom.stinnett@capitol.tn.gov",
+    "name": "Tommy Stinnett",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H20"
+   }
+  ],
+  "21": [
+   {
+    "email": "rep.lowell.russell@capitol.tn.gov",
+    "name": "Lowell Russell",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H21"
+   }
+  ],
+  "22": [
+   {
+    "email": "rep.dan.howell@capitol.tn.gov",
+    "name": "Dan Howell",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H22"
+   }
+  ],
+  "23": [
+   {
+    "email": "rep.mark.cochran@capitol.tn.gov",
+    "name": "Mark Cochran",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-mark-cochran/"
+   }
+  ],
+  "24": [
+   {
+    "email": "rep.kevin.raper@capitol.tn.gov",
+    "name": "Kevin Raper",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H24"
+   }
+  ],
+  "25": [
+   {
+    "email": "speaker.cameron.sexton@capitol.tn.gov",
+    "name": "Cameron Sexton",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H25"
+   }
+  ],
+  "26": [
+   {
+    "email": "rep.greg.martin@capitol.tn.gov",
+    "name": "Greg Martin",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H26"
+   }
+  ],
+  "27": [
+   {
+    "email": "rep.michele.reneau@capitol.tn.gov",
+    "name": "Michele Reneau",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-michele-reneau/"
+   }
+  ],
+  "28": [
+   {
+    "email": "rep.yusuf.hakeem@capitol.tn.gov",
+    "name": "Yusuf Hakeem",
+    "party": "Democratic",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H28"
+   }
+  ],
+  "29": [
+   {
+    "email": "rep.greg.vital@capitol.tn.gov",
+    "name": "Greg Vital",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-greg-vital/"
+   }
+  ],
+  "3": [
+   {
+    "email": "rep.timothy.hill@capitol.tn.gov",
+    "name": "Timothy Hill",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-timothy-hill/"
+   }
+  ],
+  "30": [
+   {
+    "email": "rep.esther.helton@capitol.tn.gov",
+    "name": "Esther Helton-Haynes",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-esther-helton-haynes/"
+   }
+  ],
+  "31": [
+   {
+    "email": "rep.ron.travis@capitol.tn.gov",
+    "name": "Ron Travis",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-ron-travis/"
+   }
+  ],
+  "32": [
+   {
+    "email": "rep.monty.fritts@capitol.tn.gov",
+    "name": "Monty Fritts",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-monty-fritts/"
+   }
+  ],
+  "33": [
+   {
+    "email": "rep.rick.scarbrough@capitol.tn.gov",
+    "name": "Rick Scarbrough",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H33"
+   }
+  ],
+  "34": [
+   {
+    "email": "rep.tim.rudd@capitol.tn.gov",
+    "name": "Tim Rudd",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H34"
+   }
+  ],
+  "35": [
+   {
+    "email": "rep.william.slater@capitol.tn.gov",
+    "name": "William Slater",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H35"
+   }
+  ],
+  "36": [
+   {
+    "email": "rep.dennis.powers@capitol.tn.gov",
+    "name": "Dennis Powers",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H36"
+   }
+  ],
+  "37": [
+   {
+    "email": "rep.charlie.baum@capitol.tn.gov",
+    "name": "Charlie Baum",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-charlie-baum/"
+   }
+  ],
+  "38": [
+   {
+    "email": "rep.kelly.keisling@capitol.tn.gov",
+    "name": "Kelly Keisling",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-kelly-keisling/"
+   }
+  ],
+  "39": [
+   {
+    "email": "rep.iris.rudder@capitol.tn.gov",
+    "name": "Iris Rudder",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-iris-rudder/"
+   }
+  ],
+  "4": [
+   {
+    "email": "rep.renea.jones@capitol.tn.gov",
+    "name": "Renea Jones",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H4"
+   }
+  ],
+  "40": [
+   {
+    "email": "rep.michael.hale@capitol.tn.gov",
+    "name": "Michael Hale",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H40"
+   }
+  ],
+  "41": [
+   {
+    "email": "rep.ed.butler@capitol.tn.gov",
+    "name": "Ed Butler",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H41"
+   }
+  ],
+  "42": [
+   {
+    "email": "rep.ryan.williams@capitol.tn.gov",
+    "name": "Ryan Williams",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H42"
+   }
+  ],
+  "43": [
+   {
+    "email": "rep.paul.sherrell@capitol.tn.gov",
+    "name": "Paul Sherrell",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-paul-sherrell/"
+   }
+  ],
+  "44": [
+   {
+    "email": "rep.william.lamberth@capitol.tn.gov",
+    "name": "William Lamberth",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H44"
+   }
+  ],
+  "45": [
+   {
+    "email": "rep.johnny.garrett@capitol.tn.gov",
+    "name": "Johnny Garrett",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H45"
+   }
+  ],
+  "46": [
+   {
+    "email": "rep.clark.boyd@capitol.tn.gov",
+    "name": "Clark Boyd",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H46"
+   }
+  ],
+  "47": [
+   {
+    "email": "rep.rush.bricken@capitol.tn.gov",
+    "name": "Rush Bricken",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H47"
+   }
+  ],
+  "48": [
+   {
+    "email": "rep.bryan.terry@capitol.tn.gov",
+    "name": "Bryan Terry",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-bryan-terry/"
+   }
+  ],
+  "49": [
+   {
+    "email": "rep.mike.sparks@capitol.tn.gov",
+    "name": "Mike Sparks",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H49"
+   }
+  ],
+  "5": [
+   {
+    "email": "rep.david.hawk@capitol.tn.gov",
+    "name": "David Hawk",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-david-hawk/"
+   }
+  ],
+  "50": [
+   {
+    "email": "rep.bo.mitchell@capitol.tn.gov",
+    "name": "Bo Mitchell",
+    "party": "Democratic",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H50"
+   }
+  ],
+  "51": [
+   {
+    "email": "rep.aftyn.behn@capitol.tn.gov",
+    "name": "Aftyn Behn",
+    "party": "Democratic",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H51"
+   }
+  ],
+  "52": [
+   {
+    "email": "rep.justin.jones@capitol.tn.gov",
+    "name": "Justin Jones",
+    "party": "Democratic",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H52"
+   }
+  ],
+  "53": [
+   {
+    "email": "rep.jason.powell@capitol.tn.gov",
+    "name": "Jason Powell",
+    "party": "Democratic",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H53"
+   }
+  ],
+  "54": [
+   {
+    "email": "rep.vincent.dixie@capitol.tn.gov",
+    "name": "Vincent Dixie",
+    "party": "Democratic",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H54"
+   }
+  ],
+  "55": [
+   {
+    "email": "rep.john.ray.clemmons@capitol.tn.gov",
+    "name": "John Clemmons",
+    "party": "Democratic",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H55"
+   }
+  ],
+  "56": [
+   {
+    "email": "rep.bob.freeman@capitol.tn.gov",
+    "name": "Bob Freeman",
+    "party": "Democratic",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H56"
+   }
+  ],
+  "57": [
+   {
+    "email": "rep.susan.lynn@capitol.tn.gov",
+    "name": "Susan Lynn",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-susan-lynn/"
+   }
+  ],
+  "58": [
+   {
+    "email": "rep.harold.love@capitol.tn.gov",
+    "name": "Harold Love",
+    "party": "Democratic",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H58"
+   }
+  ],
+  "59": [
+   {
+    "email": "rep.caleb.hemmer@capitol.tn.gov",
+    "name": "Caleb Hemmer",
+    "party": "Democratic",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H59"
+   }
+  ],
+  "6": [
+   {
+    "email": "rep.tim.hicks@capitol.tn.gov",
+    "name": "Tim Hicks",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-tim-hicks/"
+   }
+  ],
+  "60": [
+   {
+    "email": "rep.shaundelle.brooks@capitol.tn.gov",
+    "name": "Shaundelle Brooks",
+    "party": "Democratic",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H60"
+   }
+  ],
+  "61": [
+   {
+    "email": "rep.gino.bulso@capitol.tn.gov",
+    "name": "Gino Bulso",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H61"
+   }
+  ],
+  "62": [
+   {
+    "email": "rep.pat.marsh@capitol.tn.gov",
+    "name": "Pat Marsh",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-pat-marsh/"
+   }
+  ],
+  "63": [
+   {
+    "email": "rep.jake.mccalmon@capitol.tn.gov",
+    "name": "Jake McCalmon",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-jake-mccalmon/"
+   }
+  ],
+  "64": [
+   {
+    "email": "rep.scott.cepicky@capitol.tn.gov",
+    "name": "Scott Cepicky",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-scott-cepicky/"
+   }
+  ],
+  "65": [
+   {
+    "email": "rep.lee.reeves@capitol.tn.gov",
+    "name": "Lee Reeves",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-lee-reeves/"
+   }
+  ],
+  "66": [
+   {
+    "email": "rep.sabi.kumar@capitol.tn.gov",
+    "name": "Doc Kumar",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H66"
+   }
+  ],
+  "67": [
+   {
+    "email": "rep.ronnie.glynn@capitol.tn.gov",
+    "name": "Ronnie Glynn",
+    "party": "Democratic",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H67"
+   }
+  ],
+  "68": [
+   {
+    "email": "rep.aron.maberry@capitol.tn.gov",
+    "name": "Aron Maberry",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H68"
+   }
+  ],
+  "69": [
+   {
+    "email": "rep.jody.barrett@capitol.tn.gov",
+    "name": "Jody Barrett",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H69"
+   }
+  ],
+  "7": [
+   {
+    "email": "rep.rebecca.alexander@capitol.tn.gov",
+    "name": "Becky Jo Alexander",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H7"
+   }
+  ],
+  "70": [
+   {
+    "email": "rep.clay.doggett@capitol.tn.gov",
+    "name": "Clay Doggett",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-clay-doggett/"
+   }
+  ],
+  "71": [
+   {
+    "email": "rep.kip.capley@capitol.tn.gov",
+    "name": "Kip Capley",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-kip-capley/"
+   }
+  ],
+  "72": [
+   {
+    "email": "rep.kirk.haston@capitol.tn.gov",
+    "name": "Kirk Haston",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H72"
+   }
+  ],
+  "73": [
+   {
+    "email": "rep.chris.todd@capitol.tn.gov",
+    "name": "Chris Todd",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-chris-todd/"
+   }
+  ],
+  "74": [
+   {
+    "email": "rep.jay.reedy@capitol.tn.gov",
+    "name": "Jay Reedy",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H74"
+   }
+  ],
+  "75": [
+   {
+    "email": "rep.michael.lankford@capitol.tn.gov",
+    "name": "Michael Lankford",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H75"
+   }
+  ],
+  "76": [
+   {
+    "email": "rep.tandy.darby@capitol.tn.gov",
+    "name": "Tandy Darby",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-tandy-darby/"
+   }
+  ],
+  "77": [
+   {
+    "email": "rep.rusty.grills@capitol.tn.gov",
+    "name": "Rusty Grills",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H77"
+   }
+  ],
+  "78": [
+   {
+    "email": "rep.mary.littleton@capitol.tn.gov",
+    "name": "Mary Littleton",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-mary-littleton/"
+   }
+  ],
+  "79": [
+   {
+    "email": "rep.brock.martin@capitol.tn.gov",
+    "name": "Brock Martin",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-brock-martin/"
+   }
+  ],
+  "8": [
+   {
+    "email": "rep.jerome.moon@capitol.tn.gov",
+    "name": "Jerome Moon",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H8"
+   }
+  ],
+  "80": [
+   {
+    "email": "rep.johnny.shaw@capitol.tn.gov",
+    "name": "Johnny Shaw",
+    "party": "Democratic",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H80"
+   }
+  ],
+  "81": [
+   {
+    "email": "rep.debra.moody@capitol.tn.gov",
+    "name": "Debra Moody",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H81"
+   }
+  ],
+  "82": [
+   {
+    "email": "rep.chris.hurt@capitol.tn.gov",
+    "name": "Chris Hurt",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-chris-hurt/"
+   }
+  ],
+  "83": [
+   {
+    "email": "rep.mark.white@capitol.tn.gov",
+    "name": "Mark White",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H83"
+   }
+  ],
+  "84": [
+   {
+    "email": "rep.joe.towns@capitol.tn.gov",
+    "name": "Joe Towns",
+    "party": "Democratic",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H84"
+   }
+  ],
+  "85": [
+   {
+    "email": "rep.jesse.chism@capitol.tn.gov",
+    "name": "Jesse Chism",
+    "party": "Democratic",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H85"
+   }
+  ],
+  "86": [
+   {
+    "email": "rep.justin.j.pearson@capitol.tn.gov",
+    "name": "Justin Pearson",
+    "party": "Democratic",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H86"
+   }
+  ],
+  "87": [
+   {
+    "email": "rep.karen.camper@capitol.tn.gov",
+    "name": "Karen Camper",
+    "party": "Democratic",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H87"
+   }
+  ],
+  "88": [
+   {
+    "email": "rep.larry.miller@capitol.tn.gov",
+    "name": "Larry Miller",
+    "party": "Democratic",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H88"
+   }
+  ],
+  "89": [
+   {
+    "email": "rep.justin.lafferty@capitol.tn.gov",
+    "name": "Justin Lafferty",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H89"
+   }
+  ],
+  "9": [
+   {
+    "email": "rep.gary.hicks@capitol.tn.gov",
+    "name": "Gary Hicks",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-gary-hicks/"
+   }
+  ],
+  "90": [
+   {
+    "email": "rep.gloria.johnson@capitol.tn.gov",
+    "name": "Gloria Johnson",
+    "party": "Democratic",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H90"
+   }
+  ],
+  "91": [
+   {
+    "email": "rep.torrey.harris@capitol.tn.gov",
+    "name": "Torrey Harris",
+    "party": "Democratic",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H91"
+   }
+  ],
+  "92": [
+   {
+    "email": "rep.todd.warner@capitol.tn.gov",
+    "name": "Todd Warner",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-todd-warner/"
+   }
+  ],
+  "93": [
+   {
+    "email": "rep.tj.hardaway@capitol.tn.gov",
+    "name": "T.J. Hardaway",
+    "party": "Democratic",
+    "url": "https://wapp.capitol.tn.gov/apps/LegislatorInfo/Member?district=H93"
+   }
+  ],
+  "94": [
+   {
+    "email": "rep.ron.gant@capitol.tn.gov",
+    "name": "Ron Gant",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H94"
+   }
+  ],
+  "95": [
+   {
+    "email": "rep.kevin.vaughan@capitol.tn.gov",
+    "name": "Kevin Vaughan",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H95"
+   }
+  ],
+  "96": [
+   {
+    "email": "rep.gabby.salinas@capitol.tn.gov",
+    "name": "Gabby Salinas",
+    "party": "Democratic",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H96&ga=114"
+   }
+  ],
+  "97": [
+   {
+    "email": "rep.john.gillespie@capitol.tn.gov",
+    "name": "John Gillespie",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-john-gillespie/"
+   }
+  ],
+  "98": [
+   {
+    "email": "rep.antonio.parkinson@capitol.tn.gov",
+    "name": "Antonio Parkinson",
+    "party": "Democratic",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H98"
+   }
+  ],
+  "99": [
+   {
+    "email": "rep.tom.leatherwood@capitol.tn.gov",
+    "name": "Tom Leatherwood",
+    "party": "Republican",
+    "url": "https://tnhousegop.org/members/representative-tom-leatherwood/"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/tn.csv"
+ },
+ "state": "TN",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "sen.adam.lowe@capitol.tn.gov",
+    "name": "Adam Lowe",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S1"
+   }
+  ],
+  "10": [
+   {
+    "email": "sen.todd.gardenhire@capitol.tn.gov",
+    "name": "Todd Gardenhire",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S10"
+   }
+  ],
+  "11": [
+   {
+    "email": "sen.bo.watson@capitol.tn.gov",
+    "name": "Bo Watson",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S11"
+   }
+  ],
+  "12": [
+   {
+    "email": "sen.ken.yager@capitol.tn.gov",
+    "name": "Ken Yager",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S12"
+   }
+  ],
+  "13": [
+   {
+    "email": "sen.dawn.white@capitol.tn.gov",
+    "name": "Dawn White",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S13"
+   }
+  ],
+  "14": [
+   {
+    "email": "sen.shane.reeves@capitol.tn.gov",
+    "name": "Shane Reeves",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S14"
+   }
+  ],
+  "15": [
+   {
+    "email": "sen.paul.bailey@capitol.tn.gov",
+    "name": "Paul Bailey",
+    "party": "Republican",
+    "url": "https://paulbaileyfortn.com/"
+   }
+  ],
+  "16": [
+   {
+    "email": "sen.janice.bowling@capitol.tn.gov",
+    "name": "Janice Bowling",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S16"
+   }
+  ],
+  "17": [
+   {
+    "email": "sen.mark.pody@capitol.tn.gov",
+    "name": "Mark Pody",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S17"
+   }
+  ],
+  "18": [
+   {
+    "email": "sen.ferrell.haile@capitol.tn.gov",
+    "name": "Ferrell Haile",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S18"
+   }
+  ],
+  "19": [
+   {
+    "email": "sen.charlane.oliver@capitol.tn.gov",
+    "name": "Charlane Oliver",
+    "party": "Democratic",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S19"
+   }
+  ],
+  "2": [
+   {
+    "email": "sen.tom.hatcher@capitol.tn.gov",
+    "name": "Tom Hatcher",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S2&ga=114"
+   }
+  ],
+  "20": [
+   {
+    "email": "sen.heidi.campbell@capitol.tn.gov",
+    "name": "Heidi Campbell",
+    "party": "Democratic",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S20"
+   }
+  ],
+  "21": [
+   {
+    "email": "sen.jeff.yarbro@capitol.tn.gov",
+    "name": "Jeff Yarbro",
+    "party": "Democratic",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S21"
+   }
+  ],
+  "22": [
+   {
+    "email": "sen.bill.powers@capitol.tn.gov",
+    "name": "Bill Powers",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S22"
+   }
+  ],
+  "23": [
+   {
+    "email": "sen.kerry.roberts@capitol.tn.gov",
+    "name": "Kerry Roberts",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S23"
+   }
+  ],
+  "24": [
+   {
+    "email": "sen.john.stevens@capitol.tn.gov",
+    "name": "John Stevens",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S24"
+   }
+  ],
+  "25": [
+   {
+    "email": "sen.ed.jackson@capitol.tn.gov",
+    "name": "Ed Jackson",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S25"
+   }
+  ],
+  "26": [
+   {
+    "email": "sen.page.walley@capitol.tn.gov",
+    "name": "Page Walley",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S26"
+   }
+  ],
+  "27": [
+   {
+    "email": "sen.jack.johnson@capitol.tn.gov",
+    "name": "Jack Johnson",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S27"
+   }
+  ],
+  "28": [
+   {
+    "email": "sen.joey.hensley@capitol.tn.gov",
+    "name": "Joey Hensley",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S28"
+   }
+  ],
+  "29": [
+   {
+    "email": "sen.raumesh.akbari@capitol.tn.gov",
+    "name": "Raumesh Akbari",
+    "party": "Democratic",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S29"
+   }
+  ],
+  "3": [
+   {
+    "email": "sen.rusty.crowe@capitol.tn.gov",
+    "name": "Rusty Crowe",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S3"
+   }
+  ],
+  "30": [
+   {
+    "email": "sen.sara.kyle@capitol.tn.gov",
+    "name": "Sara Kyle",
+    "party": "Democratic",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S30"
+   }
+  ],
+  "31": [
+   {
+    "email": "sen.brent.taylor@capitol.tn.gov",
+    "name": "Brent Taylor",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S31"
+   }
+  ],
+  "32": [
+   {
+    "email": "sen.paul.rose@capitol.tn.gov",
+    "name": "Paul Rose",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S32"
+   }
+  ],
+  "33": [
+   {
+    "email": "sen.london.lamar@capitol.tn.gov",
+    "name": "London Lamar",
+    "party": "Democratic",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S33"
+   }
+  ],
+  "4": [
+   {
+    "email": "sen.bobby.harshbarger@capitol.tn.gov",
+    "name": "Bobby Harshbarger",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S4"
+   }
+  ],
+  "5": [
+   {
+    "email": "sen.randy.mcnally@capitol.tn.gov",
+    "name": "Randy McNally",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S5"
+   }
+  ],
+  "6": [
+   {
+    "email": "sen.becky.massey@capitol.tn.gov",
+    "name": "Becky Massey",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S6"
+   }
+  ],
+  "7": [
+   {
+    "email": "sen.richard.briggs@capitol.tn.gov",
+    "name": "Richard Briggs",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S7"
+   }
+  ],
+  "8": [
+   {
+    "email": "sen.jessie.seal@capitol.tn.gov",
+    "name": "Jessie Seal",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S8&ga=114"
+   }
+  ],
+  "9": [
+   {
+    "email": "sen.steve.southerland@capitol.tn.gov",
+    "name": "Steve Southerland",
+    "party": "Republican",
+    "url": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S9"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

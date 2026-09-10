@@ -1,0 +1,1715 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Brad Finstad",
+    "party": "Republican",
+    "phone": "202-225-2472",
+    "url": "https://finstad.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Angie Craig",
+    "party": "Democrat",
+    "phone": "202-225-2271",
+    "url": "https://craig.house.gov"
+   }
+  ],
+  "3": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Kelly Morrison",
+    "party": "Democrat",
+    "phone": "202-225-2871",
+    "url": "https://morrison.house.gov"
+   }
+  ],
+  "4": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Betty McCollum",
+    "party": "Democrat",
+    "phone": "202-225-6631",
+    "url": "https://mccollum.house.gov"
+   }
+  ],
+  "5": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Ilhan Omar",
+    "party": "Democrat",
+    "phone": "202-225-4755",
+    "url": "https://omar.house.gov"
+   }
+  ],
+  "6": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Tom Emmer",
+    "party": "Republican",
+    "phone": "202-225-2331",
+    "url": "https://emmer.house.gov"
+   }
+  ],
+  "7": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Michelle Fischbach",
+    "party": "Republican",
+    "phone": "202-225-2165",
+    "url": "https://fischbach.house.gov"
+   }
+  ],
+  "8": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Pete Stauber",
+    "party": "Republican",
+    "phone": "202-225-6211",
+    "url": "https://stauber.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.klobuchar.senate.gov/public/index.cfm/contact",
+   "email": null,
+   "name": "Amy Klobuchar",
+   "party": "Democrat",
+   "phone": "202-224-3244",
+   "url": "https://www.klobuchar.senate.gov"
+  },
+  {
+   "contactForm": "https://www.smith.senate.gov/share-your-opinion/",
+   "email": null,
+   "name": "Tina Smith",
+   "party": "Democrat",
+   "phone": "202-224-5641",
+   "url": "https://www.smith.senate.gov"
+  }
+ ],
+ "lower": {
+  "10A": [
+   {
+    "email": "rep.ron.kresha@house.mn.gov",
+    "name": "Ron Kresha",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15404"
+   }
+  ],
+  "10B": [
+   {
+    "email": "rep.isaac.schultz@house.mn.gov",
+    "name": "Isaac Schultz",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15597"
+   }
+  ],
+  "11A": [
+   {
+    "email": "rep.jeff.dotseth@house.mn.gov",
+    "name": "Jeff Dotseth",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15598"
+   }
+  ],
+  "11B": [
+   {
+    "email": "rep.nathan.nelson@house.mn.gov",
+    "name": "Nathan Nelson",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15534"
+   }
+  ],
+  "12A": [
+   {
+    "email": "rep.paul.anderson@house.mn.gov",
+    "name": "Paul Anderson",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15301"
+   }
+  ],
+  "12B": [
+   {
+    "email": "rep.mary.franson@house.mn.gov",
+    "name": "Mary Franson",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15347"
+   }
+  ],
+  "13A": [
+   {
+    "email": "rep.lisa.demuth@house.mn.gov",
+    "name": "Lisa Demuth",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15498"
+   }
+  ],
+  "13B": [
+   {
+    "email": "rep.tim.odriscoll@house.mn.gov",
+    "name": "Tim O'Driscoll",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15364"
+   }
+  ],
+  "14A": [
+   {
+    "email": "rep.bernie.perryman@house.mn.gov",
+    "name": "Bernie Perryman",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15599"
+   }
+  ],
+  "14B": [
+   {
+    "email": "rep.dan.wolgamott@house.mn.gov",
+    "name": "Dan Wolgamott",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15499"
+   }
+  ],
+  "15A": [
+   {
+    "email": "rep.chris.swedzinski@house.mn.gov",
+    "name": "Chris Swedzinski",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15369"
+   }
+  ],
+  "15B": [
+   {
+    "email": "rep.paul.torkelson@house.mn.gov",
+    "name": "Paul Torkelson",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15304"
+   }
+  ],
+  "16A": [
+   {
+    "email": "rep.scott.vanbinsbergen@house.mn.gov",
+    "name": "Scott Van Binsbergen",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15647"
+   }
+  ],
+  "16B": [
+   {
+    "email": "rep.dave.baker@house.mn.gov",
+    "name": "Dave Baker",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15429"
+   }
+  ],
+  "17A": [
+   {
+    "email": "rep.dawn.gillman@house.mn.gov",
+    "name": "Dawn Gillman",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15600"
+   }
+  ],
+  "17B": [
+   {
+    "email": "rep.bobbie.harder@house.mn.gov",
+    "name": "Bobbie Harder",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15601"
+   }
+  ],
+  "18A": [
+   {
+    "email": "rep.erica.schwartz@house.mn.gov",
+    "name": "Erica Schwartz",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15644"
+   }
+  ],
+  "18B": [
+   {
+    "email": "rep.luke.frederick@house.mn.gov",
+    "name": "Luke Frederick",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15542"
+   }
+  ],
+  "19A": [
+   {
+    "email": "rep.keith.allen@house.mn.gov",
+    "name": "Keith Allen",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15627"
+   }
+  ],
+  "19B": [
+   {
+    "email": "rep.tom.sexton@house.mn.gov",
+    "name": "Tom Sexton",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15645"
+   }
+  ],
+  "1A": [
+   {
+    "email": "rep.john.burkel@house.mn.gov",
+    "name": "John Burkel",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15538"
+   }
+  ],
+  "1B": [
+   {
+    "email": "rep.steve.gander@house.mn.gov",
+    "name": "Steve Gander",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15631"
+   }
+  ],
+  "20A": [
+   {
+    "email": "rep.pam.altendorf@house.mn.gov",
+    "name": "Pam Altendorf",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15602"
+   }
+  ],
+  "20B": [
+   {
+    "email": "rep.steven.jacob@house.mn.gov",
+    "name": "Steve Jacob",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15603"
+   }
+  ],
+  "21B": [
+   {
+    "email": "rep.marj.fogelman@house.mn.gov",
+    "name": "Marj Fogelman",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15604"
+   }
+  ],
+  "22A": [
+   {
+    "email": "rep.bjorn.olson@house.mn.gov",
+    "name": "Bjorn Olson",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15544"
+   }
+  ],
+  "22B": [
+   {
+    "email": "rep.terry.stier@house.mn.gov",
+    "name": "Terry Stier",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15646"
+   }
+  ],
+  "23A": [
+   {
+    "email": "rep.peggy.bennett@house.mn.gov",
+    "name": "Peggy Bennett",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15430"
+   }
+  ],
+  "23B": [
+   {
+    "email": "rep.patricia.mueller@house.mn.gov",
+    "name": "Patty Mueller",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15561"
+   }
+  ],
+  "24A": [
+   {
+    "email": "rep.duane.quam@house.mn.gov",
+    "name": "Duane Quam",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15366"
+   }
+  ],
+  "24B": [
+   {
+    "email": "rep.tina.liebling@house.mn.gov",
+    "name": "Tina Liebling",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/12268"
+   }
+  ],
+  "25A": [
+   {
+    "email": "rep.kim.hicks@house.mn.gov",
+    "name": "Kim Hicks",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15605"
+   }
+  ],
+  "25B": [
+   {
+    "email": "rep.andy.smith@house.mn.gov",
+    "name": "Andy Smith",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15606"
+   }
+  ],
+  "26A": [
+   {
+    "email": "rep.aaron.repinski@house.mn.gov",
+    "name": "Ripper Repinski",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15641"
+   }
+  ],
+  "26B": [
+   {
+    "email": "rep.greg.davids@house.mn.gov",
+    "name": "Greg Davids",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/10123"
+   }
+  ],
+  "27A": [
+   {
+    "email": "rep.shane.mekeland@house.mn.gov",
+    "name": "Shane Mekeland",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15500"
+   }
+  ],
+  "27B": [
+   {
+    "email": "rep.bryan.lawrence@house.mn.gov",
+    "name": "Bryan Lawrence",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15626"
+   }
+  ],
+  "28A": [
+   {
+    "email": "rep.jimmy.gordon@house.mn.gov",
+    "name": "Jimmy Gordon",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15632"
+   }
+  ],
+  "28B": [
+   {
+    "email": "rep.max.rymer@house.mn.gov",
+    "name": "Max Rymer",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15643"
+   }
+  ],
+  "29A": [
+   {
+    "email": "rep.joe.mcdonald@house.mn.gov",
+    "name": "Joe McDonald",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15360"
+   }
+  ],
+  "29B": [
+   {
+    "email": "rep.marion.rarick@house.mn.gov",
+    "name": "Marion Rarick",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15409"
+   }
+  ],
+  "2A": [
+   {
+    "email": "rep.bidal.duran@house.mn.gov",
+    "name": "Bidal Duran",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15629"
+   }
+  ],
+  "2B": [
+   {
+    "email": "rep.matt.bliss@house.mn.gov",
+    "name": "Matt Bliss",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15458"
+   }
+  ],
+  "30A": [
+   {
+    "email": "rep.walter.hudson@house.mn.gov",
+    "name": "Walter Hudson",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15607"
+   }
+  ],
+  "30B": [
+   {
+    "email": "rep.paul.novotny@house.mn.gov",
+    "name": "Paul Novotny",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15536"
+   }
+  ],
+  "31A": [
+   {
+    "email": "rep.harry.niska@house.mn.gov",
+    "name": "Harry Niska",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15608"
+   }
+  ],
+  "31B": [
+   {
+    "email": "rep.peggy.scott@house.mn.gov",
+    "name": "Peggy Scott",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15314"
+   }
+  ],
+  "32A": [
+   {
+    "email": "rep.nolan.west@house.mn.gov",
+    "name": "Nolan West",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15476"
+   }
+  ],
+  "32B": [
+   {
+    "email": "rep.matt.norris@house.mn.gov",
+    "name": "Matt Norris",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15609"
+   }
+  ],
+  "33A": [
+   {
+    "email": "rep.patti.anderson@house.mn.gov",
+    "name": "Patti Anderson",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15610"
+   }
+  ],
+  "33B": [
+   {
+    "email": "rep.josiah.hill@house.mn.gov",
+    "name": "Josiah Hill",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15611"
+   }
+  ],
+  "34A": [
+   {
+    "email": "rep.danny.nadeau@house.mn.gov",
+    "name": "Danny Nadeau",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15612"
+   }
+  ],
+  "34B": [
+   {
+    "email": "rep.xp.lee@house.mn.gov",
+    "name": "Xp Lee",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15652"
+   }
+  ],
+  "35A": [
+   {
+    "email": "rep.zack.stephenson@house.mn.gov",
+    "name": "Zack Stephenson",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15507"
+   }
+  ],
+  "35B": [
+   {
+    "email": "rep.kari.rehrauer@house.mn.gov",
+    "name": "Kari Rehrauer",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15640"
+   }
+  ],
+  "36A": [
+   {
+    "email": "rep.elliott.engen@house.mn.gov",
+    "name": "Elliott Engen",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15613"
+   }
+  ],
+  "36B": [
+   {
+    "email": "rep.brion.curran@house.mn.gov",
+    "name": "Brion Curran",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15614"
+   }
+  ],
+  "37A": [
+   {
+    "email": "rep.kristin.robbins@house.mn.gov",
+    "name": "Kristin Robbins",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15504"
+   }
+  ],
+  "37B": [
+   {
+    "email": "rep.kristin.bahner@house.mn.gov",
+    "name": "Kristin Bahner",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15505"
+   }
+  ],
+  "38A": [
+   {
+    "email": "rep.huldah.momanyi-hiltsley@house.mn.gov",
+    "name": "Huldah Hiltsley",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15634"
+   }
+  ],
+  "38B": [
+   {
+    "email": "rep.samantha.vang@house.mn.gov",
+    "name": "Samantha Vang",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15510"
+   }
+  ],
+  "39A": [
+   {
+    "email": "rep.erin.koegel@house.mn.gov",
+    "name": "Erin Koegel",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15465"
+   }
+  ],
+  "39B": [
+   {
+    "email": "rep.sandra.feist@house.mn.gov",
+    "name": "Sandra Feist",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15547"
+   }
+  ],
+  "3A": [
+   {
+    "email": "rep.roger.skraba@house.mn.gov",
+    "name": "Roger Skraba",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15623"
+   }
+  ],
+  "3B": [
+   {
+    "email": "rep.natalie.zeleznikar@house.mn.gov",
+    "name": "Natalie Zeleznikar",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15624"
+   }
+  ],
+  "40A": [
+   {
+    "email": "rep.kelly.moller@house.mn.gov",
+    "name": "Kelly Moller",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15511"
+   }
+  ],
+  "40B": [
+   {
+    "email": "rep.david.gottfried@house.mn.gov",
+    "name": "David Gottfried",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15650"
+   }
+  ],
+  "41A": [
+   {
+    "email": "rep.wayne.johnson@house.mn.gov",
+    "name": "Wayne Johnson",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15637"
+   }
+  ],
+  "41B": [
+   {
+    "email": "rep.tom.dippel@house.mn.gov",
+    "name": "Tom Dippel",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15628"
+   }
+  ],
+  "42A": [
+   {
+    "email": "rep.ned.carroll@house.mn.gov",
+    "name": "Ned Carroll",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15617"
+   }
+  ],
+  "42B": [
+   {
+    "email": "rep.ginny.klevorn@house.mn.gov",
+    "name": "Ginny Klevorn",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.ginnyklevorn.com/"
+   }
+  ],
+  "43A": [
+   {
+    "email": "rep.cedrick.frazier@house.mn.gov",
+    "name": "Cedrick Frazier",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15548"
+   }
+  ],
+  "43B": [
+   {
+    "email": "rep.mike.freiberg@house.mn.gov",
+    "name": "Mike Freiberg",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15398"
+   }
+  ],
+  "44A": [
+   {
+    "email": "rep.peter.fischer@house.mn.gov",
+    "name": "Peter Fischer",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15396"
+   }
+  ],
+  "44B": [
+   {
+    "email": "rep.leon.lillie@house.mn.gov",
+    "name": "Leon Lillie",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/12269"
+   }
+  ],
+  "45A": [
+   {
+    "email": "rep.andrew.myers@house.mn.gov",
+    "name": "Andrew Myers",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15618"
+   }
+  ],
+  "45B": [
+   {
+    "email": "rep.patty.acomb@house.mn.gov",
+    "name": "Patty Acomb",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15513"
+   }
+  ],
+  "46A": [
+   {
+    "email": "rep.larry.kraft@house.mn.gov",
+    "name": "Larry Kraft",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15619"
+   }
+  ],
+  "46B": [
+   {
+    "email": "rep.cheryl.youakim@house.mn.gov",
+    "name": "Cheryl Youakim",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15450"
+   }
+  ],
+  "47A": [
+   {
+    "email": "rep.shelley.buck@house.mn.gov",
+    "name": "Shelley Buck",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15655"
+   }
+  ],
+  "47B": [
+   {
+    "email": "rep.ethan.cha@house.mn.gov",
+    "name": "Ethan Cha",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15621"
+   }
+  ],
+  "48A": [
+   {
+    "email": "rep.jim.nash@house.mn.gov",
+    "name": "Jim Nash",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15441"
+   }
+  ],
+  "48B": [
+   {
+    "email": "rep.lucy.rehm@house.mn.gov",
+    "name": "Lucy Rehm",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15622"
+   }
+  ],
+  "49A": [
+   {
+    "email": "rep.alex.falconer@house.mn.gov",
+    "name": "Alex Falconer",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15630"
+   }
+  ],
+  "49B": [
+   {
+    "email": "rep.carlie.kotyza-witthuhn@house.mn.gov",
+    "name": "Carlie Kotyza-Witthuhn",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15515"
+   }
+  ],
+  "4A": [
+   {
+    "email": "rep.heather.keeler@house.mn.gov",
+    "name": "Heather Keeler",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15539"
+   }
+  ],
+  "4B": [
+   {
+    "email": "rep.jim.joy@house.mn.gov",
+    "name": "Jim Joy",
+    "party": "Republican",
+    "url": "https://www.house.leg.state.mn.us/members/profile/15591"
+   }
+  ],
+  "50A": [
+   {
+    "email": "rep.julie.greene@house.mn.gov",
+    "name": "Julie Greene",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15633"
+   }
+  ],
+  "50B": [
+   {
+    "email": "rep.steve.elkins@house.mn.gov",
+    "name": "Steve Elkins",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15517"
+   }
+  ],
+  "51A": [
+   {
+    "email": "rep.michael.howard@house.mn.gov",
+    "name": "Mike Howard",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15518"
+   }
+  ],
+  "51B": [
+   {
+    "email": "rep.nathan.coulter@house.mn.gov",
+    "name": "Nathan Coulter",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15567"
+   }
+  ],
+  "52A": [
+   {
+    "email": "rep.liz.reyer@house.mn.gov",
+    "name": "Liz Reyer",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.leg.state.mn.us/members/profile/15549"
+   }
+  ],
+  "52B": [
+   {
+    "email": "rep.bianca.virnig@house.mn.gov",
+    "name": "Bianca Virnig",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15625"
+   }
+  ],
+  "53A": [
+   {
+    "email": "rep.mary.frances.clardy@house.mn.gov",
+    "name": "Mary Clardy",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15568"
+   }
+  ],
+  "53B": [
+   {
+    "email": "rep.rick.hansen@house.mn.gov",
+    "name": "Rick Hansen",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/12282"
+   }
+  ],
+  "54A": [
+   {
+    "email": "rep.brad.tabke@house.mn.gov",
+    "name": "Brad Tabke",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15523"
+   }
+  ],
+  "54B": [
+   {
+    "email": "rep.ben.bakeberg@house.mn.gov",
+    "name": "Ben Bakeberg",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15569"
+   }
+  ],
+  "55A": [
+   {
+    "email": "rep.jessica.hanson@house.mn.gov",
+    "name": "Jess Hanson",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15563"
+   }
+  ],
+  "55B": [
+   {
+    "email": "rep.kaela.berg@house.mn.gov",
+    "name": "Kaela Berg",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15550"
+   }
+  ],
+  "56A": [
+   {
+    "email": "rep.robert.bierman@house.mn.gov",
+    "name": "Robert Bierman",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15526"
+   }
+  ],
+  "56B": [
+   {
+    "email": "rep.john.huot@house.mn.gov",
+    "name": "John Huot",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15527"
+   }
+  ],
+  "57A": [
+   {
+    "email": "rep.jon.koznick@house.mn.gov",
+    "name": "Jon Koznick",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15436"
+   }
+  ],
+  "57B": [
+   {
+    "email": "rep.jeff.witte@house.mn.gov",
+    "name": "Jeff Witte",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15570"
+   }
+  ],
+  "58A": [
+   {
+    "email": "rep.kristi.pursell@house.mn.gov",
+    "name": "Kristi Pursell",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15571"
+   }
+  ],
+  "58B": [
+   {
+    "email": "rep.drew.roach@house.mn.gov",
+    "name": "Drew Roach",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15642"
+   }
+  ],
+  "59A": [
+   {
+    "email": "rep.fue.lee@house.mn.gov",
+    "name": "Fue Lee",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15468"
+   }
+  ],
+  "59B": [
+   {
+    "email": "rep.esther.agbaje@house.mn.gov",
+    "name": "Esther Agbaje",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15551"
+   }
+  ],
+  "5A": [
+   {
+    "email": "rep.krista.knudsen@house.mn.gov",
+    "name": "Krista Knudsen",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15592"
+   }
+  ],
+  "5B": [
+   {
+    "email": "rep.mike.wiener@house.mn.gov",
+    "name": "Mike Wiener",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15593"
+   }
+  ],
+  "60A": [
+   {
+    "email": "rep.sydney.jordan@house.mn.gov",
+    "name": "Sydney Jordan",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15535"
+   }
+  ],
+  "60B": [
+   {
+    "email": "rep.mohamud.noor@house.mn.gov",
+    "name": "Mohamud Noor",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15528"
+   }
+  ],
+  "61A": [
+   {
+    "email": "rep.katie.jones@house.mn.gov",
+    "name": "Katie Jones",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15638"
+   }
+  ],
+  "61B": [
+   {
+    "email": "rep.jamie.long@house.mn.gov",
+    "name": "Jamie Long",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15529"
+   }
+  ],
+  "62A": [
+   {
+    "email": "rep.aisha.gomez@house.mn.gov",
+    "name": "Aisha Gomez",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15531"
+   }
+  ],
+  "62B": [
+   {
+    "email": "rep.anquam.mahamoud@house.mn.gov",
+    "name": "Anquam Mahamoud",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15639"
+   }
+  ],
+  "63A": [
+   {
+    "email": "rep.samantha.sencer-mura@house.mn.gov",
+    "name": "Samantha Sencer-Mura",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15572"
+   }
+  ],
+  "63B": [
+   {
+    "email": "rep.emma.greenman@house.mn.gov",
+    "name": "Emma Greenman",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15552"
+   }
+  ],
+  "64A": [
+   {
+    "email": "rep.meg.luger-nikolai@house.mn.gov",
+    "name": "Meg Luger-Nikolai",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15654"
+   }
+  ],
+  "64B": [
+   {
+    "email": "rep.dave.pinto@house.mn.gov",
+    "name": "Dave Pinto",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15444"
+   }
+  ],
+  "65A": [
+   {
+    "email": "rep.samakab.hussein@house.mn.gov",
+    "name": "Samakab Hussein",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15573"
+   }
+  ],
+  "65B": [
+   {
+    "email": "rep.maria.isa.perez-vega@house.mn.gov",
+    "name": "Mar\u00eda Isa P\u00e9rez-Vega",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15574"
+   }
+  ],
+  "66A": [
+   {
+    "email": "rep.leigh.finke@house.mn.gov",
+    "name": "Leigh Finke",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15575"
+   }
+  ],
+  "66B": [
+   {
+    "email": "rep.athena.hollins@house.mn.gov",
+    "name": "Athena Hollins",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.leg.state.mn.us/members/profile/15553"
+   }
+  ],
+  "67A": [
+   {
+    "email": "rep.liz.lee@house.mn.gov",
+    "name": "Liz Lee",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15576"
+   }
+  ],
+  "67B": [
+   {
+    "email": "rep.jay.xiong@house.mn.gov",
+    "name": "Jay Xiong",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15533"
+   }
+  ],
+  "6A": [
+   {
+    "email": "rep.ben.davis@house.mn.gov",
+    "name": "Ben Davis",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15594"
+   }
+  ],
+  "6B": [
+   {
+    "email": "rep.josh.heintzeman@house.mn.gov",
+    "name": "Josh Heintzeman",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15435"
+   }
+  ],
+  "7A": [
+   {
+    "email": "rep.spencer.igo@house.mn.gov",
+    "name": "Spencer Igo",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15540"
+   }
+  ],
+  "7B": [
+   {
+    "email": "rep.cal.warwas@house.mn.gov",
+    "name": "Cal Warwas",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15648"
+   }
+  ],
+  "8A": [
+   {
+    "email": "rep.pete.johnson@house.mn.gov",
+    "name": "Pete Johnson",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15636"
+   }
+  ],
+  "8B": [
+   {
+    "email": "rep.alicia.kozlowski@house.mn.gov",
+    "name": "Liish Kozlowski",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15595"
+   }
+  ],
+  "9A": [
+   {
+    "email": "rep.jeff.backer@house.mn.gov",
+    "name": "Jeff Backer",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15428"
+   }
+  ],
+  "9B": [
+   {
+    "email": "rep.tom.murphy@house.mn.gov",
+    "name": "Tom Murphy",
+    "party": "Republican",
+    "url": "https://www.house.mn.gov/members/profile/15596"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/mn.csv"
+ },
+ "state": "MN",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "sen.mark.johnson@senate.mn",
+    "name": "Mark Johnson",
+    "party": "Republican",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1217"
+   }
+  ],
+  "10": [
+   {
+    "email": "sen.nathan.wesenberg@mnsenate.gov",
+    "name": "Nathan Wesenberg",
+    "party": "Republican",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1256"
+   }
+  ],
+  "11": [
+   {
+    "email": "sen.jason.rarick@mnsenate.gov",
+    "name": "Jason Rarick",
+    "party": "Republican",
+    "url": "https://www.mnsenaterepublicans.com/jason-rarick/"
+   }
+  ],
+  "12": [
+   {
+    "email": "sen.torrey.westrom@mnsenate.gov",
+    "name": "Torrey Westrom",
+    "party": "Republican",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1197"
+   }
+  ],
+  "13": [
+   {
+    "email": "sen.jeff.howe@senate.mn",
+    "name": "Jeff Howe",
+    "party": "Republican",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1239"
+   }
+  ],
+  "14": [
+   {
+    "email": "sen.aric.putnam@senate.mn",
+    "name": "Aric Putnam",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1249"
+   }
+  ],
+  "15": [
+   {
+    "email": "sen.gary.dahms@mnsenate.gov",
+    "name": "Gary Dahms",
+    "party": "Republican",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1174"
+   }
+  ],
+  "16": [
+   {
+    "email": "sen.andrew.lang@senate.mn",
+    "name": "Andrew Lang",
+    "party": "Republican",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1223"
+   }
+  ],
+  "17": [
+   {
+    "email": "sen.glenn.gruenhagen@senate.mn",
+    "name": "Glenn Gruenhagen",
+    "party": "Republican",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1257"
+   }
+  ],
+  "18": [
+   {
+    "email": "sen.nick.frentz@senate.mn",
+    "name": "Nick Frentz",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1224"
+   }
+  ],
+  "19": [
+   {
+    "email": "sen.john.jasinski@senate.mn",
+    "name": "John Jasinski",
+    "party": "Republican",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1227"
+   }
+  ],
+  "2": [
+   {
+    "email": "sen.steve.green@mnsenate.gov",
+    "name": "Steve Green",
+    "party": "Republican",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1251"
+   }
+  ],
+  "20": [
+   {
+    "email": "sen.steve.drazkowski@senate.mn",
+    "name": "Steve Drazkowski",
+    "party": "Republican",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1258"
+   }
+  ],
+  "21": [
+   {
+    "email": "sen.bill.weber@senate.mn",
+    "name": "Bill Weber",
+    "party": "Republican",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1199"
+   }
+  ],
+  "22": [
+   {
+    "email": "sen.rich.draheim@mnsenate.gov",
+    "name": "Rich Draheim",
+    "party": "Republican",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1225"
+   }
+  ],
+  "23": [
+   {
+    "email": "sen.gene.dornink@mnsenate.gov",
+    "name": "Gene Dornink",
+    "party": "Republican",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1250"
+   }
+  ],
+  "24": [
+   {
+    "email": "sen.carla.nelson@senate.mn",
+    "name": "Carla Nelson",
+    "party": "Republican",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1178"
+   }
+  ],
+  "25": [
+   {
+    "email": "sen.liz.boldon@senate.mn",
+    "name": "Liz Boldon",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://lizboldon.com/"
+   }
+  ],
+  "26": [
+   {
+    "email": "sen.jeremy.miller@mnsenate.gov",
+    "name": "Jeremy Miller",
+    "party": "Republican",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1179"
+   }
+  ],
+  "27": [
+   {
+    "email": "sen.andrew.mathews@senate.mn",
+    "name": "Andrew Mathews",
+    "party": "Republican",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1222"
+   }
+  ],
+  "28": [
+   {
+    "email": "sen.mark.koran@senate.mn",
+    "name": "Mark Koran",
+    "party": "Republican",
+    "url": "https://www.markkoranmn.com/"
+   }
+  ],
+  "29": [
+   {
+    "email": "sen.michael.holmstrom@mnsenate.gov",
+    "name": "Mike Holmstrom",
+    "party": "Republican",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1277"
+   }
+  ],
+  "3": [
+   {
+    "email": "sen.grant.hauschild@senate.mn",
+    "name": "Grant Hauschild",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1252"
+   }
+  ],
+  "30": [
+   {
+    "email": "sen.eric.lucero@senate.mn",
+    "name": "Eric Lucero",
+    "party": "Republican",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1260"
+   }
+  ],
+  "31": [
+   {
+    "email": "sen.cal.bahr@senate.mn",
+    "name": "Cal Bahr",
+    "party": "Republican",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1261"
+   }
+  ],
+  "32": [
+   {
+    "email": "sen.michael.kreun@senate.mn",
+    "name": "Michael Kreun",
+    "party": "Republican",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1262"
+   }
+  ],
+  "33": [
+   {
+    "email": "sen.karin.housley@senate.mn",
+    "name": "Karin Housley",
+    "party": "Republican",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1214"
+   }
+  ],
+  "34": [
+   {
+    "email": "sen.john.hoffman@senate.mn",
+    "name": "John Hoffman",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1205"
+   }
+  ],
+  "35": [
+   {
+    "email": "sen.jim.abeler@senate.mn",
+    "name": "Jim Abeler",
+    "party": "Republican",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1216"
+   }
+  ],
+  "36": [
+   {
+    "email": "sen.heather.gustafson@senate.mn",
+    "name": "Heather Gustafson",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1263"
+   }
+  ],
+  "37": [
+   {
+    "email": "sen.warren.limmer@senate.mn",
+    "name": "Warren Limmer",
+    "party": "Republican",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1032"
+   }
+  ],
+  "38": [
+   {
+    "email": "sen.susan.pha@senate.mn",
+    "name": "Susan Pha",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1264"
+   }
+  ],
+  "39": [
+   {
+    "email": "sen.mary.kunesh@senate.mn",
+    "name": "Mary Kunesh",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1242"
+   }
+  ],
+  "4": [
+   {
+    "email": "sen.robert.kupec@senate.mn",
+    "name": "Rob Kupec",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1253"
+   }
+  ],
+  "40": [
+   {
+    "email": "sen.john.mcguire@senate.mn",
+    "name": "John Marty",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.johnmarty.org/"
+   }
+  ],
+  "41": [
+   {
+    "email": "sen.judy.seeberger@senate.mn",
+    "name": "Judy Seeberger",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1265"
+   }
+  ],
+  "42": [
+   {
+    "email": "sen.bwestlin@senate.mn",
+    "name": "Bonnie Westlin",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1266"
+   }
+  ],
+  "43": [
+   {
+    "email": "sen.ann.rest@senate.mn",
+    "name": "Ann Rest",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1051"
+   }
+  ],
+  "44": [
+   {
+    "email": "sen.tou.xiong@senate.mn",
+    "name": "Tou Xiong",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1267"
+   }
+  ],
+  "45": [
+   {
+    "email": "sen.ann.johnson.stewart@senate.mn",
+    "name": "Ann Johnson Stewart",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1243"
+   }
+  ],
+  "46": [
+   {
+    "email": "sen.ron.latz@senate.mn",
+    "name": "Ron Latz",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1102"
+   }
+  ],
+  "47": [
+   {
+    "email": "sen.amanda.hemmingsen.jaeger@mnsenate.gov",
+    "name": "Amanda Hemmingsen-Jaeger",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.house.mn.gov/members/profile/15620"
+   }
+  ],
+  "48": [
+   {
+    "email": "sen.julia.coleman@mnsenate.gov",
+    "name": "Julia Coleman",
+    "party": "Republican",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1244"
+   }
+  ],
+  "49": [
+   {
+    "email": "sen.steve.cwodzinski@senate.mn",
+    "name": "Steve Cwodzinski",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1234"
+   }
+  ],
+  "5": [
+   {
+    "email": "sen.paul.utke@mnsenate.gov",
+    "name": "Paul Utke",
+    "party": "Republican",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1218"
+   }
+  ],
+  "50": [
+   {
+    "email": "sen.alice.mann@senate.mn",
+    "name": "Alice Mann",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1270"
+   }
+  ],
+  "51": [
+   {
+    "email": "sen.melissa.wiklund@senate.mn",
+    "name": "Melissa Wiklund",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1209"
+   }
+  ],
+  "52": [
+   {
+    "email": "sen.jim.carlson@senate.mn",
+    "name": "Jim Carlson",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1140"
+   }
+  ],
+  "53": [
+   {
+    "email": "sen.matt.klein@senate.mn",
+    "name": "Matt Klein",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1235"
+   }
+  ],
+  "54": [
+   {
+    "email": "sen.eric.pratt@mnsenate.gov",
+    "name": "Eric Pratt",
+    "party": "Republican",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1210"
+   }
+  ],
+  "55": [
+   {
+    "email": "sen.lindsey.port@senate.mn",
+    "name": "Lindsey Port",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1245"
+   }
+  ],
+  "56": [
+   {
+    "email": "sen.erin.mayequade@senate.mn",
+    "name": "Erin Maye Quade",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://erinmayequade.com/"
+   }
+  ],
+  "57": [
+   {
+    "email": "sen.zach.duckworth@senate.mn",
+    "name": "Zach Duckworth",
+    "party": "Republican",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1246"
+   }
+  ],
+  "58": [
+   {
+    "email": "sen.bill.lieske@senate.mn",
+    "name": "Bill Lieske",
+    "party": "Republican",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1272"
+   }
+  ],
+  "59": [
+   {
+    "email": "sen.bobby.champion@senate.mn",
+    "name": "Bobby Joe Champion",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1212"
+   }
+  ],
+  "6": [
+   {
+    "email": "sen.keri.heintzeman@mnsenate.gov",
+    "name": "Keri Heintzeman",
+    "party": "Republican",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1276"
+   }
+  ],
+  "60": [
+   {
+    "email": "sen.doron.clark@senate.mn",
+    "name": "Doron Clark",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1275"
+   }
+  ],
+  "61": [
+   {
+    "email": "sen.scott.dibble@senate.mn",
+    "name": "Scott Dibble",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1010"
+   }
+  ],
+  "62": [
+   {
+    "email": "sen.omar.fateh@senate.mn",
+    "name": "Omar Fateh",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1247"
+   }
+  ],
+  "63": [
+   {
+    "email": "sen.zaynab.mohamed@senate.mn",
+    "name": "Zaynab Mohamed",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1273"
+   }
+  ],
+  "64": [
+   {
+    "email": "sen.erin.murphy@senate.mn",
+    "name": "Erin Murphy",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1248"
+   }
+  ],
+  "65": [
+   {
+    "email": "sen.sandra.parry@senate.mn",
+    "name": "Sandy Pappas",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1046"
+   }
+  ],
+  "66": [
+   {
+    "email": "sen.clare.oumou.verbeten@senate.mn",
+    "name": "Clare Oumou Verbeten",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1274"
+   }
+  ],
+  "67": [
+   {
+    "email": "sen.foung.hawj@senate.mn",
+    "name": "Foung Hawj",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1213"
+   }
+  ],
+  "7": [
+   {
+    "email": "sen.robert.farnsworth@senate.mn",
+    "name": "Rob Farnsworth",
+    "party": "Republican",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1254"
+   }
+  ],
+  "8": [
+   {
+    "email": "sen.jennifer.mcewen@senate.mn",
+    "name": "Jen McEwen",
+    "party": "Democratic-Farmer-Labor",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1241"
+   }
+  ],
+  "9": [
+   {
+    "email": "sen.jordan.rasmusson@senate.mn",
+    "name": "Jordan Rasmusson",
+    "party": "Republican",
+    "url": "https://www.senate.mn/members/member_bio.html?mem_id=1255"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

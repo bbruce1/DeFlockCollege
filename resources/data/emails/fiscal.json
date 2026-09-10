@@ -1,0 +1,602 @@
+[
+  {
+    "id": "fiscal-001",
+    "angle": "fiscal",
+    "subject": "A question about which budget line funds the readers",
+    "body": "Dear {{officialName}},\n\nThe automated license plate readers near {{shortName}} look to me like a recurring charge rather than a purchase that ends once the hardware is up. That is the part I find hard to settle in my head, because a standing obligation and a one-time buy sit very differently in how {{city}} plans a budget.\n\nI have not been able to work out which line of the {{role}} budget carries the spending, or whether it is recorded under equipment or under services. I would be grateful to know. A camera the public owns and a camera the public rents indefinitely are not the same thing, and only one of them keeps asking for money.\n\nI am one student writing on my own, and what I would like is for the readers around campus to come down and for no new ones to go up. Could you tell me where the cost sits, and whether you would support ending it? Thank you for reading."
+  },
+  {
+    "id": "fiscal-002",
+    "angle": "fiscal",
+    "subject": "Hoping for a renewal vote before the contract rolls over",
+    "body": "Dear {{officialName}},\n\nWhat worries me most about surveillance contracts is how quietly they renew. No vote is needed, so the one moment a public body still has leverage over price and scope passes without anyone in the room noticing.\n\nI would like to ask the {{role}} to put the plate reader agreement covering the area around {{school}} on an agenda before it renews, with the full recurring cost printed in the packet. If the spending holds up, saying so in public costs nothing. If it does not, the renewal date is the cheapest way out anyone will get.\n\nMy own hope, as a student here, is that the readers near campus are removed and that no further ones are installed. I understand you may weigh this differently. Would you be willing to call for a public vote rather than letting the term extend on its own? I would be grateful for a reply."
+  },
+  {
+    "id": "fiscal-003",
+    "angle": "fiscal",
+    "subject": "What the reader money might have bought instead",
+    "body": "Dear {{officialName}},\n\nEvery recurring contract crowds out something else, and that is the thing I keep turning over. Money committed to automated license plate readers around {{shortName}} is money not going to street lighting or to the parts of public safety residents actually ask for. I am not claiming the tradeoff is obvious. What worries me is that I cannot find any sign it was written down.\n\nWhen the {{role}} approved this spending, was there a comparison against other uses of the same funds? Was there an estimate of what the program would need to deliver to be worth its annual cost?\n\nAs a student here I would like the readers near campus removed and no new ones added. Short of that, I would be glad of a public accounting of what the subscription costs and what was set aside to pay for it. Could you tell me your view?"
+  },
+  {
+    "id": "fiscal-004",
+    "angle": "fiscal",
+    "subject": "A question about renting cameras rather than owning them",
+    "body": "Dear {{officialName}},\n\nThere is a real accounting difference between buying equipment and subscribing to a service that bills forever, and plate readers sold to cities are usually the second kind. The hardware often stays with the vendor, the records live on the vendor's systems, and payments continue for as long as the cameras do.\n\nIf that is how the arrangement covering {{city}} is built, then the public is renting cameras rather than owning them, and the billing has no natural end. That is what unsettles me about it.\n\nCould you confirm how the contract is structured and who holds the equipment when the term ends? I am a student here, and I would also like to see the readers around campus removed and none installed in their place. If there is a case for keeping them that I have missed, I would honestly like to hear it. Thank you for considering this."
+  },
+  {
+    "id": "fiscal-005",
+    "angle": "fiscal",
+    "subject": "A question about what each reader costs per year",
+    "body": "Dear {{officialName}},\n\nOne question, and I think it has a short answer. What does {{city}} pay per camera each year for the automated license plate readers operating near {{school}}, and which fund does that payment come from?\n\nI ask because mapped data shows {{readersWithinMile}} readers within a mile of campus. Whatever the unit cost turns out to be, it is being multiplied by a number residents can count for themselves, and none of us can find the total. Not being able to find it is the part that bothers me.\n\nAs one student writing for myself, I think the right outcome is removal of the readers around campus and a commitment not to add more. Even if you disagree with that, the figure ought to be public. Would you be willing to see it published, and would you tell me where you stand?"
+  },
+  {
+    "id": "fiscal-006",
+    "angle": "fiscal",
+    "subject": "What happens to the cost when the grant runs out",
+    "body": "Dear {{officialName}},\n\nSurveillance equipment is often introduced on outside money and then absorbed into the general fund once that money is gone. The first year looks free. The later years are the ones I worry about.\n\nIf any part of the plate reader deployment around {{shortName}} was funded by a grant, I would like to know when that funding expires and what the plan is for the cost afterward. A program that only works while somebody else is paying seems to me like one the {{role}} should be ready to let go.\n\nLetting it go is what I am asking for, as a student here: take the readers near campus out, and approve no replacements. If you believe the ongoing cost is worth carrying locally, I would genuinely like to hear the reasoning, because I have not found it anywhere. Thank you for reading this."
+  },
+  {
+    "id": "fiscal-007",
+    "angle": "fiscal",
+    "subject": "A question about how the reader contract was awarded",
+    "body": "Dear {{officialName}},\n\nProcurement rules exist because sole-source purchasing tends to cost more than it should. Surveillance vendors are unusually good at arriving with a pilot and a friendly opening price, then turning both into a contract that becomes the default before the market is ever tested. That pattern is what makes me uneasy here.\n\nWas the agreement covering the readers around {{school}} competitively bid, or awarded without competition? If the second, what justification was recorded? Those are ordinary public records, and I would be grateful for a pointer to them.\n\nI should be plain about what I want, which is that the readers near campus come down and that no new ones go up. I am one student and I know that is not the whole of the argument. Could you tell me how the contract was awarded, and whether you would support ending it at the next chance?"
+  },
+  {
+    "id": "fiscal-008",
+    "angle": "fiscal",
+    "subject": "A worry about the storage bill behind the cameras",
+    "body": "Dear {{officialName}},\n\nCameras are the visible part of this expense. Retention is the part I cannot see at all. Every plate photographed near {{shortName}} becomes a record that has to be stored and kept retrievable, and that cost tracks the length of the retention period rather than anything the system solves.\n\nDoes the {{role}} know what share of the contract covers storage and access rather than hardware? Was retention length ever weighed as a cost decision as well as a policy one?\n\nSpeaking as a student here, I would rather the question became moot. Removing the readers around campus and declining to install more would end both halves of the bill at once. If that is further than you would go, I would still be grateful to see the breakdown published. Which of those could you support? A short reply would mean a lot."
+  },
+  {
+    "id": "fiscal-009",
+    "angle": "fiscal",
+    "subject": "A concern about price increases at each renewal",
+    "body": "Dear {{officialName}},\n\nThe cheapest year of a surveillance subscription is usually the first one. Once officers have built the tool into their routine, the vendor's position improves, and renewal pricing tends to follow. I have no figures for this city, which is exactly why I am writing.\n\nHas the {{role}} looked at how the cost of the plate readers around {{school}} has moved across terms? Is there a cap on increases in the agreement, or does the price reset to whatever the vendor proposes?\n\nWhatever the answer, it will shape what {{city}} pays for years without another vote being taken, and that is what troubles me. As a student here I would like the readers near campus removed and no further ones installed, partly because that is the only version of this where the cost is knowable in advance. Would you support putting the renewal terms before the public?"
+  },
+  {
+    "id": "fiscal-010",
+    "angle": "fiscal",
+    "subject": "Asking whether you would sponsor a cost review",
+    "body": "Dear {{officialName}},\n\nThis is a procedural request more than an argument. Would you consider sponsoring an agenda item asking the {{role}} to review the full recurring cost of the automated license plate readers near {{school}} before any further payment is authorized?\n\nThe review need not be elaborate. What is paid, to whom, from which fund, on what schedule, and how long the commitment runs. Residents of {{city}} can weigh the program once those things are on paper, and I do not think we can before then.\n\nI am a student here and my own position is that the readers around campus should be removed and none added. What worries me is that the argument keeps happening without numbers. An honest cost review would fix that whichever way it lands. Would you be willing to put it on the calendar, and could you let me know either way? Thank you."
+  },
+  {
+    "id": "fiscal-011",
+    "angle": "fiscal",
+    "subject": "Wondering what the council saw before it voted",
+    "body": "Dear {{officialName}},\n\nApprovals for surveillance technology sometimes arrive as a consent item with a memo attached and no discussion of price. I do not know whether that is what happened here, and I would like to.\n\nWhen the plate readers near {{shortName}} were authorized, did members of the {{role}} have the recurring cost in front of them, and was it discussed on the record? A yes would reassure me a good deal. Anything else would explain why residents cannot find the figure now.\n\nEither way, I am a student asking that the readers around campus be removed and that no additional ones be approved. Public money spent on watching people ought to clear a higher bar than a line in a memo, and that is the part I feel most strongly about. Could you tell me what the body actually saw before the vote? I would be grateful for whatever you can share."
+  },
+  {
+    "id": "fiscal-012",
+    "angle": "fiscal",
+    "subject": "A question about what leaving the contract would cost",
+    "body": "Dear {{officialName}},\n\nOne feature of subscription surveillance rarely comes up at approval time, and it is the one I find most worrying: what it costs to stop. If years of records sit on a vendor's servers and a department's workflow assumes the tool, cancelling becomes expensive by design.\n\nI would like to know whether anyone has costed the exit from the plate reader arrangement covering {{city}}, and whether that figure was in front of the people who signed.\n\nThe request itself is simple, and I make it as one student. Remove the readers around {{school}} and install no new ones, before the lock-in deepens further than it already has. Would you be willing to ask staff for the termination terms and share what comes back? If there is a reason the exit is cheaper than I fear, I would be glad to be corrected."
+  },
+  {
+    "id": "fiscal-013",
+    "angle": "fiscal",
+    "subject": "How the readers were classified in the accounts",
+    "body": "Dear {{officialName}},\n\nIf {{city}} buys a vehicle, the money is spent once and an asset appears on the books. Subscribing to a plate reader network means the money is spent every year and the public owns nothing at the end. Both can be defensible. What bothers me is that they can be presented to the {{role}} in the same way.\n\nMy question is whether the readers near {{shortName}} were approved as a capital item or as an ongoing service, and whether the long-run total was ever stated as one figure.\n\nWhat I want is straightforward, and I say it as a student here: remove the readers around campus, and commit to installing none in future. If we do not agree on that, I would still like the accounting treatment explained. Which of those questions can you answer? Thank you for taking the time."
+  },
+  {
+    "id": "fiscal-014",
+    "angle": "fiscal",
+    "subject": "The staff hours behind the reader program worry me",
+    "body": "Dear {{officialName}},\n\nThe subscription is only one column of the ledger. Someone has to review alerts, respond to them, maintain the mounts, and answer records requests about the system. That work is paid out of the same budget as everything else the department does, and none of it shows up on the vendor's invoice.\n\nHas the {{role}} ever asked for a cost estimate that includes officer and staff hours rather than the contract price alone? Without one, the program looks cheaper than I suspect it is.\n\nI am a student at this campus and I would like the readers around {{school}} taken down with no new ones approved, which would return those hours to work residents have actually asked for. If you see it differently, would you at least push for the labor cost to be quantified and published? I would be grateful to know your thinking."
+  },
+  {
+    "id": "fiscal-015",
+    "angle": "fiscal",
+    "subject": "Asking how you plan to vote on renewal",
+    "body": "Dear {{officialName}},\n\nA short letter with one request. As {{officialTitle}}, you will at some point be asked to approve continued payment for the automated license plate readers operating around {{shortName}}, and I would like to know now how you are leaning.\n\nThe program bills continuously against a budget with more calls on it than money. Mapped records show {{readersWithinMile}} readers within a mile of campus and {{readersInState}} across {{state}}, which is a great deal of hardware for a service residents were never asked to price. That gap is what prompted me to write.\n\nI am a student here, and my ask is that the ones near campus be removed and none added. A plain yes or no from you would be more useful to me than a briefing. Where do you land? Thank you for reading, whichever way you answer."
+  },
+  {
+    "id": "fiscal-016",
+    "angle": "fiscal",
+    "subject": "Would you publish what the reader contract costs",
+    "body": "Dear {{officialName}},\n\nTransparency here would cost almost nothing. The contract for the plate readers covering {{city}} already exists as a document, and posting it alongside the annual amount paid would take an afternoon.\n\nRight now residents have to file records requests to learn what a routine budget line costs them. For spending approved in public and renewed in public, that strikes me as a strange arrangement, and it makes the program harder to judge than it needs to be.\n\nI am asking for two things as a student here. Publish the cost, and then remove the readers around {{school}} without installing any more. The first is housekeeping. The second is the one I care about. If you can support either, I would like to know which, and if you support neither, I would still be glad to hear why."
+  },
+  {
+    "id": "fiscal-017",
+    "angle": "fiscal",
+    "subject": "Would you support an independent look at the cost",
+    "body": "Dear {{officialName}},\n\nAudits are normally saved for programs that are large or contested. This one is both in its way, and it has the additional quality of being nearly invisible in the budget documents residents can actually read. That invisibility is what worries me.\n\nWould you support asking the auditor, or whichever office in {{city}} does that work, to report on the total spent on automated license plate readers so far and the amount committed going forward? No conclusions needed. Just the figures, in one place.\n\nI should say that my own preference is not neutral. I am a student here, and I think the readers around {{shortName}} should be removed with no further ones installed. An audit would at least let the {{role}} make that call with the numbers in hand. Could I ask whether you would back one?"
+  },
+  {
+    "id": "fiscal-018",
+    "angle": "fiscal",
+    "subject": "A single evening's vote that keeps billing every year",
+    "body": "Dear {{officialName}},\n\nDecisions made in one evening can bind a budget for a decade. Plate reader agreements are a clean example, because the vote happens once and the invoice arrives forever, and the people who approved it are rarely the ones still paying.\n\nI would like the {{role}} to treat the arrangement covering the area around {{school}} as what it seems to be, which is a standing subscription competing every year with everything else {{city}} funds. My sense is that framing changes how people vote, and the current framing is why I am writing.\n\nThe outcome I hope for, as a student here, is removal of the readers near campus and a commitment against new installations. If that is not where you are, I would like to understand what return you believe the recurring cost buys. Would you set that out for me? I would read it carefully."
+  },
+  {
+    "id": "fiscal-019",
+    "angle": "fiscal",
+    "subject": "Asking for the total the city has committed",
+    "body": "Dear {{officialName}},\n\nAsking for a running total should not be hard, and the fact that it seems to be is part of what concerns me. Across all departments and funding sources, what has {{city}} committed to automated license plate readers, counting the term of every current agreement?\n\nI ask because individual approvals are small enough to pass without much notice, while the aggregate is what a budget actually feels. Mapped data lists {{readersInState}} readers across {{state}}, so this is plainly not a small line of business for the vendors involved.\n\nAs a student here, what I would like from the {{role}} is removal of the readers around {{shortName}} and no new installations. What I would like from you is the total, and your honest view on whether it has been worth it. Could you send me both? Thank you for your time."
+  },
+  {
+    "id": "fiscal-020",
+    "angle": "fiscal",
+    "subject": "Who pays when a camera needs replacing",
+    "body": "Dear {{officialName}},\n\nHardware fails, and outdoor hardware fails faster. Which party carries that cost is a term of the contract, and I think it is worth knowing before the next replacement cycle arrives.\n\nUnder the agreement covering the readers near {{school}}, does {{city}} pay for repair and replacement, or does the vendor absorb it? If the city pays, there is a second recurring expense sitting behind the first, and it ought to appear under its own heading rather than as an afterthought. That hidden quality is what troubles me.\n\nI am a student here, and I am asking that the readers around campus be removed and that none be installed to replace them, which settles the maintenance question for good. Short of that, would you find out how repair costs are allocated and tell me what you learn? I would be grateful."
+  },
+  {
+    "id": "fiscal-021",
+    "angle": "fiscal",
+    "subject": "The pilot that seems to have become permanent",
+    "body": "Dear {{officialName}},\n\nPilots are supposed to end in a decision. My worry is that this one ended in an invoice, and that the evaluation everyone promises at the start was never written.\n\nIf the plate readers around {{shortName}} began as a trial, I would like to know what criteria were set for judging it and whether anyone applied them before the spending became routine. A pilot with no exit condition looks to me like a purchase with a gentler name.\n\nWhat I would like the {{role}} to do, as one student asking, is end the arrangement by removing the readers near campus with no replacements approved. Even if that is further than you are willing to go, the evaluation question still deserves an answer. Do you know whether one was ever produced? If it exists and it is convincing, I would like to read it."
+  },
+  {
+    "id": "fiscal-022",
+    "angle": "fiscal",
+    "subject": "I cannot find the readers in the budget book",
+    "body": "Dear {{officialName}},\n\nI have read through the published budget documents for {{city}} and cannot find automated license plate readers named anywhere. That may be my failing as a reader. It may also be that the spending is folded into a broader category where nobody would think to look, and either possibility leaves me stuck.\n\nCould you point me to the line? If it does not exist as its own item, would you consider supporting one, so residents can see the recurring cost the way they see everything else?\n\nThe underlying request has not changed, and I make it as a student here. Take the readers around {{school}} down and install no further ones. A budget line would at least let the {{role}} debate that in the open rather than in the dark. I would be grateful for an answer on either count."
+  },
+  {
+    "id": "fiscal-023",
+    "angle": "fiscal",
+    "subject": "Nothing seems to be reported back for the money",
+    "body": "Dear {{officialName}},\n\nMost recurring contracts in a city budget carry some obligation to report on what they produced. Surveillance contracts often carry none, which leaves the {{role}} renewing a payment with nothing on the other side of the ledger. That imbalance is what I keep getting stuck on.\n\nDoes the agreement covering the automated license plate readers near {{shortName}} require the vendor or the department to report anything at all? If not, I am not sure on what basis a renewal could be judged.\n\nI am a student here, and I am asking for removal of the readers around campus and a commitment against new ones. If the body would rather keep paying, I would at least hope for a reporting requirement so the next vote has something to look at. Would you press for one, or better, for ending the program?"
+  },
+  {
+    "id": "fiscal-024",
+    "angle": "fiscal",
+    "subject": "How long does the current agreement actually run",
+    "body": "Dear {{officialName}},\n\nA short question about term length. How many years does the current plate reader agreement covering {{city}} run, and does it renew automatically unless somebody acts to stop it?\n\nAutomatic renewal is the part that concerns me. It turns a decision into a default, and defaults outlast changes in council membership and shifts in the budget picture. The public never gets asked a second time.\n\nMy position, as a student at this campus, is that the readers around {{school}} should be removed and that no additional ones should be installed. Knowing the renewal date is the first thing anyone who agrees would need. Could you tell me when the term ends, and whether you would vote against extending it? Even a one line answer would help me understand what is possible here. Thank you for reading."
+  },
+  {
+    "id": "fiscal-025",
+    "angle": "fiscal",
+    "subject": "Why this renewal gets less scrutiny than other spending",
+    "body": "Dear {{officialName}},\n\nBudgets are statements of priority whether anyone intends them that way or not. A recurring payment for automated license plate readers renews quietly while more visible services go through hearings and justification every cycle. That asymmetry is hard for me to make sense of.\n\nI would like the {{role}} to hold the reader spending near {{shortName}} to the same standard a new position or a new program would face. Same questions, same showing of value.\n\nThe outcome I hope for, as one student writing on my own, is removal of the cameras around campus and no new installations in {{city}}. If you would rather defend the spending, I would honestly prefer that to silence, provided it happens in public where the tradeoffs are visible. Which would you be willing to do? I would be grateful for a reply either way."
+  },
+  {
+    "id": "fiscal-026",
+    "angle": "fiscal",
+    "subject": "Who actually signed the plate reader agreement",
+    "body": "Dear {{officialName}},\n\nSome contracts are signed by the {{role}} and some by staff under a delegated spending threshold. Which applies to the automated license plate readers around {{school}} makes a real difference to where a resident should take a concern, and I have not been able to work out which it is.\n\nWas this approved by an elected body, or executed administratively? If administratively, did the recurring nature of the cost play any part in deciding it fell below the threshold?\n\nWhatever the answer, I am a student asking that the readers near campus be removed and no new ones installed anywhere in {{city}}. A program with an indefinite cost belongs with people voters can reach, and that is the heart of what worries me. Could you tell me who holds the pen, and where you stand on ending it?"
+  },
+  {
+    "id": "fiscal-027",
+    "angle": "fiscal",
+    "subject": "The statewide scale of this spending unsettles me",
+    "body": "Dear {{officialName}},\n\nMapped records show {{readersInState}} automated license plate readers across {{state}}, with {{readersWithinMile}} of them within a mile of {{school}}. Every one of those cameras is attached to a payment from some public body, and most of those payments recur.\n\nThat is a large transfer from local budgets to a small number of vendors, assembled one unremarkable council item at a time. Nobody voted for the aggregate, and everyone is paying for it. I find that genuinely troubling, even setting aside what the cameras do.\n\nI would like {{city}} to stop contributing to it. As a student here, I am asking that the readers around campus be removed and that no further installations be approved. If you think the spending is justified, I would like to hear what it buys that a resident could recognize. Would you write back with your view?"
+  },
+  {
+    "id": "fiscal-028",
+    "angle": "fiscal",
+    "subject": "Would you ask for a fiscal note next time",
+    "body": "Dear {{officialName}},\n\nLegislative bodies routinely require a fiscal note before voting on anything that costs money. Surveillance renewals seem to escape that habit, which strikes me as odd given they are among the few items guaranteed to cost the same again next year.\n\nWould you consider asking that any future action on the plate readers serving the area around {{shortName}} come with a written cost analysis covering the full term and the cancellation terms?\n\nMy preference, as a student here, is still that the readers be removed from around campus and that none be added. A fiscal note is not a substitute for that. It is the least I would hope for before the {{role}} commits another year of public money to the program. Would you be willing to request one, and could you let me know what you decide? Thank you for considering it."
+  },
+  {
+    "id": "fiscal-029",
+    "angle": "fiscal",
+    "subject": "A student's worry about the campus camera payments",
+    "body": "Dear {{officialName}},\n\nPlainly: I would like the automated license plate readers near {{school}} taken down, and I hope {{city}} will install no more of them. My reason is a budget reason before it is anything else.\n\nThe program bills continuously. It was approved once. Those two facts sit badly together, and they sit worse when residents cannot locate the amount in any document the city publishes. That is what keeps bringing me back to it.\n\nI know a single letter from one student does not settle a policy question. What it can do is put a name to a preference, so here is mine. If you support continuing the payments, I would like to know what you believe they buy. If you do not, I would like to know when the {{role}} can act. Either answer would be welcome."
+  },
+  {
+    "id": "fiscal-030",
+    "angle": "fiscal",
+    "subject": "A request before any more readers are added",
+    "body": "Dear {{officialName}},\n\nExpansion proposals for camera networks tend to arrive with the hardware price attached and the service price buried. Adding cameras adds subscription and storage costs that keep running long after the installation crew has left, and that is the part I would not want overlooked.\n\nIf anyone brings a proposal to extend coverage near {{shortName}}, I would ask you to require the full recurring figure before the {{role}} votes, rather than the installed cost alone.\n\nBetter still, from where I sit as a student here, decline the expansion and remove what is already there, with no new readers afterward. That is what I am asking for, and it is the only version that stops the meter. Could you tell me whether an expansion is currently under consideration, and how you would vote if one arrived?"
+  },
+  {
+    "id": "fiscal-031",
+    "angle": "fiscal",
+    "subject": "Risk exposure as a hidden part of the cost",
+    "body": "Dear {{officialName}},\n\nCost is not only what shows up on an invoice. A city that collects and stores location records about its residents takes on duties to keep them secure and to answer for misuse, and those duties carry a price even when nothing goes wrong. That quiet liability is what worries me here.\n\nHas {{city}} assessed what the plate reader program adds to its exposure, and is that assessment written down anywhere the {{role}} can read it?\n\nThe cleanest way to shrink the exposure is to stop generating the records. I am a student here, and I would like the readers around {{school}} removed with no new ones installed. If you would rather keep the program, I would still like to know who evaluated the risk and what they concluded. Could you help me find that out?"
+  },
+  {
+    "id": "fiscal-032",
+    "angle": "fiscal",
+    "subject": "What would we miss if the subscription stopped",
+    "body": "Dear {{officialName}},\n\nEvery recurring line in a budget should be able to answer one question: what does this buy that we would miss if it stopped? Most spending answers it easily. For the plate readers operating around {{shortName}}, I cannot find a public answer at all, and that absence is what prompted this letter.\n\nHas the {{role}} ever received an account of what the program delivered against what it costs? Not a vendor presentation. An account from the city's own staff.\n\nI am one student, and I would like the readers near campus removed and no additional ones installed. If there is a serious answer to the question above, it should be easy to produce, and I would read it closely and fairly. Would you be willing to ask for it, and to tell me what you think of what comes back?"
+  },
+  {
+    "id": "fiscal-033",
+    "angle": "fiscal",
+    "subject": "Hoping this comes up in the budget cycle",
+    "body": "Dear {{officialName}},\n\nBudget season is when a recurring cost is easiest to question and hardest to hide. I would like the automated license plate readers covering the area around {{school}} raised during this cycle rather than left to renew outside it.\n\nThe request is narrow. Have the amount said aloud and the fund named, then let the {{role}} take a recorded position on whether to continue.\n\nMy own position, as a student here, is that the readers should come out and that {{city}} should install none in their place. That view may not prevail, and I can live with losing an argument. What I would find hard is another year passing without the cost being spoken in public at all. Would you raise it, and would you tell me how you expect to vote? I would be grateful for either."
+  },
+  {
+    "id": "fiscal-034",
+    "angle": "fiscal",
+    "subject": "Small annual charges escaping the scrutiny large ones get",
+    "body": "Dear {{officialName}},\n\nA capital project gets hearings and a real argument about whether the money could do more elsewhere. Modest annual subscriptions get a paragraph in a staff report. Over enough years the second can cost more than the first, and nobody ever argues about it. That mismatch is what I find worrying.\n\nThe plate reader arrangement around {{shortName}} belongs in the first category by lifetime cost and sits in the second by process. I would like the {{role}} to correct that.\n\nThe correction I hope for, writing as a student here, is removal of the readers near campus and a standing decision to add none. If you would rather make the case for keeping them, I would want to hear it made with the lifetime figure on the table. Would you be willing to ask staff for that figure?"
+  },
+  {
+    "id": "fiscal-035",
+    "angle": "fiscal",
+    "subject": "Where the money for these readers comes from",
+    "body": "Dear {{officialName}},\n\nKnowing where the money originates changes who can answer for it. If the readers near {{school}} are funded through {{state}} or federal pass-through dollars, then {{city}} is running someone else's program. If the source is local revenue, the {{role}} owns the decision outright. Not knowing which is the case makes it hard to know who to ask.\n\nWhich is it? And if the source is external, what conditions came attached, including any requirement to keep the cameras running for a set period?\n\nI am a student here, and I would like the readers around campus removed with no new ones installed. I would also like to understand what stands in the way of that besides habit. Could you set out the funding structure and tell me whether you would support ending it? Thank you for reading."
+  },
+  {
+    "id": "fiscal-036",
+    "angle": "fiscal",
+    "subject": "Why the pricing is so hard for residents to find",
+    "body": "Dear {{officialName}},\n\nPricing for surveillance systems is often treated as commercially sensitive. That is convenient for a vendor and difficult for anyone trying to follow public money. Whatever confidentiality the contract promises, the amount {{city}} pays is a fact about the budget, and I think the people funding it should be able to see it.\n\nWould you ask the {{role}} to confirm that the plate reader spending near {{shortName}} can be published without redaction, and then publish it?\n\nBeyond disclosure, I am a student asking for the readers around campus to be removed and for none to be installed afterward. Disclosure only makes the argument possible. Would you support publishing the figure, and where do you personally come down on the program? I would be glad of a straight answer on either."
+  },
+  {
+    "id": "fiscal-037",
+    "angle": "fiscal",
+    "subject": "Something backwards about how this spending continues",
+    "body": "Dear {{officialName}},\n\nThere is something backwards about a spending category that needs a vote to begin and no vote to continue. The automated license plate readers around {{school}} fall into it, and so does most subscription technology cities buy. The more I look at it, the more it bothers me.\n\nA sensible rule would flip the default. Nothing recurring continues past its term without an affirmative vote and a stated cost. That would take a few minutes of {{role}} time each year and would answer a question residents currently cannot get answered at all.\n\nSeparately from procedure, I am a student who would like the readers near campus gone and no new ones put up in {{city}}. Would you support the rule, and would you support the removal? A direct answer to either would mean a lot to me. Thank you for your time."
+  },
+  {
+    "id": "fiscal-038",
+    "angle": "fiscal",
+    "subject": "What has been spent on readers since the start",
+    "body": "Dear {{officialName}},\n\nOne figure would tell residents most of what they need to know. What has {{city}} paid in total for automated license plate readers since the first one went up?\n\nCumulative spending seems to me the honest way to look at a subscription, because the annual charge always sounds small and the annual charge is not what the public has actually spent. I have not found the total published anywhere, and I have looked.\n\nIf it turns out to be modest, the {{role}} loses nothing by saying so. If it is large, residents deserved to know sooner. My position either way, as a student here, is that the readers near {{shortName}} should be removed and none installed to replace them. Would you be willing to find out the total and share it with me? I would be grateful."
+  },
+  {
+    "id": "fiscal-039",
+    "angle": "fiscal",
+    "subject": "Asking for public comment before the contract renews",
+    "body": "Dear {{officialName}},\n\nRenewals usually happen without public comment because they are treated as administrative. Given that the plate reader contract commits {{city}} money for another full term, treating it as administrative looks to me like a choice rather than a necessity.\n\nI would like the {{role}} to schedule the next renewal as an action item with public comment and the cost printed in the agenda packet. Residents could then say whether they want to keep paying.\n\nWhat I would say, if I got the chance, is that the readers around {{school}} should be removed and that no further ones should be installed. You would hear the other side too, which is rather the point of doing it in the open. I am one student and I would like a chance to be heard. Would you help make sure it happens?"
+  },
+  {
+    "id": "fiscal-040",
+    "angle": "fiscal",
+    "subject": "Squaring tight budgets with an open-ended camera bill",
+    "body": "Dear {{officialName}},\n\nResidents of {{city}} are told regularly that money is tight. I have trouble squaring that with an open-ended subscription for camera hardware that was never put to the public as a spending priority.\n\nI am not asking you to adopt my ranking of priorities. My question is whether the {{role}} has ever ranked this one at all, against anything, in a document a resident could read.\n\nAs a student here, I am asking for removal of the readers near {{school}} and for no new installations anywhere in the city. If the program survives that argument on its merits, I would want it to survive in public with the cost attached, and I would accept the result. Where would you place it against everything else the budget funds? I would be grateful to hear your own ranking."
+  },
+  {
+    "id": "fiscal-041",
+    "angle": "fiscal",
+    "subject": "Administrative time the reader system quietly consumes",
+    "body": "Dear {{officialName}},\n\nEvery system that generates records also generates work: requests to process, retention schedules to follow, questions to answer. That work falls on city staff and comes out of the same budget as everything else.\n\nHas anyone in {{city}} estimated what the plate reader program costs in administrative time, separate from the vendor's fee? My guess is that nobody has, and I would be glad to be wrong about that.\n\nRemoving the readers around {{shortName}} and installing no more would end the vendor bill and the administrative one together. That is what I am asking the {{role}} to do, as one student with one letter and no illusions about how much that weighs. Would you support it? If not, I would honestly like to know what would change your mind. Thank you for reading this far."
+  },
+  {
+    "id": "fiscal-042",
+    "angle": "fiscal",
+    "subject": "A question about the cancellation terms in the contract",
+    "body": "Dear {{officialName}},\n\nMost service agreements can be cancelled for convenience with notice. Some cannot, or can only be cancelled at a penalty that makes the option theoretical.\n\nWhich kind covers the readers near {{school}}? If the {{role}} decided tomorrow to end the program, what would it cost {{city}} to do so, and how much notice would be required? Residents cannot really evaluate any proposal to stop without knowing that, and the not knowing is what unsettles me.\n\nI am a student here, and I would like the readers around campus removed with no new ones installed, so this is not an abstract question for me. Would you ask staff for the termination provisions, and would you tell me whether ending the arrangement is something you could vote for? Both answers would help me a great deal."
+  },
+  {
+    "id": "fiscal-043",
+    "angle": "fiscal",
+    "subject": "Paying for cameras without ever seeing the bill",
+    "body": "Dear {{officialName}},\n\nThe people paying for the automated license plate readers around {{shortName}} are the same people the cameras record, and almost none of us could say what the program costs. That combination is the thing I find hardest to sit with.\n\nI would like two things from the {{role}}. State the recurring cost publicly, and then vote on whether it continues.\n\nWhen that vote comes, my hope is that it ends with the readers near campus removed and no new ones approved in {{city}}. I am one student with one letter and I do not expect anything to turn on my say-so. Even so, I think an elected official should be able to say what a program costs and whether it is worth it, and I would be grateful if you would tell me both. Thank you for reading."
+  },
+  {
+    "id": "fiscal-044",
+    "angle": "fiscal",
+    "subject": "A charge residents were never asked to approve",
+    "body": "Dear {{officialName}},\n\nIf {{city}} proposed a new annual charge on residents to fund a camera network, there would be hearings and a real fight. Funding the same network from the existing budget produces neither, though the money comes from the same pockets. That difference is what I cannot get past.\n\nMy question for the {{role}} is why the second route calls for so much less justification than the first. I do not think the answer can be that the amount is trivial, since nobody has published what the amount is.\n\nI am a student here, and I am asking for the readers around {{school}} to be taken down and for no further ones to be installed. Whatever you decide on that, I hope you will agree the cost should be as visible as a line on a bill. How do you intend to vote?"
+  },
+  {
+    "id": "fiscal-045",
+    "angle": "fiscal",
+    "subject": "Does anyone vote on this payment at all",
+    "body": "Dear {{officialName}},\n\nKeeping this to a single question. Does the {{role}} vote on the payment for the automated license plate readers operating around {{school}}, or does that payment continue without any vote at all?\n\nI ask because the answer decides whether writing to you is useful. If there is a vote, residents have something to organize around. If there is not, the program has slipped outside democratic control, and that worries me more than the amount does.\n\nFor the record, I am a student here and what I want is removal of the readers near campus and no new installations in {{city}}. Your answer to the procedural question would help me understand what it would take to get there. Could you reply with it, even briefly? I would be grateful."
+  },
+  {
+    "id": "fiscal-046",
+    "angle": "fiscal",
+    "subject": "Paying every year to record ordinary movement",
+    "body": "Dear {{officialName}},\n\nThe cost question and the principle question meet in one place for me. Public money is buying a continuous record of ordinary movement, most of it belonging to people nobody suspects of anything, and it is buying that record on a recurring basis rather than once.\n\nI would like the {{role}} to consider whether that is a good use of the funds available to it, and to consider it with the actual annual figure in front of the room.\n\nWhat I am asking for, as a student at this campus, is removal of the automated license plate readers around {{shortName}} and a decision not to install any more in {{city}}. If you are not there yet, I would still like to know what the program costs and how you weigh it against everything else. Would you write back? Thank you for your time."
+  },
+  {
+    "id": "fiscal-047",
+    "angle": "fiscal",
+    "subject": "Each new camera adds a payment that never ends",
+    "body": "Dear {{officialName}},\n\nMapped data shows {{readersWithinMile}} automated license plate readers within a mile of {{school}}. Each of those is an entry on a recurring bill rather than a finished purchase, which is why networks like this tend to grow quietly and shrink never. The one-way quality of it is what concerns me.\n\nHas the {{role}} set any ceiling on how many the city will fund, or is each addition approved on its own without reference to the total?\n\nMy request, as a student here, is that the ones near campus be removed and that {{city}} commit to installing none in future. A ceiling would be a distant second best. Either way, I would like to know whether anyone is tracking the aggregate cost as the count rises. Is anyone, and what is your own view?"
+  },
+  {
+    "id": "fiscal-048",
+    "angle": "fiscal",
+    "subject": "Would you ask to see the itemized invoices",
+    "body": "Dear {{officialName}},\n\nInvoices tell a clearer story than contracts, because they show what was actually billed rather than what was theoretically agreed. I would like the {{role}} to obtain the invoices for the plate reader program in {{city}} and review them in open session.\n\nIt would be useful to see how much of the payment is licensing rather than hardware, and whether charges have been added since the original agreement. I have no way to find that out on my own, which is why I am asking you.\n\nThe end I am working toward, as one student, is removal of the readers around {{school}} and no new installations. Reviewing the invoices is a step toward a decision either way, and you can take it without adopting my conclusion. Would you be willing to ask for them?"
+  },
+  {
+    "id": "fiscal-049",
+    "angle": "fiscal",
+    "subject": "A recurring cost that never had to compete",
+    "body": "Dear {{officialName}},\n\nOne-time costs are forgiven by time. Recurring ones are not, and a subscription approved years ago still competes today against every new request that reaches the {{role}}.\n\nI would like to know how the plate readers around {{shortName}} have fared in that competition, and whether they have ever had to win it. From outside, my impression is that they have simply never been asked to, and I would be glad to learn otherwise.\n\nAsking is the whole of my request. Put the recurring cost before the body and let it be defended. My own expectation, as a student here, is that an honest review ends with the readers near campus removed and none installed to replace them. Would you be willing to start that process, and would you let me know either way? Thank you."
+  },
+  {
+    "id": "fiscal-050",
+    "angle": "fiscal",
+    "subject": "Were other options priced before this was funded",
+    "body": "Dear {{officialName}},\n\nBefore committing to a recurring expense, a public body normally looks at what else the same money could do toward the same goal. Whether that happened here is something I cannot determine from the documents available, and the gap is what prompted me to write.\n\nWere other approaches priced before the {{role}} funded automated license plate readers around {{school}}? If so, I would like to read the comparison. If not, that seems to me a reason to revisit the decision rather than renew it.\n\nRevisiting is what I am asking for, with the readers near campus removed and none installed afterward in {{city}}. I am a student and I recognize you may see it differently. Could you tell me whether a comparison exists, and what your own position on renewal will be?"
+  },
+  {
+    "id": "fiscal-051",
+    "angle": "fiscal",
+    "subject": "Where the burden of proof should sit here",
+    "body": "Dear {{officialName}},\n\nA program asking to keep public money should have to show what it does with it. That standard is applied unevenly, and surveillance contracts seem to sit on the comfortable side of the unevenness. That is the part that nags at me.\n\nI would like the {{role}} to put the burden where I think it belongs. Let the department make the case for the plate readers near {{shortName}} with the annual cost stated, and let residents respond. If the case is strong, nothing is lost by making it.\n\nWhat I expect from that process, as a student here, is a decision to remove the readers around campus and install none in their place. You may expect otherwise. Would you at least support requiring the case to be made, and would you tell me how you would vote? I would be grateful."
+  },
+  {
+    "id": "fiscal-052",
+    "angle": "fiscal",
+    "subject": "Paying for a system nobody here has evaluated",
+    "body": "Dear {{officialName}},\n\nThe most expensive part of any program tends to be the part nobody checks. Payments for automated license plate readers in {{city}} continue on schedule whether or not anyone in local government has assessed what they accomplish here, as opposed to what a vendor says they accomplish generally.\n\nHas the {{role}} received any local assessment? If one exists, I would like to read it. If none does, I would like to understand why the payments continue anyway, because that is what troubles me most.\n\nAs a student here, my request is that the readers around {{school}} be removed and that no new ones be installed. An honest local assessment might change my mind, and I would welcome the chance to be persuaded. Which of those two do you think we are likely to end up with?"
+  },
+  {
+    "id": "fiscal-053",
+    "angle": "fiscal",
+    "subject": "Would you support a sunset date on this funding",
+    "body": "Dear {{officialName}},\n\nFunding that expires forces a conversation. Money that renews on its own avoids one. The plate reader spending in {{city}} is the second kind, which is why I do not think the program has ever had to justify itself twice.\n\nWould you support attaching a sunset date to the appropriation, so that continuing it takes an affirmative vote of the {{role}} with the cost stated?\n\nHonestly, the outcome I would prefer does not need a sunset clause. I am a student here, and I think the readers near {{shortName}} should be removed now with no further ones installed. A sunset would simply guarantee the argument happens rather than leaving it to whoever remembers to raise it. Would you back either the removal or the clause? I would be glad to know."
+  },
+  {
+    "id": "fiscal-054",
+    "angle": "fiscal",
+    "subject": "Why this contract escapes the questions parks requests get",
+    "body": "Dear {{officialName}},\n\nA parks request for the same annual amount would be picked apart line by line. That is not a complaint about parks. It is an observation about which kinds of spending attract scrutiny and which pass on the strength of a single word.\n\nThe automated license plate readers around {{school}} deserve the parks treatment. Somebody should ask what the money buys and what would actually happen if the {{role}} said no.\n\nMy own answer to that second question is that very little would happen, which is why I am asking, as a student here, for the readers near campus to be removed and for none to be installed after them. I could be wrong about the consequences and would want to know. Would you be willing to ask the questions and tell me where you come out?"
+  },
+  {
+    "id": "fiscal-055",
+    "angle": "fiscal",
+    "subject": "A free trial and the bill that came after",
+    "body": "Dear {{officialName}},\n\nNo-cost trial periods are a sales technique. By the time the trial ends, the equipment is mounted and the department is used to it, and the price of saying no has quietly become higher than the price of saying yes. That is the trap I worry we have walked into.\n\nIf any of the readers near {{shortName}} arrived that way, I would like the {{role}} to acknowledge it and to treat the decision as though it were being made fresh, with the recurring cost stated.\n\nMade fresh, I think the answer is removal of the cameras around campus and no new installations anywhere in {{city}}. I am a student and you may reach a different answer. Either way, could you tell me how the deployment began and what it now costs to continue? Thank you for reading."
+  },
+  {
+    "id": "fiscal-056",
+    "angle": "fiscal",
+    "subject": "How many reader agreements does the city hold",
+    "body": "Dear {{officialName}},\n\nA simple inventory question. How many separate agreements does {{city}} hold that involve automated license plate readers, counting police, transportation, parking, and any authority the {{role}} oversees?\n\nI ask because fragmented contracting is how a program's true cost gets lost. Each piece looks minor on its own, and no single document adds them up. Residents end up unable to answer the most basic budget question about a technology deployed all around them, which is roughly where I find myself.\n\nMy request, as a student here, is removal of the readers near {{school}} and a commitment to install no more. An inventory would at least tell the {{role}} what it is being asked to remove. Would you request one, and would you support the removal? I would be grateful for either."
+  },
+  {
+    "id": "fiscal-057",
+    "angle": "fiscal",
+    "subject": "Subscriptions leave the budget with fewer choices later",
+    "body": "Dear {{officialName}},\n\nA budget full of subscriptions is a budget with fewer choices in it. When revenue tightens, recurring commitments are the hardest things to touch, and the discretionary items residents actually notice get cut first. That is the outcome I would like to avoid.\n\nThe plate reader payments in {{city}} are exactly that sort of commitment. Nobody voted to make them permanent, and yet they behave as if they were.\n\nI would like the {{role}} to take the choice back by ending the arrangement and removing the readers around {{shortName}}, with none installed afterward. As a student here, that seems to me to restore flexibility and settle the underlying question at once. If you see the tradeoff differently, I would genuinely like to hear how. Would you write back with your reasoning?"
+  },
+  {
+    "id": "fiscal-058",
+    "angle": "fiscal",
+    "subject": "Camera payments weighed against other public safety needs",
+    "body": "Dear {{officialName}},\n\nWithin the public safety budget itself there are competing uses for every recurring dollar. Money going to a camera subscription is money not going to the parts of the department residents interact with and can judge for themselves.\n\nHas the {{role}} ever been shown that tradeoff explicitly, with the reader cost set beside what else the same funds could support? I have found nothing suggesting it has, and I would like to be pointed to it if I have missed something.\n\nThe outcome I am asking for, as one student, is removal of the automated license plate readers around {{school}} and no new installations in {{city}}. If the comparison were made in public and came out the other way, I could accept losing that argument. What I struggle with is not having it at all. Would you help make sure it happens?"
+  },
+  {
+    "id": "fiscal-059",
+    "angle": "fiscal",
+    "subject": "The vendor business model behind these contracts",
+    "body": "Dear {{officialName}},\n\nThe companies selling this equipment do not make their money on hardware. They make it on the contract that follows, which is why the cameras are cheap to install and expensive to keep. Mapped counts show {{readersInState}} readers across {{state}}, which gives some sense of how well the model works.\n\nMy question is whether the {{role}} negotiated with that structure in mind, or evaluated the proposal as though it were buying equipment.\n\nWhat I want, as a student here, is removal of the readers near {{shortName}} and a decision to install none in {{city}} going forward. Understanding how the pricing actually works seems like a prerequisite for anyone voting on renewal, and I cannot find it explained anywhere. Could you tell me how the agreement is structured and where you stand? Thank you."
+  },
+  {
+    "id": "fiscal-060",
+    "angle": "fiscal",
+    "subject": "Would you ask staff for a short cost memo",
+    "body": "Dear {{officialName}},\n\nOne request that would take a staffer an afternoon. Would you ask for a memo setting out what {{city}} pays for automated license plate readers, over what term, from which fund, and what it would cost to stop?\n\nThe memo commits the {{role}} to nothing. It just replaces guesswork with facts, and it would let residents like me argue about the program on the figures rather than on principle alone.\n\nMy argument, for what it is worth from one student, is that the readers around {{school}} should be removed and that none should be installed to replace them. I would much rather make that case against real accounts than against silence. Would you ask for the memo, and would you tell me what you make of it once it lands? I would be grateful."
+  },
+  {
+    "id": "fiscal-061",
+    "angle": "fiscal",
+    "subject": "Do these cameras appear on the asset register",
+    "body": "Dear {{officialName}},\n\nAssets get recorded. Services do not, beyond the payments themselves. Whether the automated license plate readers around {{shortName}} appear on the asset register of {{city}} would tell residents a good deal about what was actually bought.\n\nIf they are not listed, then the public has been paying for access rather than acquiring anything, and the payments continue for as long as the access is wanted. That can be a perfectly legitimate way to buy a service. It is also a reason to look hard at the recurring figure, and looking is what I am asking for.\n\nI am a student here, and I would like the {{role}} to look and then to remove the readers near campus and install no further ones. Could you find out how the equipment is recorded and let me know where you stand on ending the program?"
+  },
+  {
+    "id": "fiscal-062",
+    "angle": "fiscal",
+    "subject": "What ending the program would free up each year",
+    "body": "Dear {{officialName}},\n\nMost discussion of these systems concerns what they might prevent. Very little concerns what stopping them would free up, and that gap seems strange to me in a conversation about public money.\n\nCould the {{role}} obtain a figure for the annual saving if {{city}} ended its automated license plate reader contracts? Not a projection about crime. Just the money that would stop leaving the budget.\n\nI suspect that figure would surprise people, though I cannot prove it, since nobody has published the inputs. My position holds regardless: as a student here, I would like the readers around {{school}} removed and no new ones installed. Would you ask for the savings figure, and would you support acting on it? Even a partial answer would be more than residents have now. Thank you for reading."
+  },
+  {
+    "id": "fiscal-063",
+    "angle": "fiscal",
+    "subject": "Asking for a recorded vote before the next payment",
+    "body": "Dear {{officialName}},\n\nA narrow ask. Before {{city}} makes another payment for the automated license plate readers operating near {{school}}, would you call for the {{role}} to take a recorded vote on whether to continue?\n\nRecorded votes do two useful things. They force the cost into the packet, and they let residents know who supports the spending. At the moment I can find neither.\n\nOn the substance, I am a student who would like the readers around campus removed and no new ones installed. A vote might not go my way, and I would accept that. Having one still seems better to me than a program that continues because nobody scheduled the question. Would you be willing to call for it, and how would you cast your own vote? I would be grateful to know."
+  },
+  {
+    "id": "fiscal-064",
+    "angle": "fiscal",
+    "subject": "Licensing charges beyond the cameras themselves",
+    "body": "Dear {{officialName}},\n\nThe camera count is not the whole contract. Systems like this are often licensed per user or per query as well, so the cost can climb without a single new pole going up. That kind of quiet growth is what concerns me.\n\nDoes the {{city}} agreement include per-seat or per-search charges, and has that portion of the bill grown since the program started? It seems to me the {{role}} would want to know before approving another term.\n\nMy position, as a student at this campus, is that the readers around {{shortName}} should come down and none should be installed afterward, which makes the licensing structure moot. Until then, I think residents are entitled to know how the meter runs. Could you find out and reply with what you learn? Thank you for your time."
+  },
+  {
+    "id": "fiscal-065",
+    "angle": "fiscal",
+    "subject": "Local money paying for a regional service",
+    "body": "Dear {{officialName}},\n\nData collected by these systems is frequently shared well beyond the city that paid for it. If {{city}} funds the readers near {{school}} while agencies elsewhere query the results, then local taxpayers are underwriting a regional service with no accounting for it. That possibility is what I would like cleared up.\n\nHas the {{role}} examined who has access to data collected by cameras this city pays for, and whether any of those users contribute to the cost?\n\nThe cleanest resolution, from where I sit as a student here, is to stop. Remove the readers around campus and install no new ones, and the question of who is underwriting whom disappears. Failing that, I would like the sharing arrangements and their financial terms disclosed. Which of the two could you support?"
+  },
+  {
+    "id": "fiscal-066",
+    "angle": "fiscal",
+    "subject": "Could you tell me when the agreement renews",
+    "body": "Dear {{officialName}},\n\nJust the date, if you have it. When does the current agreement covering automated license plate readers in {{city}} come up for renewal, and does the {{role}} have to act for it to continue?\n\nResidents who want to be heard on a spending decision need to know when the decision happens. At present that information is effectively private, which makes taking part impossible for anyone not already inside the building. That is the part I find discouraging.\n\nI will tell you plainly what I would say if I had the chance. I am a student here, and I think the readers around {{school}} should be removed with no new ones installed. Could you send me the renewal date, and let me know whether you would vote to extend? I would be grateful for both."
+  },
+  {
+    "id": "fiscal-067",
+    "angle": "fiscal",
+    "subject": "Small approvals adding up to something large",
+    "body": "Dear {{officialName}},\n\nNo single decision here looks expensive. A few cameras at a time, and a renewal handled as routine business. Added together, {{city}} has taken on an open-ended surveillance expense that nobody ever voted for as a whole, and that is what worries me.\n\nMapped records list {{readersWithinMile}} readers within a mile of {{school}}, which is the accumulation made visible.\n\nI am asking the {{role}} to look at the total rather than the increments, and to reach what I think an honest look reaches: remove the readers near campus and install no more. I am one student and my conclusion is not the only possible one. If yours differs, I would still like to see the total published so residents can judge for themselves. Where do you stand?"
+  },
+  {
+    "id": "fiscal-068",
+    "angle": "fiscal",
+    "subject": "Why paving costs are public and these are not",
+    "body": "Dear {{officialName}},\n\nResidents can find out what {{city}} spends on paving. We cannot find out what it spends on automated license plate readers. Nothing about the underlying activity explains that difference to me.\n\nWould you support a standing practice under which every surveillance contract's annual cost is published in the same place as other spending?\n\nThe practice matters to me because I would like the {{role}} to end this particular program by removing the readers near {{shortName}}, with none installed in future. Arguing for that without public figures is difficult, and I think the difficulty is not accidental. I am a student here and I would be grateful for two things: your support for publication, and your own position on the cameras. Either one would be more than I have now."
+  },
+  {
+    "id": "fiscal-069",
+    "angle": "fiscal",
+    "subject": "Fees for joining the wider reader network",
+    "body": "Dear {{officialName}},\n\nCameras rarely operate alone. They feed a network, and access to that network usually carries its own charge, which may sit in a different budget line from the hardware or may not be visible at all.\n\nDoes {{city}} pay anything for participation in a broader plate reader network across {{state}}, separately from the cameras near {{school}}? Mapped data counts {{readersInState}} readers statewide, so the network is substantial and somebody is paying to keep it running.\n\nWhat I want, as a student here, is removal of the readers around campus and no new installations. Understanding the full set of payments seems necessary before the {{role}} renews anything, and I have not managed to assemble it from public sources. Could you tell me what the city pays in total, and whether you would vote to continue? Thank you."
+  },
+  {
+    "id": "fiscal-070",
+    "angle": "fiscal",
+    "subject": "Renewal may be the last real chance to decide",
+    "body": "Dear {{officialName}},\n\nOnce plate reader equipment is installed, most objections arrive too late to matter. Renewal is the exception. It is the one moment when the {{role}} can change the outcome without breaking anything, and it comes around on a schedule residents are not told about.\n\nI would like that schedule published, and I would like the vote treated as a real decision rather than a formality.\n\nWhen it arrives, my hope as a student here is that the body ends the contract and takes down the plate readers around {{shortName}}, with no replacements installed. You will hear from people who disagree with me, and they should be heard. What I am asking is that the disagreement happen in public with the cost on the table. Would you support that? I would be grateful for a reply."
+  },
+  {
+    "id": "fiscal-071",
+    "angle": "fiscal",
+    "subject": "How actual spending compares with the original estimate",
+    "body": "Dear {{officialName}},\n\nProposals of this kind usually contain a cost section. Whatever that section said when the automated license plate readers near {{school}} were first proposed is the baseline everything since should be measured against, and I have not been able to see it.\n\nCould you obtain the original proposal and tell residents whether actual spending has matched what was projected? A program that has outrun its own estimate seems to me like one the {{role}} should look at again.\n\nMy view, as a student here, is that it should be looked at and ended, with the readers around campus removed and none installed to replace them. The comparison would either support me or embarrass me, and I am comfortable with either. Would you request the documents and share what they show? Thank you for considering it."
+  },
+  {
+    "id": "fiscal-072",
+    "angle": "fiscal",
+    "subject": "The same money, spent on something residents asked for",
+    "body": "Dear {{officialName}},\n\nEvery budget contains items the public asked for and items the public was told about afterward. Automated license plate readers around {{shortName}} feel to me like the second group, and they carry a recurring cost that the first group has to compete with.\n\nI would like the {{role}} to settle that competition on the side of the things residents actually requested. Remove the cameras near campus, install no new ones, and let the recurring money go where it was wanted.\n\nYou may think the readers are what residents want, and you may be right. The way to establish it is a public discussion with the cost stated, which as far as I can tell has not happened. I am one student asking for that discussion. Would you support having it, and how would you argue in it?"
+  },
+  {
+    "id": "fiscal-073",
+    "angle": "fiscal",
+    "subject": "Whether any of this was funded mid-year",
+    "body": "Dear {{officialName}},\n\nSpending that arrives outside the normal budget cycle gets the least attention of any kind. If part of the plate reader program in {{city}} was funded through a mid-year amendment or a transfer between accounts, residents would have had almost no chance to comment on it. That thought is what led me to write.\n\nWas that how any of it happened? The {{role}} should be able to answer from its own records without much trouble.\n\nMy request does not change with the answer. I am a student here, and I would like the readers around {{school}} taken down and no new ones approved. A clear account of how the money moved would still help residents judge the process that produced them. Would you provide it, and would you support removal?"
+  },
+  {
+    "id": "fiscal-074",
+    "angle": "fiscal",
+    "subject": "The cost of overseeing the system properly",
+    "body": "Dear {{officialName}},\n\nRunning a surveillance system properly means auditing access and documenting compliance. Doing it improperly is cheaper, which is exactly why treating the subscription fee as the cost of the program makes me uneasy.\n\nWhich is {{city}} doing, and what does the compliance side cost? If the answer is that nobody has budgeted for it, that tells the {{role}} something important about the true price of the plate readers near {{shortName}}.\n\nThe request I keep coming back to, as a student here, is removal of those readers and a commitment against new ones. Compliance stops being a cost when there is nothing to comply about. Could you tell me what oversight the program actually funds, and whether you would vote to continue it? I would be grateful for whatever you can find out."
+  },
+  {
+    "id": "fiscal-075",
+    "angle": "fiscal",
+    "subject": "Could you help me get a copy of the contract",
+    "body": "Dear {{officialName}},\n\nRather than argue in the abstract, I would like to read the document. Could your office point me to the contract under which automated license plate readers operate around {{school}}, including any amendments and the current payment schedule?\n\nI expect to disagree with the spending once I see it. That seems to me a reason to hand over the document rather than withhold it, and I would rather form a view from the terms than from assumption.\n\nFor completeness, I am a student here and my position going in is that the readers near campus should be removed and that {{city}} should install none in future. Reading the contract might sharpen that argument or soften it. Would you help me get a copy, and would you tell me your own view? Thank you for your help."
+  },
+  {
+    "id": "fiscal-076",
+    "angle": "fiscal",
+    "subject": "The bill is the same in a quiet month",
+    "body": "Dear {{officialName}},\n\nUsage varies. Billing does not. A subscription for automated license plate readers costs the same in a quiet month as a busy one, which makes utilization a fair question for anyone approving the payment.\n\nDoes the {{role}} know how much the system around {{shortName}} is actually used by the department, measured against what it costs to keep available? I have looked for a public answer and found none, and that absence is what concerns me.\n\nMy request, as a student at this campus, is for the readers near campus to be removed and for no new ones to be installed in {{city}}. Utilization records might move some members one way or the other, and their absence ought to give everyone pause. Would you ask for them, and would you say how you would vote?"
+  },
+  {
+    "id": "fiscal-077",
+    "angle": "fiscal",
+    "subject": "Would you sponsor an annual surveillance spending report",
+    "body": "Dear {{officialName}},\n\nAn annual summary of what {{city}} spends on surveillance technology would be an unremarkable document to produce, and it would spare residents the trouble of filing requests for basic budget facts. I would like the {{role}} to require one.\n\nThe automated license plate readers around {{school}} would be the first entry. Their cost and funding source would then be as easy to look up as anything else the city pays for.\n\nMy substantive position, as a student here, is that those readers should be removed and no new ones installed. A report would not achieve that by itself. It would make the argument possible for people who currently have nothing to argue with, which is most of us. Would you consider sponsoring the requirement? I would be grateful to know your answer."
+  },
+  {
+    "id": "fiscal-078",
+    "angle": "fiscal",
+    "subject": "Can the network grow without a new appropriation",
+    "body": "Dear {{officialName}},\n\nContracts sometimes price coverage rather than units, which means a department can expand a network without new money and without anyone voting again. Whether the {{city}} agreement works that way seems worth establishing before the next addition.\n\nCan the department add readers near {{school}} under the existing contract, or does each addition require the {{role}} to approve new funds? The answer decides whether the count residents see today is a ceiling or a starting point, and I would rather know than guess.\n\nEither way, I am a student asking that the existing readers be removed and that no new ones be installed. A program that can grow without a vote is one I expect will. Could you clarify the mechanism and tell me where you stand? Thank you for reading."
+  },
+  {
+    "id": "fiscal-079",
+    "angle": "fiscal",
+    "subject": "Who owns the records the city pays to collect",
+    "body": "Dear {{officialName}},\n\nWhen a public body pays for a system and a private company holds what it produces, the question of who owns the value is not academic. It affects what {{city}} should be willing to pay and what it should insist on getting back.\n\nUnder the agreement covering the plate readers near {{shortName}}, who owns the collected records, and may the vendor use them for purposes of its own? I would guess the {{role}} asked before signing, and I would like residents to be told the answer now.\n\nMy request stands as a student here: that the readers around campus be removed and that no new ones be installed. The ownership terms would at least tell us what kind of deal this is. Could you find out and reply? I would be grateful."
+  },
+  {
+    "id": "fiscal-080",
+    "angle": "fiscal",
+    "subject": "Writing ahead of the budget hearing on this",
+    "body": "Dear {{officialName}},\n\nWriting ahead of the next budget discussion so my point is not a surprise. The recurring cost of automated license plate readers around {{school}} seems to me to deserve a line of its own and a vote of its own, and I plan to say so publicly.\n\nIf you would like the argument in advance, it is short. Money committed indefinitely without a stated figure is money outside democratic control, and the {{role}} could fix that in an afternoon.\n\nThe outcome I hope for, as one student, is removal of the readers near campus and a commitment that {{city}} will install no more. Between now and the hearing, could you tell me what the program costs and whether you would support ending it? I would rather understand your view before I speak than after."
+  },
+  {
+    "id": "fiscal-081",
+    "angle": "fiscal",
+    "subject": "The longer we wait, the harder removal becomes",
+    "body": "Dear {{officialName}},\n\nDeployments are easier to prevent than to undo. Once mounts are in and workflows adapt, removal takes on its own price tag, and that price grows every year the question is put off. That is what makes me want to raise it now rather than later.\n\nSo I am asking now, as a student here. Remove the automated license plate readers around {{shortName}} and install no new ones, before reversing course costs more than it does today.\n\nI recognize this is not the only consideration in front of you, and I would not pretend otherwise. Even so, the fiscal logic seems to point one way, and residents of {{city}} have not been given a competing figure to weigh against it. Would you tell me what you think the program costs and whether you could vote to end it?"
+  },
+  {
+    "id": "fiscal-082",
+    "angle": "fiscal",
+    "subject": "Was any cost-benefit work done before signing",
+    "body": "Dear {{officialName}},\n\nStandard practice for a recurring commitment is some form of cost-benefit work before the signature, however rough. Residents of {{city}} cannot tell whether that happened for the plate reader program, because nothing of the kind appears in the public record, and the silence is what unsettles me.\n\nDid the {{role}} receive an analysis? If a vendor produced it, was it checked by anyone without a stake in the outcome?\n\nMy request, as a student here, is that the readers around {{school}} be removed and that none be installed after them. An independent analysis might change my mind, and I would read one seriously and say so. Without it, the recurring payments look to me more like a habit than a decision. Could you tell me what analysis exists?"
+  },
+  {
+    "id": "fiscal-083",
+    "angle": "fiscal",
+    "subject": "Future upgrade charges already built into the deal",
+    "body": "Dear {{officialName}},\n\nEquipment gets superseded, and vendors have every reason to supersede it. If the plate reader agreement covering {{city}} contemplates hardware refreshes, then the cost the {{role}} approved once will return later in a larger form. That prospect is what prompts this letter.\n\nCould you find out whether upgrade or refresh charges are part of the arrangement, and whether they need a new appropriation or fall under the existing one?\n\nMy own answer to the upgrade question is that there should be nothing left to upgrade. I am a student here, and I would like the readers near {{school}} taken down with no new ones installed. Short of that, residents deserve to know what future charges are already baked into a contract signed on their behalf. Would you look into it and reply?"
+  },
+  {
+    "id": "fiscal-084",
+    "angle": "fiscal",
+    "subject": "What share of the department budget goes to cameras",
+    "body": "Dear {{officialName}},\n\nOne thing residents cannot currently work out is how much of the department's budget in {{city}} goes to camera systems rather than to people. That proportion is a policy choice, and it appears to be getting made without any public discussion, which is the part I find hard to accept.\n\nWould you ask for the breakdown and make it available? A single page would do.\n\nMy position, as a student here, is that automated license plate readers around {{shortName}} should be removed and that none should be installed to replace them. The breakdown matters because it would show what else the same money supports, and because I do not think the {{role}} can weigh a tradeoff it has never seen written down. Would you request the figures and tell me your view?"
+  },
+  {
+    "id": "fiscal-085",
+    "angle": "fiscal",
+    "subject": "Approved once, and billed again every year",
+    "body": "Dear {{officialName}},\n\nThe structural problem with the plate reader spending in {{city}} fits in a sentence. A decision taken once produces a bill that arrives every year, and nothing in the process makes anyone look at it again. That is what I would most like to see change.\n\nIt seems to me reason enough for the {{role}} to look now, with the amount stated and the funding source named.\n\nWhen it does, I hope the outcome is removal of the readers around {{school}} and a commitment to install no more. I am one student and you may prefer a different outcome, which is fair, so long as the decision is actually taken rather than inherited. Would you put the question before the body, and would you tell me how you would vote?"
+  },
+  {
+    "id": "fiscal-086",
+    "angle": "fiscal",
+    "subject": "Advance notice would let residents weigh in",
+    "body": "Dear {{officialName}},\n\nResidents cannot weigh in on a decision they hear about afterward. A simple rule would help: publish the terms of any surveillance contract renewal a reasonable time before the {{role}} acts on it.\n\nApplied to the automated license plate readers around {{shortName}}, that means the cost and the cancellation provisions, posted somewhere residents can find them.\n\nWhat I would do with that information, as a student here, is argue for taking the readers down and installing no new ones in {{city}}. Others would argue the opposite, and they should have the same chance. Advance notice is what makes the argument possible at all, and its absence is why I am writing. Would you support the rule, and would you tell me your own position on the cameras? Thank you for reading."
+  },
+  {
+    "id": "fiscal-087",
+    "angle": "fiscal",
+    "subject": "The city may not control what renewal costs",
+    "body": "Dear {{officialName}},\n\nA budget line a vendor can move is not really under local control. Unless the agreement caps increases, the price {{city}} pays for automated license plate readers at the next renewal gets decided somewhere other than the {{role}} chamber. That is the part that worries me most about the arrangement.\n\nIs there a cap? If not, would you consider declining to renew rather than accepting terms the city cannot influence?\n\nThe answer I am hoping for is broader than that. I am a student here, and I would like the readers near {{school}} removed with none installed afterward, which ends the exposure for good. Even a member who supports the technology might be uneasy about an open-ended price. Where do you come out on it?"
+  },
+  {
+    "id": "fiscal-088",
+    "angle": "fiscal",
+    "subject": "What else is bundled into the reader contract",
+    "body": "Dear {{officialName}},\n\nVendors like to bundle. A contract that appears to cover cameras may also include software and access to systems residents have never heard discussed at a public meeting, all under one recurring figure. That is difficult to evaluate from outside, and it is why I am asking rather than asserting.\n\nWhat exactly does the {{city}} agreement cover beyond the readers themselves near {{school}}? Bundling makes spending harder to judge and easier to renew, which is presumably part of its appeal to the seller.\n\nI would like the {{role}} to unbundle the question and then answer it by removing the readers around campus and approving no new installations. I am a student here, and if you disagree with me, an itemized description would at least let residents disagree with you on the facts. Would you obtain one?"
+  },
+  {
+    "id": "fiscal-089",
+    "angle": "fiscal",
+    "subject": "Asking simply where you stand on continued funding",
+    "body": "Dear {{officialName}},\n\nNo argument in this one, just a request for a position. As {{officialTitle}}, would you vote to continue funding automated license plate readers in {{city}}, or would you vote to stop?\n\nI ask because constituents deserve to know how their representatives intend to handle recurring spending before it renews, especially spending that has never been debated in public with a figure attached.\n\nFor my part, I am a student here and I would like the readers near {{shortName}} removed with no new ones installed. You may hold the opposite view, and I would rather hear it than not. A clear statement either way would be more useful to me than a summary of the program's purpose, which I have already read. Could you give me one? Thank you for your time."
+  },
+  {
+    "id": "fiscal-090",
+    "angle": "fiscal",
+    "subject": "Does the city keep a register of recurring contracts",
+    "body": "Dear {{officialName}},\n\nMany organizations have learned the hard way to keep a register of recurring contracts and review them on a schedule. Whether {{city}} does this, and whether the plate reader agreement sits on that register, would tell residents how seriously the recurring spending is managed.\n\nCould you find out? If no register exists, the {{role}} might consider creating one, which would surface a good deal more than this single program.\n\nThe program itself I would like ended, with the readers around {{school}} removed and none installed in their place. I am one student and I may be missing something, though better contract management would probably reach a similar conclusion on its own. Would you support the register, and would you support the removal? I would be glad of an answer to either."
+  },
+  {
+    "id": "fiscal-091",
+    "angle": "fiscal",
+    "subject": "Poles outlast the officials who approved them",
+    "body": "Dear {{officialName}},\n\nPoles and mounts outlast the officials who approve them. So does the contract that keeps the cameras on them running, which is how one evening's agenda item becomes a permanent feature of the budget in {{city}}. That permanence is what I find difficult.\n\nI would like the {{role}} to treat the plate readers around {{shortName}} as the long-term commitment they appear to be, and to decide accordingly.\n\nDeciding accordingly, in my view as a student here, means removing them and installing no new ones. If the body decides otherwise, I hope it will at least do so knowing the lifetime cost rather than the annual one. Has anyone calculated that? If not, would you ask for it? I would be grateful either way, and thank you for reading."
+  },
+  {
+    "id": "fiscal-092",
+    "angle": "fiscal",
+    "subject": "What comparable cities pay for the same service",
+    "body": "Dear {{officialName}},\n\nBenchmarking is ordinary procurement practice. Before renewing, it seems reasonable for {{city}} to find out what comparable jurisdictions pay for the same service and whether their terms differ.\n\nHas anyone done that work? If the price here is higher than elsewhere, the {{role}} has leverage it does not appear to be using. If it is lower, saying so publicly costs nothing.\n\nMy preference is that the comparison becomes irrelevant because the automated license plate readers around {{school}} are removed and none are installed to replace them. That is what I am asking for as a student here. Short of it, benchmarking would give residents some way to judge whether the recurring cost is defensible, which we presently lack. Would you request it, and would you share what comes back?"
+  },
+  {
+    "id": "fiscal-093",
+    "angle": "fiscal",
+    "subject": "Did the promised savings ever appear",
+    "body": "Dear {{officialName}},\n\nNew systems are often sold partly on the savings they will produce. If anything of that kind was claimed when the plate readers near {{shortName}} were approved, the natural follow-up is whether the savings appeared and where they show up in the accounts of {{city}}.\n\nCould you ask? A program that promised savings and produced none seems to me an easy candidate for the list of things the {{role}} stops funding.\n\nStopping is what I would like, as a student here, with the readers around campus removed and no new ones installed. The savings question is one route there, and it is a question the body can answer from its own records. Would you raise it, and what do you expect the answer will be? I would be grateful to hear."
+  },
+  {
+    "id": "fiscal-094",
+    "angle": "fiscal",
+    "subject": "Is this the best use of recurring public money",
+    "body": "Dear {{officialName}},\n\nStripped of everything else, the question is simple. Is an indefinite subscription for automated license plate readers the best available use of that money in {{city}}?\n\nI do not think it is, though I hold that view with less certainty than I would like. Residents cannot check my reasoning against yours, because the amount has never been published anywhere findable, which itself suggests the question has not been examined closely.\n\nI would like the {{role}} to examine it, and to conclude by removing the readers around {{school}} and approving no new ones. If the body concludes otherwise, it will at least have taken a decision rather than inherited one. As one student, that is most of what I am asking for. Would you tell me how you would answer the question?"
+  },
+  {
+    "id": "fiscal-095",
+    "angle": "fiscal",
+    "subject": "Pulling this item out of the omnibus vote",
+    "body": "Dear {{officialName}},\n\nItems buried in a large budget package get approved without ever being considered on their own. That is convenient for administration and poor for accountability, and it describes how surveillance spending usually passes.\n\nWould you move to separate the automated license plate reader funding from the omnibus vote, so the {{role}} takes a distinct decision on it with the recurring cost stated?\n\nOn the merits, I am a student who would like the readers near {{school}} removed and no new ones installed in {{city}}. A separate vote is how residents find out who agrees with them. Whether or not you share my position, would you support pulling the item out for its own consideration? I would be grateful for a reply, and grateful still if the answer is no but comes with a reason."
+  },
+  {
+    "id": "fiscal-096",
+    "angle": "fiscal",
+    "subject": "No certainty about what this will cost later",
+    "body": "Dear {{officialName}},\n\nOne thing a public body should want from a contract is knowing what it will pay. Open-ended service agreements offer the opposite, particularly where the vendor sets renewal pricing and the buyer has grown used to the tool.\n\nDoes {{city}} have cost certainty on the plate readers around {{shortName}} for the remaining term and beyond it? It seems to me the {{role}} would want that answer before committing again, and I cannot find it myself.\n\nMy request does not depend on the answer. I am a student here, and I would like the readers near campus removed with none installed in their place, which makes cost certainty easy to achieve. Would you find out what the future pricing looks like, and tell me whether you would vote to accept it? Thank you for considering this."
+  },
+  {
+    "id": "fiscal-097",
+    "angle": "fiscal",
+    "subject": "Is this justified by safety or by revenue",
+    "body": "Dear {{officialName}},\n\nSystems like this are sometimes defended as a public safety measure and sometimes as a revenue-producing one, and the two justifications call for quite different scrutiny. Residents of {{city}} have not been told which applies here, and I would like to know before forming a firmer view.\n\nIf the plate readers near {{school}} are expected to produce revenue, I would like that expectation stated openly, along with what happens to the program if the revenue does not appear. Without such an expectation, the recurring cost stands entirely on its own.\n\nEither way, I am a student asking for removal of the readers around campus and no new installations. I hope the {{role}} can say plainly what the money is for. Could you tell me which justification you rely on?"
+  },
+  {
+    "id": "fiscal-098",
+    "angle": "fiscal",
+    "subject": "Every month of delay is another month of payments",
+    "body": "Dear {{officialName}},\n\nDeferral has a price here that it does not have elsewhere. Every month the {{role}} does not take up the plate reader question, {{city}} pays for another month of service, and the case for continuity grows a little stronger through nothing but elapsed time. That is what makes me want to write now rather than wait.\n\nIt seems to me a reason to schedule the discussion soon rather than at the next convenient moment.\n\nWhen it happens, I hope the decision is removal of the readers around {{shortName}} and a commitment to install none in future. I am one student, and if the body decides differently, at least the money will have been spent deliberately. Would you push for the item to be scheduled, and could you tell me how you would vote?"
+  },
+  {
+    "id": "fiscal-099",
+    "angle": "fiscal",
+    "subject": "The money side of this, set out briefly",
+    "body": "Dear {{officialName}},\n\nSetting privacy aside for a moment, the money side troubles me on its own. The cost recurs, the total has not been published, the renewal happens without a vote, and nobody has shown what the spending buys.\n\nAny one of those would justify a review by the {{role}}. Together they are why I am asking for the program to end: remove the automated license plate readers around {{school}}, and install no new ones in {{city}}.\n\nI would much rather be argued out of this position with figures than left with silence. I am a student here, and if the accounts support the program, publishing them would be the simplest way to answer letters like mine. Would you publish them, or would you support removal? Either reply would be welcome, and thank you for reading."
+  },
+  {
+    "id": "fiscal-100",
+    "angle": "fiscal",
+    "subject": "A standing commitment against spending on more readers",
+    "body": "Dear {{officialName}},\n\nWhatever happens to the existing contract, the {{role}} could decide today not to spend more. A standing commitment against funding additional automated license plate readers in {{city}} would cost nothing to make and would settle a recurring question before it arrives.\n\nAlongside it, I am asking that the readers already in place around {{shortName}} be removed. Mapped data counts {{readersWithinMile}} of them within a mile of campus, each attached to a payment that continues indefinitely.\n\nResidents cannot audit what they cannot see, and at present the cost of this program is not visible in anything the city publishes. As a student here, that is the part that stays with me. Would you make the commitment, and would you tell me where you stand on removal? Thank you for taking the time to read this."
+  }
+]

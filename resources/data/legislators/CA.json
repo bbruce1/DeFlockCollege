@@ -1,0 +1,1507 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "James Gallagher",
+    "party": "Republican",
+    "phone": "202-225-3076",
+    "url": null
+   }
+  ],
+  "10": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Mark DeSaulnier",
+    "party": "Democrat",
+    "phone": "202-225-2095",
+    "url": "https://desaulnier.house.gov"
+   }
+  ],
+  "11": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Nancy Pelosi",
+    "party": "Democrat",
+    "phone": "202-225-4965",
+    "url": "https://pelosi.house.gov"
+   }
+  ],
+  "12": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Lateefah Simon",
+    "party": "Democrat",
+    "phone": "202-225-2661",
+    "url": "https://simon.house.gov"
+   }
+  ],
+  "13": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Adam Gray",
+    "party": "Democrat",
+    "phone": "202-225-1947",
+    "url": "https://gray.house.gov"
+   }
+  ],
+  "14": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Aisha Wahab",
+    "party": "Democrat",
+    "phone": "202-225-5065",
+    "url": null
+   }
+  ],
+  "15": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Kevin Mullin",
+    "party": "Democrat",
+    "phone": "202-225-3531",
+    "url": "https://kevinmullin.house.gov"
+   }
+  ],
+  "16": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Sam Liccardo",
+    "party": "Democrat",
+    "phone": "202-225-8104",
+    "url": "https://liccardo.house.gov"
+   }
+  ],
+  "17": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Ro Khanna",
+    "party": "Democrat",
+    "phone": "202-225-2631",
+    "url": "https://khanna.house.gov"
+   }
+  ],
+  "18": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Zoe Lofgren",
+    "party": "Democrat",
+    "phone": "202-225-3072",
+    "url": "https://lofgren.house.gov"
+   }
+  ],
+  "19": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Jimmy Panetta",
+    "party": "Democrat",
+    "phone": "202-225-2861",
+    "url": "https://panetta.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Jared Huffman",
+    "party": "Democrat",
+    "phone": "202-225-5161",
+    "url": "https://huffman.house.gov"
+   }
+  ],
+  "20": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Vince Fong",
+    "party": "Republican",
+    "phone": "202-225-2915",
+    "url": "https://fong.house.gov"
+   }
+  ],
+  "21": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Jim Costa",
+    "party": "Democrat",
+    "phone": "202-225-3341",
+    "url": "https://costa.house.gov"
+   }
+  ],
+  "22": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "David Valadao",
+    "party": "Republican",
+    "phone": "202-225-4695",
+    "url": "https://valadao.house.gov"
+   }
+  ],
+  "23": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Jay Obernolte",
+    "party": "Republican",
+    "phone": "202-225-5861",
+    "url": "https://obernolte.house.gov"
+   }
+  ],
+  "24": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Salud Carbajal",
+    "party": "Democrat",
+    "phone": "202-225-3601",
+    "url": "https://carbajal.house.gov"
+   }
+  ],
+  "25": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Raul Ruiz",
+    "party": "Democrat",
+    "phone": "202-225-5330",
+    "url": "https://ruiz.house.gov"
+   }
+  ],
+  "26": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Julia Brownley",
+    "party": "Democrat",
+    "phone": "202-225-5811",
+    "url": "https://juliabrownley.house.gov"
+   }
+  ],
+  "27": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "George Whitesides",
+    "party": "Democrat",
+    "phone": "202-225-1956",
+    "url": "https://whitesides.house.gov"
+   }
+  ],
+  "28": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Judy Chu",
+    "party": "Democrat",
+    "phone": "202-225-5464",
+    "url": "https://chu.house.gov"
+   }
+  ],
+  "29": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Luz Rivas",
+    "party": "Democrat",
+    "phone": "202-225-6131",
+    "url": "https://rivas.house.gov"
+   }
+  ],
+  "3": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Kevin Kiley",
+    "party": "Independent",
+    "phone": "202-225-2523",
+    "url": "https://kiley.house.gov"
+   }
+  ],
+  "30": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Laura Friedman",
+    "party": "Democrat",
+    "phone": "202-225-4176",
+    "url": "https://friedman.house.gov"
+   }
+  ],
+  "31": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Gilbert Cisneros",
+    "party": "Democrat",
+    "phone": "202-225-5256",
+    "url": "https://cisneros.house.gov"
+   }
+  ],
+  "32": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Brad Sherman",
+    "party": "Democrat",
+    "phone": "202-225-5911",
+    "url": "https://sherman.house.gov"
+   }
+  ],
+  "33": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Pete Aguilar",
+    "party": "Democrat",
+    "phone": "202-225-3201",
+    "url": "https://aguilar.house.gov"
+   }
+  ],
+  "34": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Jimmy Gomez",
+    "party": "Democrat",
+    "phone": "202-225-6235",
+    "url": "https://gomez.house.gov"
+   }
+  ],
+  "35": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Norma Torres",
+    "party": "Democrat",
+    "phone": "202-225-6161",
+    "url": "https://torres.house.gov"
+   }
+  ],
+  "36": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Ted Lieu",
+    "party": "Democrat",
+    "phone": "202-225-3976",
+    "url": "https://lieu.house.gov"
+   }
+  ],
+  "37": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Sydney Kamlager-Dove",
+    "party": "Democrat",
+    "phone": "202-225-7084",
+    "url": "https://kamlager-dove.house.gov"
+   }
+  ],
+  "38": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Linda S\u00e1nchez",
+    "party": "Democrat",
+    "phone": "202-225-6676",
+    "url": "https://lindasanchez.house.gov"
+   }
+  ],
+  "39": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Mark Takano",
+    "party": "Democrat",
+    "phone": "202-225-2305",
+    "url": "https://takano.house.gov"
+   }
+  ],
+  "4": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Mike Thompson",
+    "party": "Democrat",
+    "phone": "202-225-3311",
+    "url": "https://mikethompson.house.gov"
+   }
+  ],
+  "40": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Young Kim",
+    "party": "Republican",
+    "phone": "202-225-4111",
+    "url": "https://youngkim.house.gov"
+   }
+  ],
+  "41": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Ken Calvert",
+    "party": "Republican",
+    "phone": "202-225-1986",
+    "url": "https://calvert.house.gov"
+   }
+  ],
+  "42": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Robert Garcia",
+    "party": "Democrat",
+    "phone": "202-225-7924",
+    "url": "https://robertgarcia.house.gov"
+   }
+  ],
+  "43": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Maxine Waters",
+    "party": "Democrat",
+    "phone": "202-225-2201",
+    "url": "https://waters.house.gov"
+   }
+  ],
+  "44": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Nanette Barrag\u00e1n",
+    "party": "Democrat",
+    "phone": "202-225-8220",
+    "url": "https://barragan.house.gov"
+   }
+  ],
+  "45": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Derek Tran",
+    "party": "Democrat",
+    "phone": "202-225-2415",
+    "url": "https://tran.house.gov"
+   }
+  ],
+  "46": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "J. Correa",
+    "party": "Democrat",
+    "phone": "202-225-2965",
+    "url": "https://correa.house.gov"
+   }
+  ],
+  "47": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Dave Min",
+    "party": "Democrat",
+    "phone": "202-225-5611",
+    "url": "https://min.house.gov"
+   }
+  ],
+  "48": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Darrell Issa",
+    "party": "Republican",
+    "phone": "202-225-5672",
+    "url": "https://issa.house.gov"
+   }
+  ],
+  "49": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Mike Levin",
+    "party": "Democrat",
+    "phone": "202-225-3906",
+    "url": "https://levin.house.gov"
+   }
+  ],
+  "5": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Tom McClintock",
+    "party": "Republican",
+    "phone": "202-225-2511",
+    "url": "https://mcclintock.house.gov"
+   }
+  ],
+  "50": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Scott Peters",
+    "party": "Democrat",
+    "phone": "202-225-0508",
+    "url": "https://scottpeters.house.gov"
+   }
+  ],
+  "51": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Sara Jacobs",
+    "party": "Democrat",
+    "phone": "202-225-2040",
+    "url": "https://sarajacobs.house.gov"
+   }
+  ],
+  "52": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Juan Vargas",
+    "party": "Democrat",
+    "phone": "202-225-8045",
+    "url": "https://vargas.house.gov"
+   }
+  ],
+  "6": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Ami Bera",
+    "party": "Democrat",
+    "phone": "202-225-5716",
+    "url": "https://bera.house.gov"
+   }
+  ],
+  "7": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Doris Matsui",
+    "party": "Democrat",
+    "phone": "202-225-7163",
+    "url": "https://matsui.house.gov"
+   }
+  ],
+  "8": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "John Garamendi",
+    "party": "Democrat",
+    "phone": "202-225-1880",
+    "url": "https://garamendi.house.gov"
+   }
+  ],
+  "9": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Josh Harder",
+    "party": "Democrat",
+    "phone": "202-225-4540",
+    "url": "https://harder.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": null,
+   "email": null,
+   "name": "Adam Schiff",
+   "party": "Democrat",
+   "phone": "202-224-3841",
+   "url": "https://www.schiff.senate.gov"
+  },
+  {
+   "contactForm": "https://www.padilla.senate.gov/contact/",
+   "email": null,
+   "name": "Alejandro Padilla",
+   "party": "Democrat",
+   "phone": "202-224-3553",
+   "url": "https://www.padilla.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "assemblymember.hadwick@assembly.ca.gov",
+    "name": "Heather Hadwick",
+    "party": "Republican",
+    "url": "https://ad01.asmrc.org/"
+   }
+  ],
+  "10": [
+   {
+    "email": "assemblymember.stephanienguyen@assembly.ca.gov",
+    "name": "Stephanie Nguyen",
+    "party": "Democratic",
+    "url": "https://a10.asmdc.org"
+   }
+  ],
+  "11": [
+   {
+    "email": "assemblymember.wilson@assembly.ca.gov",
+    "name": "Lori Wilson",
+    "party": "Democratic",
+    "url": "https://a11.asmdc.org"
+   }
+  ],
+  "12": [
+   {
+    "email": "assemblymember.connolly@assembly.ca.gov",
+    "name": "Damon Connolly",
+    "party": "Democratic",
+    "url": "https://a12.asmdc.org/"
+   }
+  ],
+  "13": [
+   {
+    "email": "assemblymember.ransom@assembly.ca.gov",
+    "name": "Rhodesia Ransom",
+    "party": "Democratic",
+    "url": "https://a13.asmdc.org/"
+   }
+  ],
+  "14": [
+   {
+    "email": "assemblymember.wicks@assembly.ca.gov",
+    "name": "Buffy Wicks",
+    "party": "Democratic",
+    "url": "https://a14.asmdc.org"
+   }
+  ],
+  "15": [
+   {
+    "email": "assemblymember.avilafarias@assembly.ca.gov",
+    "name": "Anamarie Avila Farias",
+    "party": "Democratic",
+    "url": "https://a15.asmdc.org/"
+   }
+  ],
+  "16": [
+   {
+    "email": "assemblymember.bauer-kahan@assembly.ca.gov",
+    "name": "Rebecca Bauer-Kahan",
+    "party": "Democratic",
+    "url": "https://a16.asmdc.org/"
+   }
+  ],
+  "17": [
+   {
+    "email": "assemblymember.haney@assembly.ca.gov",
+    "name": "Matt Haney",
+    "party": "Democratic",
+    "url": "https://a17.asmdc.org/"
+   }
+  ],
+  "18": [
+   {
+    "email": "assemblymember.mbonta@assembly.ca.gov",
+    "name": "Mia Bonta",
+    "party": "Democratic",
+    "url": "https://a18.asmdc.org"
+   }
+  ],
+  "19": [
+   {
+    "email": "assemblymember.stefani@assembly.ca.gov",
+    "name": "Catherine Stefani",
+    "party": "Democratic",
+    "url": "https://a19.asmdc.org/"
+   }
+  ],
+  "2": [
+   {
+    "email": "assemblymember.rogers@assembly.ca.gov",
+    "name": "Chris Rogers",
+    "party": "Democratic",
+    "url": "https://a02.asmdc.org/"
+   }
+  ],
+  "20": [
+   {
+    "email": "assemblymember.ortega@assembly.ca.gov",
+    "name": "Liz Ortega",
+    "party": "Democratic",
+    "url": "https://a20.asmdc.org"
+   }
+  ],
+  "21": [
+   {
+    "email": "assemblymember.papan@assembly.ca.gov",
+    "name": "Diane Papan",
+    "party": "Democratic",
+    "url": "https://a21.asmdc.org"
+   }
+  ],
+  "22": [
+   {
+    "email": "assemblymember.alanis@assembly.ca.gov",
+    "name": "Juan Alanis",
+    "party": "Republican",
+    "url": "https://ad22.asmrc.org/"
+   }
+  ],
+  "23": [
+   {
+    "email": "assemblymember.berman@assembly.ca.gov",
+    "name": "Marc Berman",
+    "party": "Democratic",
+    "url": "https://a23.asmdc.org/"
+   }
+  ],
+  "24": [
+   {
+    "email": "assemblymember.lee@assembly.ca.gov",
+    "name": "Alex Lee",
+    "party": "Democratic",
+    "url": "https://a24.asmdc.org/"
+   }
+  ],
+  "25": [
+   {
+    "email": "assemblymember.kalra@assembly.ca.gov",
+    "name": "Ash Kalra",
+    "party": "Democratic",
+    "url": "https://a25.asmdc.org/"
+   }
+  ],
+  "26": [
+   {
+    "email": "assemblymember.ahrens@assembly.ca.gov",
+    "name": "Patrick Ahrens",
+    "party": "Democratic",
+    "url": "https://a26.asmdc.org/"
+   }
+  ],
+  "27": [
+   {
+    "email": "assemblymember.soria@assembly.ca.gov",
+    "name": "Esmeralda Soria",
+    "party": "Democratic",
+    "url": "https://a27.asmdc.org/"
+   }
+  ],
+  "28": [
+   {
+    "email": "assemblymember.pellerin@assembly.ca.gov",
+    "name": "Gail Pellerin",
+    "party": "Democratic",
+    "url": "https://a28.asmdc.org/"
+   }
+  ],
+  "29": [
+   {
+    "email": "assemblymember.robertrivas@assembly.ca.gov",
+    "name": "Robert Rivas",
+    "party": "Democratic",
+    "url": "https://a29.asmdc.org/"
+   }
+  ],
+  "30": [
+   {
+    "email": "dawn.addis@asm.ca.gov",
+    "name": "Dawn Addis",
+    "party": "Democratic",
+    "url": "https://a30.asmdc.org/"
+   }
+  ],
+  "31": [
+   {
+    "email": "assemblymember.arambula@assembly.ca.gov",
+    "name": "Joaquin Arambula",
+    "party": "Democratic",
+    "url": "https://a31.asmdc.org/"
+   }
+  ],
+  "32": [
+   {
+    "email": "assemblymember.ellis@assembly.ca.gov",
+    "name": "Stan Ellis",
+    "party": "Republican",
+    "url": "https://ad32.asmrc.org/"
+   }
+  ],
+  "33": [
+   {
+    "email": "assemblymember.macedo@assembly.ca.gov",
+    "name": "Ali Macedo",
+    "party": "Republican",
+    "url": "https://ad33.asmrc.org/"
+   }
+  ],
+  "34": [
+   {
+    "email": "assemblymember.lackey@assembly.ca.gov",
+    "name": "Tom Lackey",
+    "party": "Republican",
+    "url": "https://ad34.asmrc.org/"
+   }
+  ],
+  "35": [
+   {
+    "email": "assemblymember.bains@assembly.ca.gov",
+    "name": "Jasmeet Bains",
+    "party": "Democratic",
+    "url": "https://a35.asmdc.org/"
+   }
+  ],
+  "36": [
+   {
+    "email": "assemblymember.gonzalez@assembly.ca.gov",
+    "name": "Jeff Gonzalez",
+    "party": "Republican",
+    "url": "https://ad36.asmrc.org/"
+   }
+  ],
+  "37": [
+   {
+    "email": "assemblymember.hart@assembly.ca.gov",
+    "name": "Gregg Hart",
+    "party": "Democratic",
+    "url": "https://a37.asmdc.org/"
+   }
+  ],
+  "38": [
+   {
+    "email": "assemblymember.bennett@assembly.ca.gov",
+    "name": "Steve Bennett",
+    "party": "Democratic",
+    "url": "https://a37.asmdc.org/"
+   }
+  ],
+  "39": [
+   {
+    "email": "assemblymember.juancarrillo@assembly.ca.gov",
+    "name": "Juan Carrillo",
+    "party": "Democratic",
+    "url": "https://a39.asmdc.org/"
+   }
+  ],
+  "4": [
+   {
+    "email": "assemblymember.aguiar-curry@assembly.ca.gov",
+    "name": "Cecilia Aguiar-Curry",
+    "party": "Democratic",
+    "url": "https://a04.asmdc.org/"
+   }
+  ],
+  "40": [
+   {
+    "email": "assemblymember.schiavo@assembly.ca.gov",
+    "name": "Pilar Schiavo",
+    "party": "Democratic",
+    "url": "https://a40.asmdc.org/"
+   }
+  ],
+  "41": [
+   {
+    "email": "assemblymember.harabedian@assembly.ca.gov",
+    "name": "John Harabedian",
+    "party": "Democratic",
+    "url": "https://a41.asmdc.org/"
+   }
+  ],
+  "42": [
+   {
+    "email": "assemblymember.irwin@assembly.ca.gov",
+    "name": "Jacqui Irwin",
+    "party": "Democratic",
+    "url": "https://a42.asmdc.org/"
+   }
+  ],
+  "43": [
+   {
+    "email": "assemblymember.celesterodriguez@assembly.ca.gov",
+    "name": "Celeste Rodriguez",
+    "party": "Democratic",
+    "url": "https://a43.asmdc.org/"
+   }
+  ],
+  "44": [
+   {
+    "email": "assemblymember.schultz@assembly.ca.gov",
+    "name": "Nick Schultz",
+    "party": "Democratic",
+    "url": "https://a44.asmdc.org/"
+   }
+  ],
+  "45": [
+   {
+    "email": "assemblymember.ramos@assembly.ca.gov",
+    "name": "James Ramos",
+    "party": "Democratic",
+    "url": "https://a40.asmdc.org/"
+   }
+  ],
+  "46": [
+   {
+    "email": "assemblymember.gabriel@assembly.ca.gov",
+    "name": "Jesse Gabriel",
+    "party": "Democratic",
+    "url": "https://a45.asmdc.org/"
+   }
+  ],
+  "47": [
+   {
+    "email": "assemblymember.wallis@assembly.ca.gov",
+    "name": "Greg Wallis",
+    "party": "Republican",
+    "url": "https://ad47.asmrc.org/"
+   }
+  ],
+  "48": [
+   {
+    "email": "assemblymember.rubio@assembly.ca.gov",
+    "name": "Blanca Rubio",
+    "party": "Democratic",
+    "url": "https://a48.asmdc.org"
+   }
+  ],
+  "49": [
+   {
+    "email": "assemblymember.mikefong@asm.ca.gov",
+    "name": "Mike Fong",
+    "party": "Democratic",
+    "url": "https://a49.asmdc.org/"
+   }
+  ],
+  "5": [
+   {
+    "email": "assemblymember.joepatterson@assembly.ca.gov",
+    "name": "Joe Patterson",
+    "party": "Republican",
+    "url": "https://ad05.asmrc.org"
+   }
+  ],
+  "50": [
+   {
+    "email": "assemblymember.garcia@assembly.ca.gov",
+    "name": "Robert Garcia",
+    "party": "Democratic",
+    "url": "https://a50.asmdc.org/"
+   }
+  ],
+  "51": [
+   {
+    "email": "assemblymember.zbur@assembly.ca.gov",
+    "name": "Rick Zbur",
+    "party": "Democratic",
+    "url": "https://a51.asmdc.org/"
+   }
+  ],
+  "52": [
+   {
+    "email": "assemblymember.caloza@assembly.ca.gov",
+    "name": "Jessica Caloza",
+    "party": "Democratic",
+    "url": "https://a52.asmdc.org/"
+   }
+  ],
+  "53": [
+   {
+    "email": "assemblymember.michellerodriguez@assembly.ca.gov",
+    "name": "Michelle Rodriguez",
+    "party": "Democratic",
+    "url": "https://a53.asmdc.org/"
+   }
+  ],
+  "54": [
+   {
+    "email": "assemblymember.gonzalez@assembly.ca.gov",
+    "name": "Mark Gonz\u00e1lez",
+    "party": "Democratic",
+    "url": "https://a54.asmdc.org/"
+   }
+  ],
+  "55": [
+   {
+    "email": "assemblymember.bryan@assembly.ca.gov",
+    "name": "Isaac Bryan",
+    "party": "Democratic",
+    "url": "https://a54.asmdc.org"
+   }
+  ],
+  "56": [
+   {
+    "email": "assemblymember.calderon@assembly.ca.gov",
+    "name": "Lisa Calderon",
+    "party": "Democratic",
+    "url": "https://a56.asmdc.org/"
+   }
+  ],
+  "57": [
+   {
+    "email": "assemblymember.elhawary@assembly.ca.gov",
+    "name": "Sade Elhawary",
+    "party": "Democratic",
+    "url": "https://a57.asmdc.org/"
+   }
+  ],
+  "58": [
+   {
+    "email": "assemblymember.castillo@assembly.ca.gov",
+    "name": "Leticia Castillo",
+    "party": "Republican",
+    "url": "https://ad58.asmrc.org/"
+   }
+  ],
+  "59": [
+   {
+    "email": "assemblymember.chen@assembly.ca.gov",
+    "name": "Phillip Chen",
+    "party": "Republican",
+    "url": "https://ad55.asmrc.org"
+   }
+  ],
+  "6": [
+   {
+    "email": "assemblymember.krell@assembly.ca.gov",
+    "name": "Maggy Krell",
+    "party": "Democratic",
+    "url": "https://a06.asmdc.org/"
+   }
+  ],
+  "60": [
+   {
+    "email": "assemblymember.jackson@assembly.ca.gov",
+    "name": "Corey Jackson",
+    "party": "Democratic",
+    "url": "https://a60.asmdc.org/"
+   }
+  ],
+  "61": [
+   {
+    "email": "assemblymember.mckinnor@assembly.ca.gov",
+    "name": "Tina McKinnor",
+    "party": "Democratic",
+    "url": "https://a61.asmdc.org/"
+   }
+  ],
+  "62": [
+   {
+    "email": "assemblymember.solache@assembly.ca.gov",
+    "name": "Jos\u00e9 Solache",
+    "party": "Democratic",
+    "url": "https://a62.asmdc.org/"
+   }
+  ],
+  "63": [
+   {
+    "email": "assemblymember.johnson@assembly.ca.gov",
+    "name": "Natasha Johnson",
+    "party": "Republican",
+    "url": "https://ad63.asmrc.org/"
+   }
+  ],
+  "64": [
+   {
+    "email": "assemblymember.pacheco@assembly.ca.gov",
+    "name": "Blanca Pacheco",
+    "party": "Democratic",
+    "url": "https://a64.asmdc.org/"
+   }
+  ],
+  "65": [
+   {
+    "email": "assemblymember.gipson@assembly.ca.gov",
+    "name": "Mike Gipson",
+    "party": "Democratic",
+    "url": "https://a64.asmdc.org/"
+   }
+  ],
+  "66": [
+   {
+    "email": "assemblymember.muratsuchi@assembly.ca.gov",
+    "name": "Al Muratsuchi",
+    "party": "Democratic",
+    "url": "https://a66.asmdc.org/"
+   }
+  ],
+  "67": [
+   {
+    "email": "assemblymember.quirk-silva@assembly.ca.gov",
+    "name": "Sharon Quirk-Silva",
+    "party": "Democratic",
+    "url": "https://a65.asmdc.org/"
+   }
+  ],
+  "68": [
+   {
+    "email": "assemblymember.valencia@assembly.ca.gov",
+    "name": "Avelino Valencia",
+    "party": "Democratic",
+    "url": "https://a68.asmdc.org/"
+   }
+  ],
+  "69": [
+   {
+    "email": "assemblymember.lowenthal@assembly.ca.gov",
+    "name": "Josh Lowenthal",
+    "party": "Democratic",
+    "url": "https://a69.asmdc.org/"
+   }
+  ],
+  "7": [
+   {
+    "email": "assemblymember.hoover@assembly.ca.gov",
+    "name": "Joshua Hoover",
+    "party": "Republican",
+    "url": "https://ad07.asmrc.org"
+   }
+  ],
+  "70": [
+   {
+    "email": "assemblymember.ta@assembly.ca.gov",
+    "name": "Tri Ta",
+    "party": "Republican",
+    "url": "https://ad70.asmrc.org"
+   }
+  ],
+  "71": [
+   {
+    "email": "assemblymember.sanchez@assembly.ca.gov",
+    "name": "Kate Sanchez",
+    "party": "Republican",
+    "url": "https://ad71.asmrc.org/"
+   }
+  ],
+  "72": [
+   {
+    "email": "assemblymember.dixon@assembly.ca.gov",
+    "name": "Diane Dixon",
+    "party": "Republican",
+    "url": "https://ad72.asmrc.org"
+   }
+  ],
+  "73": [
+   {
+    "email": "assemblymember.petrie-norris@assembly.ca.gov",
+    "name": "Cottie Petrie-Norris",
+    "party": "Democratic",
+    "url": "https://a73.asmdc.org/"
+   }
+  ],
+  "74": [
+   {
+    "email": "assemblymember.davies@assembly.ca.gov",
+    "name": "Laurie Davies",
+    "party": "Republican",
+    "url": "https://ad73.asmrc.org/"
+   }
+  ],
+  "75": [
+   {
+    "email": "assemblymember.demaio@assembly.ca.gov",
+    "name": "Carl DeMaio",
+    "party": "Republican",
+    "url": "https://ad75.asmrc.org/"
+   }
+  ],
+  "76": [
+   {
+    "email": "assemblymember.patel@assembly.ca.gov",
+    "name": "Darsh Patel",
+    "party": "Democratic",
+    "url": "https://a76.asmdc.org/"
+   }
+  ],
+  "77": [
+   {
+    "email": "assemblymember.boerner@assembly.ca.gov",
+    "name": "Tasha Boerner",
+    "party": "Democratic",
+    "url": "https://a77.asmdc.org/"
+   }
+  ],
+  "78": [
+   {
+    "email": "assemblymember.ward@assembly.ca.gov",
+    "name": "Chris Ward",
+    "party": "Democratic",
+    "url": "https://a78.asmdc.org/"
+   }
+  ],
+  "79": [
+   {
+    "email": "assemblymember.sharpcollins@assembly.ca.gov",
+    "name": "LaShae Sharp-Collins",
+    "party": "Democratic",
+    "url": "https://a79.asmdc.org/"
+   }
+  ],
+  "8": [
+   {
+    "email": "assemblymember.tangipa@assembly.ca.gov",
+    "name": "David Tangipa",
+    "party": "Republican",
+    "url": "https://ad08.asmrc.org/"
+   }
+  ],
+  "80": [
+   {
+    "email": "assemblymember.alvarez@assembly.ca.gov",
+    "name": "David Alvarez",
+    "party": "Democratic",
+    "url": "https://a80.asmdc.org/"
+   }
+  ],
+  "9": [
+   {
+    "email": "assemblymember.flora@assembly.ca.gov",
+    "name": "Heath Flora",
+    "party": "Republican",
+    "url": "https://ad09.asmrc.org/"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/ca.csv"
+ },
+ "state": "CA",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "senator.dahle@senate.ca.gov",
+    "name": "Megan Dahle",
+    "party": "Republican",
+    "url": "https://ad01.asmrc.org/"
+   }
+  ],
+  "10": [
+   {
+    "email": "senator.wahab@senate.ca.gov",
+    "name": "Aisha Wahab",
+    "party": "Democratic",
+    "url": "https://sd10.senate.ca.gov/"
+   }
+  ],
+  "11": [
+   {
+    "email": "senator.wiener@senate.ca.gov",
+    "name": "Scott Wiener",
+    "party": "Democratic",
+    "url": "https://sd11.senate.ca.gov/"
+   }
+  ],
+  "12": [
+   {
+    "email": "senator.grove@senate.ca.gov",
+    "name": "Shannon Grove",
+    "party": "Republican",
+    "url": "https://senate.ca.gov/sd12"
+   }
+  ],
+  "13": [
+   {
+    "email": "senator.becker@senate.ca.gov",
+    "name": "Josh Becker",
+    "party": "Democratic",
+    "url": "https://sd13.senate.ca.gov/"
+   }
+  ],
+  "14": [
+   {
+    "email": "senator.caballero@senate.ca.gov",
+    "name": "Anna Caballero",
+    "party": "Democratic",
+    "url": "https://sd14.senate.ca.gov/"
+   }
+  ],
+  "15": [
+   {
+    "email": "senator.cortese@senate.ca.gov",
+    "name": "Dave Cortese",
+    "party": "Democratic",
+    "url": "https://sd15.senate.ca.gov/"
+   }
+  ],
+  "16": [
+   {
+    "email": "senator.hurtado@senate.ca.gov",
+    "name": "Melissa Hurtado",
+    "party": "Democratic",
+    "url": "https://sd16.senate.ca.gov/"
+   }
+  ],
+  "17": [
+   {
+    "email": "senator.laird@senate.ca.gov",
+    "name": "John Laird",
+    "party": "Democratic",
+    "url": "https://sd17.senate.ca.gov/"
+   }
+  ],
+  "18": [
+   {
+    "email": "senator.padilla@senate.ca.gov",
+    "name": "Steve Padilla",
+    "party": "Democratic",
+    "url": "https://sd18.senate.ca.gov/"
+   }
+  ],
+  "19": [
+   {
+    "email": "senator.ochoabogh@senate.ca.gov",
+    "name": "Rosilicie Ochoa Bogh",
+    "party": "Republican",
+    "url": "https://senate.ca.gov/sd23"
+   }
+  ],
+  "2": [
+   {
+    "email": "senator.mcguire@senate.ca.gov",
+    "name": "Mike McGuire",
+    "party": "Democratic",
+    "url": "https://sd02.senate.ca.gov/"
+   }
+  ],
+  "20": [
+   {
+    "email": "senator.menjivar@senate.ca.gov",
+    "name": "Caroline Menjivar",
+    "party": "Democratic",
+    "url": "https://sd20.senate.ca.gov/"
+   }
+  ],
+  "21": [
+   {
+    "email": "senator.limon@senate.ca.gov",
+    "name": "Monique Lim\u00f3n",
+    "party": "Democratic",
+    "url": "https://sd19.senate.ca.gov/"
+   }
+  ],
+  "22": [
+   {
+    "email": "senator.rubio@senate.ca.gov",
+    "name": "Susan Rubio",
+    "party": "Democratic",
+    "url": "https://sd22.senate.ca.gov/"
+   }
+  ],
+  "23": [
+   {
+    "email": "senator.valladares@senate.ca.gov",
+    "name": "Suzette Valladares",
+    "party": "Republican",
+    "url": "https://a38.asmdc.org/"
+   }
+  ],
+  "24": [
+   {
+    "email": "senator.allen@senate.ca.gov",
+    "name": "Ben Allen",
+    "party": "Democratic",
+    "url": "https://sd24.senate.ca.gov/"
+   }
+  ],
+  "25": [
+   {
+    "email": "senator.perez@senate.ca.gov",
+    "name": "Sasha P\u00e9rez",
+    "party": "Democratic",
+    "url": "https://sd25.senate.ca.gov/"
+   }
+  ],
+  "26": [
+   {
+    "email": "senator.durazo@senate.ca.gov",
+    "name": "Mar\u00eda Elena Durazo",
+    "party": "Democratic",
+    "url": "https://sd26.senate.ca.gov/"
+   }
+  ],
+  "27": [
+   {
+    "email": "senator.stern@senate.ca.gov",
+    "name": "Henry Stern",
+    "party": "Democratic",
+    "url": "https://sd27.senate.ca.gov/"
+   }
+  ],
+  "28": [
+   {
+    "email": "senator.smallwood-cuevas@senate.ca.gov",
+    "name": "Lola Smallwood-Cuevas",
+    "party": "Democratic",
+    "url": "https://sd28.senate.ca.gov/"
+   }
+  ],
+  "29": [
+   {
+    "email": "senator.reyes@senate.ca.gov",
+    "name": "Eloise Reyes",
+    "party": "Democratic",
+    "url": "https://a47.asmdc.org"
+   }
+  ],
+  "3": [
+   {
+    "email": "senator.cabaldon@senate.ca.gov",
+    "name": "Christopher Cabaldon",
+    "party": "Democratic",
+    "url": "https://sd03.senate.ca.gov/"
+   }
+  ],
+  "30": [
+   {
+    "email": "senator.archuleta@senate.ca.gov",
+    "name": "Bob Archuleta",
+    "party": "Democratic",
+    "url": "https://sd30.senate.ca.gov/"
+   }
+  ],
+  "31": [
+   {
+    "email": "senator.cervantes@senate.ca.gov",
+    "name": "Sabrina Cervantes",
+    "party": "Democratic",
+    "url": "https://a58.asmdc.org/"
+   }
+  ],
+  "32": [
+   {
+    "email": "senator.seyarto@senate.ca.gov",
+    "name": "Kelly Seyarto",
+    "party": "Republican",
+    "url": "https://ad67.asmrc.org/"
+   }
+  ],
+  "33": [
+   {
+    "email": "senator.gonzalez@senate.ca.gov",
+    "name": "Lena Gonzalez",
+    "party": "Democratic",
+    "url": "https://sd33.senate.ca.gov/"
+   }
+  ],
+  "34": [
+   {
+    "email": "senator.umberg@senate.ca.gov",
+    "name": "Tom Umberg",
+    "party": "Democratic",
+    "url": "https://sd34.senate.ca.gov/"
+   }
+  ],
+  "35": [
+   {
+    "email": "senator.richardson@senate.ca.gov",
+    "name": "Laura Richardson",
+    "party": "Democratic",
+    "url": "https://sd35.senate.ca.gov/"
+   }
+  ],
+  "36": [
+   {
+    "email": "senator.strickland@senate.ca.gov",
+    "name": "Tony Strickland",
+    "party": "Republican",
+    "url": "https://cssrc.us/web/19/"
+   }
+  ],
+  "37": [
+   {
+    "email": "senator.choi@senate.ca.gov",
+    "name": "Steve Choi",
+    "party": "Republican",
+    "url": "https://ad68.asmrc.org/"
+   }
+  ],
+  "38": [
+   {
+    "email": "senator.blakespear@senate.ca.gov",
+    "name": "Catherine Blakespear",
+    "party": "Democratic",
+    "url": "https://sd38.senate.ca.gov/"
+   }
+  ],
+  "39": [
+   {
+    "email": "senator.weber@senate.ca.gov",
+    "name": "Akilah Weber Pierson",
+    "party": "Democratic",
+    "url": "https://a79.asmdc.org/"
+   }
+  ],
+  "4": [
+   {
+    "email": "senator.alvarado-gil@senate.ca.gov",
+    "name": "Marie Alvarado-Gil",
+    "party": "Republican",
+    "url": "https://sd04.senate.ca.gov/"
+   }
+  ],
+  "40": [
+   {
+    "email": "senator.jones@senate.ca.gov",
+    "name": "Brian Jones",
+    "party": "Republican",
+    "url": "https://senate.ca.gov/sd38"
+   }
+  ],
+  "5": [
+   {
+    "email": "senator.mcnerney@senate.ca.gov",
+    "name": "Jerry McNerney",
+    "party": "Democratic",
+    "url": "https://sd05.senate.ca.gov/"
+   }
+  ],
+  "6": [
+   {
+    "email": "senator.niello@senate.ca.gov",
+    "name": "Roger Niello",
+    "party": "Republican",
+    "url": "https://senate.ca.gov/sd06"
+   }
+  ],
+  "7": [
+   {
+    "email": "senator.arreguin@senate.ca.gov",
+    "name": "Jesse Arregu\u00edn",
+    "party": "Democratic",
+    "url": "https://sd07.senate.ca.gov/"
+   }
+  ],
+  "8": [
+   {
+    "email": "senator.ashby@senate.ca.gov",
+    "name": "Angelique Ashby",
+    "party": "Democratic",
+    "url": "https://sd08.senate.ca.gov/"
+   }
+  ],
+  "9": [
+   {
+    "email": "senator.grayson@senate.ca.gov",
+    "name": "Tim Grayson",
+    "party": "Democratic",
+    "url": "https://a14.asmdc.org"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

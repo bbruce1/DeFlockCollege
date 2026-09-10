@@ -1,0 +1,579 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Dina Titus",
+    "party": "Democrat",
+    "phone": "202-225-5965",
+    "url": "https://titus.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Mark Amodei",
+    "party": "Republican",
+    "phone": "202-225-6155",
+    "url": "https://amodei.house.gov"
+   }
+  ],
+  "3": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Susie Lee",
+    "party": "Democrat",
+    "phone": "202-225-3252",
+    "url": "https://susielee.house.gov"
+   }
+  ],
+  "4": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Steven Horsford",
+    "party": "Democrat",
+    "phone": "202-225-9894",
+    "url": "https://horsford.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.cortezmasto.senate.gov/contact",
+   "email": null,
+   "name": "Catherine Cortez Masto",
+   "party": "Democrat",
+   "phone": "202-224-3542",
+   "url": "https://www.cortezmasto.senate.gov"
+  },
+  {
+   "contactForm": "https://www.rosen.senate.gov/contact_jacky",
+   "email": null,
+   "name": "Jacky Rosen",
+   "party": "Democrat",
+   "phone": "202-224-6244",
+   "url": "https://www.rosen.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "daniele.monroemoreno@asm.state.nv.us",
+    "name": "Daniele Monroe-Moreno",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=307"
+   }
+  ],
+  "10": [
+   {
+    "email": "venise.karris@asm.state.nv.us",
+    "name": "Venise Karris",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/10"
+   }
+  ],
+  "11": [
+   {
+    "email": "cinthia.moore@asm.state.nv.us",
+    "name": "Cinthia Moore",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/11"
+   }
+  ],
+  "12": [
+   {
+    "email": "max.carter@asm.state.nv.us",
+    "name": "Max Carter",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/12"
+   }
+  ],
+  "13": [
+   {
+    "email": "brian.hibbetts@asm.state.nv.us",
+    "name": "Brian Hibbetts",
+    "party": "Republican",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/13"
+   }
+  ],
+  "14": [
+   {
+    "email": "erica.mosca@asm.state.nv.us",
+    "name": "Erica Mosca",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/14"
+   }
+  ],
+  "15": [
+   {
+    "email": "howard.watts@asm.state.nv.us",
+    "name": "Howard Watts",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=363"
+   }
+  ],
+  "16": [
+   {
+    "email": "cecelia.gonzalez@asm.state.nv.us",
+    "name": "Cecelia Gonz\u00e1lez",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=378"
+   }
+  ],
+  "17": [
+   {
+    "email": "linda.hunt@asm.state.nv.us",
+    "name": "Linda Hunt",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/17"
+   }
+  ],
+  "18": [
+   {
+    "email": "venicia.considine@asm.state.nv.us",
+    "name": "Venicia Considine",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=380"
+   }
+  ],
+  "19": [
+   {
+    "email": "jason.patchett@asm.state.nv.us",
+    "name": "Jason Patchett",
+    "party": "Republican",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/19"
+   }
+  ],
+  "2": [
+   {
+    "email": "heidi.kasama@asm.state.nv.us",
+    "name": "Heidi Kasama",
+    "party": "Republican",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=379"
+   }
+  ],
+  "20": [
+   {
+    "email": "david.orentlicher@asm.state.nv.us",
+    "name": "David Orentlicher",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=377"
+   }
+  ],
+  "21": [
+   {
+    "email": "elaine.marzola@asm.state.nv.us",
+    "name": "Elaine Marzola",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=376"
+   }
+  ],
+  "22": [
+   {
+    "email": "melissa.hardy@asm.state.nv.us",
+    "name": "Melissa Hardy",
+    "party": "Republican",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=364"
+   }
+  ],
+  "23": [
+   {
+    "email": "danielle.gallant@asm.state.nv.us",
+    "name": "Danielle Gallant",
+    "party": "Republican",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/23"
+   }
+  ],
+  "24": [
+   {
+    "email": "erica.roth@asm.state.nv.us",
+    "name": "Erica Roth",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/24"
+   }
+  ],
+  "25": [
+   {
+    "email": "selena.la.rue.hatch@asm.state.nv.us",
+    "name": "Selena La Rue Hatch",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/25"
+   }
+  ],
+  "26": [
+   {
+    "email": "rich.delong@asm.state.nv.us",
+    "name": "Rich DeLong",
+    "party": "Republican",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/26"
+   }
+  ],
+  "27": [
+   {
+    "email": "heather.goulding@asm.state.nv.us",
+    "name": "Heather Goulding",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/27"
+   }
+  ],
+  "28": [
+   {
+    "email": "reuben.dsilva@asm.state.nv.us",
+    "name": "Reuben D'Silva",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/28"
+   }
+  ],
+  "29": [
+   {
+    "email": "joe.dalia@asm.state.nv.us",
+    "name": "Joe Dalia",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/29"
+   }
+  ],
+  "3": [
+   {
+    "email": "selena.torres@asm.state.nv.us",
+    "name": "Selena Torres-Fossett",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=359"
+   }
+  ],
+  "30": [
+   {
+    "email": "natha.anderson@asm.state.nv.us",
+    "name": "Natha Anderson",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=375"
+   }
+  ],
+  "31": [
+   {
+    "email": "jill.dickman@asm.state.nv.us",
+    "name": "Jill Dickman",
+    "party": "Republican",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=277"
+   }
+  ],
+  "32": [
+   {
+    "email": "alexis.hansen@asm.state.nv.us",
+    "name": "Alexis Hansen",
+    "party": "Republican",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=366"
+   }
+  ],
+  "33": [
+   {
+    "email": "bert.gurr@asm.state.nv.us",
+    "name": "Bert Gurr",
+    "party": "Republican",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/33"
+   }
+  ],
+  "34": [
+   {
+    "email": "hanadi.nadeem@asm.state.nv.us",
+    "name": "Hanadi Nadeem",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/34"
+   }
+  ],
+  "35": [
+   {
+    "email": "rebecca.edgeworth@asm.state.nv.us",
+    "name": "Rebecca Edgeworth",
+    "party": "Republican",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/35"
+   }
+  ],
+  "36": [
+   {
+    "email": "gregory.hafen@asm.state.nv.us",
+    "name": "Greg Hafen",
+    "party": "Republican",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=371"
+   }
+  ],
+  "37": [
+   {
+    "email": "shea.backus@asm.state.nv.us",
+    "name": "Shea Backus",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/37"
+   }
+  ],
+  "38": [
+   {
+    "email": "gregory.koenig@asm.state.nv.us",
+    "name": "Gregory Koenig",
+    "party": "Republican",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/38"
+   }
+  ],
+  "39": [
+   {
+    "email": "blayne.osborn@asm.state.nv.us",
+    "name": "Blayne Osborn",
+    "party": "Republican",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/36th2025Special/39"
+   }
+  ],
+  "4": [
+   {
+    "email": "lisa.cole@asm.state.nv.us",
+    "name": "Lisa Cole",
+    "party": "Republican",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/4"
+   }
+  ],
+  "40": [
+   {
+    "email": "pk.oneill@asm.state.nv.us",
+    "name": "P.K. O'Neill",
+    "party": "Republican",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=285"
+   }
+  ],
+  "41": [
+   {
+    "email": "sandra.jauregui@asm.state.nv.us",
+    "name": "Sandra Jauregui",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=344"
+   }
+  ],
+  "42": [
+   {
+    "email": "tracy.brownmay@asm.state.nv.us",
+    "name": "Tracy Brown-May",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/42"
+   }
+  ],
+  "5": [
+   {
+    "email": "brittney.miller@asm.state.nv.us",
+    "name": "Brittney Miller",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=304"
+   }
+  ],
+  "6": [
+   {
+    "email": "jovan.jackson@asm.state.nv.us",
+    "name": "Jovan Jackson",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/6"
+   }
+  ],
+  "7": [
+   {
+    "email": "tanya.flanagan@asm.state.nv.us",
+    "name": "Tanya Flanagan",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/7"
+   }
+  ],
+  "8": [
+   {
+    "email": "duy.nguyen@asm.state.nv.us",
+    "name": "Duy Nguyen",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/8"
+   }
+  ],
+  "9": [
+   {
+    "email": "steve.yeager@asm.state.nv.us",
+    "name": "Steve Yeager",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=310"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/nv.csv"
+ },
+ "state": "NV",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "shelly.cruzcrawford@sen.state.nv.us",
+    "name": "Shelly Crawford",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/1"
+   }
+  ],
+  "10": [
+   {
+    "email": "fabian.donate@sen.state.nv.us",
+    "name": "Fabian Do\u00f1ate",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/10"
+   }
+  ],
+  "11": [
+   {
+    "email": "lori.rogich@sen.state.nv.us",
+    "name": "Lori Rogich",
+    "party": "Republican",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/11"
+   }
+  ],
+  "12": [
+   {
+    "email": "julie.pazina@sen.state.nv.us",
+    "name": "Julie Pazina",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/12"
+   }
+  ],
+  "13": [
+   {
+    "email": "skip.daly@sen.state.nv.us",
+    "name": "Skip Daly",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/13"
+   }
+  ],
+  "14": [
+   {
+    "email": "ira.hansen@sen.state.nv.us",
+    "name": "Ira Hansen",
+    "party": "Republican",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=157"
+   }
+  ],
+  "15": [
+   {
+    "email": "angela.taylor@sen.state.nv.us",
+    "name": "Angie Taylor",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/Current/27"
+   }
+  ],
+  "16": [
+   {
+    "email": "lisa.krasner@sen.state.nv.us",
+    "name": "Lisa Krasner",
+    "party": "Republican",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=327"
+   }
+  ],
+  "17": [
+   {
+    "email": "robin.titus@sen.state.nv.us",
+    "name": "Robin Titus",
+    "party": "Republican",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=281"
+   }
+  ],
+  "18": [
+   {
+    "email": "john.steinbeck@sen.state.nv.us",
+    "name": "John Steinbeck",
+    "party": "Republican",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/18"
+   }
+  ],
+  "19": [
+   {
+    "email": "john.ellison@sen.state.nv.us",
+    "name": "John Ellison",
+    "party": "Republican",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=159"
+   }
+  ],
+  "2": [
+   {
+    "email": "edgar.flores@sen.state.nv.us",
+    "name": "Edgar Flores",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=273"
+   }
+  ],
+  "20": [
+   {
+    "email": "jeff.stone@sen.state.nv.us",
+    "name": "Jeff Stone",
+    "party": "Republican",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/Current/20"
+   }
+  ],
+  "21": [
+   {
+    "email": "james.ohrenschall@sen.state.nv.us",
+    "name": "James Ohrenschall",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=67"
+   }
+  ],
+  "3": [
+   {
+    "email": "rochelle.nguyen@sen.state.nv.us",
+    "name": "Rochelle Nguyen",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=372"
+   }
+  ],
+  "4": [
+   {
+    "email": "dina.neal@sen.state.nv.us",
+    "name": "Dina Neal",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=129"
+   }
+  ],
+  "5": [
+   {
+    "email": "carrie.buck@sen.state.nv.us",
+    "name": "Carrie Buck",
+    "party": "Republican",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=387"
+   }
+  ],
+  "6": [
+   {
+    "email": "nicole.cannizzaro@sen.state.nv.us",
+    "name": "Nicole Cannizzaro",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=347"
+   }
+  ],
+  "7": [
+   {
+    "email": "roberta.lange@sen.state.nv.us",
+    "name": "Roberta Lange",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=383"
+   }
+  ],
+  "8": [
+   {
+    "email": "marilyn.donderoloop@sen.state.nv.us",
+    "name": "Marilyn Dondero Loop",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=92"
+   }
+  ],
+  "9": [
+   {
+    "email": "melanie.scheible@sen.state.nv.us",
+    "name": "Melanie Scheible",
+    "party": "Democratic",
+    "url": "https://www.leg.state.nv.us/App/Legislator/A/api/81st2021/Legislator?id=358"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

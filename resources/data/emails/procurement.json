@@ -1,0 +1,602 @@
+[
+  {
+    "id": "procurement-001",
+    "angle": "procurement",
+    "subject": "Trying to find out how the readers were approved",
+    "body": "Dear {{officialName}},\n\nAutomated license plate readers are running around {{school}}, and after a fair amount of searching I still cannot tell how that came about. My worry is not that something improper happened. It is that a student has no way to find out either way.\n\nWas the agreement approved by a recorded vote of the {{role}}, or signed at staff level under existing purchasing authority? The answer shapes what any of us can usefully do next. A decision made in public can be revisited in public. One made administratively can often be undone the same way, by whoever signed it.\n\nWhere I land, for what it is worth, is that the readers around campus should come down and none should replace them.\n\nIf you can tell me where the authorizing document lives, I would be grateful, and I would like to know whether you would support a public look at the question."
+  },
+  {
+    "id": "procurement-002",
+    "angle": "procurement",
+    "subject": "Hoping to read the document that authorized the readers",
+    "body": "Dear {{officialName}},\n\nWhat I would most like is a copy of whatever document authorizes the automated plate readers near {{school}}. It might be a council resolution, a purchase order, an intergovernmental agreement, or a memorandum with the vendor. Any of those would be fine by me.\n\nAlong with it, I would like to know the term of the agreement and the notice required to end it. Those two details tell a student whether this is still something residents can influence or something that renews quietly.\n\nMy own view is that the readers should come down and that no additional units should go up in {{city}}. You may see it differently, and I would honestly like to hear the case if so.\n\nWould your office send the agreement, or point me toward the department that holds it? Thank you for reading."
+  },
+  {
+    "id": "procurement-003",
+    "angle": "procurement",
+    "subject": "Hoping the {{role}} will look at this again in public",
+    "body": "Dear {{officialName}},\n\nWhatever process put automated license plate readers around {{school}}, I find myself wishing it could be reopened where residents can watch. Not because the outcome is certain to change. Rather because a system that reads every plate passing a campus seems worth a hearing with people in the room.\n\nThere are {{readersWithinMile}} readers within a mile of campus and {{readersInState}} across {{state}}. Totals like that usually arrive one small approval at a time, and that is the part which unsettles me as a student here.\n\nI would like the cameras near campus removed and no new ones installed. Short of that, I would like the decision examined somewhere students can speak to it.\n\nWould you consider sponsoring an agenda item, or tell me which member would be the right person to ask?"
+  },
+  {
+    "id": "procurement-004",
+    "angle": "procurement",
+    "subject": "Wondering whether there was a public vote in {{city}}",
+    "body": "Dear {{officialName}},\n\nHere is a question I have not been able to answer on my own. Did the automated plate readers now operating near {{school}} come before the {{role}} for a vote, or were they approved through a staff process that never needed one?\n\nI ask without assuming the answer. Cities handle this differently, and equipment sometimes arrives under a grant or a trial that sits outside ordinary purchasing review. Knowing which path was taken here would tell a student whether to bring the argument to you or to a department director.\n\nThe argument itself is short. Blanket plate collection around a campus worries me, and I would like the existing readers removed and none installed in their place.\n\nCould you confirm how the approval happened, and say whether you would vote to end it if the matter came back? Thank you."
+  },
+  {
+    "id": "procurement-005",
+    "angle": "procurement",
+    "subject": "A process question about the plate readers near {{school}}",
+    "body": "Dear {{officialName}},\n\nStudents keep asking me how the plate readers near campus got there, and I do not have a good answer for them. I am hoping you do.\n\nWhat I would like to know is whether the installation was authorized by ordinance, by resolution, by contract signature, or by an agreement with another jurisdiction. Each has a different route back out, and anyone who wants the cameras gone ought to be arguing in the right forum rather than the loudest one.\n\nI should say plainly that I do want them gone. Removal of the readers around {{shortName}}, with no replacements, is what I am hoping {{city}} will do.\n\nIf your staff can identify the authorizing mechanism and the office holding the file, a short reply would mean a great deal to me."
+  },
+  {
+    "id": "procurement-006",
+    "angle": "procurement",
+    "subject": "Asking for a pause on new readers while this is reviewed",
+    "body": "Dear {{officialName}},\n\nBefore another unit goes up anywhere in {{city}}, I would like the {{role}} to pause new automated plate reader installations and take a look at the ones already here. A pause preserves every option. Continuing to expand while the underlying question is open quietly closes them.\n\nThere are {{readersWithinMile}} readers within a mile of {{school}} already. That density arrived through some process, and as a student I would like to be able to read that process before it repeats.\n\nAt the end of any such review, my hope is that the campus area readers are removed and none installed in their place. Your conclusion may differ, which is rather the point of holding a review in public.\n\nWould you support a pause? If not, I would like to understand what would change your mind."
+  },
+  {
+    "id": "procurement-007",
+    "angle": "procurement",
+    "subject": "Who signed for the readers, and who could end them",
+    "body": "Dear {{officialName}},\n\nTwo names would settle most of what worries me: whoever approved the automated plate readers near {{school}}, and whoever holds authority to cancel. Sometimes those are the same person or body. Often they are not, and that gap is where I lose the thread.\n\nNone of this is an accusation. Municipal purchasing is genuinely complicated, and a student reading from the outside cannot tell a routine renewal from a fresh commitment.\n\nWhat I do have is a clear request. I would like the readers around campus taken down, and I hope {{city}} will stop adding them.\n\nCould you tell me which office holds the cancellation authority, and whether you would be willing to use it? Even a short answer would help me understand where this stands."
+  },
+  {
+    "id": "procurement-008",
+    "angle": "procurement",
+    "subject": "Curious what notice comes before a reader is installed",
+    "body": "Dear {{officialName}},\n\nWhen a city installs cameras that record vehicle movements, the people whose movements get recorded have an obvious interest in hearing about it first. That is the piece I keep turning over. I would like to know what notice {{city}} gives before automated plate readers go up, and whether that practice was followed near {{school}}.\n\nShould no standing notice requirement exist, that seems worth a council conversation on its own. Neighbors hear about zoning changes and street closures. Persistent location logging strikes me as a larger intrusion than either.\n\nAs a student I would like the readers around campus removed and no new ones added, though the notice question matters whatever you conclude about removal.\n\nWhat is the current practice, and would you back a written requirement? I would be grateful for your thinking."
+  },
+  {
+    "id": "procurement-009",
+    "angle": "procurement",
+    "subject": "Hoping to see the contract and its termination clause",
+    "body": "Dear {{officialName}},\n\nI would like to ask for two things: the current agreement covering automated plate readers in {{city}}, and the section governing termination.\n\nThe second matters more than people expect. Agreements of this kind often renew unless notice arrives inside a narrow window, which means the real decision point can fall long before anyone thinks to hold a hearing. A student cannot organize around a deadline nobody can see, and that is what worries me most here.\n\nOn substance, I would like the {{readersWithinMile}} readers within a mile of {{school}} removed and no further installations approved.\n\nIf the documents are posted somewhere already, a link is a perfectly good answer. Otherwise, could you tell me how to obtain them, and whether you would support publishing them going forward?"
+  },
+  {
+    "id": "procurement-010",
+    "angle": "procurement",
+    "subject": "Wondering whether a trial quietly became permanent",
+    "body": "Dear {{officialName}},\n\nMany cities bring in automated plate readers as a limited trial, and trials have a way of turning into standing infrastructure without a second decision ever being made. What I do not know is whether that describes {{city}}, or whether the readers near {{school}} were approved as a permanent program from the start.\n\nIf there was a trial, was a report delivered to the {{role}}, and did anyone vote to continue? Absent a trial, I would like to know what evaluation came before the purchase.\n\nI will be straightforward about my aim as a student here. I would like the readers around campus removed, and no new units installed anywhere near it.\n\nEven a short answer on the trial question would be useful to me. Would you be willing to have staff respond?"
+  },
+  {
+    "id": "procurement-011",
+    "angle": "procurement",
+    "subject": "Asking how the readers around {{school}} were funded",
+    "body": "Dear {{officialName}},\n\nEquipment paid for with outside money often skips the review a line item in the city budget would get. That is the thought behind my question. Were the automated plate readers near {{school}} funded through a grant, a state program, a vendor arrangement, or {{city}} funds directly?\n\nThe source shapes who is accountable. Grant purchases can carry conditions set by someone other than the {{role}}, and as a student I would like to know whether that is the case here before the next renewal arrives.\n\nWhat I am hoping for in the end is simple. I would like the campus area readers taken down and no replacements approved.\n\nCould you tell me how this was funded, and whether the funding agreement is something the public can read?"
+  },
+  {
+    "id": "procurement-012",
+    "angle": "procurement",
+    "subject": "Would you consider putting this on a public agenda",
+    "body": "Dear {{officialName}},\n\nAn agenda item is a small thing to ask for and, as far as I can tell, the only realistic way for students to be heard on this. I am asking you to place the automated plate reader program in {{city}} on a future public agenda, with staff ready to explain how the current deployment was authorized.\n\nNothing in that request assumes an outcome. If the program was approved carefully and the case for it is strong, a hearing will show as much. Otherwise residents will have learned something worth knowing.\n\nMy own comment, when the item comes up, will be that the readers near {{school}} should be removed and that the city should stop expanding the network.\n\nWould you sponsor the item? If the timing is difficult, I would appreciate knowing when might be realistic."
+  },
+  {
+    "id": "procurement-013",
+    "angle": "procurement",
+    "subject": "What would ending the plate reader contract involve",
+    "body": "Dear {{officialName}},\n\nSuppose a majority of residents wanted the automated plate readers gone. What would actually have to happen? That question keeps stopping me, and I have not found a plain answer anywhere on the city's site.\n\nI am asking you for the mechanics. Does cancellation take a council vote, a budget amendment, notice to the vendor inside a set period, or repayment of grant money? Knowing the path would help me more than another round of argument about whether the cameras are a good idea.\n\nFor what it is worth, I do not think they are. As a student I would like the ones near {{school}} removed, with no new installations to follow.\n\nCould someone in your office walk me through the reversal process, even briefly? I would be genuinely grateful."
+  },
+  {
+    "id": "procurement-014",
+    "angle": "procurement",
+    "subject": "Curious whether the readers were competitively bid",
+    "body": "Dear {{officialName}},\n\nPurchasing rules exist so that large commitments get compared against alternatives, which is why I would like to know how the automated plate readers serving the area around {{school}} were acquired. Was it a competitive process, a sole source award, an addition to a cooperative contract negotiated elsewhere, or something else entirely?\n\nEach of those routes is lawful. They are not equally easy to see from outside, and the last in particular can move a significant surveillance decision out of {{city}} altogether. That is the part which bothers me as a student.\n\nMy request to the {{role}} does not change with the answer. I would like the readers around campus removed and no additional units approved.\n\nWould your office confirm which route was used here? I would rather hear it from you than guess."
+  },
+  {
+    "id": "procurement-015",
+    "angle": "procurement",
+    "subject": "Three short questions about how this works in {{city}}",
+    "body": "Dear {{officialName}},\n\nThree procedural questions, and I will keep them brief.\n\nFirst, does {{city}} publish agreements covering automated plate readers, or are they held as vendor confidential? Second, is the {{role}} required to review the program on any recurring basis? Third, what would a resident have to do to get the decision reconsidered?\n\nI am not asking you to guess at any of it. If the answers sit with the police department or the city attorney, saying so is a useful reply in itself.\n\nWhere I stand as a student: I would like the readers within a mile of {{school}} removed, and I hope {{city}} will install no more. The procedural answers matter even to people who disagree with me about that.\n\nWould you or your staff be willing to respond to the questions above?"
+  },
+  {
+    "id": "procurement-016",
+    "angle": "procurement",
+    "subject": "Hoping for a public look at the readers near {{shortName}}",
+    "body": "Dear {{officialName}},\n\nDecisions made quickly are not necessarily made badly, though they ought to survive a second look. I would like the {{role}} to schedule a public reconsideration of the automated plate reader deployment in {{city}}, including the {{readersWithinMile}} units within a mile of {{school}}.\n\nStudents are among the people most affected by this and least likely to be consulted about it. We drive the same roads and park in the same lots, and nobody speaks for us when purchasing decisions get made. A meeting would fix part of that.\n\nAt such a meeting I would argue for removing the campus area readers and adding none.\n\nCould you tell me whether an item like that is possible this session, and what it would take to get it calendared? Thank you for considering it."
+  },
+  {
+    "id": "procurement-017",
+    "angle": "procurement",
+    "subject": "Wondering whether the city attorney reviewed the agreement",
+    "body": "Dear {{officialName}},\n\nLegal review is one of the few checkpoints that catches trouble before it becomes permanent. I would like to know whether the agreement covering automated plate readers in {{city}} received a formal review, and whether a written opinion came with it.\n\nRelated questions follow from that one. Who retains the data, and who else may query it? Those terms usually live in the contract rather than in council policy, which is why the contract is the document I keep wanting to read.\n\nSeparately, and whatever the legal answer turns out to be, I would like the readers near {{school}} removed and no new ones approved.\n\nWould you ask staff whether the agreement and any accompanying opinion can be released? A student has no other way to see them."
+  },
+  {
+    "id": "procurement-018",
+    "angle": "procurement",
+    "subject": "Concerned about automatic renewal of the reader agreement",
+    "body": "Dear {{officialName}},\n\nA contract that renews on its own turns a single decision into an indefinite one. If the automated plate reader agreement covering {{city}} works that way, the {{role}} may not have voted on the program in some time even though it keeps operating. That possibility is what prompted this letter.\n\nI would like to know the renewal structure and when the next decision point falls. Students can organize around a date we know about. Nobody can organize around one that passes in silence.\n\nThe outcome I would like at that decision point is removal of the readers around {{school}} and no further installations.\n\nCould your office confirm the renewal terms, and say whether the next renewal will be taken up in open session? I would be grateful for either answer."
+  },
+  {
+    "id": "procurement-019",
+    "angle": "procurement",
+    "subject": "Hoping to read any staff report behind the purchase",
+    "body": "Dear {{officialName}},\n\nIf a staff report or memorandum accompanied the decision to deploy automated plate readers in {{city}}, I would very much like to read it. Recommendations of that kind usually state the problem the equipment is meant to solve and the alternatives weighed, which is exactly what a student needs in order to argue back on the merits.\n\nAbsent such a report, I would like to know that as well. A purchase this consequential going forward without one seems like something the {{role}} would want to know about.\n\nOn the merits, my view is that the readers around {{school}} should be dismantled and that no additional cameras should be approved.\n\nWould you help me obtain the report, or let me know whether one exists? Thank you for taking the question seriously."
+  },
+  {
+    "id": "procurement-020",
+    "angle": "procurement",
+    "subject": "A pause while {{city}} writes a surveillance policy",
+    "body": "Dear {{officialName}},\n\nPlenty of cities adopt a written policy governing surveillance equipment before buying more of it. {{city}} may already have one. If not, the sensible sequence seems to be pausing new automated plate reader installations until such a policy exists, rather than expanding first and writing rules afterward.\n\nWhat I am suggesting is narrow. No new readers pending council adoption of a use policy, and a public accounting of the ones already running near {{school}}.\n\nMy preferred outcome is still removal of the campus area readers altogether, and I will say so at any hearing that gets scheduled. I understand that is further than you may want to go.\n\nDoes {{city}} have such a policy? Would you support pausing installations until one is in place? A student would appreciate knowing."
+  },
+  {
+    "id": "procurement-021",
+    "angle": "procurement",
+    "subject": "Asking about data sharing agreements tied to campus readers",
+    "body": "Dear {{officialName}},\n\nCameras installed by one agency are often queried by several. Before I settle on a firm view of the readers near {{school}}, I would like to understand which agreements govern access to what they collect, and whether the {{role}} approved those agreements or only the cameras.\n\nThe distinction is not academic to me. Approving a purchase is a much smaller act than approving a data sharing arrangement with outside agencies, and the two often get decided by different people at different times.\n\nMy request to {{city}} is removal of the campus area readers and no new approvals.\n\nCould you tell me whether any sharing agreements exist, and whether they were adopted in public? As a student I have not found a way to answer that myself."
+  },
+  {
+    "id": "procurement-022",
+    "angle": "procurement",
+    "subject": "Trying to work out whose decision this actually is",
+    "body": "Dear {{officialName}},\n\nHonestly, I am not certain this is your file, and that uncertainty is part of why I am writing. Automated plate readers around {{school}} are operated by someone, under authority granted by someone, and a student trying to find out which office owns the decision runs out of public records fairly quickly.\n\nIf the {{role}} approved the deployment, I would like to see the record of it. If another body did, please point me there and I will take the question along.\n\nMy position travels with the question. I would like the readers near campus removed, and I hope {{city}} will install no more of them.\n\nCould you tell me who owns this decision, and where you personally stand on it? I would rather know than assume."
+  },
+  {
+    "id": "procurement-023",
+    "angle": "procurement",
+    "subject": "Asking how the current units were acquired",
+    "body": "Dear {{officialName}},\n\nVendors in this industry commonly offer equipment at no charge for an evaluation period, which can put cameras on poles before any purchasing decision is made. I would like to know whether {{city}} has ever taken plate readers on those terms, and what happens when a free period ends.\n\nThe reason I keep coming back to this is practical. Hardware already installed tends to stay installed, and the real decision then gets made by inertia rather than by anyone voting.\n\nWhether the readers near {{school}} arrived as a loan or a purchase, I would like them removed and no new ones sited.\n\nCould you find out how the current units were acquired and let me know? I am one student with one letter, and I would still like an answer."
+  },
+  {
+    "id": "procurement-024",
+    "angle": "procurement",
+    "subject": "Hoping for a recorded vote on the reader program",
+    "body": "Dear {{officialName}},\n\nA recorded vote does something an administrative signature cannot. It puts names beside a decision, so residents know who to persuade. That is what I would like to see happen with the automated plate reader program in {{city}}.\n\nWhether the program continues would then be a matter of public record rather than something students infer from equipment on poles. There are {{readersWithinMile}} readers within a mile of {{school}}, and none of them appeared by accident.\n\nWhen such a vote comes, I hope you will vote to remove the campus area readers and to approve no new installations. I recognize you may weigh it differently than I do.\n\nWould you ask for the item to be scheduled? I would be grateful to hear either way."
+  },
+  {
+    "id": "procurement-025",
+    "angle": "procurement",
+    "subject": "Trying to understand what reversal would actually take",
+    "body": "Dear {{officialName}},\n\nI keep being told this is complicated, and I believe it. What I cannot get hold of is a description of the actual steps. Does removing automated plate readers from the area around {{school}} take a council vote, a budget amendment, a contract termination notice, or all of those together?\n\nStudents are willing to do slow work if someone will describe the path. Being told only that it is difficult tends to produce more email rather than less, which I doubt anyone wants.\n\nMy request stays the same whatever the difficulty. I would like the readers near campus taken down and no new ones approved in {{city}}.\n\nWould you or your staff lay out the reversal process in writing, so residents can follow it? Thank you for reading."
+  },
+  {
+    "id": "procurement-026",
+    "angle": "procurement",
+    "subject": "Would you support publishing surveillance contracts routinely",
+    "body": "Dear {{officialName}},\n\nContracts covering surveillance equipment seem like the sort of thing residents should be able to read without filing a request. I would like to know whether {{city}} does that already, and if not, whether you would support a rule requiring it.\n\nThe case prompting this is the set of automated plate readers around {{school}}. I would like to see the agreement itself and what the city may do with the records collected. None of that strikes me as sensitive in a way that outweighs public access, though I am open to being told otherwise.\n\nSeparately, as a student, I would like those readers removed and no new ones approved anywhere in {{city}}.\n\nCould you tell me where the agreement is published, or say whether you would back a publication requirement?"
+  },
+  {
+    "id": "procurement-027",
+    "angle": "procurement",
+    "subject": "Asking the right way to bring this to the {{role}}",
+    "body": "Dear {{officialName}},\n\nThere is presumably a correct way to put this in front of the {{role}}, and I would rather use it than take up your staff's time with email. Is there a petition process, or does an item reach the agenda only through a member request?\n\nThe item I would like heard is the automated plate reader deployment in {{city}}, including the readers operating within a mile of {{school}}. My argument will be that they should be removed and that no new ones should be approved.\n\nI am one student, not an organization, and I have no illusions about how much weight that carries. It does not change what I am asking for.\n\nWhat is the right procedure, and would you be willing to sponsor the item yourself?"
+  },
+  {
+    "id": "procurement-028",
+    "angle": "procurement",
+    "subject": "Asking how the readers near {{school}} are paid for",
+    "body": "Dear {{officialName}},\n\nFollowing the money usually explains the process. If the automated plate readers near {{school}} appear as a line in the city budget, then the {{role}} approved them at least implicitly and could decline to fund them next cycle. If they sit outside the budget, funded some other way, that route is closed and students should know it.\n\nSo my question is narrow. How is this program funded, and does the {{role}} vote on that funding?\n\nI would like the campus area readers removed and no additional units installed in {{city}}, and I would like to understand which lever actually moves that.\n\nWould you have staff confirm the funding path for me? A sentence or two would be plenty, and I would appreciate it."
+  },
+  {
+    "id": "procurement-029",
+    "angle": "procurement",
+    "subject": "Looking for minutes from any discussion of the readers",
+    "body": "Dear {{officialName}},\n\nMinutes are the cheapest form of accountability a city produces, and I would like to find the ones covering automated plate readers in {{city}}. If the {{role}} discussed the program in open session, a pointer to the meeting would save a student a great deal of searching.\n\nShould the discussion have happened in committee, or in closed session under a security exemption, knowing that would help too. Residents can accept a legitimate exemption far more easily when someone tells us one was used.\n\nMy own position is that the readers around {{school}} should come down and that no new ones should go up.\n\nCan your office point me to the relevant minutes, or confirm that none exist? Either answer moves me forward."
+  },
+  {
+    "id": "procurement-030",
+    "angle": "procurement",
+    "subject": "Pause new readers until the current ones are reviewed",
+    "body": "Dear {{officialName}},\n\nExpansion and evaluation running at the same time is what worries me here. {{city}} has {{readersWithinMile}} automated plate readers within a mile of {{school}} and {{readersInState}} statewide, and I have found nothing that tells residents how the local ones were authorized or how well they have worked.\n\nA moratorium on new installations, lasting until the {{role}} completes a public review, would cost the city very little. It would also let students take part in a decision that touches us daily.\n\nI will use that review to argue for removing the campus area readers entirely and approving no new ones, which I recognize is further than a pause goes.\n\nWould you support a pause? If a formal moratorium is not realistic, is there an informal one your office could seek?"
+  },
+  {
+    "id": "procurement-031",
+    "angle": "procurement",
+    "subject": "One question about who authorized the cameras",
+    "body": "Dear {{officialName}},\n\nOne question, asked plainly: which body or officer authorized the automated plate readers now operating around {{school}}?\n\nI have looked and cannot answer it on my own. Perhaps the record is public and I am simply searching badly. Possibly it was never a discrete decision at all, which happens when equipment gets folded into a larger public safety purchase.\n\nEither way, students in {{city}} would benefit from a straight answer, and so would residents who live along the same roads.\n\nI would like the readers near campus removed and I hope the {{role}} will approve no new ones. Before that argument goes anywhere, though, somebody has to say who made the original call.\n\nWould you find out and reply? I would be grateful for whatever you can share."
+  },
+  {
+    "id": "procurement-032",
+    "angle": "procurement",
+    "subject": "What standard applies before surveillance equipment is approved",
+    "body": "Dear {{officialName}},\n\nWhat standard does {{city}} apply before approving equipment that collects information about people who are not suspected of anything? I ask because automated plate readers do exactly that, continuously, and there are {{readersWithinMile}} of them within a mile of {{school}}.\n\nIf the standard is the ordinary purchasing threshold, then a camera network gets the same scrutiny as a truck purchase. That seems like a gap the {{role}} could close without much controversy, and closing it would require nobody to take a position on the technology itself.\n\nWhile the standard is being sorted out, I would like the campus area readers removed and no new installations approved.\n\nDoes such a standard exist? Would you support adopting one if it does not? A student would like to know where you stand."
+  },
+  {
+    "id": "procurement-033",
+    "angle": "procurement",
+    "subject": "Hoping to see the memorandum behind the campus readers",
+    "body": "Dear {{officialName}},\n\nMemoranda of understanding are usually where the real terms sit, so that is the document I am hoping to read for the automated plate readers operating near {{school}}. The version currently in force would be more useful to me than a summary of it.\n\nIf {{city}} is not a party, and the readers belong to another agency, please tell me which one. I will send the request there rather than take more of your staff's time.\n\nThe underlying request is simple enough. I would like the readers around campus removed and would rather the city stopped approving new ones nearby.\n\nWould you send the document, or identify the agency that holds it? Thank you for whatever help you can give a student on this."
+  },
+  {
+    "id": "procurement-034",
+    "angle": "procurement",
+    "subject": "Wondering what residents were told before the cameras went up",
+    "body": "Dear {{officialName}},\n\nNotice is the part of this that bothers me most. Cameras that log vehicle movements went up somewhere in {{city}}, and I would like to know what the public heard beforehand and through what channel.\n\nPerhaps there was a posting or a hearing that I simply missed. That would be good news, and I would appreciate a pointer to it. If nothing of the sort happened, the {{role}} might want to consider a notice requirement before the next installation.\n\nMy view on the substance has not shifted. I would like the readers near {{school}} removed and none put back in their place.\n\nWhat notice was given, and what does {{city}} require going forward? Any answer you can give a student here would be welcome."
+  },
+  {
+    "id": "procurement-035",
+    "angle": "procurement",
+    "subject": "Would you consider a sunset on the reader program",
+    "body": "Dear {{officialName}},\n\nPrograms that never expire never get argued about again, and that is what concerns me about this one. I would like the {{role}} to attach a sunset to the automated plate reader program in {{city}}, so that continuing it takes an affirmative public decision rather than silence.\n\nA sunset is not a ban. It forces the case to be made again in front of residents, which seems a reasonable price for running a system that records where people drive.\n\nMy own testimony would be for removal of the {{readersWithinMile}} readers within a mile of {{school}} and against any new sites.\n\nWould you support adding a sunset provision? If the program already has one, I would like to know when it next comes up. Thank you for reading a student's letter."
+  },
+  {
+    "id": "procurement-036",
+    "angle": "procurement",
+    "subject": "Asking which purchasing vehicle brought the readers here",
+    "body": "Dear {{officialName}},\n\nBuying off a cooperative contract saves cities time and moves the negotiation somewhere residents cannot watch. I would like to know whether the automated plate readers serving the area near {{school}} were acquired that way, and if so, which cooperative and which underlying award.\n\nThis is not an accusation of anything. Cooperative purchasing is ordinary and lawful. The transparency consequence is real all the same, and the {{role}} is the body that could decide surveillance equipment ought to be exempted from that route.\n\nWhat I would like on the merits is removal of the campus area readers and no new approvals in {{city}}.\n\nCould you confirm the purchasing vehicle used here? As a student I have no way to establish it myself, and I would be grateful for the answer."
+  },
+  {
+    "id": "procurement-037",
+    "angle": "procurement",
+    "subject": "A plain public accounting before the next renewal",
+    "body": "Dear {{officialName}},\n\nAhead of whenever the automated plate reader agreement next comes up for renewal, I would like {{city}} to publish a plain accounting of the program: how it was approved, and who may search the data it produces.\n\nResidents could then argue about the program with facts in front of us instead of guessing. Guessing is what students are doing now, and it makes for worse public comment on every side of the question.\n\nMy comment, for the record, will be that the readers around {{school}} should be removed and that no new ones should be approved.\n\nWould you support publishing that accounting? I would also like to know when renewal is due, if that date is something your office can share."
+  },
+  {
+    "id": "procurement-038",
+    "angle": "procurement",
+    "subject": "Hoping for an ordinance rather than a procurement file",
+    "body": "Dear {{officialName}},\n\nAs far as I can tell, {{city}} governs automated plate readers through contracts rather than through law. An ordinance would change that, and it would give residents a text to argue over instead of a procurement file that students cannot see.\n\nI am asking you to introduce one. At a minimum it might require council approval before any new reader is sited, and publication of the governing agreement.\n\nWhile that is pending, my request is unchanged. I would like the readers near {{school}} removed and nothing new approved.\n\nWould you introduce such an ordinance, or tell me which member might be open to it? I understand this is a large thing to ask of one letter, and I would still be glad of a reply."
+  },
+  {
+    "id": "procurement-039",
+    "angle": "procurement",
+    "subject": "Trying to learn which government made this decision",
+    "body": "Dear {{officialName}},\n\nJurisdiction is genuinely unclear to me here. Automated plate readers near {{school}} might have been sited by {{city}}, by a campus authority, by a county agency, or by some combination. Each possibility leads to a different room where the decision could be revisited.\n\nI am writing to you because the city is the part of this with published meetings and records a student can actually read. If the answer is that {{city}} had no role at all, saying so would still help a great deal.\n\nWhoever owns them, I would like the readers around campus removed and no new ones installed.\n\nCould you clarify which agency authorized the local units? I would be grateful for a pointer, even an approximate one."
+  },
+  {
+    "id": "procurement-040",
+    "angle": "procurement",
+    "subject": "Asking how the siting decisions were made",
+    "body": "Dear {{officialName}},\n\nI would like to see how the siting decisions were made, not only that they were made. Correspondence between {{city}} staff and the vendor about where automated plate readers should go would show whether locations were chosen by the city or recommended by the company.\n\nThat difference matters to residents near {{school}}, where {{readersWithinMile}} readers now sit within a mile of campus. Siting driven by a sales map is a different thing from siting driven by an analysis the council reviewed, and as a student I would like to know which this was.\n\nMy request either way is removal of those readers and no new ones.\n\nShould this go through the formal records process, or can your office help directly? I will follow whichever route you point me toward."
+  },
+  {
+    "id": "procurement-041",
+    "angle": "procurement",
+    "subject": "Hoping for a second look at this decision in {{city}}",
+    "body": "Dear {{officialName}},\n\nMost students arrive after these decisions are made and leave before they get revisited, which is a structural problem rather than anyone's fault. It also seems like a reason for the {{role}} to look again at the automated plate reader program from time to time.\n\nI would like that second look to happen in public, with the authorizing documents on the table. Students could then make our case, and the city could make its own.\n\nMine will be that the readers near {{school}} should be removed and that no new sites should be approved.\n\nIs a review realistic this year? Would you support one? I would be grateful for a candid answer, including one that tells me it is unlikely."
+  },
+  {
+    "id": "procurement-042",
+    "angle": "procurement",
+    "subject": "Was there a trial period, and what did it conclude",
+    "body": "Dear {{officialName}},\n\nEvaluation periods are common with this technology, and what happens at the end of one is where the interesting decision tends to hide. Did {{city}} run a trial before committing to automated plate readers, and if so, what did the review conclude?\n\nI would like to read whatever was produced. If nothing was written down, that answer is informative too, and the {{role}} might reasonably require a written evaluation next time.\n\nWhatever the history turns out to be, what I am asking for now is that the readers within a mile of {{school}} be removed and that no new ones be approved.\n\nWould you check whether an evaluation exists and share it with me? A student has no other way to find out."
+  },
+  {
+    "id": "procurement-043",
+    "angle": "procurement",
+    "subject": "Does {{city}} ask residents before buying surveillance gear",
+    "body": "Dear {{officialName}},\n\nSome cities require a community input process before surveillance equipment is acquired, and others treat it as a routine purchase. I would like to know which describes {{city}}, and what applied to the automated plate readers near {{school}}.\n\nIf no requirement exists, adding one seems like the sort of reform that costs little and prevents a great deal of later argument. Residents who get to speak in advance are less likely to spend years trying to undo something afterward.\n\nMy own position, as a student, is that the campus area readers should be removed and no new ones installed.\n\nCould you tell me what the current requirement is, and whether you would support strengthening it? I would welcome your view even if it differs from mine."
+  },
+  {
+    "id": "procurement-044",
+    "angle": "procurement",
+    "subject": "Asking about the notice window in the reader agreement",
+    "body": "Dear {{officialName}},\n\nMost service agreements require notice well before a term ends, and missing that window commits the city for another full period by default. I would like to know the notice window in the automated plate reader agreement covering {{city}}.\n\nThat single detail decides whether public interest now is useful or arrives too late to matter. Students would rather aim our effort at the moment when it counts than spread it thin across a year, and right now we cannot see when that moment is.\n\nWhen it counts, the request will be the same as it is today. I would like the readers around {{school}} removed and no replacements approved.\n\nCan your office confirm the notice window, or tell me who can? Thank you for reading."
+  },
+  {
+    "id": "procurement-045",
+    "angle": "procurement",
+    "subject": "A worry about approving cameras by signature alone",
+    "body": "Dear {{officialName}},\n\nAdministrative signatures are appropriate for a great many purchases. A network of cameras that records the movements of everyone driving past a university does not feel like one of them to me, and I would like to know which method {{city}} used for the readers near {{school}}.\n\nIf it was a signature, my argument to you is that the threshold sits in the wrong place and the {{role}} might reasonably claim the decision. If there was a vote, then the record exists and students can read it.\n\nEither way, I would like the existing campus area readers removed and no new ones approved.\n\nWhat is your understanding of how this was authorized? I would rather hear it from you than piece it together secondhand."
+  },
+  {
+    "id": "procurement-046",
+    "angle": "procurement",
+    "subject": "Hoping to read the vendor agreement covering the data",
+    "body": "Dear {{officialName}},\n\nThe hardware is the least interesting part of this to me. Where the records go and who may search them get settled in the agreement with the vendor, and that is the document I am hoping {{city}} can produce.\n\nI would also like to know whether the {{role}} reviewed those terms or approved a purchase without them. Councils sometimes vote on a dollar figure while the substantive rules are set elsewhere, and knowing which happened here matters to students before the next renewal.\n\nWhat I am asking for on the merits is removal of the readers near {{school}} and no new installations.\n\nWould you help me get the agreement? I would also like to know where you stand on removal, if you are willing to say."
+  },
+  {
+    "id": "procurement-047",
+    "angle": "procurement",
+    "subject": "Would you take on oversight of this as a standing item",
+    "body": "Dear {{officialName}},\n\nOversight of the automated plate reader program belongs on somebody's work plan, and I cannot tell whose it is. I would like you to consider putting it on the {{role}} calendar as a standing item, even if it comes up only once a year.\n\nA regular item would force the basic questions to be answered in public. How was this approved, and what would ending it involve? Those seem like questions a student should not have to write letters to raise.\n\nWhen the item is heard, I will argue for removing the readers around {{school}} and adding none.\n\nWould you take this on? If it is not yours to take, I would appreciate knowing who to ask instead."
+  },
+  {
+    "id": "procurement-048",
+    "angle": "procurement",
+    "subject": "How the approval path here compares across {{state}}",
+    "body": "Dear {{officialName}},\n\nAcross {{state}} there are {{readersInState}} automated plate readers, and the approval paths behind them vary a great deal from place to place. I would like to know which path {{city}} took for the units near {{school}}.\n\nSome jurisdictions require an ordinance. Others handle it entirely inside a police department budget. Knowing where {{city}} sits would tell a student whether this is a decision the {{role}} can revisit directly or one that has to be pursued somewhere else.\n\nMy request does not depend on the answer. I would like the readers around campus removed, and I hope no new ones are approved.\n\nCould you tell me how this was authorized here, and whether you would support a stricter process going forward?"
+  },
+  {
+    "id": "procurement-049",
+    "angle": "procurement",
+    "subject": "Has the {{role}} ever voted on plate readers",
+    "body": "Dear {{officialName}},\n\nHas the {{role}} ever taken a recorded vote on automated plate readers in {{city}}? That is the whole of my first question, and a one word answer would satisfy it.\n\nMy second question follows only if the answer is no. In that case, would you be willing to bring the program forward so that a vote exists? Students should be able to point at a decision and at the people who made it, and right now I cannot point at anything.\n\nAs for my own position, I would like the readers near {{school}} removed and I hope {{city}} will approve no additional sites.\n\nI would appreciate a reply on both questions, even a brief one. Thank you for the time."
+  },
+  {
+    "id": "procurement-050",
+    "angle": "procurement",
+    "subject": "Treating renewal as a public moment rather than routine",
+    "body": "Dear {{officialName}},\n\nRenewal is the natural moment for a public review, and I would like {{city}} to treat it that way rather than as a routine administrative step. Automated plate readers around {{school}} affect everyone who drives past campus, and very few of those people have been asked what they think.\n\nA review would also answer the questions students keep raising about how the program was authorized to begin with. Those answers may be perfectly simple, though I have not found them published anywhere.\n\nMy comment at such a review would be for removal of the campus area readers and against any new ones.\n\nWould you ask staff to schedule the renewal as a public item? I would be grateful, and I would show up for it."
+  },
+  {
+    "id": "procurement-051",
+    "angle": "procurement",
+    "subject": "One student asking for the approval record",
+    "body": "Dear {{officialName}},\n\nWriting as one student rather than on behalf of {{shortName}}, I would like the approval record for the automated plate readers operating near campus. The school has not asked me to send this and does not speak through me.\n\nWhat I am after is whichever document constitutes the authorization, along with any staff recommendation attached to it. If a department holds those rather than the {{role}}, a referral is a fine answer and I will follow it.\n\nMy position, offered as a resident, is that the readers should be removed and that {{city}} should approve no new installations.\n\nWould you send the record, or tell me where to file the request? I know one letter is not much, and I would still be glad of a reply."
+  },
+  {
+    "id": "procurement-052",
+    "angle": "procurement",
+    "subject": "Was emergency purchasing authority used for any of this",
+    "body": "Dear {{officialName}},\n\nEmergency procurement authority exists for good reasons and occasionally gets used for things that are not emergencies. I would like to know whether any part of the automated plate reader deployment in {{city}} was authorized under that authority.\n\nThe question is not rhetorical. Emergency purchases usually require a later ratification, and if that step applies here, students should know when it will happen so we can speak to it beforehand.\n\nMy view is that the readers near {{school}} should be removed and no additional units approved.\n\nCould you confirm what authority was used, and whether ratification by the {{role}} is required? If no emergency authority was involved, I would be glad to hear that too."
+  },
+  {
+    "id": "procurement-053",
+    "angle": "procurement",
+    "subject": "Wondering if the approval bar should be higher",
+    "body": "Dear {{officialName}},\n\nPurchasing thresholds were written before a city could buy a persistent record of where residents drive. They treat that purchase like any other, and that is the thing I find most troubling underneath the automated plate readers near {{school}}.\n\nRaising the bar would be straightforward. A recorded vote for any surveillance system that collects information about people who are not suspects, and publication of the agreement before the vote is taken.\n\nApplied to the current readers, what I would like is removal, with nothing new approved anywhere in {{city}}.\n\nWould you support a higher approval threshold for equipment of this kind? Would you be willing to say so publicly? A student would find either answer useful."
+  },
+  {
+    "id": "procurement-054",
+    "angle": "procurement",
+    "subject": "Looking for the agenda citation for any council action",
+    "body": "Dear {{officialName}},\n\nIf the {{role}} ever acted on automated plate readers, there should be an agenda item and a meeting record I can look up. I have not managed to find either, which may well be my own failing rather than the city's.\n\nCould someone in your office give me the citation? With it, students could read the discussion ourselves instead of asking you to summarize it.\n\nAssuming the record exists, I would still like to argue that the readers around {{school}} should be removed and that {{city}} should approve no new ones.\n\nWould you point me to the action, or confirm that no council action was ever taken? Either answer would tell me something I do not currently know."
+  },
+  {
+    "id": "procurement-055",
+    "angle": "procurement",
+    "subject": "Does the campus deployment renew without another approval",
+    "body": "Dear {{officialName}},\n\nThe practical question for a student is whether anyone will ever vote on this again. Automated plate readers near {{school}} either continue by default or continue by decision, and those are very different situations for residents who want a say.\n\nI would like to know which it is. If the program renews on its own, I would ask the {{role}} to change that so continuation takes an affirmative act.\n\nMy preference is that continuation not happen at all. I would like the readers around campus removed and no new sites approved in {{city}}.\n\nWould you let me know how renewal works, and whether you would support requiring a vote? Thank you for considering a question that probably reaches you often."
+  },
+  {
+    "id": "procurement-056",
+    "angle": "procurement",
+    "subject": "Could the reader agreement simply be posted online",
+    "body": "Dear {{officialName}},\n\nI have tried to read the agreement behind the automated plate readers near campus and cannot find it posted anywhere. Rather than file a records request and wait, I thought I would ask whether {{city}} could simply publish it.\n\nPublication would settle a lot of speculation. People are guessing about retention periods and access rules because the actual terms are not in front of them, and guessing tends to make the argument worse on both sides.\n\nOnce it is public, I will keep arguing what I argue now. As a student I would like the readers around {{school}} removed, and I hope the {{role}} will approve no new ones.\n\nCan the agreement be posted? If it cannot, I would genuinely like to understand the reason."
+  },
+  {
+    "id": "procurement-057",
+    "angle": "procurement",
+    "subject": "What removal would involve for equipment already installed",
+    "body": "Dear {{officialName}},\n\nInstalled equipment has a gravity of its own, and I would like to understand what it takes to overcome that here. Suppose the {{role}} decided tomorrow that automated plate readers were a mistake. What steps would follow, and how long would removal actually take?\n\nI ask because students get told reversal is hard without ever being told what hard means. A clear description would help us decide where to put our effort, which is limited.\n\nMy position is that the readers near {{school}} should come down and that {{city}} should install no more.\n\nWould you describe the reversal steps, or connect me with staff who can? I would be grateful for either."
+  },
+  {
+    "id": "procurement-058",
+    "angle": "procurement",
+    "subject": "Where notices about decisions like this get published",
+    "body": "Dear {{officialName}},\n\nOpen meetings laws set a floor for public notice, and cities often do more than the floor requires. I would like to know what {{city}} did in the case of automated plate readers, and where any notice would have appeared.\n\nThis matters to me beyond the readers themselves. A resident who wants to follow surveillance decisions needs to know which publication to watch, and I could not currently tell another student where to look.\n\nOn the underlying question, I would like the readers near {{school}} removed and no further installations approved.\n\nCould you tell me where such notices are published, and what was published in this instance? That would be useful long after this letter."
+  },
+  {
+    "id": "procurement-059",
+    "angle": "procurement",
+    "subject": "A hold on new readers while the questions are answered",
+    "body": "Dear {{officialName}},\n\nUntil the basic questions about authorization have public answers, I would rather {{city}} did not add automated plate readers anywhere. That seems a modest thing to ask. It removes no existing camera, and it keeps the {{role}} from being asked to defend decisions it may never have made.\n\nThe questions are not complicated. Who approved the current deployment, and what document says so? A hold would give staff time to answer without a deadline forcing the issue.\n\nMy larger request has not changed. I would like the readers within a mile of {{school}} taken down and no new sites approved.\n\nWould you ask for a hold while the answers are gathered? A student would be glad to hear your thinking either way."
+  },
+  {
+    "id": "procurement-060",
+    "angle": "procurement",
+    "subject": "Approval and oversight seem like separate things here",
+    "body": "Dear {{officialName}},\n\nApproving a program and overseeing it are separate jobs, and cities often do the first without ever setting up the second. I would like to know what oversight, if any, follows the automated plate readers operating in {{city}}.\n\nDoes anyone report to the {{role}} on how the system gets used? Is there an audit of who searches the records? Those answers would tell a student whether the original approval, whatever form it took, carried any conditions at all.\n\nMy request stands apart from the oversight question. I would like the readers near {{school}} removed and none installed to replace them.\n\nWould you tell me what reporting exists, and whether you would support adding some? Thank you for reading."
+  },
+  {
+    "id": "procurement-061",
+    "angle": "procurement",
+    "subject": "Could staff brief a few students on the authorization",
+    "body": "Dear {{officialName}},\n\nA short briefing would answer more than a long exchange of emails. Would your office be willing to have staff walk a few students through how automated plate readers were authorized in {{city}} and what the current agreement provides?\n\nWe are not looking for a debate. What we want are the procedural facts, so that whatever we argue afterward is argued accurately and nobody has to spend time correcting us.\n\nOur argument, said in advance so there is no surprise, will be that the readers around {{school}} should be removed and that no new ones should be approved.\n\nCan a briefing be arranged? If not, is there a written summary you could send instead? Either would be a real help."
+  },
+  {
+    "id": "procurement-062",
+    "angle": "procurement",
+    "subject": "Wondering how a trial period became permanent infrastructure",
+    "body": "Dear {{officialName}},\n\nPilots are supposed to end with a decision. In practice they often end with a renewal notice nobody reads, and the equipment stays because taking it down would require somebody to act. That pattern is what worries me.\n\nI do not know which of those describes {{city}}, so I am asking rather than assuming. Was there a trial period for automated plate readers, and if there was, did the {{role}} formally decide to continue?\n\nThat history belongs on the record. Beyond it, as a student, I would like the readers near {{shortName}} removed and no new ones installed.\n\nCould your office reconstruct the sequence and share it with me? I would be grateful even for a partial answer."
+  },
+  {
+    "id": "procurement-063",
+    "angle": "procurement",
+    "subject": "Asking for this to be discussed where students can watch",
+    "body": "Dear {{officialName}},\n\nWhatever the {{role}} concludes about automated plate readers, residents should be able to watch it happen. I cannot currently point another student toward any public discussion of the program near {{school}}, and that absence is what prompted this letter.\n\nSo I am asking for an open item. Staff presents how the deployment was authorized, and residents get to comment on it. That sequence is ordinary municipal practice and would resolve most of what students are guessing about.\n\nAt the comment stage I will ask for removal of the campus area readers and for no new ones in {{city}}.\n\nWould you support scheduling that discussion? I would appreciate knowing whether it is possible."
+  },
+  {
+    "id": "procurement-064",
+    "angle": "procurement",
+    "subject": "Who set the retention terms for reader records",
+    "body": "Dear {{officialName}},\n\nRetention terms decide how much of a person's movement history a city keeps, and they usually sit in a contract rather than in adopted policy. I would like to know who approved the retention rules governing automated plate reader records in {{city}}.\n\nIf the {{role}} set them, the record should be findable. If a vendor default or a department preference is functioning as policy instead, then students and other residents ought to get a say in changing it.\n\nMy request is the same in either case. I would like the readers near {{school}} removed and no new ones approved.\n\nCould you tell me who set the retention terms, and whether they are published anywhere? Thank you for looking into it."
+  },
+  {
+    "id": "procurement-065",
+    "angle": "procurement",
+    "subject": "Would you propose requiring a vote for new installations",
+    "body": "Dear {{officialName}},\n\nGoing forward, I would like no automated plate reader installed in {{city}} without a recorded vote of the {{role}}. That is a small procedural change with a large effect, since it turns an administrative habit into a public decision.\n\nI am asking you to propose it. The rule would touch no existing equipment and would commit nobody to a position on surveillance generally. It would simply put future decisions somewhere students and residents can reach them.\n\nSeparately, I am asking for the existing readers around {{school}} to be removed and for no new ones to go up.\n\nWould you introduce the approval requirement? And where do you stand on removal? I would rather hear a clear no than nothing at all."
+  },
+  {
+    "id": "procurement-066",
+    "angle": "procurement",
+    "subject": "What a resident has to do to reopen a program",
+    "body": "Dear {{officialName}},\n\nThere must be a formal answer to this, and I have not found it written down anywhere. What does a resident of {{city}} actually have to do to get the {{role}} to reconsider an existing program?\n\nAsking is easy enough. Getting an item calendared appears to take a member's sponsorship or something else I have not identified. A plain description of the route would help students spend our time well.\n\nThe program I have in mind is the automated plate reader deployment around {{school}}, and my aim is removal of those readers with no new ones approved.\n\nCould you describe the reconsideration route? Would you sponsor the item yourself? I would be grateful for either piece."
+  },
+  {
+    "id": "procurement-067",
+    "angle": "procurement",
+    "subject": "Questions I hope get settled before anything further is signed",
+    "body": "Dear {{officialName}},\n\nBefore {{city}} signs another agreement covering automated plate readers, a couple of things ought to be settled in public. Who holds authority to approve systems like this, and where can residents read the arrangement that already exists?\n\nThose are not hostile questions. Any resident would want them answered about a system that logs vehicle movements near a campus with {{readersWithinMile}} readers inside a mile, and a student has no way to answer them alone.\n\nWhat I would like is that no further agreements be signed and that the existing readers near {{school}} be removed instead.\n\nWould you raise these questions before the next signature? I would be glad to know they had been asked, whatever the answers turn out to be."
+  },
+  {
+    "id": "procurement-068",
+    "angle": "procurement",
+    "subject": "Is the contract held by the city or the county",
+    "body": "Dear {{officialName}},\n\nStudents trying to research this run into a jurisdictional wall. Automated plate readers near {{school}} may sit under a city contract or under an arrangement between two governments, and the public documents I can find do not settle it.\n\nA pointer would save everyone time. Once we know which government holds the agreement, we can send questions and comment to the right body instead of copying several of them on everything.\n\nOur request does not change with the answer. I would like the readers around campus removed, and none added.\n\nWould you tell me who holds the contract, and whether {{city}} has any say over the local units? I would be grateful for whatever clarity you can offer."
+  },
+  {
+    "id": "procurement-069",
+    "angle": "procurement",
+    "subject": "A written policy before any more readers go up",
+    "body": "Dear {{officialName}},\n\nEquipment tends to arrive before rules do, and I would like {{city}} to reverse that order for automated plate readers by adopting a written use policy through the {{role}} before another unit is installed.\n\nA policy adopted in public would also create the thing students most lack, which is a document to argue with. Contracts are hard to obtain and harder to amend. An ordinance or resolution is neither of those.\n\nMy position going into any such process is that the readers near {{school}} should be removed rather than governed, and that no new ones should go up.\n\nWould you support adopting a policy first? Can you tell me whether one already exists? I would appreciate hearing either way."
+  },
+  {
+    "id": "procurement-070",
+    "angle": "procurement",
+    "subject": "Was there a public hearing before installation",
+    "body": "Dear {{officialName}},\n\nI would like a yes or a no, and then whatever detail you can add. Was there a public hearing before automated plate readers were installed in {{city}}?\n\nIf yes, please point me to it and I will read the record rather than ask you to repeat it. If no, I would like to know whether you think a hearing ought to be required for this category of equipment going forward.\n\nEither answer leaves my request where it is. As a student I would like the readers around {{school}} removed, and I hope the {{role}} will approve no new ones.\n\nWould you reply with the answer and with your own view on the hearing requirement? Thank you for the time."
+  },
+  {
+    "id": "procurement-071",
+    "angle": "procurement",
+    "subject": "Buying the cameras and governing them seem separate",
+    "body": "Dear {{officialName}},\n\nA purchase decision and a governance decision are not the same, and the second one often never happens. What I would like to know is what governance accompanied the automated plate readers now operating near {{school}}, and which body adopted it.\n\nIf the answer is that the vendor's standard terms are doing that work, the {{role}} may want to know and decide whether it is comfortable. Students certainly would want to know.\n\nMy own conclusion is that governance will not fix this. I would like the readers around campus removed and no new ones approved in {{city}}.\n\nCould you tell me what governing rules exist and who adopted them? I would be grateful for the answer."
+  },
+  {
+    "id": "procurement-072",
+    "angle": "procurement",
+    "subject": "Asking for the purchase order behind the campus readers",
+    "body": "Dear {{officialName}},\n\nA purchase order is usually the easiest document to obtain and often the most revealing, since it names the buyer and the officer who signed off. That is what I would like regarding the automated plate readers serving the area around {{school}}.\n\nIf the readers came through a subscription rather than a purchase, the equivalent document would be the service agreement, and I would like that instead. Either one would tell a student where the decision actually got made.\n\nWhat I am asking {{city}} for remains removal of the campus area readers and no new installations.\n\nWould your office send the document, or route the request to whoever should have it? I would appreciate the help."
+  },
+  {
+    "id": "procurement-073",
+    "angle": "procurement",
+    "subject": "Hoping this comes to a vote while you are serving",
+    "body": "Dear {{officialName}},\n\nTerms end and members change, which means a question left unasked can sit for years. I would like the {{role}} to take up automated plate readers while the current membership is in place rather than leaving it for whoever comes next.\n\nWhat I am hoping for is a vote on whether {{city}} should continue the program at all. Even a vote that goes against my position would improve on the present situation, where a student cannot tell whether a decision was ever made.\n\nMy comment will be for removal of the readers around {{school}} and against new ones.\n\nWould you push for a vote this term? I would be glad to know whether you think it realistic."
+  },
+  {
+    "id": "procurement-074",
+    "angle": "procurement",
+    "subject": "Can the {{role}} direct removal on its own",
+    "body": "Dear {{officialName}},\n\nAuthority questions come before policy questions, so here is mine. Can the {{role}} direct the removal of automated plate readers in {{city}} through its own action, or would that take cooperation from a department, another agency, or the vendor?\n\nI would rather know the limits than assume them. Being told removal is impossible, without hearing why, is less persuasive to a student than an honest description of the constraints would be.\n\nWithin whatever those constraints are, what I would like is removal of the readers near {{school}} and no new approvals.\n\nCould you tell me where the removal authority actually sits? I would be grateful for a straight answer, even a discouraging one."
+  },
+  {
+    "id": "procurement-075",
+    "angle": "procurement",
+    "subject": "Please let the next decision be heard, not consented through",
+    "body": "Dear {{officialName}},\n\nWhenever the next decision about automated plate readers reaches the {{role}}, I would like public comment to be part of it rather than an afterthought. That would mean noticing the item as a substantive matter instead of placing it on a consent calendar.\n\nConsent calendars are useful for routine business. A camera network recording vehicle movements around {{school}} does not feel like routine business to me, whatever dollar amount is attached to it.\n\nWhen the item is heard, I will ask for the existing readers to be removed and for no new ones to be approved in {{city}}.\n\nWould you see that the next decision gets heard rather than consented through? A student would very much appreciate it."
+  },
+  {
+    "id": "procurement-076",
+    "angle": "procurement",
+    "subject": "How many separate approvals stand behind these readers",
+    "body": "Dear {{officialName}},\n\nThere are {{readersWithinMile}} automated plate readers within a mile of {{school}}. What I would like to know is how many separate decisions produced them, and whether any of those decisions happened in public.\n\nNetworks like this usually grow by increments, each one small enough to pass without notice, until the total is something nobody would have approved as a single proposal. That pattern is what concerns me, more than any particular camera.\n\nWhat I would like from the {{role}} is a look at the total rather than the increments, and then removal of the campus area readers with no new sites approved.\n\nCould you tell me how the current count accumulated? As a student I have not been able to reconstruct it."
+  },
+  {
+    "id": "procurement-077",
+    "angle": "procurement",
+    "subject": "Could your office flag upcoming items on this",
+    "body": "Dear {{officialName}},\n\nA standing courtesy would help more than another long letter from me. Could your office let me know when any item touching automated plate readers is placed on a {{role}} agenda?\n\nStudents cannot monitor every committee, and items of this kind rarely carry an obvious title. A short heads up would let residents show up and comment, which is presumably the purpose of the process.\n\nWhen that item comes, my comment will be that the readers near {{school}} should be removed and that {{city}} should approve no new ones.\n\nWould you add me to whatever notice list exists, or tell me how to track these items myself? Either would be a kindness."
+  },
+  {
+    "id": "procurement-078",
+    "angle": "procurement",
+    "subject": "Hoping to read the authorizing resolution, if one exists",
+    "body": "Dear {{officialName}},\n\nMy request is conditional, since I do not know the answer. If a resolution or ordinance authorizes automated plate readers in {{city}}, I would like to read it. If none does, I would like to know what document stands in its place.\n\nStudents keep being told the program is settled without being shown what settled it. That seems like a fixable problem, and fixing it might cost the city one email.\n\nOn substance, I am asking for removal of the readers around {{school}} and for no new installations anywhere nearby.\n\nWould you send whatever the authorizing document turns out to be? I would be grateful, and I will read it carefully rather than argue past it."
+  },
+  {
+    "id": "procurement-079",
+    "angle": "procurement",
+    "subject": "Separating the safety question from the process question",
+    "body": "Dear {{officialName}},\n\nPeople disagree about whether automated plate readers make a city safer, and that argument will go on. Set it aside for a moment. The narrower thing troubling me is whether the decision to deploy them near {{school}} was made in a way residents can inspect and revisit.\n\nI would like the {{role}} to take up that second question in public, with documents on the table. Somebody who supports the cameras might want the same thing, since a defensible process is the best answer to critics.\n\nMy own view on the first question is that the readers should be removed and none added in {{city}}.\n\nWould you support a public airing of the process, whatever your position on the technology? A student would welcome it."
+  },
+  {
+    "id": "procurement-080",
+    "angle": "procurement",
+    "subject": "Asking for a written answer about the approval mechanism",
+    "body": "Dear {{officialName}},\n\nA phone conversation would be easier for your staff and less useful for residents, so I am asking for something in writing instead. By what mechanism were the automated plate readers near {{school}} approved?\n\nWriting matters because another student will ask the same thing next year, and a written reply can be passed along instead of repeated. It also keeps everyone clear about what was actually said.\n\nMy position accompanies the question. I would like the readers around campus removed, and I hope {{city}} approves no new ones.\n\nCould you send a written answer, however short, and say whether you support removal? I would be grateful for both, and for either on its own."
+  },
+  {
+    "id": "procurement-081",
+    "angle": "procurement",
+    "subject": "Were alternatives weighed before the cameras were chosen",
+    "body": "Dear {{officialName}},\n\nGood procurement compares options, which is why I would like to know what alternatives {{city}} considered before deploying automated plate readers near {{school}}, and whether that comparison was written down where the public can read it.\n\nThe answer bears on whether the decision can be revisited sensibly. A choice made after weighing alternatives can be reopened by weighing them again. One made without that step has nothing to reopen, which strikes me as its own argument for starting over.\n\nMy preferred outcome is removal of the campus area readers and no new installations.\n\nWould you tell me whether an alternatives analysis exists, and share it if it does? A student would read it closely."
+  },
+  {
+    "id": "procurement-082",
+    "angle": "procurement",
+    "subject": "What approval was needed to mount these on public poles",
+    "body": "Dear {{officialName}},\n\nAttaching equipment to public infrastructure normally takes a permit or an agreement of some kind. I would like to know what {{city}} required before automated plate readers were mounted, and which office issued the approval.\n\nIt is a small procedural thread, though pulling it usually reveals who actually decided. Permit records are often easier for a student to obtain than contracts, which tend to be treated as confidential by everyone involved.\n\nWhatever the permits say, what I would like is that the readers near {{school}} be taken down and that no new ones be approved.\n\nCould you tell me which office handles those approvals? I would be happy to do the searching myself from there."
+  },
+  {
+    "id": "procurement-083",
+    "angle": "procurement",
+    "subject": "Would a pause cover renewals as well as new sites",
+    "body": "Dear {{officialName}},\n\nA pause that covers only new installations leaves the largest decision untouched, since renewing the existing agreement continues the program either way. I would like the {{role}} to hold both, renewals included, until a public review is finished.\n\nNobody is being asked to break a contract. A decision not to renew is an ordinary exercise of the city's discretion and takes nothing more than timely notice.\n\nAt the end of the review, what I will ask for is removal of the readers near {{school}} and no new ones approved in {{city}}.\n\nWould you support a pause that includes renewals? I would like to understand your thinking either way, as a student trying to follow this."
+  },
+  {
+    "id": "procurement-084",
+    "angle": "procurement",
+    "subject": "Where a student should start looking for the paperwork",
+    "body": "Dear {{officialName}},\n\nEvery installation leaves paper somewhere. There is an approval, a payment, a permit, and usually a contract, and I would like whichever of those {{city}} can share about the automated plate readers near campus.\n\nI am not asking your staff to assemble a file from scratch. Pointing me toward the department that holds each piece would be plenty, and I will do the rest of the work.\n\nThe purpose is not idle curiosity. Students want to understand how the decision was made so we can ask the {{role}} to unmake it, removing the readers around {{school}} and approving no new ones.\n\nWhere should I start? And would you support removal yourself, if it came to that?"
+  },
+  {
+    "id": "procurement-085",
+    "angle": "procurement",
+    "subject": "Your view on approving surveillance without a vote",
+    "body": "Dear {{officialName}},\n\nRather than ask for documents this time, I would like your view. Do you think a city should be able to deploy automated plate readers without a recorded vote of the {{role}}?\n\nThe question is general, so it asks you to characterize no particular decision in {{city}}. It would tell students something useful about where you stand before the next such decision arrives.\n\nMy own answer is no, and I would go further than the process point. I would like the readers near {{school}} removed and no new ones approved.\n\nWould you share your view on the approval standard? I would rather know it than guess, and I will take a disagreement seriously."
+  },
+  {
+    "id": "procurement-086",
+    "angle": "procurement",
+    "subject": "The process question, separate from whether they work",
+    "body": "Dear {{officialName}},\n\nQuestions about this program tend to get answered with reasons the cameras are useful rather than an account of how they came to be approved. Those are different questions, and only the second is one a student can act on.\n\nSo I will ask it plainly. What process produced the readers now operating near {{school}}, and where is that process documented?\n\nMy position on the merits is that the readers should be removed and that {{city}} should approve no new ones. You may disagree with that and still answer the procedural question, which is the one I am really asking.\n\nCould you address it directly, even briefly? I would be grateful for anything concrete."
+  },
+  {
+    "id": "procurement-087",
+    "angle": "procurement",
+    "subject": "Re-approve the program openly or let it lapse",
+    "body": "Dear {{officialName}},\n\nContinuing by default is the weakest form of a decision, and it is the form I suspect this program is running on. I would like the {{role}} to either re-approve the automated plate reader program in {{city}} explicitly or let it lapse, rather than have it persist because nobody scheduled the question.\n\nRe-approval would at least produce a public record and a set of names. Students could then argue with a decision instead of with a condition.\n\nWhen the vote happens, I will ask you to end the program and remove the readers near {{school}}, with no new ones approved afterward.\n\nWould you push for an explicit decision one way or the other? I would respect either result more than silence."
+  },
+  {
+    "id": "procurement-088",
+    "angle": "procurement",
+    "subject": "Which committee sees contracts like this one",
+    "body": "Dear {{officialName}},\n\nCommittee structure is opaque from outside. Which committee, if any, reviews contracts for surveillance equipment in {{city}}, and did that committee see the automated plate reader agreement?\n\nStudents would rather bring comment to the right room. Showing up at the wrong one wastes everybody's evening and leaves the impression that residents are not serious, which is the last thing I want.\n\nWhen we find the right room, the argument will be that the readers within a mile of {{school}} should be removed and that no new ones should be approved.\n\nCould you name the committee and tell me who chairs it? That alone would save me weeks of guessing."
+  },
+  {
+    "id": "procurement-089",
+    "angle": "procurement",
+    "subject": "Is there a termination for convenience clause",
+    "body": "Dear {{officialName}},\n\nMany municipal contracts include a termination for convenience clause, which lets a city end an arrangement without cause on written notice. I would like to know whether the automated plate reader agreement covering {{city}} contains one.\n\nIf it does, then the assumption that nothing can happen until the term expires would be wrong, and the {{role}} has a live choice available now. If it does not, students should know that too and plan accordingly.\n\nWhat I am hoping for is that the choice gets exercised. I would like the readers near {{school}} removed and no new installations approved.\n\nWould you confirm whether such a clause exists? Even a pointer to the right page would help, and I would be grateful."
+  },
+  {
+    "id": "procurement-090",
+    "angle": "procurement",
+    "subject": "The approval history, if you can give it in one reply",
+    "body": "Dear {{officialName}},\n\nPiecemeal answers are hard to work with, so I would like to ask for the whole sequence in one place. Who approved automated plate readers for {{city}}, and under what authority did they act?\n\nA short paragraph would do. Students are not looking for a report, only a description accurate enough to cite when we ask the {{role}} to revisit the decision.\n\nWhen we do ask, the request will be removal of the readers near {{school}} and no new installations anywhere around campus.\n\nCould you provide that summary, and tell me whether you would support the request? I would be grateful for the first and interested in the second."
+  },
+  {
+    "id": "procurement-091",
+    "angle": "procurement",
+    "subject": "Would {{city}} approve these today, knowing what we know",
+    "body": "Dear {{officialName}},\n\nDefending a past decision and evaluating a present one are different exercises, and officials get pushed toward the first whenever residents raise an issue. I would rather ask for the second. Set aside how the automated plate readers near {{school}} were approved, and ask whether {{city}} would approve them today, in public, knowing what residents now know.\n\nIf the answer is yes, hold the vote and let it stand. If it is no, the {{role}} has a straightforward path to ending the program.\n\nWhat I would like either way is removal of the campus area readers and no new sites.\n\nWould you be willing to treat this as an open question rather than a settled one? A student would take that as a real answer."
+  },
+  {
+    "id": "procurement-092",
+    "angle": "procurement",
+    "subject": "Does anything like an impact report come first here",
+    "body": "Dear {{officialName}},\n\nSome cities require an impact report before surveillance equipment is acquired, covering what a system collects and who can reach it. I would like to know whether {{city}} requires anything similar, and whether such a report exists for the automated plate readers near {{school}}.\n\nIf no requirement exists, I would ask you to propose one. A report produced before approval is the difference between a decision residents can evaluate and one we can only discover afterward, and that gap is what worries me as a student.\n\nMy position on the current readers is that they should be removed and that no new ones should be approved.\n\nCould you tell me what {{city}} requires, and whether you would support a report requirement?"
+  },
+  {
+    "id": "procurement-093",
+    "angle": "procurement",
+    "subject": "If the contract ended, would the cameras actually come down",
+    "body": "Dear {{officialName}},\n\nSuppose the agreement covering automated plate readers in {{city}} ended. Would the equipment be taken down, or left on the poles and switched off? Residents near {{school}} have a stake in that answer, and I have not seen it addressed anywhere.\n\nThe question is procedural rather than rhetorical. An end date that leaves hardware on poles is not much of an ending, and the {{role}} might want to specify removal explicitly in any future agreement.\n\nWhat I am hoping for is removal in fact, along with a commitment that no new readers go up.\n\nCould you find out what the current agreement provides? A student would rather ask you than keep speculating about it."
+  },
+  {
+    "id": "procurement-094",
+    "angle": "procurement",
+    "subject": "Assurances are hard to check, documents are not",
+    "body": "Dear {{officialName}},\n\nAssurances are hard to check, and documents are not. If your office can tell me the automated plate readers near {{school}} were properly authorized, that is welcome news, though what students really need is the paper showing it.\n\nGive us that and the conversation gets concrete. We could read the terms and direct our arguments at the right body rather than at whoever happens to answer email that week.\n\nThose arguments will be for removal of the readers around campus and against any new installation in {{city}}.\n\nWould you send the documentation, or tell me who can? I would be grateful for either, and I will stop writing once I have it."
+  },
+  {
+    "id": "procurement-095",
+    "angle": "procurement",
+    "subject": "One more look before another class graduates",
+    "body": "Dear {{officialName}},\n\nOne more session is probably all the time students have to raise this before another class graduates and the institutional memory resets. I would like the {{role}} to look again at the automated plate reader program in {{city}} while the people who care about it are still here.\n\nThe review need not be elaborate. Staff explains the authorization, members ask questions, residents comment, and the body decides whether to continue.\n\nMy comment will be short. I would like the readers near {{school}} removed and no new ones approved.\n\nCan a review be scheduled? Would you speak in favor of holding one? I would be grateful for whichever answer is honest."
+  },
+  {
+    "id": "procurement-096",
+    "angle": "procurement",
+    "subject": "Did a state program shape the deployment here",
+    "body": "Dear {{officialName}},\n\nStatewide there are {{readersInState}} automated plate readers, and some exist because of programs run above the city level. I would like to know whether any state or regional initiative shaped the deployment around {{school}}, and whether {{city}} kept discretion over it.\n\nDiscretion is the whole of my question. A city that chose this can unchoose it. Operating under someone else's program is a different fight, and students should know which one we are in before spending a year on it.\n\nEither way, what I would like is removal of the campus area readers and no new approvals.\n\nCould you clarify where the decision authority sits? I would be grateful for the orientation."
+  },
+  {
+    "id": "procurement-097",
+    "angle": "procurement",
+    "subject": "A review is more useful with a pause attached",
+    "body": "Dear {{officialName}},\n\nStudies have a way of standing in for decisions. If the {{role}} takes up automated plate readers, I would like the review to come with a pause on new installations attached, so the network does not grow while the question is being examined.\n\nOtherwise a review becomes a delay without anyone intending it that way. Equipment added during a study period is rarely taken down afterward, which is the part that worries me.\n\nWhat I will ask for at the end is removal of the readers near {{school}} and no new ones in {{city}}.\n\nWould you support pairing any review with a pause? I would be glad to hear your view, as one student trying to follow this."
+  },
+  {
+    "id": "procurement-098",
+    "angle": "procurement",
+    "subject": "Which vote should students be watching for",
+    "body": "Dear {{officialName}},\n\nStudents want to show up for the decision that matters, and right now we cannot tell which one that is. Is there a budget vote, a contract approval, a renewal item, or something else entirely where automated plate readers in {{city}} get decided?\n\nA pointer to the right meeting would do more than a long reply. We can read the packet ourselves once we know where to look.\n\nWhen the item arrives, our comment will be that the readers near {{school}} should be removed and that no new ones should be approved.\n\nWhich vote should we be watching? And would comment on it be welcome? I would rather ask than assume."
+  },
+  {
+    "id": "procurement-099",
+    "angle": "procurement",
+    "subject": "Moving this decision back where residents can see it",
+    "body": "Dear {{officialName}},\n\nContracts are a legitimate way to run a city and a poor way to make policy, since the terms get negotiated privately and the public sees only the result. Automated plate readers around {{school}} appear to be governed that way, though I would welcome correction if I have it wrong.\n\nWhat I would like is for the {{role}} to take the policy question back and adopt rules in public rather than leaving them to a procurement file.\n\nMy view on those rules is short. The readers near campus should come down, and none should be added elsewhere in {{city}}.\n\nWould you support moving this decision into the open? A student would be grateful for any movement at all."
+  },
+  {
+    "id": "procurement-100",
+    "angle": "procurement",
+    "subject": "Two questions I could not answer on my own",
+    "body": "Dear {{officialName}},\n\nAfter reading everything {{city}} publishes online, I still cannot answer two basic questions about the automated plate readers near {{school}}. Who authorized them, and what would it take to end the program?\n\nI would much rather have those answers from you than keep guessing. Students have spent a lot of effort trying to locate the decision, and that effort would be better spent on the substance.\n\nThe substance is straightforward. I would like the readers within a mile of campus removed, and I hope no new ones are approved.\n\nCould you answer both questions, and tell me where you stand on removal? Even a short reply would settle a great deal for me. Thank you for reading."
+  }
+]

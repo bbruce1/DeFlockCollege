@@ -1,0 +1,1139 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Eric Crawford",
+    "party": "Republican",
+    "phone": "202-225-4076",
+    "url": "https://crawford.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "J. Hill",
+    "party": "Republican",
+    "phone": "202-225-2506",
+    "url": "https://hill.house.gov"
+   }
+  ],
+  "3": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Steve Womack",
+    "party": "Republican",
+    "phone": "202-225-4301",
+    "url": "https://womack.house.gov"
+   }
+  ],
+  "4": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Bruce Westerman",
+    "party": "Republican",
+    "phone": "202-225-3772",
+    "url": "https://westerman.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.boozman.senate.gov/public/index.cfm/contact",
+   "email": null,
+   "name": "John Boozman",
+   "party": "Republican",
+   "phone": "202-224-4843",
+   "url": "https://www.boozman.senate.gov/public"
+  },
+  {
+   "contactForm": "https://www.cotton.senate.gov/contact/contact-tom",
+   "email": null,
+   "name": "Tom Cotton",
+   "party": "Republican",
+   "phone": "202-224-2353",
+   "url": "https://www.cotton.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "jeremy.wooldridge@arkansashouse.org",
+    "name": "Jeremy Wooldridge",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Wooldridge"
+   }
+  ],
+  "10": [
+   {
+    "email": "mindy.mcalindon@arkansashouse.org",
+    "name": "Mindy McAlindon",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=McAlindon"
+   }
+  ],
+  "100": [
+   {
+    "email": "carol.dalby@arkansashouse.org",
+    "name": "Carol Dalby",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Dalby"
+   }
+  ],
+  "11": [
+   {
+    "email": "rebecca.burkes@arkansashouse.org",
+    "name": "Rebecca Burkes",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Burkes"
+   }
+  ],
+  "12": [
+   {
+    "email": "hope.duke@arkansashouse.org",
+    "name": "Hope Duke",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Duke"
+   }
+  ],
+  "13": [
+   {
+    "email": "scott.richardson@arkansashouse.org",
+    "name": "Scott Richardson",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=R.+Scott+Richardson"
+   }
+  ],
+  "14": [
+   {
+    "email": "nick.burkes@arkansashouse.org",
+    "name": "Nick Burkes",
+    "party": "Republican",
+    "url": "https://arkansashouse.org/district/14"
+   }
+  ],
+  "15": [
+   {
+    "email": "john.carr@arkansashouse.org",
+    "name": "John Carr",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Carr"
+   }
+  ],
+  "16": [
+   {
+    "email": "kendon.underwood@arkansashouse.org",
+    "name": "Kendon Underwood",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Underwood"
+   }
+  ],
+  "17": [
+   {
+    "email": "randy.torres@arkansashouse.org",
+    "name": "Randy Torres",
+    "party": "Republican",
+    "url": "https://arkansashouse.org/district/17"
+   }
+  ],
+  "18": [
+   {
+    "email": "robin.lundstrum@arkansashouse.org",
+    "name": "Robin Lundstrum",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Lundstrum"
+   }
+  ],
+  "19": [
+   {
+    "email": "steve.unger@arkansashouse.org",
+    "name": "Steve Unger",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Unger"
+   }
+  ],
+  "2": [
+   {
+    "email": "trey.steimel@arkansashouse.org",
+    "name": "Trey Steimel",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Steimel"
+   }
+  ],
+  "20": [
+   {
+    "email": "denise.garner@arkansashouse.org",
+    "name": "Denise Garner",
+    "party": "Democratic",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=D.+Garner"
+   }
+  ],
+  "21": [
+   {
+    "email": "nicole.clowney@arkansashouse.org",
+    "name": "Nicole Clowney",
+    "party": "Democratic",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Clowney"
+   }
+  ],
+  "22": [
+   {
+    "email": "david.whitaker@arkansashouse.org",
+    "name": "David Whitaker",
+    "party": "Democratic",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=D.+Whitaker"
+   }
+  ],
+  "23": [
+   {
+    "email": "kendra.moore@arkansashouse.org",
+    "name": "Kendra Moore",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=K.+Moore"
+   }
+  ],
+  "24": [
+   {
+    "email": "brad.hall@arkansashouse.org",
+    "name": "Brad Hall",
+    "party": "Republican",
+    "url": "https://arkansashouse.org/district/24"
+   }
+  ],
+  "25": [
+   {
+    "email": "chad.puryear@arkansashouse.org",
+    "name": "Chad Puryear",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Puryear"
+   }
+  ],
+  "26": [
+   {
+    "email": "james.eaton@arkansashouse.org",
+    "name": "James Eaton",
+    "party": "Republican",
+    "url": "https://arkansashouse.org/district/26"
+   }
+  ],
+  "27": [
+   {
+    "email": "steven.walker@arkansashouse.org",
+    "name": "Steven Walker",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Walker"
+   }
+  ],
+  "28": [
+   {
+    "email": "bart.schulz@arkansashouse.org",
+    "name": "Bart Schulz",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Schulz"
+   }
+  ],
+  "29": [
+   {
+    "email": "rick.mcclure@arkansashouse.org",
+    "name": "Rick McClure",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=McClure"
+   }
+  ],
+  "3": [
+   {
+    "email": "stetson.painter@arkansashouse.org",
+    "name": "Stetson Painter",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Painter"
+   }
+  ],
+  "30": [
+   {
+    "email": "frances.cavenaugh@arkansashouse.org",
+    "name": "Fran Cavenaugh",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Cavenaugh"
+   }
+  ],
+  "31": [
+   {
+    "email": "jimmy.gazaway@arkansashouse.org",
+    "name": "Jimmy Gazaway",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Gazaway"
+   }
+  ],
+  "32": [
+   {
+    "email": "jackladyman@gmail.com",
+    "name": "Jack Ladyman",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Ladyman"
+   }
+  ],
+  "33": [
+   {
+    "email": "jonmilligan@ymail.com",
+    "name": "Jon Milligan",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Milligan"
+   }
+  ],
+  "34": [
+   {
+    "email": "joey.carr@arkansashouse.org",
+    "name": "Joey Carr",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Joey+Carr"
+   }
+  ],
+  "35": [
+   {
+    "email": "mcgruder4arkansashouse@gmail.com",
+    "name": "Jessie McGruder",
+    "party": "Democratic",
+    "url": "https://arkansashouse.org/district/35"
+   }
+  ],
+  "36": [
+   {
+    "email": "johnny.rye@arkansashouse.org",
+    "name": "Johnny Rye",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Rye"
+   }
+  ],
+  "37": [
+   {
+    "email": "steve.hollowell@arkansashouse.org",
+    "name": "Steve Hollowell",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Hollowell"
+   }
+  ],
+  "38": [
+   {
+    "email": "dwight.tosh@arkansashouse.org",
+    "name": "Dwight Tosh",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Tosh"
+   }
+  ],
+  "39": [
+   {
+    "email": "wayne.long@arkansashouse.org",
+    "name": "Wayne Long",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Long"
+   }
+  ],
+  "4": [
+   {
+    "email": "jason.nazarenko@arkansashouse.org",
+    "name": "Jason Nazarenko",
+    "party": "Republican",
+    "url": "https://arkansashouse.org/district/4"
+   }
+  ],
+  "40": [
+   {
+    "email": "shad.pearce@arkansashouse.org",
+    "name": "Shad Pearce",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Pearce"
+   }
+  ],
+  "41": [
+   {
+    "email": "alyssa.brown@arkansashouse.org",
+    "name": "Alyssa Brown",
+    "party": "Republican",
+    "url": "https://arkelect.com/officials/501"
+   }
+  ],
+  "42": [
+   {
+    "email": "stephen.meeks@arkansashouse.org",
+    "name": "Stephen Meeks",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=S.+Meeks"
+   }
+  ],
+  "43": [
+   {
+    "email": "rick.beck@arkansashouse.org",
+    "name": "Rick Beck",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Beck"
+   }
+  ],
+  "44": [
+   {
+    "email": "bill.teeter@arkansashouse.org",
+    "name": "Bill Teeter",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Teeter"
+   }
+  ],
+  "45": [
+   {
+    "email": "aaron.pilkington@arkansashouse.org",
+    "name": "Aaron Pilkington",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Pilkington"
+   }
+  ],
+  "46": [
+   {
+    "email": "jon.eubanks@arkansashouse.org",
+    "name": "Jon Eubanks",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Eubanks"
+   }
+  ],
+  "47": [
+   {
+    "email": "lee.johnson@arkansashouse.org",
+    "name": "Lee Johnson",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=L.+Johnson"
+   }
+  ],
+  "48": [
+   {
+    "email": "ryan.rose@arkansashouse.org",
+    "name": "Ryan Rose",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Rose"
+   }
+  ],
+  "49": [
+   {
+    "email": "jay.richardson@arkansashouse.org",
+    "name": "Jay Richardson",
+    "party": "Democratic",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=J.+Richardson"
+   }
+  ],
+  "5": [
+   {
+    "email": "rmcnair1950@gmail.com",
+    "name": "Ron McNair",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=McNair"
+   }
+  ],
+  "50": [
+   {
+    "email": "zack.gramlich@arkansashouse.org",
+    "name": "Zack Gramlich",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Gramlich"
+   }
+  ],
+  "51": [
+   {
+    "email": "cindy.crawford@arkansashouse.org",
+    "name": "Cindy Crawford",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Crawford"
+   }
+  ],
+  "52": [
+   {
+    "email": "richmond4staterep@gmail.com",
+    "name": "Marcus Richmond",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Richmond"
+   }
+  ],
+  "53": [
+   {
+    "email": "matt.duffield@arkansashouse.org",
+    "name": "Matt Duffield",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Duffield"
+   }
+  ],
+  "54": [
+   {
+    "email": "mary.bentley@arkansashouse.org",
+    "name": "Mary Bentley",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Bentley"
+   }
+  ],
+  "55": [
+   {
+    "email": "matt.brown@arkansashouse.org",
+    "name": "Matt Brown",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=M.+Brown"
+   }
+  ],
+  "56": [
+   {
+    "email": "stephen.magie@arkansashouse.org",
+    "name": "Steve Magie",
+    "party": "Democratic",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Magie"
+   }
+  ],
+  "57": [
+   {
+    "email": "cameron.cooper@arkansashouse.org",
+    "name": "Cameron Cooper",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=C.+Cooper"
+   }
+  ],
+  "58": [
+   {
+    "email": "les.eaves@arkansashouse.org",
+    "name": "Les Eaves",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Eaves"
+   }
+  ],
+  "59": [
+   {
+    "email": "wjewooten@aol.com",
+    "name": "Jim Wooten",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Wooten"
+   }
+  ],
+  "6": [
+   {
+    "email": "harlan.breaux@arkansashouse.org",
+    "name": "Harlan Breaux",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Breaux"
+   }
+  ],
+  "60": [
+   {
+    "email": "roger.lynch@arkansashouse.org",
+    "name": "Roger Lynch",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Lynch"
+   }
+  ],
+  "61": [
+   {
+    "email": "jeremiah.moore@arkansashouse.org",
+    "name": "Jeremiah Moore",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=J.+Moore"
+   }
+  ],
+  "62": [
+   {
+    "email": "mdmcelroy1@yahoo.com",
+    "name": "Mark McElroy",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=M.+McElroy"
+   }
+  ],
+  "63": [
+   {
+    "email": "lincoln.barnett@arkansashouse.org",
+    "name": "Lincoln Barnett",
+    "party": "Democratic",
+    "url": "https://arkansashouse.org/district/63"
+   }
+  ],
+  "64": [
+   {
+    "email": "kenneth.ferguson@arkansashouse.org",
+    "name": "Ken Ferguson",
+    "party": "Democratic",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=K.+Ferguson"
+   }
+  ],
+  "65": [
+   {
+    "email": "pinehillmbc111@gmail.com",
+    "name": "Glenn Barnes",
+    "party": "Democratic",
+    "url": "https://arkansashouse.org/district/65"
+   }
+  ],
+  "66": [
+   {
+    "email": "mark.perry@arkansashouse.org",
+    "name": "Mark Perry",
+    "party": "Democratic",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Perry"
+   }
+  ],
+  "67": [
+   {
+    "email": "karilyn.brown@arkansashouse.org",
+    "name": "Karilyn Brown",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=K.+Brown"
+   }
+  ],
+  "68": [
+   {
+    "email": "brian.evans@arkansashouse.org",
+    "name": "Brian Evans",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Evans"
+   }
+  ],
+  "69": [
+   {
+    "email": "david.ray@arkansashouse.org",
+    "name": "David Ray",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Ray"
+   }
+  ],
+  "7": [
+   {
+    "email": "brit.mckenzie@arkansashouse.org",
+    "name": "Brit McKenzie",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=B.+McKenzie"
+   }
+  ],
+  "70": [
+   {
+    "email": "alex.holladay@arkansashouse.org",
+    "name": "Alex Holladay",
+    "party": "Democratic",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Holladay"
+   }
+  ],
+  "71": [
+   {
+    "email": "brandon.achor@arkansashouse.org",
+    "name": "Brandon Achor",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Achor"
+   }
+  ],
+  "72": [
+   {
+    "email": "sensteele@yahoo.com",
+    "name": "Tracy Steele",
+    "party": "Democratic",
+    "url": "https://arkansashouse.org/district/72"
+   }
+  ],
+  "73": [
+   {
+    "email": "andrew.collins@arkansashouse.org",
+    "name": "Andrew Collins",
+    "party": "Democratic",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=A.+Collins"
+   }
+  ],
+  "74": [
+   {
+    "email": "tippi.mccullough@arkansashouse.org",
+    "name": "Tippi McCullough",
+    "party": "Democratic",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=McCullough"
+   }
+  ],
+  "75": [
+   {
+    "email": "ashley.hudson@arkansashouse.org",
+    "name": "Ashley Hudson",
+    "party": "Democratic",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Hudson"
+   }
+  ],
+  "76": [
+   {
+    "email": "joy.springer@arkansashouse.org",
+    "name": "Joy Springer",
+    "party": "Democratic",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Springer"
+   }
+  ],
+  "77": [
+   {
+    "email": "allenfred@me.com",
+    "name": "Fred Allen",
+    "party": "Democratic",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=F.+Allen"
+   }
+  ],
+  "78": [
+   {
+    "email": "keith.brooks@arkansashouse.org",
+    "name": "Keith Brooks",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Brooks"
+   }
+  ],
+  "79": [
+   {
+    "email": "tara.shephard@arkansashouse.org",
+    "name": "Tara Shephard",
+    "party": "Democratic",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=T.+Shephard"
+   }
+  ],
+  "80": [
+   {
+    "email": "denise.ennett@arkansashouse.org",
+    "name": "Denise Ennett",
+    "party": "Democratic",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Ennett"
+   }
+  ],
+  "81": [
+   {
+    "email": "rj.hawk@arkansashouse.org",
+    "name": "R.J. Hawk",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Hawk"
+   }
+  ],
+  "82": [
+   {
+    "email": "tony.furman@arkansashouse.org",
+    "name": "Tony Furman",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Furman"
+   }
+  ],
+  "83": [
+   {
+    "email": "paul.childress@arkansashouse.org",
+    "name": "Paul Childress",
+    "party": "Republican",
+    "url": "https://arkansashouse.org/district/83"
+   }
+  ],
+  "84": [
+   {
+    "email": "les.warren@arkansashouse.org",
+    "name": "Les Warren",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Warren"
+   }
+  ],
+  "85": [
+   {
+    "email": "mcgrewrep22@gmail.com",
+    "name": "Richard McGrew",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=McGrew"
+   }
+  ],
+  "86": [
+   {
+    "email": "john.maddox@arkansashouse.org",
+    "name": "John Maddox",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Maddox"
+   }
+  ],
+  "87": [
+   {
+    "email": "deann.vaught@arkansashouse.org",
+    "name": "DeAnn Vaught",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Vaught"
+   }
+  ],
+  "88": [
+   {
+    "email": "dolly.henley@arkansashouse.org",
+    "name": "Dolly Henley",
+    "party": "Republican",
+    "url": "https://arkansashouse.org/district/88"
+   }
+  ],
+  "89": [
+   {
+    "email": "justinrory@yahoo.com",
+    "name": "Justin Gonzales",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Gonzales"
+   }
+  ],
+  "9": [
+   {
+    "email": "diana.gonzalesworthen@arkansashouse.org",
+    "name": "Diana Gonzales Worthen",
+    "party": "Democratic",
+    "url": "https://arkansashouse.org/district/9"
+   }
+  ],
+  "90": [
+   {
+    "email": "richard@richardwomack.com",
+    "name": "Richard Womack",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Womack"
+   }
+  ],
+  "91": [
+   {
+    "email": "bccci@cablelynx.com",
+    "name": "Bruce Cozart",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Cozart"
+   }
+  ],
+  "92": [
+   {
+    "email": "julie.mayberry@arkansashouse.org",
+    "name": "Julie Mayberry",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=J.+Mayberry"
+   }
+  ],
+  "93": [
+   {
+    "email": "mike.holcomb@arkansashouse.org",
+    "name": "Mike Holcomb",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Holcomb"
+   }
+  ],
+  "94": [
+   {
+    "email": "jeff@jeffwardlaw.com",
+    "name": "Jeff Wardlaw",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Wardlaw"
+   }
+  ],
+  "95": [
+   {
+    "email": "howard.beaty@arkansashouse.org",
+    "name": "Howard Beaty",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Beaty+Jr."
+   }
+  ],
+  "96": [
+   {
+    "email": "sonia.barker@arkansashouse.org",
+    "name": "Sonia Barker",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Barker"
+   }
+  ],
+  "97": [
+   {
+    "email": "matthew.shepherd@arkansashouse.org",
+    "name": "Matthew Shepherd",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=M.+Shepherd"
+   }
+  ],
+  "98": [
+   {
+    "email": "wade.andrews@arkansashouse.org",
+    "name": "Wade Andrews",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Andrews"
+   }
+  ],
+  "99": [
+   {
+    "email": "l_jean@sbcglobal.net",
+    "name": "Lane Jean",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Jean"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/ar.csv"
+ },
+ "state": "AR",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "10": [
+   {
+    "email": "ronald.caldwell@senate.ar.gov",
+    "name": "Ron Caldwell",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Caldwell"
+   }
+  ],
+  "11": [
+   {
+    "email": "ricky.hill@senate.ar.gov",
+    "name": "Ricky Hill",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Hill"
+   }
+  ],
+  "12": [
+   {
+    "email": "jamie.scott@senate.ar.gov",
+    "name": "Jamie Scott",
+    "party": "Democratic",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=J.+Scott&dd"
+   }
+  ],
+  "13": [
+   {
+    "email": "jane.english@senate.ar.gov",
+    "name": "Jane English",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=J.+English"
+   }
+  ],
+  "14": [
+   {
+    "email": "clarke.tucker@senate.ar.gov",
+    "name": "Clarke Tucker",
+    "party": "Democratic",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=C.+Tucker"
+   }
+  ],
+  "15": [
+   {
+    "email": "fred.love@senate.ar.gov",
+    "name": "Fred Love",
+    "party": "Democratic",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=F.+Love"
+   }
+  ],
+  "16": [
+   {
+    "email": "kim.hammer@senate.ar.gov",
+    "name": "Kim Hammer",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=K.+Hammer"
+   }
+  ],
+  "17": [
+   {
+    "email": "mark.johnson@senate.ar.gov",
+    "name": "Mark Johnson",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=M.+Johnson"
+   }
+  ],
+  "18": [
+   {
+    "email": "jonathan.dismang@senate.ar.gov",
+    "name": "Jonathan Dismang",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=J.+Dismang"
+   }
+  ],
+  "19": [
+   {
+    "email": "dave.wallace@senate.ar.gov",
+    "name": "Dave Wallace",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=D.+Wallace"
+   }
+  ],
+  "2": [
+   {
+    "email": "matt.stone@senate.ar.gov",
+    "name": "Matt Stone",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Stone"
+   }
+  ],
+  "20": [
+   {
+    "email": "dan.sullivan@senate.ar.gov",
+    "name": "Dan Sullivan",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=D.+Sullivan"
+   }
+  ],
+  "21": [
+   {
+    "email": "blake.johnson@senate.ar.gov",
+    "name": "Blake Johnson",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=B.+Johnson"
+   }
+  ],
+  "22": [
+   {
+    "email": "john.payton@senate.ar.gov",
+    "name": "John Payton",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=J.+Payton"
+   }
+  ],
+  "23": [
+   {
+    "email": "scott.flippo@senate.ar.gov",
+    "name": "Scott Flippo",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Flippo"
+   }
+  ],
+  "24": [
+   {
+    "email": "missy.irvin@senate.ar.gov",
+    "name": "Missy Irvin",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Irvin"
+   }
+  ],
+  "25": [
+   {
+    "email": "breanne.davis@senate.ar.gov",
+    "name": "Breanne Davis",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=B.+Davis"
+   }
+  ],
+  "26": [
+   {
+    "email": "brad.simon@senate.ar.gov",
+    "name": "Brad Simon",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Simon"
+   }
+  ],
+  "27": [
+   {
+    "email": "justin.boyd@senate.ar.gov",
+    "name": "Justin Boyd",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=J.+Boyd"
+   }
+  ],
+  "28": [
+   {
+    "email": "bryan.king@senate.ar.gov",
+    "name": "Bryan King",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=B.+King"
+   }
+  ],
+  "29": [
+   {
+    "email": "jim.petty@senate.ar.gov",
+    "name": "Jim Petty",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=J.+Petty"
+   }
+  ],
+  "3": [
+   {
+    "email": "steve.crowell@senate.ar.gov",
+    "name": "Steve Crowell",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Crowell"
+   }
+  ],
+  "30": [
+   {
+    "email": "greg.leding@senate.ar.gov",
+    "name": "Greg Leding",
+    "party": "Democratic",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=G.+Leding"
+   }
+  ],
+  "31": [
+   {
+    "email": "clint.penzo@senate.ar.gov",
+    "name": "Clint Penzo",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=C.+Penzo"
+   }
+  ],
+  "32": [
+   {
+    "email": "joshua.bryant@senate.ar.gov",
+    "name": "Josh Bryant",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=J.+Bryant"
+   }
+  ],
+  "33": [
+   {
+    "email": "bart.hester@senate.ar.gov",
+    "name": "Bart Hester",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Hester"
+   }
+  ],
+  "34": [
+   {
+    "email": "jim.dotson@senate.ar.gov",
+    "name": "Jim Dotson",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Dotson"
+   }
+  ],
+  "35": [
+   {
+    "email": "tyler.dees@senate.ar.gov",
+    "name": "Tyler Dees",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Dees"
+   }
+  ],
+  "4": [
+   {
+    "email": "jimmy.hickey@senate.ar.gov",
+    "name": "Jimmy Hickey",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Hickey"
+   }
+  ],
+  "5": [
+   {
+    "email": "terry.rice@senate.ar.gov",
+    "name": "Terry Rice",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=Rice"
+   }
+  ],
+  "6": [
+   {
+    "email": "matt.mckee@senate.ar.gov",
+    "name": "Matt McKee",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=M.+McKee"
+   }
+  ],
+  "7": [
+   {
+    "email": "alan.clark@senate.ar.gov",
+    "name": "Alan Clark",
+    "party": "Republican",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=A.+Clark"
+   }
+  ],
+  "8": [
+   {
+    "email": "stephanie.flowers@senate.ar.gov",
+    "name": "Stephanie Flowers",
+    "party": "Democratic",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=S.+Flowers"
+   }
+  ],
+  "9": [
+   {
+    "email": "rkm_72360@yahoo.com",
+    "name": "Reginald Murdock",
+    "party": "Democratic",
+    "url": "https://arkleg.state.ar.us/Legislators/Detail?member=R.+Murdock"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

@@ -1,0 +1,959 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Gabe Amo",
+    "party": "Democrat",
+    "phone": "202-225-4911",
+    "url": "https://amo.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Seth Magaziner",
+    "party": "Democrat",
+    "phone": "202-225-2735",
+    "url": "https://magaziner.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.whitehouse.senate.gov/contact/email-sheldon",
+   "email": null,
+   "name": "Sheldon Whitehouse",
+   "party": "Democrat",
+   "phone": "202-224-2921",
+   "url": "https://www.whitehouse.senate.gov"
+  },
+  {
+   "contactForm": "https://www.reed.senate.gov/contact/",
+   "email": null,
+   "name": "John Reed",
+   "party": "Democrat",
+   "phone": "202-224-4642",
+   "url": "https://www.reed.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "rep-ajello@rilegislature.gov",
+    "name": "Edith Ajello",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/ajello/default.aspx"
+   }
+  ],
+  "10": [
+   {
+    "email": "rep-slater@rilegislature.gov",
+    "name": "Scott Slater",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "11": [
+   {
+    "email": "rep-diaz@rilegislature.gov",
+    "name": "Grace Diaz",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "12": [
+   {
+    "email": "rep-batista@rilegislature.gov",
+    "name": "Jose Batista",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/batista/default.aspx"
+   }
+  ],
+  "13": [
+   {
+    "email": "rep-perez@rilegislature.gov",
+    "name": "Ramon Perez",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "14": [
+   {
+    "email": "rep-lima@rilegislature.gov",
+    "name": "Charlene Lima",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "15": [
+   {
+    "email": "rep-paplauskas@rilegislature.gov",
+    "name": "Chris Paplauskas",
+    "party": "Republican",
+    "url": "https://rilegislature.gov/representatives/Paplauskas/Pages/Biography.aspx"
+   }
+  ],
+  "16": [
+   {
+    "email": "rep-potter@rilegislature.gov",
+    "name": "Brandon Potter",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "17": [
+   {
+    "email": "rep-baginski@rilegislature.gov",
+    "name": "Jackie Baginski",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/baginski/default.aspx"
+   }
+  ],
+  "18": [
+   {
+    "email": "rep-handy@rilegislature.gov",
+    "name": "Arthur Handy",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "19": [
+   {
+    "email": "rep-mcnamara@rilegislature.gov",
+    "name": "Joseph McNamara",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "2": [
+   {
+    "email": "rep-blazejewski@rilegislature.gov",
+    "name": "Chris Blazejewski",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/blazejewski/default.aspx"
+   }
+  ],
+  "20": [
+   {
+    "email": "rep-bennett@rilegislature.gov",
+    "name": "David Bennett",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/bennett/default.aspx"
+   }
+  ],
+  "21": [
+   {
+    "email": "rep-hopkins@rilegislature.gov",
+    "name": "Marie Hopkins",
+    "party": "Republican",
+    "url": "https://rilegislature.gov/representatives/Hopkins/Pages/Biography.aspx"
+   }
+  ],
+  "22": [
+   {
+    "email": "rep-solomon@rilegislature.gov",
+    "name": "Joseph Solomon",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "23": [
+   {
+    "email": "rep-shekarchi@rilegislature.gov",
+    "name": "Joe Shekarchi",
+    "party": "Democratic",
+    "url": "https://joeshekarchi.com/"
+   }
+  ],
+  "24": [
+   {
+    "email": "rep-shanley@rilegislature.gov",
+    "name": "Evan Shanley",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "25": [
+   {
+    "email": "rep-noret@rilegislature.gov",
+    "name": "Tom Noret",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "26": [
+   {
+    "email": "rep-read@rilegislature.gov",
+    "name": "Earl Read",
+    "party": "Democratic",
+    "url": "https://rilegislature.gov/representatives/Read/Pages/Biography.aspx"
+   }
+  ],
+  "27": [
+   {
+    "email": "rep-serpa@rilegislature.gov",
+    "name": "Pat Serpa",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "28": [
+   {
+    "email": "rep-nardone@rilegislature.gov",
+    "name": "George Nardone",
+    "party": "Republican",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "29": [
+   {
+    "email": "rep-roberts@rilegislature.gov",
+    "name": "Sherry Roberts",
+    "party": "Republican",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "3": [
+   {
+    "email": "rep-biah@rilegislature.gov",
+    "name": "Nathan Biah",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/biah/default.aspx"
+   }
+  ],
+  "30": [
+   {
+    "email": "rep-caldwell@rilegislature.gov",
+    "name": "Justine Caldwell",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/caldwell/default.aspx"
+   }
+  ],
+  "31": [
+   {
+    "email": "rep-casimiro@rilegislature.gov",
+    "name": "Julie Casimiro",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "32": [
+   {
+    "email": "rep-craven@rilegislature.gov",
+    "name": "Robert Craven",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "33": [
+   {
+    "email": "rep-mcentee@rilegislature.gov",
+    "name": "Carol McEntee",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "34": [
+   {
+    "email": "rep-tanzi@rilegislature.gov",
+    "name": "Teresa Tanzi",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "35": [
+   {
+    "email": "rep-fogarty@rilegislature.gov",
+    "name": "Kathleen Fogarty",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "36": [
+   {
+    "email": "rep-spears@rilegislature.gov",
+    "name": "Tina Spears",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/spears/pages/biography.aspx"
+   }
+  ],
+  "37": [
+   {
+    "email": "rep-azzinaro@rilegislature.gov",
+    "name": "Sam Azzinaro",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/azzinaro/default.aspx"
+   }
+  ],
+  "38": [
+   {
+    "email": "rep-kennedy@rilegislature.gov",
+    "name": "Brian Kennedy",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "39": [
+   {
+    "email": "rep-cotter@rilegislature.gov",
+    "name": "Megan Cotter",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/cotter/Pages/Biography.aspx"
+   }
+  ],
+  "4": [
+   {
+    "email": "rep-kislak@rilegislature.gov",
+    "name": "Rebecca Kislak",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "40": [
+   {
+    "email": "rep-chippendale@rilegislature.gov",
+    "name": "Mike Chippendale",
+    "party": "Republican",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "41": [
+   {
+    "email": "rep-quattrocchi@rilegislature.gov",
+    "name": "Bob Quattrocchi",
+    "party": "Republican",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "42": [
+   {
+    "email": "rep-fascia@rilegislature.gov",
+    "name": "Dick Fascia",
+    "party": "Republican",
+    "url": "https://fasciarep42.com/"
+   }
+  ],
+  "43": [
+   {
+    "email": "rep-fellela@rilegislature.gov",
+    "name": "Deb Fellela",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "44": [
+   {
+    "email": "rep-costantino@rilegislature.gov",
+    "name": "Greg Costantino",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "45": [
+   {
+    "email": "rep-ackerman@rilegislature.gov",
+    "name": "Mia Ackerman",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/ackerman/default.aspx"
+   }
+  ],
+  "46": [
+   {
+    "email": "rep-shallcross-smith@rilegislature.gov",
+    "name": "Mary Ann Shallcross-Smith",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "47": [
+   {
+    "email": "rep-place@rilegislature.gov",
+    "name": "David Place",
+    "party": "Republican",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "48": [
+   {
+    "email": "rep-newberry@rilegislature.gov",
+    "name": "Brian Newberry",
+    "party": "Republican",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "49": [
+   {
+    "email": "rep-brien@rilegislature.gov",
+    "name": "Jon Brien",
+    "party": "Independent",
+    "url": "https://www.rilegislature.gov/representatives/brien/Pages/biography.aspx"
+   }
+  ],
+  "5": [
+   {
+    "email": "rep-desimone@rilegislature.gov",
+    "name": "Anthony DeSimone",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/desimone/Pages/Biography.aspx"
+   }
+  ],
+  "50": [
+   {
+    "email": "rep-casey@rilegislature.gov",
+    "name": "Stephen Casey",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "51": [
+   {
+    "email": "rep-phillips@rilegislature.gov",
+    "name": "Bob Phillips",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "52": [
+   {
+    "email": "rep-marszalkowski@rilegislature.gov",
+    "name": "Alex Marszalkowski",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "53": [
+   {
+    "email": "rep-santucci@rilegislature.gov",
+    "name": "Paul Santucci",
+    "party": "Republican",
+    "url": "https://rilegislature.gov/representatives/Santucci/Pages/Biography.aspx"
+   }
+  ],
+  "54": [
+   {
+    "email": "rep-obrien@rilegislature.gov",
+    "name": "Bill O'Brien",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "55": [
+   {
+    "email": "rep-corvese@rilegislature.gov",
+    "name": "Doc Corvese",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "56": [
+   {
+    "email": "rep-giraldo@rilegislature.gov",
+    "name": "Joshua Giraldo",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "57": [
+   {
+    "email": "rep-voas@rilegislature.gov",
+    "name": "Brandon Voas",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/voas/pages/biography.aspx"
+   }
+  ],
+  "58": [
+   {
+    "email": "rep-cruz@rilegislature.gov",
+    "name": "Cherie Cruz",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/cruz/Pages/Biography.aspx"
+   }
+  ],
+  "59": [
+   {
+    "email": "rep-stewart@rilegislature.gov",
+    "name": "Jennifer Stewart",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/stewart/pages/biography.aspx"
+   }
+  ],
+  "6": [
+   {
+    "email": "rep-hull@rilegislature.gov",
+    "name": "Raymond Hull",
+    "party": "Democratic",
+    "url": "https://www.rayhull.com/"
+   }
+  ],
+  "60": [
+   {
+    "email": "rep-alzate@rilegislature.gov",
+    "name": "Karen Alzate",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/alzate/default.aspx"
+   }
+  ],
+  "61": [
+   {
+    "email": "rep-felix@rilegislature.gov",
+    "name": "Leo Felix",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "62": [
+   {
+    "email": "rep-messier@rilegislature.gov",
+    "name": "Mary Messier",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "63": [
+   {
+    "email": "rep-kazarian@rilegislature.gov",
+    "name": "Katie Kazarian",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "64": [
+   {
+    "email": "rep-furtado@rilegislature.gov",
+    "name": "Jenni Furtado",
+    "party": "Democratic",
+    "url": "https://rilegislature.gov/representatives/Furtado/Pages/Biography.aspx"
+   }
+  ],
+  "65": [
+   {
+    "email": "rep-dawson@rilegislature.gov",
+    "name": "Matthew Dawson",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/dawson/Pages/Biography.aspx"
+   }
+  ],
+  "66": [
+   {
+    "email": "rep-boylan@rilegislature.gov",
+    "name": "Jennifer Boylan",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/boylan/Pages/Biography.aspx"
+   }
+  ],
+  "67": [
+   {
+    "email": "rep-knight@rilegislature.gov",
+    "name": "Jason Knight",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "68": [
+   {
+    "email": "rep-speakman@rilegislature.gov",
+    "name": "June Speakman",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "69": [
+   {
+    "email": "rep-donovan@rilegislature.gov",
+    "name": "Susan Donovan",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "7": [
+   {
+    "email": "rep-morales@rilegislature.gov",
+    "name": "David Morales",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "70": [
+   {
+    "email": "rep-edwards@rilegislature.gov",
+    "name": "Jay Edwards",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "71": [
+   {
+    "email": "rep-mcgaw@rilegislature.gov",
+    "name": "Michelle McGaw",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "72": [
+   {
+    "email": "rep-cortvriend@rilegislature.gov",
+    "name": "Terri Cortvriend",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "73": [
+   {
+    "email": "rep-abney@rilegislature.gov",
+    "name": "Marvin Abney",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/abney/default.aspx"
+   }
+  ],
+  "74": [
+   {
+    "email": "rep-finkelman@rilegislature.gov",
+    "name": "Alex Finkelman",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/finkelman/Pages/biography.aspx"
+   }
+  ],
+  "75": [
+   {
+    "email": "rep-carson@rilegislature.gov",
+    "name": "Lauren Carson",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "8": [
+   {
+    "email": "rep-lombardi@rilegislature.gov",
+    "name": "John Lombardi",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/carson/default.aspx"
+   }
+  ],
+  "9": [
+   {
+    "email": "rep-sanchez@rilegislature.gov",
+    "name": "Enrique Sanchez",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/representatives/sanchez/Pages/biography.aspx"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/ri.csv"
+ },
+ "state": "RI",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "sen-bissaillon@rilegislature.gov",
+    "name": "Jake Bissaillon",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/senators/bissaillon/Pages/Biography.aspx"
+   }
+  ],
+  "10": [
+   {
+    "email": "sen-felag@rilegislature.gov",
+    "name": "Walter Felag",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/senators/algiere/default.aspx"
+   }
+  ],
+  "11": [
+   {
+    "email": "sen-ujifusa@rilegislature.gov",
+    "name": "Linda Ujifusa",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/Senators/ujifusa/pages/biography.aspx"
+   }
+  ],
+  "12": [
+   {
+    "email": "sen-dipalma@rilegislature.gov",
+    "name": "Lou DiPalma",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/senators/algiere/default.aspx"
+   }
+  ],
+  "13": [
+   {
+    "email": "sen-euer@rilegislature.gov",
+    "name": "Dawn Euer",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/senators/algiere/default.aspx"
+   }
+  ],
+  "14": [
+   {
+    "email": "sen-lawson@rilegislature.gov",
+    "name": "Val Lawson",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/senators/algiere/default.aspx"
+   }
+  ],
+  "15": [
+   {
+    "email": "sen-kallman@rilegislature.gov",
+    "name": "Meghan Kallman",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/senators/kallman/default.aspx"
+   }
+  ],
+  "16": [
+   {
+    "email": "sen-acosta@rilegislature.gov",
+    "name": "Jonathon Acosta",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/senators/acosta/default.aspx"
+   }
+  ],
+  "17": [
+   {
+    "email": "sen-paolino@rilegislature.gov",
+    "name": "Thomas Paolino",
+    "party": "Republican",
+    "url": "https://www.rilegislature.gov/senators/algiere/default.aspx"
+   }
+  ],
+  "18": [
+   {
+    "email": "sen-britto@rilegislature.gov",
+    "name": "Bob Britto",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/senators/britor/Pages/Biography.aspx"
+   }
+  ],
+  "19": [
+   {
+    "email": "sen-pearson@rilegislature.gov",
+    "name": "Ryan Pearson",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/senators/algiere/default.aspx"
+   }
+  ],
+  "2": [
+   {
+    "email": "sen-quezada@rilegislature.gov",
+    "name": "Ana Quezada",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/senators/algiere/default.aspx"
+   }
+  ],
+  "20": [
+   {
+    "email": "sen-thompson@rilegislature.gov",
+    "name": "Brian Thompson",
+    "party": "Democratic",
+    "url": "https://rilegislature.gov/senators/Thompson/Pages/Biography.aspx"
+   }
+  ],
+  "21": [
+   {
+    "email": "sen-rogers@rilegislature.gov",
+    "name": "Gordon Rogers",
+    "party": "Republican",
+    "url": "https://www.rilegislature.gov/senators/algiere/default.aspx"
+   }
+  ],
+  "22": [
+   {
+    "email": "sen-tikoian@rilegislature.gov",
+    "name": "David Tikoian",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/Senators/tikoian/pages/biography.aspx"
+   }
+  ],
+  "23": [
+   {
+    "email": "sen-delacruz@rilegislature.gov",
+    "name": "Jessica de la Cruz",
+    "party": "Republican",
+    "url": "https://www.rilegislature.gov/senators/algiere/default.aspx"
+   }
+  ],
+  "24": [
+   {
+    "email": "sen-murray@rilegislature.gov",
+    "name": "Melissa Murray",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/senators/algiere/default.aspx"
+   }
+  ],
+  "25": [
+   {
+    "email": "sen-dimitri@rilegislature.gov",
+    "name": "Andrew Dimitri",
+    "party": "Democratic",
+    "url": "https://rilegislature.gov/senators/Dimitri/Pages/Biography.aspx"
+   }
+  ],
+  "26": [
+   {
+    "email": "sen-patalano@rilegislature.gov",
+    "name": "Todd Patalano",
+    "party": "Democratic",
+    "url": "https://rilegislature.gov/senators/Patalano/Pages/Biography.aspx"
+   }
+  ],
+  "27": [
+   {
+    "email": "sen-gallo@rilegislature.gov",
+    "name": "Hanna Gallo",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/senators/algiere/default.aspx"
+   }
+  ],
+  "28": [
+   {
+    "email": "sen-vargas@rilegislature.gov",
+    "name": "Lammis Vargas",
+    "party": "Democratic",
+    "url": "https://rilegislature.gov/senators/Vargas/Pages/Biography.aspx"
+   }
+  ],
+  "29": [
+   {
+    "email": "sen-appollonio@rilegislature.gov",
+    "name": "Pete Appollonio",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/senators/Appollonio/Pages/Biography.aspx"
+   }
+  ],
+  "3": [
+   {
+    "email": "sen-zurier@rilegislature.gov",
+    "name": "Sam Zurier",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/senators/zurier/Pages/Biography.aspx"
+   }
+  ],
+  "30": [
+   {
+    "email": "sen-mckenney@rilegislature.gov",
+    "name": "Mark McKenney",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/senators/mckenney/Pages/Biography.aspx"
+   }
+  ],
+  "31": [
+   {
+    "email": "sen-lamountain@rilegislature.gov",
+    "name": "Matt LaMountain",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/Senators/lamountain/pages/biography.aspx"
+   }
+  ],
+  "32": [
+   {
+    "email": "sen-lauria@rilegislature.gov",
+    "name": "Pam Lauria",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/Senators/lauria/pages/biography.aspx"
+   }
+  ],
+  "33": [
+   {
+    "email": "sen-raptakis@rilegislature.gov",
+    "name": "Lou Raptakis",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/senators/algiere/default.aspx"
+   }
+  ],
+  "34": [
+   {
+    "email": "sen-morgan@rilegislature.gov",
+    "name": "Elaine Morgan",
+    "party": "Republican",
+    "url": "https://www.rilegislature.gov/senators/algiere/default.aspx"
+   }
+  ],
+  "35": [
+   {
+    "email": "sen-valverde@rilegislature.gov",
+    "name": "Bridget Valverde",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/senators/algiere/default.aspx"
+   }
+  ],
+  "36": [
+   {
+    "email": "sen-dimario@rilegislature.gov",
+    "name": "Alana DiMario",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/senators/algiere/default.aspx"
+   }
+  ],
+  "37": [
+   {
+    "email": "sen-sosnowski@rilegislature.gov",
+    "name": "Sue Sosnowski",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/senators/algiere/default.aspx"
+   }
+  ],
+  "38": [
+   {
+    "email": "sen-gu@rilegislature.gov",
+    "name": "Victoria Gu",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/Senators/gu/Pages/biography.aspx"
+   }
+  ],
+  "4": [
+   {
+    "email": "sen-famiglietti@rilegislature.gov",
+    "name": "Stefano Famiglietti",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/senators/famiglietti/Pages/Biography.aspx"
+   }
+  ],
+  "5": [
+   {
+    "email": "sen-bell@rilegislature.gov",
+    "name": "Sam Bell",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/senators/algiere/default.aspx"
+   }
+  ],
+  "6": [
+   {
+    "email": "sen-mack@rilegislature.gov",
+    "name": "Tiara Mack",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/senators/algiere/default.aspx"
+   }
+  ],
+  "7": [
+   {
+    "email": "sen-ciccone@rilegislature.gov",
+    "name": "Frank Ciccone",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/senators/algiere/default.aspx"
+   }
+  ],
+  "8": [
+   {
+    "email": "sen-urso@rilegislature.gov",
+    "name": "Lori Urso",
+    "party": "Democratic",
+    "url": "https://rilegislature.gov/senators/Urso/Pages/Biography.aspx"
+   }
+  ],
+  "9": [
+   {
+    "email": "sen-burke@rilegislature.gov",
+    "name": "John Burke",
+    "party": "Democratic",
+    "url": "https://www.rilegislature.gov/senators/algiere/default.aspx"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

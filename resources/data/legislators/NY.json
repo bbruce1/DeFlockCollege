@@ -1,0 +1,1991 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Nicolas LaLota",
+    "party": "Republican",
+    "phone": "202-225-3826",
+    "url": "https://lalota.house.gov"
+   }
+  ],
+  "10": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Dan Goldman",
+    "party": "Democrat",
+    "phone": "202-225-7944",
+    "url": "https://goldman.house.gov"
+   }
+  ],
+  "11": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Nicole Malliotakis",
+    "party": "Republican",
+    "phone": "202-225-3371",
+    "url": "https://malliotakis.house.gov"
+   }
+  ],
+  "12": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Jerrold Nadler",
+    "party": "Democrat",
+    "phone": "202-225-5635",
+    "url": "https://nadler.house.gov"
+   }
+  ],
+  "13": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Adriano Espaillat",
+    "party": "Democrat",
+    "phone": "202-225-4365",
+    "url": "https://espaillat.house.gov"
+   }
+  ],
+  "14": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Alexandria Ocasio-Cortez",
+    "party": "Democrat",
+    "phone": "202-225-3965",
+    "url": "https://ocasio-cortez.house.gov"
+   }
+  ],
+  "15": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Ritchie Torres",
+    "party": "Democrat",
+    "phone": "202-225-4361",
+    "url": "https://ritchietorres.house.gov"
+   }
+  ],
+  "16": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "George Latimer",
+    "party": "Democrat",
+    "phone": "202-225-2464",
+    "url": "https://latimer.house.gov"
+   }
+  ],
+  "17": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Michael Lawler",
+    "party": "Republican",
+    "phone": "202-225-6506",
+    "url": "https://lawler.house.gov"
+   }
+  ],
+  "18": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Patrick Ryan",
+    "party": "Democrat",
+    "phone": "202-225-5614",
+    "url": "https://patryan.house.gov"
+   }
+  ],
+  "19": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Josh Riley",
+    "party": "Democrat",
+    "phone": "202-225-5441",
+    "url": "https://riley.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Andrew Garbarino",
+    "party": "Republican",
+    "phone": "202-225-7896",
+    "url": "https://garbarino.house.gov"
+   }
+  ],
+  "20": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Paul Tonko",
+    "party": "Democrat",
+    "phone": "202-225-5076",
+    "url": "https://tonko.house.gov"
+   }
+  ],
+  "21": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Elise Stefanik",
+    "party": "Republican",
+    "phone": "202-225-4611",
+    "url": "https://stefanik.house.gov"
+   }
+  ],
+  "22": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "John Mannion",
+    "party": "Democrat",
+    "phone": "202-225-3701",
+    "url": "https://mannion.house.gov"
+   }
+  ],
+  "23": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Nicholas Langworthy",
+    "party": "Republican",
+    "phone": "202-225-3161",
+    "url": "https://langworthy.house.gov"
+   }
+  ],
+  "24": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Claudia Tenney",
+    "party": "Republican",
+    "phone": "202-225-3665",
+    "url": "https://tenney.house.gov"
+   }
+  ],
+  "25": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Joseph Morelle",
+    "party": "Democrat",
+    "phone": "202-225-3615",
+    "url": "https://morelle.house.gov"
+   }
+  ],
+  "26": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Timothy Kennedy",
+    "party": "Democrat",
+    "phone": "202-225-3306",
+    "url": "https://kennedy.house.gov"
+   }
+  ],
+  "3": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Thomas Suozzi",
+    "party": "Democrat",
+    "phone": "202-225-3335",
+    "url": "https://suozzi.house.gov"
+   }
+  ],
+  "4": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Laura Gillen",
+    "party": "Democrat",
+    "phone": "202-225-5516",
+    "url": "https://gillen.house.gov"
+   }
+  ],
+  "5": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Gregory Meeks",
+    "party": "Democrat",
+    "phone": "202-225-3461",
+    "url": "https://meeks.house.gov"
+   }
+  ],
+  "6": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Grace Meng",
+    "party": "Democrat",
+    "phone": "202-225-2601",
+    "url": "https://meng.house.gov"
+   }
+  ],
+  "7": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Nydia Vel\u00e1zquez",
+    "party": "Democrat",
+    "phone": "202-225-2361",
+    "url": "https://velazquez.house.gov"
+   }
+  ],
+  "8": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Hakeem Jeffries",
+    "party": "Democrat",
+    "phone": "202-225-5936",
+    "url": "https://jeffries.house.gov"
+   }
+  ],
+  "9": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Yvette Clarke",
+    "party": "Democrat",
+    "phone": "202-225-6231",
+    "url": "https://clarke.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.gillibrand.senate.gov/contact/email-me",
+   "email": null,
+   "name": "Kirsten Gillibrand",
+   "party": "Democrat",
+   "phone": "202-224-4451",
+   "url": "https://www.gillibrand.senate.gov"
+  },
+  {
+   "contactForm": "https://www.schumer.senate.gov/contact/email-chuck",
+   "email": null,
+   "name": "Charles Schumer",
+   "party": "Democrat",
+   "phone": "202-224-6542",
+   "url": "https://www.schumer.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "schiavonitj@nyassembly.gov",
+    "name": "Tommy John Schiavoni",
+    "party": "Democratic/Working Families",
+    "url": "https://nyassembly.gov/mem/Tommy-John-Schiavoni"
+   }
+  ],
+  "10": [
+   {
+    "email": "sterns@nyassembly.gov",
+    "name": "Steve Stern",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "100": [
+   {
+    "email": "kayp@nyassembly.gov",
+    "name": "Paula Kay",
+    "party": "Democratic",
+    "url": "https://nyassembly.gov/mem/Paula-Elaine-Kay"
+   }
+  ],
+  "101": [
+   {
+    "email": "maherb@nyassembly.gov",
+    "name": "Brian Maher",
+    "party": "Republican/Conservative",
+    "url": "https://assembly.state.ny.us/mem/Brian-Maher"
+   }
+  ],
+  "102": [
+   {
+    "email": "taguec@nyassembly.gov",
+    "name": "Chris Tague",
+    "party": "Republican",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "103": [
+   {
+    "email": "shresthas@nyassembly.gov",
+    "name": "Sarahana Shrestha",
+    "party": "Democratic/Working Families",
+    "url": "https://assembly.state.ny.us/mem/Sarahana-Shrestha"
+   }
+  ],
+  "104": [
+   {
+    "email": "jacobsonj@nyassembly.gov",
+    "name": "Jonathan Jacobson",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "105": [
+   {
+    "email": "beephana@nyassembly.gov",
+    "name": "Anil Beephan",
+    "party": "Republican/Conservative",
+    "url": "https://assembly.state.ny.us/mem/Anil-Beephan-Jr"
+   }
+  ],
+  "106": [
+   {
+    "email": "barrettd@nyassembly.gov",
+    "name": "Didi Barrett",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "107": [
+   {
+    "email": "bendetts@nyassembly.gov",
+    "name": "Scott Bendett",
+    "party": "Republican/Conservative",
+    "url": "https://assembly.state.ny.us/mem/Scott-Bendett"
+   }
+  ],
+  "108": [
+   {
+    "email": "mcdonaldj@nyassembly.gov",
+    "name": "John McDonald",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "109": [
+   {
+    "email": "romerog@nyassembly.gov",
+    "name": "Gabriella Romero",
+    "party": "Democratic/Working Families",
+    "url": "https://nyassembly.gov/mem/Gabriella-A-Romero"
+   }
+  ],
+  "11": [
+   {
+    "email": "opharrk@nyassembly.gov",
+    "name": "Kwani O'Pharrow",
+    "party": "Democratic",
+    "url": "https://nyassembly.gov/mem/Kwani-B-O'Pharrow"
+   }
+  ],
+  "110": [
+   {
+    "email": "steckp@nyassembly.gov",
+    "name": "Phil Steck",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "111": [
+   {
+    "email": "santabarbaraa@nyassembly.gov",
+    "name": "Angelo Santabarbara",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "112": [
+   {
+    "email": "walshm@nyassembly.gov",
+    "name": "Mary Beth Walsh",
+    "party": "Republican",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "113": [
+   {
+    "email": "woernerc@nyassembly.gov",
+    "name": "Carrie Woerner",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "114": [
+   {
+    "email": "simpsonm@nyassembly.gov",
+    "name": "Matt Simpson",
+    "party": "Republican/Conservative/Independence",
+    "url": "https://assembly.state.ny.us/mem/Matthew-Simpson"
+   }
+  ],
+  "115": [
+   {
+    "email": "cashmanm@nyassembly.gov",
+    "name": "Michael Cashman",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/Michael-Cashman/"
+   }
+  ],
+  "116": [
+   {
+    "email": "grays@nyassembly.gov",
+    "name": "Scott Gray",
+    "party": "Republican",
+    "url": "https://assembly.state.ny.us/mem/Scott-Gray"
+   }
+  ],
+  "117": [
+   {
+    "email": "blankenbushk@nyassembly.gov",
+    "name": "Ken Blankenbush",
+    "party": "Republican",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "118": [
+   {
+    "email": "smullenr@nyassembly.gov",
+    "name": "Robert Smullen",
+    "party": "Republican",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "119": [
+   {
+    "email": "buttenschonm@nyassembly.gov",
+    "name": "Marianne Buttenschon",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "12": [
+   {
+    "email": "brownk@nyassembly.gov",
+    "name": "Keith Brown",
+    "party": "Republican/Conservative/Independence",
+    "url": "https://assembly.state.ny.us/mem/Keith-P-Brown"
+   }
+  ],
+  "120": [
+   {
+    "email": "barclaw@nyassembly.gov",
+    "name": "Will Barclay",
+    "party": "Republican",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "121": [
+   {
+    "email": "angelinoj@nyassembly.gov",
+    "name": "Joe Angelino",
+    "party": "Republican/Conservative/Independence",
+    "url": "https://assembly.state.ny.us/mem/Joe-Angelino"
+   }
+  ],
+  "122": [
+   {
+    "email": "millerb@nyassembly.gov",
+    "name": "Brian Miller",
+    "party": "Republican",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "123": [
+   {
+    "email": "lupardod@nyassembly.gov",
+    "name": "Donna Lupardo",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "124": [
+   {
+    "email": "friendc@nyassembly.gov",
+    "name": "Chris Friend",
+    "party": "Republican",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "125": [
+   {
+    "email": "kellesa@nyassembly.gov",
+    "name": "Anna Kelles",
+    "party": "Democratic/Working Families",
+    "url": "https://assembly.state.ny.us/mem/Anna-Kelles"
+   }
+  ],
+  "126": [
+   {
+    "email": "lemondesj@nyassembly.gov",
+    "name": "John Lemondes",
+    "party": "Republican/Conservative/Independence",
+    "url": "https://assembly.state.ny.us/mem/John-Lemondes"
+   }
+  ],
+  "127": [
+   {
+    "email": "stirpea@nyassembly.gov",
+    "name": "Al Stirpe",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "128": [
+   {
+    "email": "hunterp@nyassembly.gov",
+    "name": "Pamela Hunter",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "129": [
+   {
+    "email": "magnarw@nyassembly.gov",
+    "name": "Bill Magnarelli",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "13": [
+   {
+    "email": "lavinec@nyassembly.gov",
+    "name": "Charles Lavine",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "130": [
+   {
+    "email": "manktelowb@nyassembly.gov",
+    "name": "Brian Manktelow",
+    "party": "Republican",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "131": [
+   {
+    "email": "gallahanj@nyassembly.gov",
+    "name": "Jeff Gallahan",
+    "party": "Republican/Conservative",
+    "url": "https://assembly.state.ny.us/mem/Jeff-Gallahan"
+   }
+  ],
+  "132": [
+   {
+    "email": "palmesanop@nyassembly.gov",
+    "name": "Phil Palmesano",
+    "party": "Republican",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "133": [
+   {
+    "email": "baileya@nyassembly.gov",
+    "name": "Andrea Bailey",
+    "party": "Republican/Conservative",
+    "url": "https://nyassembly.gov/mem/Andrea-K-Bailey"
+   }
+  ],
+  "134": [
+   {
+    "email": "jensenj@nyassembly.gov",
+    "name": "Josh Jensen",
+    "party": "Republican/Conservative/Independence",
+    "url": "https://assembly.state.ny.us/mem/Josh-Jensen"
+   }
+  ],
+  "135": [
+   {
+    "email": "lunsfordj@nyassembly.gov",
+    "name": "Jen Lunsford",
+    "party": "Democratic/Working Families",
+    "url": "https://assembly.state.ny.us/mem/Jen-Lunsford"
+   }
+  ],
+  "136": [
+   {
+    "email": "clarks@nyassembly.gov",
+    "name": "Sarah Clark",
+    "party": "Democratic/Working Families",
+    "url": "https://assembly.state.ny.us/mem/Sarah-Clark"
+   }
+  ],
+  "137": [
+   {
+    "email": "meeksd@nyassembly.gov",
+    "name": "Demond Meeks",
+    "party": "Democratic/Working Families",
+    "url": "https://assembly.state.ny.us/mem/Demond-Meeks"
+   }
+  ],
+  "138": [
+   {
+    "email": "bronsonh@nyassembly.gov",
+    "name": "Harry Bronson",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "139": [
+   {
+    "email": "hawleys@nyassembly.gov",
+    "name": "Steve Hawley",
+    "party": "Republican",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "14": [
+   {
+    "email": "mcdonoughd@nyassembly.gov",
+    "name": "Dave McDonough",
+    "party": "Republican",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "140": [
+   {
+    "email": "conradw@nyassembly.gov",
+    "name": "Bill Conrad",
+    "party": "Democratic/Independence/Working Families",
+    "url": "https://assembly.state.ny.us/mem/William-Conrad"
+   }
+  ],
+  "141": [
+   {
+    "email": "peoplec@nyassembly.gov",
+    "name": "Crystal Peoples-Stokes",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "142": [
+   {
+    "email": "burkep@nyassembly.gov",
+    "name": "Pat Burke",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "143": [
+   {
+    "email": "chludzinskip@nyassembly.gov",
+    "name": "Pat Chludzinski",
+    "party": "Republican",
+    "url": "https://nyassembly.gov/mem/Patrick-J-Chludzinski"
+   }
+  ],
+  "144": [
+   {
+    "email": "bolognap@nyassembly.gov",
+    "name": "Paul Bologna",
+    "party": "Republican/Conservative",
+    "url": "https://nyassembly.gov/mem/Paul-A-Bologna"
+   }
+  ],
+  "145": [
+   {
+    "email": "morinelloa@nyassembly.gov",
+    "name": "Angelo Morinello",
+    "party": "Republican",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "146": [
+   {
+    "email": "mcmahonk@nyassembly.gov",
+    "name": "Karen McMahon",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "147": [
+   {
+    "email": "dipietrod@nyassembly.gov",
+    "name": "Dave DiPietro",
+    "party": "Republican",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "148": [
+   {
+    "email": "sempolinskij@nyassembly.gov",
+    "name": "Joe Sempolinski",
+    "party": "Republican/Conservative",
+    "url": "https://nyassembly.gov/mem/Joe-Sempolinski"
+   }
+  ],
+  "149": [
+   {
+    "email": "riverajd@nyassembly.gov",
+    "name": "Jon Rivera",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/Jonathan-Rivera"
+   }
+  ],
+  "15": [
+   {
+    "email": "blumencranzj@nyassembly.gov",
+    "name": "Jake Blumencranz",
+    "party": "Republican/Conservative",
+    "url": "https://assembly.state.ny.us/mem/Jake-Blumencranz"
+   }
+  ],
+  "150": [
+   {
+    "email": "molitora@nyassembly.gov",
+    "name": "Andrew Molitor",
+    "party": "Republican/Conservative",
+    "url": "https://nyassembly.gov/mem/Andrew-M-Molitor"
+   }
+  ],
+  "16": [
+   {
+    "email": "norberd@nyassembly.gov",
+    "name": "Danny Norber",
+    "party": "Republican/Conservative",
+    "url": "https://nyassembly.gov/mem/Daniel-J-Norber"
+   }
+  ],
+  "17": [
+   {
+    "email": "mikulinj@nyassembly.gov",
+    "name": "John Mikulin",
+    "party": "Republican",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "18": [
+   {
+    "email": "burroughsn@nyassembly.gov",
+    "name": "Noah Burroughs",
+    "party": "Democratic/Working Families",
+    "url": "https://nyassembly.gov/mem/Noah-Burroughs"
+   }
+  ],
+  "19": [
+   {
+    "email": "rae@nyassembly.gov",
+    "name": "Ed Ra",
+    "party": "Republican",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "2": [
+   {
+    "email": "giglioj2@nyassembly.gov",
+    "name": "Jodi Giglio",
+    "party": "Republican/Conservative",
+    "url": "https://assembly.state.ny.us/mem/Jodi-Giglio"
+   }
+  ],
+  "20": [
+   {
+    "email": "browna@nyassembly.gov",
+    "name": "Ari Brown",
+    "party": "Republican",
+    "url": "https://assembly.state.ny.us/mem/Ari-Brown"
+   }
+  ],
+  "21": [
+   {
+    "email": "griffij@nyassembly.gov",
+    "name": "Judy Griffin",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "22": [
+   {
+    "email": "solagesm@nyassembly.gov",
+    "name": "Michaelle Solages",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "23": [
+   {
+    "email": "amatos@nyassembly.gov",
+    "name": "Stacey Pheffer Amato",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "24": [
+   {
+    "email": "weprind@nyassembly.gov",
+    "name": "David Weprin",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "25": [
+   {
+    "email": "rozicn@nyassembly.gov",
+    "name": "Nily Rozic",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "26": [
+   {
+    "email": "braunsteine@nyassembly.gov",
+    "name": "Ed Braunstein",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "27": [
+   {
+    "email": "bergers@nyassembly.gov",
+    "name": "Sam Berger",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/Sam-Berger"
+   }
+  ],
+  "28": [
+   {
+    "email": "hevesia@nyassembly.gov",
+    "name": "Andrew Hevesi",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "29": [
+   {
+    "email": "hyndmana@nyassembly.gov",
+    "name": "Alicia Hyndman",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "3": [
+   {
+    "email": "destefanoj@nyassembly.gov",
+    "name": "Joe DeStefano",
+    "party": "Republican/Conservative",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "30": [
+   {
+    "email": "ragas@nyassembly.gov",
+    "name": "Steven Raga",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/Steven-Raga"
+   }
+  ],
+  "31": [
+   {
+    "email": "andersonk@nyassembly.gov",
+    "name": "Khaleel Anderson",
+    "party": "Democratic/Working Families",
+    "url": "https://assembly.state.ny.us/mem/Khaleel-M-Anderson"
+   }
+  ],
+  "32": [
+   {
+    "email": "cookv@nyassembly.gov",
+    "name": "Vivian Cook",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "33": [
+   {
+    "email": "vanelc@nyassembly.gov",
+    "name": "Clyde Vanel",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "34": [
+   {
+    "email": "gonzalezrojasj@nyassembly.gov",
+    "name": "Jessica Gonz\u00e1lez-Rojas",
+    "party": "Democratic/Working Families",
+    "url": "https://assembly.state.ny.us/mem/Jessica-Gonzalez-Rojas"
+   }
+  ],
+  "35": [
+   {
+    "email": "hooksl@nyassembly.gov",
+    "name": "Larinda Hooks",
+    "party": "Democratic/Working Families",
+    "url": "https://nyassembly.gov/mem/Larinda-C-Hooks"
+   }
+  ],
+  "36": [
+   {
+    "email": "morenod@nyassembly.gov",
+    "name": "Diana Moreno",
+    "party": "Democratic/Working Families",
+    "url": "https://nyassembly.gov/mem/Diana-C-Moreno"
+   }
+  ],
+  "37": [
+   {
+    "email": "valdezc@nyassembly.gov",
+    "name": "Claire Valdez",
+    "party": "Democratic/Working Families",
+    "url": "https://assembly.state.ny.us/mem/Claire-Valdez/"
+   }
+  ],
+  "38": [
+   {
+    "email": "rajkumarj@nyassembly.gov",
+    "name": "Jenifer Rajkumar",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/Jenifer-Rajkumar"
+   }
+  ],
+  "39": [
+   {
+    "email": "cruzc@nyassembly.gov",
+    "name": "Catalina Cruz",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "4": [
+   {
+    "email": "kassayr@nyassembly.gov",
+    "name": "Rebecca Kassay",
+    "party": "Democratic",
+    "url": "https://nyassembly.gov/mem/Rebecca-Kassay"
+   }
+  ],
+  "40": [
+   {
+    "email": "kimr@nyassembly.gov",
+    "name": "Ron Kim",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "41": [
+   {
+    "email": "askkalman@nyassembly.gov",
+    "name": "Kalman Yeger",
+    "party": "Democratic",
+    "url": "https://nyassembly.gov/mem/Kalman-Yeger"
+   }
+  ],
+  "42": [
+   {
+    "email": "bichotter@nyassembly.gov",
+    "name": "Rodneyse Bichotte Hermelyn",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "43": [
+   {
+    "email": "cunninghamba@nyassembly.gov",
+    "name": "Brian Cunningham",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/Brian-Cunningham"
+   }
+  ],
+  "44": [
+   {
+    "email": "carrollr@nyassembly.gov",
+    "name": "Robert Carroll",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "45": [
+   {
+    "email": "novakhovm@nyassembly.gov",
+    "name": "Misha Novakhov",
+    "party": "Republican/Conservative",
+    "url": "https://assembly.state.ny.us/mem/Michael-Novakhov"
+   }
+  ],
+  "46": [
+   {
+    "email": "brook-krasnya@nyassembly.gov",
+    "name": "Alec Brook-Krasny",
+    "party": "Republican/Conservative",
+    "url": "https://assembly.state.ny.us/mem/Alec-Brook-Krasny"
+   }
+  ],
+  "47": [
+   {
+    "email": "coltonw@nyassembly.gov",
+    "name": "William Colton",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "48": [
+   {
+    "email": "eichensteins@nyassembly.gov",
+    "name": "Simcha Eichenstein",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "49": [
+   {
+    "email": "changl@nyassembly.gov",
+    "name": "Lester Chang",
+    "party": "Republican/Conservative",
+    "url": "https://assembly.state.ny.us/mem/Lester-Chang"
+   }
+  ],
+  "5": [
+   {
+    "email": "smithd@nyassembly.gov",
+    "name": "Doug Smith",
+    "party": "Republican",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "50": [
+   {
+    "email": "gallaghere@nyassembly.gov",
+    "name": "Emily Gallagher",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/Emily-Gallagher"
+   }
+  ],
+  "51": [
+   {
+    "email": "mitaynesm@nyassembly.gov",
+    "name": "Marcela Mitaynes",
+    "party": "Democratic/Working Families",
+    "url": "https://assembly.state.ny.us/mem/Marcela-Mitaynes"
+   }
+  ],
+  "52": [
+   {
+    "email": "simonj@nyassembly.gov",
+    "name": "Jo Anne Simon",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "53": [
+   {
+    "email": "davilam@nyassembly.gov",
+    "name": "Maritza Davila",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "54": [
+   {
+    "email": "dilane@nyassembly.gov",
+    "name": "Erik Dilan",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "55": [
+   {
+    "email": "walkerl@nyassembly.gov",
+    "name": "Latrice Walker",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "56": [
+   {
+    "email": "zinermans@nyassembly.gov",
+    "name": "Stefani Zinerman",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/Stefani-Zinerman"
+   }
+  ],
+  "57": [
+   {
+    "email": "souffrantforrestp@nyassembly.gov",
+    "name": "Phara Souffrant Forrest",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/Phara-Souffrant-Forrest"
+   }
+  ],
+  "58": [
+   {
+    "email": "chandlerwatermanm@nyassembly.gov",
+    "name": "Monique Chandler-Waterman",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/Monique-Chandler-Waterman"
+   }
+  ],
+  "59": [
+   {
+    "email": "williamsja@nyassembly.gov",
+    "name": "Jaime Williams",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "6": [
+   {
+    "email": "ramosp@nyassembly.gov",
+    "name": "Phil Ramos",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "60": [
+   {
+    "email": "lucasn@nyassembly.gov",
+    "name": "Nikki Lucas",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/Nikki-Lucas"
+   }
+  ],
+  "61": [
+   {
+    "email": "fallc@nyassembly.gov",
+    "name": "Charles Fall",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "62": [
+   {
+    "email": "reillym@nyassembly.gov",
+    "name": "Mike Reilly",
+    "party": "Republican",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "63": [
+   {
+    "email": "pirozzolos@nyassembly.gov",
+    "name": "Sam Pirozzolo",
+    "party": "Republican/Conservative",
+    "url": "https://assembly.state.ny.us/mem/Sam-Pirozzolo"
+   }
+  ],
+  "64": [
+   {
+    "email": "tannousism@nyassembly.gov",
+    "name": "Mike Tannousis",
+    "party": "Republican/Conservative",
+    "url": "https://assembly.state.ny.us/mem/Michael-Tannousis"
+   }
+  ],
+  "65": [
+   {
+    "email": "leeg@nyassembly.gov",
+    "name": "Grace Lee",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/Grace-Lee"
+   }
+  ],
+  "66": [
+   {
+    "email": "glickd@nyassembly.gov",
+    "name": "Deborah Glick",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "67": [
+   {
+    "email": "rosentl@nyassembly.gov",
+    "name": "Linda Rosenthal",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "68": [
+   {
+    "email": "gibbse@nyassembly.gov",
+    "name": "Eddie Gibbs",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/Eddie-Gibbs"
+   }
+  ],
+  "69": [
+   {
+    "email": "lasherm@nyassembly.gov",
+    "name": "Micah Lasher",
+    "party": "Democratic",
+    "url": "https://nyassembly.gov/mem/Micah-C-Lasher"
+   }
+  ],
+  "7": [
+   {
+    "email": "gandolfoj@nyassembly.gov",
+    "name": "Jarett Gandolfo",
+    "party": "Republican/Conservative/Independence",
+    "url": "https://assembly.state.ny.us/mem/Jarett-Gandolfo"
+   }
+  ],
+  "70": [
+   {
+    "email": "wrightjj@nyassembly.gov",
+    "name": "Jordan Wright",
+    "party": "Democratic",
+    "url": "https://nyassembly.gov/mem/Jordan-J.G-Wright"
+   }
+  ],
+  "71": [
+   {
+    "email": "taylora@nyassembly.gov",
+    "name": "Al Taylor",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "72": [
+   {
+    "email": "delossm@nyassembly.gov",
+    "name": "Manny De Los Santos",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/Manny-De-Los-Santos"
+   }
+  ],
+  "73": [
+   {
+    "email": "boresa@nyassembly.gov",
+    "name": "Alex Bores",
+    "party": "Democratic/Working Families",
+    "url": "https://assembly.state.ny.us/mem/Alex-Bores"
+   }
+  ],
+  "74": [
+   {
+    "email": "powersk@nyassembly.gov",
+    "name": "Keith Powers",
+    "party": "Democratic",
+    "url": "https://nyassembly.gov/mem/Keith-Powers"
+   }
+  ],
+  "75": [
+   {
+    "email": "simonet@nyassembly.gov",
+    "name": "Tony Simone",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/Tony-Simone"
+   }
+  ],
+  "76": [
+   {
+    "email": "seawrightr@nyassembly.gov",
+    "name": "Rebecca Seawright",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "77": [
+   {
+    "email": "daisl@nyassembly.gov",
+    "name": "Landon Dais",
+    "party": "Democratic",
+    "url": "https://nyassembly.gov/mem/Landon-C-Dais/"
+   }
+  ],
+  "78": [
+   {
+    "email": "alvarezg@nyassembly.gov",
+    "name": "George Alvarez",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/George-Alvarez"
+   }
+  ],
+  "79": [
+   {
+    "email": "jacksonc@nyassembly.gov",
+    "name": "Chantel Jackson",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/Chantel-Jackson"
+   }
+  ],
+  "8": [
+   {
+    "email": "fitzpatrickm@nyassembly.gov",
+    "name": "Mike Fitzpatrick",
+    "party": "Republican",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "80": [
+   {
+    "email": "zaccaroj@nyassembly.gov",
+    "name": "John Zaccaro",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/John-Zaccaro-Jr"
+   }
+  ],
+  "81": [
+   {
+    "email": "dinowitzj@nyassembly.gov",
+    "name": "Jeffrey Dinowitz",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "82": [
+   {
+    "email": "benedettom@nyassembly.gov",
+    "name": "Michael Benedetto",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "83": [
+   {
+    "email": "speaker@nyassembly.gov",
+    "name": "Carl Heastie",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "84": [
+   {
+    "email": "septimoa@nyassembly.gov",
+    "name": "Amanda Septimo",
+    "party": "Democratic/Working Families",
+    "url": "https://assembly.state.ny.us/mem/Amanda-Septimo"
+   }
+  ],
+  "85": [
+   {
+    "email": "torrese@nyassembly.gov",
+    "name": "Em\u00e9rita Torres",
+    "party": "Democratic",
+    "url": "https://nyassembly.gov/mem/Emerita-Torres/"
+   }
+  ],
+  "86": [
+   {
+    "email": "tapiay@nyassembly.gov",
+    "name": "Yudelka Tapia",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/Yudelka-Tapia"
+   }
+  ],
+  "87": [
+   {
+    "email": "reyesk@nyassembly.gov",
+    "name": "Karines Reyes",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "88": [
+   {
+    "email": "paulina@nyassembly.gov",
+    "name": "Amy Paulin",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "89": [
+   {
+    "email": "pretloj@nyassembly.gov",
+    "name": "Gary Pretlow",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "9": [
+   {
+    "email": "dursom@nyassembly.gov",
+    "name": "Michael Durso",
+    "party": "Republican/Conservative/Independence/Libertarian",
+    "url": "https://assembly.state.ny.us/mem/Michael-Durso"
+   }
+  ],
+  "90": [
+   {
+    "email": "sayeghn@nyassembly.gov",
+    "name": "Nader Sayegh",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "91": [
+   {
+    "email": "otiss@nyassembly.gov",
+    "name": "Steve Otis",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "92": [
+   {
+    "email": "shimskym@nyassembly.gov",
+    "name": "MaryJane Shimsky",
+    "party": "Democratic/Working Families",
+    "url": "https://assembly.state.ny.us/mem/MaryJane-Shimsky"
+   }
+  ],
+  "93": [
+   {
+    "email": "burdickc@nyassembly.gov",
+    "name": "Chris Burdick",
+    "party": "Democratic/Independence/Working Families",
+    "url": "https://assembly.state.ny.us/mem/Chris-Burdick"
+   }
+  ],
+  "94": [
+   {
+    "email": "slaterm@nyassembly.gov",
+    "name": "Matt Slater",
+    "party": "Republican/Conservative",
+    "url": "https://assembly.state.ny.us/mem/Matt-Slater"
+   }
+  ],
+  "95": [
+   {
+    "email": "levenbergd@nyassembly.gov",
+    "name": "Dana Levenberg",
+    "party": "Democratic/Working Families",
+    "url": "https://assembly.state.ny.us/mem/Dana-Levenberg"
+   }
+  ],
+  "96": [
+   {
+    "email": "carrollp@nyassembly.gov",
+    "name": "Pat Carroll",
+    "party": "Democratic/Working Families",
+    "url": "https://nyassembly.gov/mem/Patrick-J-Carroll"
+   }
+  ],
+  "97": [
+   {
+    "email": "wiedera@nyassembly.gov",
+    "name": "Aron Wieder",
+    "party": "Democratic",
+    "url": "https://nyassembly.gov/mem/Aron-Wieder"
+   }
+  ],
+  "98": [
+   {
+    "email": "brabeneck@nyassembly.gov",
+    "name": "Karl Brabenec",
+    "party": "Republican",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "99": [
+   {
+    "email": "eachusc@nyassembly.gov",
+    "name": "Chris Eachus",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/Chris-Eachus"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/ny.csv"
+ },
+ "state": "NY",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "palumbo@nysenate.gov",
+    "name": "Tony Palumbo",
+    "party": "Republican",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "10": [
+   {
+    "email": "sanders@nysenate.gov",
+    "name": "James Sanders",
+    "party": "Democratic",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "11": [
+   {
+    "email": "stavisky@nysenate.gov",
+    "name": "Toby Stavisky",
+    "party": "Democratic",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "13": [
+   {
+    "email": "ramos@nysenate.gov",
+    "name": "Jessica Ramos",
+    "party": "Democratic/Working Families",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "14": [
+   {
+    "email": "comrie@nysenate.gov",
+    "name": "Leroy Comrie",
+    "party": "Democratic",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "15": [
+   {
+    "email": "addabbo@nysenate.gov",
+    "name": "Joe Addabbo",
+    "party": "Democratic",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "16": [
+   {
+    "email": "liu@nysenate.gov",
+    "name": "John Liu",
+    "party": "Democratic",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "17": [
+   {
+    "email": "chan@nysenate.gov",
+    "name": "Steve Chan",
+    "party": "Republican/Conservative",
+    "url": "https://www.nysenate.gov/senators/stephen-t-chan"
+   }
+  ],
+  "18": [
+   {
+    "email": "salazar@nysenate.gov",
+    "name": "Julia Salazar",
+    "party": "Democratic/Working Families",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "19": [
+   {
+    "email": "persaud@nysenate.gov",
+    "name": "Roxanne Persaud",
+    "party": "Democratic",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "2": [
+   {
+    "email": "mattera@nysenate.gov",
+    "name": "Mario Mattera",
+    "party": "Republican/Conservative",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "20": [
+   {
+    "email": "myrie@nysenate.gov",
+    "name": "Zellnor Myrie",
+    "party": "Democratic",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "21": [
+   {
+    "email": "parker@nysenate.gov",
+    "name": "Kevin Parker",
+    "party": "Democratic/Working Families",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "22": [
+   {
+    "email": "sutton@nysenate.gov",
+    "name": "Sam Sutton",
+    "party": "Democratic",
+    "url": "https://www.nysenate.gov/senators/sam-sutton"
+   }
+  ],
+  "23": [
+   {
+    "email": "spanton@nysenate.gov",
+    "name": "Jessica Scarcella-Spanton",
+    "party": "Democratic",
+    "url": "https://www.nysenate.gov/senators/jessica-scarcella-spanton"
+   }
+  ],
+  "24": [
+   {
+    "email": "lanza@nysenate.gov",
+    "name": "Andrew Lanza",
+    "party": "Republican/Conservative/Independence/Reform",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "25": [
+   {
+    "email": "brisport@nysenate.gov",
+    "name": "Jabari Brisport",
+    "party": "Democratic/Working Families",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "26": [
+   {
+    "email": "gounardes@nysenate.gov",
+    "name": "Andrew Gounardes",
+    "party": "Democratic",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "27": [
+   {
+    "email": "kavanagh@nysenate.gov",
+    "name": "Brian Kavanagh",
+    "party": "Democratic",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "28": [
+   {
+    "email": "lkrueger@nysenate.gov",
+    "name": "Liz Krueger",
+    "party": "Democratic/Working Families",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "29": [
+   {
+    "email": "serrano@nysenate.gov",
+    "name": "Jose Serrano",
+    "party": "Democratic/Working Families",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "3": [
+   {
+    "email": "murray@nysenate.gov",
+    "name": "Dean Murray",
+    "party": "Republican/Conservative",
+    "url": "https://www.nysenate.gov/senators/dean-murray"
+   }
+  ],
+  "30": [
+   {
+    "email": "cleare@nysenate.gov",
+    "name": "Cordell Cleare",
+    "party": "Democratic",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "31": [
+   {
+    "email": "jackson@nysenate.gov",
+    "name": "Robert Jackson",
+    "party": "Democratic/Working Families",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "32": [
+   {
+    "email": "sepulveda@nysenate.gov",
+    "name": "Luis Sep\u00falveda",
+    "party": "Democratic",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "33": [
+   {
+    "email": "grivera@nysenate.gov",
+    "name": "Gustavo Rivera",
+    "party": "Democratic/Working Families",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "34": [
+   {
+    "email": "fernandez@nysenate.gov",
+    "name": "Nathalia Ferna\u0301ndez",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "35": [
+   {
+    "email": "scousins@nysenate.gov",
+    "name": "Andrea Stewart-Cousins",
+    "party": "Democratic/Working Families",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "36": [
+   {
+    "email": "senatorjbailey@nysenate.gov",
+    "name": "Jamaal Bailey",
+    "party": "Democratic/Working Families",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "37": [
+   {
+    "email": "smayer@nysenate.gov",
+    "name": "Shelley Mayer",
+    "party": "Democratic/Working Families",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "38": [
+   {
+    "email": "weber@nysenate.gov",
+    "name": "Bill Weber",
+    "party": "Republican/Conservative",
+    "url": "https://www.nysenate.gov/senators/bill-weber"
+   }
+  ],
+  "39": [
+   {
+    "email": "rolison@nysenate.gov",
+    "name": "Rob Rolison",
+    "party": "Republican",
+    "url": "https://www.nysenate.gov/senators/rob-rolison"
+   }
+  ],
+  "4": [
+   {
+    "email": "martinez@nysenate.gov",
+    "name": "Monica Martinez",
+    "party": "Democratic/Working Families",
+    "url": "https://www.nysenate.gov/senators/monica-r-martinez"
+   }
+  ],
+  "40": [
+   {
+    "email": "harckham@nysenate.gov",
+    "name": "Pete Harckham",
+    "party": "Democratic/Working Families",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "41": [
+   {
+    "email": "hinchey@nysenate.gov",
+    "name": "Michelle Hinchey",
+    "party": "Democratic/Working Families",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "42": [
+   {
+    "email": "skoufis@nysenate.gov",
+    "name": "James Skoufis",
+    "party": "Democratic",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "43": [
+   {
+    "email": "ashby@nysenate.gov",
+    "name": "Jake Ashby",
+    "party": "Republican/Conservative",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "44": [
+   {
+    "email": "tedisco@nysenate.gov",
+    "name": "Jim Tedisco",
+    "party": "Republican/Conservative",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "45": [
+   {
+    "email": "stec@nysenate.gov",
+    "name": "Dan Stec",
+    "party": "Republican/Conservative/Independence",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "46": [
+   {
+    "email": "fahy@nysenate.gov",
+    "name": "Pat Fahy",
+    "party": "Democratic",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "47": [
+   {
+    "email": "bottcher@nysenate.gov",
+    "name": "Erik Bottcher",
+    "party": "Democratic",
+    "url": "https://www.nysenate.gov/senators/erik-bottcher"
+   }
+  ],
+  "48": [
+   {
+    "email": "may@nysenate.gov",
+    "name": "Rachel May",
+    "party": "Democratic/Working Families",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "49": [
+   {
+    "email": "walczyk@nysenate.gov",
+    "name": "Mark Walczyk",
+    "party": "Republican/Conservative",
+    "url": "https://assembly.state.ny.us/mem/?sh=email"
+   }
+  ],
+  "5": [
+   {
+    "email": "rhoads@nysenate.gov",
+    "name": "Steve Rhoads",
+    "party": "Republican/Conservative",
+    "url": "https://www.nysenate.gov/senators/steven-d-rhoads"
+   }
+  ],
+  "50": [
+   {
+    "email": "chrisryan@nysenate.gov",
+    "name": "Chris Ryan",
+    "party": "Democratic",
+    "url": "https://www.nysenate.gov/senators/christopher-j-ryan"
+   }
+  ],
+  "51": [
+   {
+    "email": "oberacker@nysenate.gov",
+    "name": "Peter Oberacker",
+    "party": "Republican/Conservative",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "52": [
+   {
+    "email": "leawebb@nysenate.gov",
+    "name": "Lea Webb",
+    "party": "Democratic/Working Families",
+    "url": "https://www.nysenate.gov/senators/lea-webb"
+   }
+  ],
+  "53": [
+   {
+    "email": "griffo@nysenate.gov",
+    "name": "Joe Griffo",
+    "party": "Republican/Conservative",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "54": [
+   {
+    "email": "helming@nysenate.gov",
+    "name": "Pam Helming",
+    "party": "Republican/Conservative/Independence",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "55": [
+   {
+    "email": "brouk@nysenate.gov",
+    "name": "Samra Brouk",
+    "party": "Democratic/Working Families",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "56": [
+   {
+    "email": "cooney@nysenate.gov",
+    "name": "Jeremy Cooney",
+    "party": "Democratic/Working Families",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "57": [
+   {
+    "email": "borrello@nysenate.gov",
+    "name": "George Borrello",
+    "party": "Republican/Conservative",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "58": [
+   {
+    "email": "omara@nysenate.gov",
+    "name": "Tom O'Mara",
+    "party": "Republican/Conservative",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "59": [
+   {
+    "email": "gonzalez@nysenate.gov",
+    "name": "Kristen Gonzalez",
+    "party": "Democratic/Working Families",
+    "url": "https://www.nysenate.gov/senators/kristen-gonzalez"
+   }
+  ],
+  "6": [
+   {
+    "email": "bynoe@nysenate.gov",
+    "name": "Siela Bynoe",
+    "party": "Democratic",
+    "url": "https://www.nysenate.gov/senators/siela-bynoe"
+   }
+  ],
+  "60": [
+   {
+    "email": "gallivan@nysenate.gov",
+    "name": "Patrick Gallivan",
+    "party": "Republican/Conservative",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "61": [
+   {
+    "email": "zellner@nysenate.gov",
+    "name": "Jeremy Zellner",
+    "party": "Democratic",
+    "url": "https://www.nysenate.gov/senators/jeremy-j-zellner"
+   }
+  ],
+  "62": [
+   {
+    "email": "ortt@nysenate.gov",
+    "name": "Rob Ortt",
+    "party": "Republican/Conservative/Independence",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "63": [
+   {
+    "email": "baskin@nysenate.gov",
+    "name": "April Baskin",
+    "party": "Democratic",
+    "url": "https://www.nysenate.gov/senators/april-baskin"
+   }
+  ],
+  "7": [
+   {
+    "email": "martins@nysenate.gov",
+    "name": "Jack Martins",
+    "party": "Republican/Conservative",
+    "url": "https://www.nysenate.gov/senators/jack-m-martins"
+   }
+  ],
+  "8": [
+   {
+    "email": "weik@nysenate.gov",
+    "name": "Alexis Weik",
+    "party": "Republican/Conservative",
+    "url": "https://www.nysenate.gov/senators-committees"
+   }
+  ],
+  "9": [
+   {
+    "email": "canzoneri@nysenate.gov",
+    "name": "Patricia Canzoneri-Fitzpatrick",
+    "party": "Republican/Conservative",
+    "url": "https://www.nysenate.gov/senators/patricia-canzoneri-fitzpatrick"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

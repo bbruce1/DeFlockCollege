@@ -1,0 +1,1199 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "James Comer",
+    "party": "Republican",
+    "phone": "202-225-3115",
+    "url": "https://comer.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Brett Guthrie",
+    "party": "Republican",
+    "phone": "202-225-3501",
+    "url": "https://guthrie.house.gov"
+   }
+  ],
+  "3": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Morgan McGarvey",
+    "party": "Democrat",
+    "phone": "202-225-5401",
+    "url": "https://mcgarvey.house.gov"
+   }
+  ],
+  "4": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Thomas Massie",
+    "party": "Republican",
+    "phone": "202-225-3465",
+    "url": "https://massie.house.gov"
+   }
+  ],
+  "5": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Harold Rogers",
+    "party": "Republican",
+    "phone": "202-225-4601",
+    "url": "https://halrogers.house.gov"
+   }
+  ],
+  "6": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Garland Barr",
+    "party": "Republican",
+    "phone": "202-225-4706",
+    "url": "https://barr.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.mcconnell.senate.gov/public/index.cfm?p=contact",
+   "email": null,
+   "name": "Mitch McConnell",
+   "party": "Republican",
+   "phone": "202-224-2541",
+   "url": "https://www.mcconnell.senate.gov"
+  },
+  {
+   "contactForm": "https://www.paul.senate.gov/connect/email-rand",
+   "email": null,
+   "name": "Rand Paul",
+   "party": "Republican",
+   "phone": "202-224-4343",
+   "url": "https://www.paul.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "steven.rudy@kylegislature.gov",
+    "name": "Steven Rudy",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=1"
+   }
+  ],
+  "10": [
+   {
+    "email": "josh.calloway@kylegislature.gov",
+    "name": "Josh Calloway",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=10"
+   }
+  ],
+  "100": [
+   {
+    "email": "scott.sharp@kylegislature.gov",
+    "name": "Scott Sharp",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=100"
+   }
+  ],
+  "11": [
+   {
+    "email": "jt.payne@kylegislature.gov",
+    "name": "J.T. Payne",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=11"
+   }
+  ],
+  "12": [
+   {
+    "email": "jim.gooch@kylegislature.gov",
+    "name": "Jim Gooch",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=12"
+   }
+  ],
+  "13": [
+   {
+    "email": "dj.johnson@kylegislature.gov",
+    "name": "D.J. Johnson",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=13"
+   }
+  ],
+  "14": [
+   {
+    "email": "scott.lewis@kylegislature.gov",
+    "name": "Scott Lewis",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=14"
+   }
+  ],
+  "15": [
+   {
+    "email": "rebecca.raymer@kylegislature.gov",
+    "name": "Rebecca Raymer",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=15"
+   }
+  ],
+  "16": [
+   {
+    "email": "jason.petrie@kylegislature.gov",
+    "name": "Jason Petrie",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=16"
+   }
+  ],
+  "17": [
+   {
+    "email": "robert.duvall@kylegislature.gov",
+    "name": "Robert Duvall",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=17"
+   }
+  ],
+  "18": [
+   {
+    "email": "ryan.dotson@kylegislature.gov",
+    "name": "Samara Heavrin",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=18"
+   }
+  ],
+  "19": [
+   {
+    "email": "michael.meredith@kylegislature.gov",
+    "name": "Michael Meredith",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=19"
+   }
+  ],
+  "2": [
+   {
+    "email": "kim.holloway@kylegislature.gov",
+    "name": "Kim Holloway",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=2"
+   }
+  ],
+  "20": [
+   {
+    "email": "kevin.jackson@kylegislature.gov",
+    "name": "Kevin Jackson",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=20"
+   }
+  ],
+  "21": [
+   {
+    "email": "amy.neighbors@kylegislature.gov",
+    "name": "Amy Neighbors",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=21"
+   }
+  ],
+  "22": [
+   {
+    "email": "shawn.mcpherson@kylegislature.gov",
+    "name": "Shawn McPherson",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=22"
+   }
+  ],
+  "23": [
+   {
+    "email": "steve.riley@kylegislature.gov",
+    "name": "Steve Riley",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=23"
+   }
+  ],
+  "24": [
+   {
+    "email": "ryan.bivens@kylegislature.gov",
+    "name": "Ryan Bivens",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=24"
+   }
+  ],
+  "25": [
+   {
+    "email": "steve.bratcher@kylegislature.gov",
+    "name": "Steve Bratcher",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=25"
+   }
+  ],
+  "26": [
+   {
+    "email": "peyton.griffee@kylegislature.gov",
+    "name": "Peyton Griffee",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=26"
+   }
+  ],
+  "27": [
+   {
+    "email": "nancy.tate@kylegislature.gov",
+    "name": "Nancy Tate",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=27"
+   }
+  ],
+  "28": [
+   {
+    "email": "jared.bauman@kylegislature.gov",
+    "name": "Jared Bauman",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=28"
+   }
+  ],
+  "29": [
+   {
+    "email": "chris.lewis@kylegislature.gov",
+    "name": "Chris Lewis",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=29"
+   }
+  ],
+  "3": [
+   {
+    "email": "randy.bridges@kylegislature.gov",
+    "name": "Randy Bridges",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=3"
+   }
+  ],
+  "30": [
+   {
+    "email": "daniel.grossberg@kylegislature.gov",
+    "name": "Daniel Grossberg",
+    "party": "Democratic",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=30"
+   }
+  ],
+  "31": [
+   {
+    "email": "susan.witten@kylegislature.gov",
+    "name": "Susan Witten",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=31"
+   }
+  ],
+  "32": [
+   {
+    "email": "tina.bojanowski@kylegislature.gov",
+    "name": "Tina Bojanowski",
+    "party": "Democratic",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=32"
+   }
+  ],
+  "33": [
+   {
+    "email": "jason.nemes@kylegislature.gov",
+    "name": "Jason Nemes",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=33"
+   }
+  ],
+  "34": [
+   {
+    "email": "sarah.stalker@kylegislature.gov",
+    "name": "Sarah Stalker",
+    "party": "Democratic",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=34"
+   }
+  ],
+  "35": [
+   {
+    "email": "lisa.willner@kylegislature.gov",
+    "name": "Lisa Willner",
+    "party": "Democratic",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=35"
+   }
+  ],
+  "36": [
+   {
+    "email": "john.hodgson@kylegislature.gov",
+    "name": "John Hodgson",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=36"
+   }
+  ],
+  "37": [
+   {
+    "email": "emily.callaway@kylegislature.gov",
+    "name": "Emily Callaway",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=37"
+   }
+  ],
+  "38": [
+   {
+    "email": "rachel.roarx@kylegislature.gov",
+    "name": "Rachel Roarx",
+    "party": "Democratic",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=38"
+   }
+  ],
+  "39": [
+   {
+    "email": "matt.lockett@kylegislature.gov",
+    "name": "Matt Lockett",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=39"
+   }
+  ],
+  "4": [
+   {
+    "email": "wade.williams@kylegislature.gov",
+    "name": "Wade Williams",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=4"
+   }
+  ],
+  "40": [
+   {
+    "email": "nima.kulkarni@kylegislature.gov",
+    "name": "Nima Kulkarni",
+    "party": "Democratic",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=40"
+   }
+  ],
+  "41": [
+   {
+    "email": "marylou.marzian@kylegislature.gov",
+    "name": "Mary Lou Marzian",
+    "party": "Democratic",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=34"
+   }
+  ],
+  "42": [
+   {
+    "email": "joshua.watkins@kylegislature.gov",
+    "name": "Joshua Watkins",
+    "party": "Democratic",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=42"
+   }
+  ],
+  "43": [
+   {
+    "email": "pamela.stevenson@kylegislature.gov",
+    "name": "Pamela Stevenson",
+    "party": "Democratic",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=43"
+   }
+  ],
+  "44": [
+   {
+    "email": "beverly.chesterburton@kylegislature.gov",
+    "name": "Beverly Chester-Burton",
+    "party": "Democratic",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=44"
+   }
+  ],
+  "45": [
+   {
+    "email": "adam.moore@kylegislature.gov",
+    "name": "Adam Moore",
+    "party": "Democratic",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=45"
+   }
+  ],
+  "46": [
+   {
+    "email": "al.gentry@kylegislature.gov",
+    "name": "Al Gentry",
+    "party": "Democratic",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=46"
+   }
+  ],
+  "47": [
+   {
+    "email": "felicia.rabourn@kylegislature.gov",
+    "name": "Felicia Rabourn",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=47"
+   }
+  ],
+  "48": [
+   {
+    "email": "ken.fleming@kylegislature.gov",
+    "name": "Ken Fleming",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=48"
+   }
+  ],
+  "49": [
+   {
+    "email": "thomas.huff@kylegislature.gov",
+    "name": "Thomas Huff",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=49"
+   }
+  ],
+  "5": [
+   {
+    "email": "marybeth.imes@kylegislature.gov",
+    "name": "Mary Beth Imes",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=5"
+   }
+  ],
+  "50": [
+   {
+    "email": "candy.massaroni@kylegislature.gov",
+    "name": "Candy Massaroni",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=50"
+   }
+  ],
+  "51": [
+   {
+    "email": "sarge.pollock@kylegislature.gov",
+    "name": "Sarge Pollock",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=51"
+   }
+  ],
+  "52": [
+   {
+    "email": "ken.upchurch@kylegislature.gov",
+    "name": "Ken Upchurch",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=52"
+   }
+  ],
+  "53": [
+   {
+    "email": "james.tipton@kylegislature.gov",
+    "name": "James Tipton",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=53"
+   }
+  ],
+  "54": [
+   {
+    "email": "daniel.elliott@kylegislature.gov",
+    "name": "Daniel Elliott",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=54"
+   }
+  ],
+  "55": [
+   {
+    "email": "kim.king@kylegislature.gov",
+    "name": "Kim King",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=55"
+   }
+  ],
+  "56": [
+   {
+    "email": "daniel.fister@kylegislature.gov",
+    "name": "Dan Fister",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=56"
+   }
+  ],
+  "57": [
+   {
+    "email": "erika.hancock@kylegislature.gov",
+    "name": "Erika Hancock",
+    "party": "Democratic",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=57"
+   }
+  ],
+  "58": [
+   {
+    "email": "jennifer.decker@kylegislature.gov",
+    "name": "Jennifer Decker",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=58"
+   }
+  ],
+  "59": [
+   {
+    "email": "david.osborne@kylegislature.gov",
+    "name": "David Osborne",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=59"
+   }
+  ],
+  "6": [
+   {
+    "email": "chris.freeland@kylegislature.gov",
+    "name": "Chris Freeland",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=6"
+   }
+  ],
+  "60": [
+   {
+    "email": "marianne.proctor@kylegislature.gov",
+    "name": "Marianne Proctor",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=60"
+   }
+  ],
+  "61": [
+   {
+    "email": "savannah.maddox@kylegislature.gov",
+    "name": "Savannah Maddox",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=61"
+   }
+  ],
+  "62": [
+   {
+    "email": "tony.hampton@kylegislature.gov",
+    "name": "Tony Hampton",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=62"
+   }
+  ],
+  "63": [
+   {
+    "email": "kim.banta@kylegislature.gov",
+    "name": "Kim Banta",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=63"
+   }
+  ],
+  "64": [
+   {
+    "email": "kimberly.moser@kylegislature.gov",
+    "name": "Kim Moser",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=64"
+   }
+  ],
+  "65": [
+   {
+    "email": "stephanie.dietz@kylegislature.gov",
+    "name": "Stephanie Dietz",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=65"
+   }
+  ],
+  "66": [
+   {
+    "email": "tj.roberts@kylegislature.gov",
+    "name": "T.J. Roberts",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=66"
+   }
+  ],
+  "67": [
+   {
+    "email": "matt.lehman@kylegislature.gov",
+    "name": "Matt Lehman",
+    "party": "Democratic",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=67"
+   }
+  ],
+  "68": [
+   {
+    "email": "mike.clines@kylegislature.gov",
+    "name": "Mike Clines",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=68"
+   }
+  ],
+  "69": [
+   {
+    "email": "steven.doan@kylegislature.gov",
+    "name": "Steven Doan",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=69"
+   }
+  ],
+  "7": [
+   {
+    "email": "suzanne.miles@kylegislature.gov",
+    "name": "Suzanne Miles",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=7"
+   }
+  ],
+  "70": [
+   {
+    "email": "william.lawrence@kylegislature.gov",
+    "name": "William Lawrence",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=70"
+   }
+  ],
+  "71": [
+   {
+    "email": "josh.bray@kylegislature.gov",
+    "name": "Josh Bray",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=71"
+   }
+  ],
+  "72": [
+   {
+    "email": "matthew.koch@kylegislature.gov",
+    "name": "Matt Koch",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=72"
+   }
+  ],
+  "73": [
+   {
+    "email": "ryan.dotson@kylegislature.gov",
+    "name": "Ryan Dotson",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=73"
+   }
+  ],
+  "74": [
+   {
+    "email": "david.hale@kylegislature.gov",
+    "name": "David Hale",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=74"
+   }
+  ],
+  "75": [
+   {
+    "email": "lindsey.burke@kylegislature.gov",
+    "name": "Lindsey Burke",
+    "party": "Democratic",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=75"
+   }
+  ],
+  "76": [
+   {
+    "email": "anne.donworth@kylegislature.gov",
+    "name": "Anne Donworth",
+    "party": "Democratic",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=76"
+   }
+  ],
+  "77": [
+   {
+    "email": "george.brown@kylegislature.gov",
+    "name": "George Brown",
+    "party": "Democratic",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=77"
+   }
+  ],
+  "78": [
+   {
+    "email": "mark.hart@kylegislature.gov",
+    "name": "Mark Hart",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=78"
+   }
+  ],
+  "79": [
+   {
+    "email": "chad.aull@kylegislature.gov",
+    "name": "Chad Aull",
+    "party": "Democratic",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=79"
+   }
+  ],
+  "8": [
+   {
+    "email": "walker.thomas@kylegislature.gov",
+    "name": "Walker Thomas",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=8"
+   }
+  ],
+  "80": [
+   {
+    "email": "david.meade@kylegislature.gov",
+    "name": "David Meade",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=80"
+   }
+  ],
+  "81": [
+   {
+    "email": "deanna.gordon@kylegislature.gov",
+    "name": "Deanna Gordon",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=81"
+   }
+  ],
+  "82": [
+   {
+    "email": "nick.wilson@kylegislature.gov",
+    "name": "Nick Wilson",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=82"
+   }
+  ],
+  "83": [
+   {
+    "email": "josh.branscum@kylegislature.gov",
+    "name": "Josh Branscum",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=83"
+   }
+  ],
+  "84": [
+   {
+    "email": "chris.fugate@kylegislature.gov",
+    "name": "Chris Fugate",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=84"
+   }
+  ],
+  "85": [
+   {
+    "email": "shane.baker@kylegislature.gov",
+    "name": "Shane Baker",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=85"
+   }
+  ],
+  "86": [
+   {
+    "email": "tom.smith@kylegislature.gov",
+    "name": "Tom Smith",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=86"
+   }
+  ],
+  "87": [
+   {
+    "email": "adam.bowling@kylegislature.gov",
+    "name": "Adam Bowling",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=87"
+   }
+  ],
+  "88": [
+   {
+    "email": "vanessa.grossl@kylegislature.gov",
+    "name": "Vanessa Grossl",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=88"
+   }
+  ],
+  "89": [
+   {
+    "email": "timmy.truett@kylegislature.gov",
+    "name": "Timmy Truett",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=89"
+   }
+  ],
+  "9": [
+   {
+    "email": "myron.dossett@kylegislature.gov",
+    "name": "Myron Dossett",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=9"
+   }
+  ],
+  "90": [
+   {
+    "email": "derek.lewis@kylegislature.gov",
+    "name": "Derek Lewis",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=90"
+   }
+  ],
+  "91": [
+   {
+    "email": "bill.wesley@kylegislature.gov",
+    "name": "Bill Wesley",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=91"
+   }
+  ],
+  "92": [
+   {
+    "email": "john.blanton@kylegislature.gov",
+    "name": "John Blanton",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=92"
+   }
+  ],
+  "93": [
+   {
+    "email": "adrielle.camuel@kylegislature.gov",
+    "name": "Adrielle Camuel",
+    "party": "Democratic",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=93"
+   }
+  ],
+  "94": [
+   {
+    "email": "mitchum.whitaker@kylegislature.gov",
+    "name": "Mitch Whitaker",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=94"
+   }
+  ],
+  "95": [
+   {
+    "email": "ashley.tackettlaferty@kylegislature.gov",
+    "name": "Ashley Laferty",
+    "party": "Democratic",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=95"
+   }
+  ],
+  "96": [
+   {
+    "email": "patrick.flannery@kylegislature.gov",
+    "name": "Patrick Flannery",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=96"
+   }
+  ],
+  "97": [
+   {
+    "email": "bobby.mccool@kylegislature.gov",
+    "name": "Bobby McCool",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=97"
+   }
+  ],
+  "98": [
+   {
+    "email": "aaron.thompson@kylegislature.gov",
+    "name": "Aaron Thompson",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=98"
+   }
+  ],
+  "99": [
+   {
+    "email": "richard.white@kylegislature.gov",
+    "name": "Richard White",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=99"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/ky.csv"
+ },
+ "state": "KY",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "jason.howell@kylegislature.gov",
+    "name": "Jason Howell",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=101"
+   }
+  ],
+  "10": [
+   {
+    "email": "matthew.deneen@kylegislature.gov",
+    "name": "Matt Deneen",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=110"
+   }
+  ],
+  "11": [
+   {
+    "email": "steve.rawlings@kylegislature.gov",
+    "name": "Steve Rawlings",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=111"
+   }
+  ],
+  "12": [
+   {
+    "email": "amanda.maysbledsoe@kylegislature.gov",
+    "name": "Amanda Bledsoe",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=112"
+   }
+  ],
+  "13": [
+   {
+    "email": "reginald.thomas@kylegislature.gov",
+    "name": "Reggie Thomas",
+    "party": "Democratic",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=113"
+   }
+  ],
+  "14": [
+   {
+    "email": "jimmy.higdon@kylegislature.gov",
+    "name": "Jimmy Higdon",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=114"
+   }
+  ],
+  "15": [
+   {
+    "email": "rick.girdler@kylegislature.gov",
+    "name": "Rick Girdler",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=115"
+   }
+  ],
+  "16": [
+   {
+    "email": "max.wise@kylegislature.gov",
+    "name": "Max Wise",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=116"
+   }
+  ],
+  "17": [
+   {
+    "email": "matt.nunn@kylegislature.gov",
+    "name": "Matt Nunn",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=117"
+   }
+  ],
+  "18": [
+   {
+    "email": "robin.webb@kylegislature.gov",
+    "name": "Robin Webb",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=118"
+   }
+  ],
+  "19": [
+   {
+    "email": "cassie.armstrong@kylegislature.gov",
+    "name": "Cassie Armstrong",
+    "party": "Democratic",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=119"
+   }
+  ],
+  "2": [
+   {
+    "email": "danny.carroll@kylegislature.gov",
+    "name": "Danny Carroll",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=102"
+   }
+  ],
+  "20": [
+   {
+    "email": "gex.williams@kylegislature.gov",
+    "name": "Gex Williams",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=120"
+   }
+  ],
+  "21": [
+   {
+    "email": "brandon.storm@kylegislature.gov",
+    "name": "Brandon Storm",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=121"
+   }
+  ],
+  "22": [
+   {
+    "email": "donald.douglas@kylegislature.gov",
+    "name": "Don Douglas",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=122"
+   }
+  ],
+  "23": [
+   {
+    "email": "chris.mcdaniel@kylegislature.gov",
+    "name": "Chris McDaniel",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=123"
+   }
+  ],
+  "24": [
+   {
+    "email": "shelley.funkefrommeyer@kylegislature.gov",
+    "name": "Shelley Frommeyer",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=124"
+   }
+  ],
+  "25": [
+   {
+    "email": "robert.stivers@kylegislature.gov",
+    "name": "Robert Stivers",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=125"
+   }
+  ],
+  "26": [
+   {
+    "email": "karen.berg@kylegislature.gov",
+    "name": "Karen Berg",
+    "party": "Democratic",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=126"
+   }
+  ],
+  "27": [
+   {
+    "email": "steve.west@kylegislature.gov",
+    "name": "Steve West",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=127"
+   }
+  ],
+  "28": [
+   {
+    "email": "greg.elkins@kylegislature.gov",
+    "name": "Greg Elkins",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=128"
+   }
+  ],
+  "29": [
+   {
+    "email": "scott.madon@kylegislature.gov",
+    "name": "Scott Madon",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=129"
+   }
+  ],
+  "3": [
+   {
+    "email": "craig.richardson@kylegislature.gov",
+    "name": "Craig Richardson",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=103"
+   }
+  ],
+  "30": [
+   {
+    "email": "brandon.smith@kylegislature.gov",
+    "name": "Brandon Smith",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=130"
+   }
+  ],
+  "31": [
+   {
+    "email": "phillip.wheeler@kylegislature.gov",
+    "name": "Phillip Wheeler",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=131"
+   }
+  ],
+  "32": [
+   {
+    "email": "mike.wilson@kylegislature.gov",
+    "name": "Mike Wilson",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=132"
+   }
+  ],
+  "33": [
+   {
+    "email": "gerald.neal@kylegislature.gov",
+    "name": "Gerald Neal",
+    "party": "Democratic",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=133"
+   }
+  ],
+  "34": [
+   {
+    "email": "jared.carpenter@kylegislature.gov",
+    "name": "Jared Carpenter",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=134"
+   }
+  ],
+  "35": [
+   {
+    "email": "keturah.herron@kylegislature.gov",
+    "name": "Keturah Herron",
+    "party": "Democratic",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=135"
+   }
+  ],
+  "36": [
+   {
+    "email": "julie.adams@kylegislature.gov",
+    "name": "Julie Adams",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=136"
+   }
+  ],
+  "37": [
+   {
+    "email": "gary.clemons@kylegislature.gov",
+    "name": "Gary Clemons",
+    "party": "Democratic",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=137"
+   }
+  ],
+  "38": [
+   {
+    "email": "mike.nemes@kylegislature.gov",
+    "name": "Mike Nemes",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=138"
+   }
+  ],
+  "4": [
+   {
+    "email": "robby.mills@kylegislature.gov",
+    "name": "Robby Mills",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=104"
+   }
+  ],
+  "5": [
+   {
+    "email": "stephen.meredith@kylegislature.gov",
+    "name": "Steve Meredith",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=105"
+   }
+  ],
+  "6": [
+   {
+    "email": "lindsey.tichenor@kylegislature.gov",
+    "name": "Lindsey Tichenor",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=106"
+   }
+  ],
+  "7": [
+   {
+    "email": "aaron.reed@kylegislature.gov",
+    "name": "Aaron Reed",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=107"
+   }
+  ],
+  "8": [
+   {
+    "email": "gary.boswell@kylegislature.gov",
+    "name": "Gary Boswell",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=108"
+   }
+  ],
+  "9": [
+   {
+    "email": "david.givens@kylegislature.gov",
+    "name": "David Givens",
+    "party": "Republican",
+    "url": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=109"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

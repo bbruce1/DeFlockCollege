@@ -1,0 +1,2055 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Earl Carter",
+    "party": "Republican",
+    "phone": "202-225-5831",
+    "url": "https://buddycarter.house.gov"
+   }
+  ],
+  "10": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Mike Collins",
+    "party": "Republican",
+    "phone": "202-225-4101",
+    "url": "https://collins.house.gov"
+   }
+  ],
+  "11": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Barry Loudermilk",
+    "party": "Republican",
+    "phone": "202-225-2931",
+    "url": "https://loudermilk.house.gov"
+   }
+  ],
+  "12": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Rick Allen",
+    "party": "Republican",
+    "phone": "202-225-2823",
+    "url": "https://allen.house.gov"
+   }
+  ],
+  "13": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Everton Blair",
+    "party": "Democrat",
+    "phone": "202-225-2939",
+    "url": null
+   }
+  ],
+  "14": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Clay Fuller",
+    "party": "Republican",
+    "phone": "202-225-5211",
+    "url": "https://fuller.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Sanford Bishop",
+    "party": "Democrat",
+    "phone": "202-225-3631",
+    "url": "https://bishop.house.gov"
+   }
+  ],
+  "3": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Brian Jack",
+    "party": "Republican",
+    "phone": "202-225-5901",
+    "url": "https://jack.house.gov"
+   }
+  ],
+  "4": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Henry Johnson",
+    "party": "Democrat",
+    "phone": "202-225-1605",
+    "url": "https://hankjohnson.house.gov"
+   }
+  ],
+  "5": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Nikema Williams",
+    "party": "Democrat",
+    "phone": "202-225-3801",
+    "url": "https://nikemawilliams.house.gov"
+   }
+  ],
+  "6": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Lucy McBath",
+    "party": "Democrat",
+    "phone": "202-225-4501",
+    "url": "https://mcbath.house.gov"
+   }
+  ],
+  "7": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Rich McCormick",
+    "party": "Republican",
+    "phone": "202-225-4272",
+    "url": "https://mccormick.house.gov"
+   }
+  ],
+  "8": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Austin Scott",
+    "party": "Republican",
+    "phone": "202-225-6531",
+    "url": "https://austinscott.house.gov"
+   }
+  ],
+  "9": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Andrew Clyde",
+    "party": "Republican",
+    "phone": "202-225-9893",
+    "url": "https://clyde.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.ossoff.senate.gov/contact-us/",
+   "email": null,
+   "name": "Jon Ossoff",
+   "party": "Democrat",
+   "phone": "202-224-3521",
+   "url": "https://www.ossoff.senate.gov"
+  },
+  {
+   "contactForm": "https://www.warnock.senate.gov/contact/",
+   "email": null,
+   "name": "Raphael Warnock",
+   "party": "Democrat",
+   "phone": "202-224-3643",
+   "url": "https://www.warnock.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "mike.cameron@house.ga.gov",
+    "name": "Mike Cameron",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "10": [
+   {
+    "email": "victor.anderson@house.ga.gov",
+    "name": "Victor Anderson",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "100": [
+   {
+    "email": "david.clark@house.ga.gov",
+    "name": "David Clark",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=867&Session=27"
+   }
+  ],
+  "101": [
+   {
+    "email": "scott.holcomb@house.ga.gov",
+    "name": "Scott Holcomb",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=769&Session=27"
+   }
+  ],
+  "102": [
+   {
+    "email": "gabe.okoye@house.ga.gov",
+    "name": "Gabe Okoye",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "103": [
+   {
+    "email": "soo.hong@house.ga.gov",
+    "name": "Soo Hong",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "104": [
+   {
+    "email": "chuck.efstration@house.ga.gov",
+    "name": "Chuck Efstration",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=846&Session=27"
+   }
+  ],
+  "105": [
+   {
+    "email": "sandy.donatucci@house.ga.gov",
+    "name": "Sandy Donatucci",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house/5077"
+   }
+  ],
+  "106": [
+   {
+    "email": "akbar.ali@house.ga.gov",
+    "name": "Akbar Ali",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house/5089"
+   }
+  ],
+  "107": [
+   {
+    "email": "sam.park@house.ga.gov",
+    "name": "Sam Park",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4901&Session=27"
+   }
+  ],
+  "108": [
+   {
+    "email": "jasmine.clark@house.ga.gov",
+    "name": "Jasmine Clark",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4953&Session=27"
+   }
+  ],
+  "109": [
+   {
+    "email": "dewey.mcclain@house.ga.gov",
+    "name": "Dewey McClain",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=845&Session=27"
+   }
+  ],
+  "11": [
+   {
+    "email": "rick.jasperse@house.ga.gov",
+    "name": "Rick Jasperse",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=755&Session=27"
+   }
+  ],
+  "110": [
+   {
+    "email": "segun.adeyina@house.ga.gov",
+    "name": "Segun Adeyina",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "111": [
+   {
+    "email": "reynaldo.martinez@house.ga.gov",
+    "name": "Rey Martinez",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "112": [
+   {
+    "email": "bruce.williamson@house.ga.gov",
+    "name": "Bruce Williamson",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=778&Session=27"
+   }
+  ],
+  "113": [
+   {
+    "email": "sharon.henderson@house.ga.gov",
+    "name": "Sharon Henderson",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "114": [
+   {
+    "email": "tim.fleming@house.ga.gov",
+    "name": "Tim Fleming",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "115": [
+   {
+    "email": "regina.lewis-ward@house.ga.gov",
+    "name": "Regina Lewis-Ward",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "116": [
+   {
+    "email": "el-mahdi.holly@house.ga.gov",
+    "name": "El-Mahdi Holly",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4954&Session=27"
+   }
+  ],
+  "117": [
+   {
+    "email": "maryann.santos@house.ga.gov",
+    "name": "Mary Ann Santos",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house/5078"
+   }
+  ],
+  "118": [
+   {
+    "email": "clint.crowe@house.ga.gov",
+    "name": "Clint Crowe",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "119": [
+   {
+    "email": "holt.persinger@house.ga.gov",
+    "name": "Holt Persinger",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "12": [
+   {
+    "email": "eddie.lumsden@house.ga.gov",
+    "name": "Eddie Lumsden",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=826&Session=27"
+   }
+  ],
+  "120": [
+   {
+    "email": "houston.gaines@house.ga.gov",
+    "name": "Houston Gaines",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4955&Session=27"
+   }
+  ],
+  "121": [
+   {
+    "email": "eric.gisler@house.ga.gov",
+    "name": "Eric Gisler",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house/5091"
+   }
+  ],
+  "122": [
+   {
+    "email": "spencer.frye@house.ga.gov",
+    "name": "Spencer Frye",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=819&Session=27"
+   }
+  ],
+  "123": [
+   {
+    "email": "rob.leverett@house.ga.gov",
+    "name": "Rob Leverett",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "124": [
+   {
+    "email": "trey.rhodes@house.ga.gov",
+    "name": "Trey Rhodes",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=876&Session=27"
+   }
+  ],
+  "125": [
+   {
+    "email": "gary.richardson@house.ga.gov",
+    "name": "Gary Richardson",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house/5063"
+   }
+  ],
+  "126": [
+   {
+    "email": "lc.myles@house.ga.gov",
+    "name": "L.C. Myles",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house/5079"
+   }
+  ],
+  "127": [
+   {
+    "email": "mark.newton@house.ga.gov",
+    "name": "Mark Newton",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4902&Session=27"
+   }
+  ],
+  "128": [
+   {
+    "email": "mack.jackson@house.ga.gov",
+    "name": "Mack Jackson",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=738&Session=27"
+   }
+  ],
+  "129": [
+   {
+    "email": "karlton.howard@house.ga.gov",
+    "name": "Karlton Howard",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "13": [
+   {
+    "email": "katie.dempsey@house.ga.gov",
+    "name": "Katie Dempsey",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=92&Session=27"
+   }
+  ],
+  "130": [
+   {
+    "email": "sheila.nelson@house.ga.gov",
+    "name": "Sheila Nelson",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4903&Session=27"
+   }
+  ],
+  "131": [
+   {
+    "email": "rob.clifton@house.ga.gov",
+    "name": "Rob Clifton",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house/5080"
+   }
+  ],
+  "132": [
+   {
+    "email": "brian.prince@house.ga.gov",
+    "name": "Brian Prince",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=847&Session=27"
+   }
+  ],
+  "133": [
+   {
+    "email": "danny.mathis@house.ga.gov",
+    "name": "Danny Mathis",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4959&Session=27"
+   }
+  ],
+  "134": [
+   {
+    "email": "robert.dickey@house.ga.gov",
+    "name": "Robert Dickey",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=791&Session=27"
+   }
+  ],
+  "135": [
+   {
+    "email": "beth.camp@house.ga.gov",
+    "name": "Beth Camp",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "136": [
+   {
+    "email": "david.jenkins@house.ga.gov",
+    "name": "David Jenkins",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "137": [
+   {
+    "email": "debbie.buckner@house.ga.gov",
+    "name": "Debbie Buckner",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=71&Session=27"
+   }
+  ],
+  "138": [
+   {
+    "email": "vance.smith@house.ga.gov",
+    "name": "Vance Smith",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=215&Session=27"
+   }
+  ],
+  "139": [
+   {
+    "email": "carmen.rice@house.ga.gov",
+    "name": "Carmen Rice",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house/5064"
+   }
+  ],
+  "14": [
+   {
+    "email": "mitchell.scoggins@house.ga.gov",
+    "name": "Mitchell Scoggins",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4964&Session=27"
+   }
+  ],
+  "140": [
+   {
+    "email": "tremaine.reese@house.ga.gov",
+    "name": "Teddy Reese",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "141": [
+   {
+    "email": "carolyn.hugley@house.ga.gov",
+    "name": "Carolyn Hugley",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=133&Session=27"
+   }
+  ],
+  "142": [
+   {
+    "email": "miriam.paris@house.ga.gov",
+    "name": "Miriam Paris",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=794&Session=27"
+   }
+  ],
+  "143": [
+   {
+    "email": "anissa.jones@house.ga.gov",
+    "name": "Nissa Jones",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house/5081"
+   }
+  ],
+  "144": [
+   {
+    "email": "dale.washburn@house.ga.gov",
+    "name": "Dale Washburn",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4958&Session=27"
+   }
+  ],
+  "145": [
+   {
+    "email": "tangie.herring@house.ga.gov",
+    "name": "Tangie Herring",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house/5082"
+   }
+  ],
+  "146": [
+   {
+    "email": "shaw.blackmon@house.ga.gov",
+    "name": "Shaw Blackmon",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=1878&Session=27"
+   }
+  ],
+  "147": [
+   {
+    "email": "bethany.ballard@house.ga.gov",
+    "name": "Bethany Ballard",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "148": [
+   {
+    "email": "noel.williams@house.ga.gov",
+    "name": "Noel Williams",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4960&Session=27"
+   }
+  ],
+  "149": [
+   {
+    "email": "floyd.griffin@house.ga.gov",
+    "name": "Floyd Griffin",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house/5083"
+   }
+  ],
+  "15": [
+   {
+    "email": "matthew.gambill@house.ga.gov",
+    "name": "Matthew Gambill",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4934&Session=27"
+   }
+  ],
+  "150": [
+   {
+    "email": "patty.stinson@house.ga.gov",
+    "name": "Patty Marie Stinson",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=811&Session=27"
+   }
+  ],
+  "151": [
+   {
+    "email": "mike.cheokas@house.ga.gov",
+    "name": "Mike Cheokas",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=81&Session=27"
+   }
+  ],
+  "152": [
+   {
+    "email": "bill.yearta@house.ga.gov",
+    "name": "Bill Yearta",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4969&Session=27"
+   }
+  ],
+  "153": [
+   {
+    "email": "david.sampson@house.ga.gov",
+    "name": "David Sampson",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "154": [
+   {
+    "email": "gerald.greene@house.ga.gov",
+    "name": "Gerald Greene",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=115&Session=27"
+   }
+  ],
+  "155": [
+   {
+    "email": "matt.hatchett@house.ga.gov",
+    "name": "Matt Hatchett",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=781&Session=27"
+   }
+  ],
+  "156": [
+   {
+    "email": "leesa.hagan@house.ga.gov",
+    "name": "Leesa Hagan",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "157": [
+   {
+    "email": "bill.werkheiser@house.ga.gov",
+    "name": "Bill Werkheiser",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=863&Session=27"
+   }
+  ],
+  "158": [
+   {
+    "email": "butch.parrish@house.ga.gov",
+    "name": "Butch Parrish",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=183&Session=27"
+   }
+  ],
+  "159": [
+   {
+    "email": "jon.burns@house.ga.gov",
+    "name": "Jon Burns",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=73&Session=27"
+   }
+  ],
+  "16": [
+   {
+    "email": "trey.kelley@house.ga.gov",
+    "name": "Trey Kelley",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=825&Session=27"
+   }
+  ],
+  "160": [
+   {
+    "email": "lehman.franklin@house.ga.gov",
+    "name": "Lehman Franklin",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "161": [
+   {
+    "email": "bill.hitchens@house.ga.gov",
+    "name": "Bill Hitchens",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=823&Session=27"
+   }
+  ],
+  "162": [
+   {
+    "email": "carl.gilliard@house.ga.gov",
+    "name": "Carl Gilliard",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4881&Session=27"
+   }
+  ],
+  "163": [
+   {
+    "email": "anneallen.westbrook@house.ga.gov",
+    "name": "Anne Westbrook",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "164": [
+   {
+    "email": "ron.stephens@house.ga.gov",
+    "name": "Ron Stephens",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=219&Session=27"
+   }
+  ],
+  "165": [
+   {
+    "email": "edna.jackson@house.ga.gov",
+    "name": "Edna Jackson",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "166": [
+   {
+    "email": "jesse.petrea@house.ga.gov",
+    "name": "Jesse Petrea",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=862&Session=27"
+   }
+  ],
+  "167": [
+   {
+    "email": "buddy.deloach@house.ga.gov",
+    "name": "Buddy DeLoach",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "168": [
+   {
+    "email": "al.williams@house.ga.gov",
+    "name": "Al Williams",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=230&Session=27"
+   }
+  ],
+  "169": [
+   {
+    "email": "angie.osteen@house.ga.gov",
+    "name": "Angie O'Steen",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house/5084"
+   }
+  ],
+  "17": [
+   {
+    "email": "martin.momtahan@house.ga.gov",
+    "name": "Martin Momtahan",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4935&Session=27"
+   }
+  ],
+  "170": [
+   {
+    "email": "jaclyn.ford@house.ga.gov",
+    "name": "Jaclyn Ford",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house/5085"
+   }
+  ],
+  "171": [
+   {
+    "email": "joe.campbell@house.ga.gov",
+    "name": "Joe Campbell",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4970&Session=27"
+   }
+  ],
+  "172": [
+   {
+    "email": "chas.cannon@house.ga.gov",
+    "name": "Chas Cannon",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "173": [
+   {
+    "email": "darlene.taylor@house.ga.gov",
+    "name": "Darlene Taylor",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=786&Session=27"
+   }
+  ],
+  "174": [
+   {
+    "email": "john.corbett@house.ga.gov",
+    "name": "John Corbett",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=859&Session=27"
+   }
+  ],
+  "175": [
+   {
+    "email": "john.lahood@house.ga.gov",
+    "name": "John LaHood",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4923&Session=27"
+   }
+  ],
+  "176": [
+   {
+    "email": "james.burchett@house.ga.gov",
+    "name": "James Burchett",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4967&Session=27"
+   }
+  ],
+  "177": [
+   {
+    "email": "alvin.payton@house.ga.gov",
+    "name": "Alvin Payton",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house/5096?session=1034"
+   }
+  ],
+  "178": [
+   {
+    "email": "steven.meeks@house.ga.gov",
+    "name": "Steven Meeks",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4961&Session=27"
+   }
+  ],
+  "179": [
+   {
+    "email": "rick.townsend@house.ga.gov",
+    "name": "Rick Townsend",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "18": [
+   {
+    "email": "tyler.smith@house.ga.gov",
+    "name": "Tyler Smith",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "180": [
+   {
+    "email": "steven.sainz@house.ga.gov",
+    "name": "Steven Sainz",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4962&Session=27"
+   }
+  ],
+  "19": [
+   {
+    "email": "joseph.gullett@house.ga.gov",
+    "name": "Joseph Gullett",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4936&Session=27"
+   }
+  ],
+  "2": [
+   {
+    "email": "steve.tarvin@house.ga.gov",
+    "name": "Steve Tarvin",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=849&Session=27"
+   }
+  ],
+  "20": [
+   {
+    "email": "charlice.byrd@house.ga.gov",
+    "name": "Charlice Byrd",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "21": [
+   {
+    "email": "brad.thomas@house.ga.gov",
+    "name": "Brad Thomas",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "22": [
+   {
+    "email": "jordan.ridley@house.ga.gov",
+    "name": "Jordan Ridley",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "23": [
+   {
+    "email": "bill.fincher@house.ga.gov",
+    "name": "Bill Fincher",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house/5092"
+   }
+  ],
+  "24": [
+   {
+    "email": "carter.barrett@house.ga.gov",
+    "name": "Carter Barrett",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "25": [
+   {
+    "email": "todd.jones@house.ga.gov",
+    "name": "Todd Jones",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4885&Session=27"
+   }
+  ],
+  "26": [
+   {
+    "email": "lauren.mcdonald@house.ga.gov",
+    "name": "Lauren McDonald",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "27": [
+   {
+    "email": "lee.hawkins@house.ga.gov",
+    "name": "Lee Hawkins",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=19&Session=27"
+   }
+  ],
+  "28": [
+   {
+    "email": "brent.cox@house.ga.gov",
+    "name": "Brent Cox",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "29": [
+   {
+    "email": "matt.dubnik@house.ga.gov",
+    "name": "Matt Dubnik",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4886&Session=27"
+   }
+  ],
+  "3": [
+   {
+    "email": "mitchell.horner@house.ga.gov",
+    "name": "Mitchell Horner",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "30": [
+   {
+    "email": "derrick.mccollum@house.ga.gov",
+    "name": "Derrick McCollum",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "31": [
+   {
+    "email": "emory.dunahoo@house.ga.gov",
+    "name": "Emory Dunahoo",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=797&Session=27"
+   }
+  ],
+  "32": [
+   {
+    "email": "chris.erwin@house.ga.gov",
+    "name": "Chris Erwin",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4965&Session=27"
+   }
+  ],
+  "33": [
+   {
+    "email": "alan.powell@house.ga.gov",
+    "name": "Alan Powell",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=187&Session=27"
+   }
+  ],
+  "34": [
+   {
+    "email": "devan.seabaugh@house.ga.gov",
+    "name": "Devan Seabaugh",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "35": [
+   {
+    "email": "lisa.campbell@house.ga.gov",
+    "name": "Lisa Campbell",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "36": [
+   {
+    "email": "ginny.ehrhart@house.ga.gov",
+    "name": "Ginny Ehrhart",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4937&Session=27"
+   }
+  ],
+  "37": [
+   {
+    "email": "maryfrances.williams@house.ga.gov",
+    "name": "Mary Frances Williams",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4938&Session=27"
+   }
+  ],
+  "38": [
+   {
+    "email": "david.wilkerson@house.ga.gov",
+    "name": "David Wilkerson",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=760&Session=27"
+   }
+  ],
+  "39": [
+   {
+    "email": "terry.cummings@house.ga.gov",
+    "name": "Terry Cummings",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "4": [
+   {
+    "email": "kasey.carpenter@house.ga.gov",
+    "name": "Kasey Carpenter",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4911&Session=27"
+   }
+  ],
+  "40": [
+   {
+    "email": "kimberly.new@house.ga.gov",
+    "name": "Kimberly New",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "41": [
+   {
+    "email": "michael.smith@house.ga.gov",
+    "name": "Michael Smith",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=832&Session=27"
+   }
+  ],
+  "42": [
+   {
+    "email": "gabriel.sanchez@house.ga.gov",
+    "name": "Gabriel Sanchez",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house/5068"
+   }
+  ],
+  "43": [
+   {
+    "email": "solomon.adesanya@house.ga.gov",
+    "name": "Solomon Adesanya",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "44": [
+   {
+    "email": "don.parsons@house.ga.gov",
+    "name": "Don Parsons",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=184&Session=27"
+   }
+  ],
+  "45": [
+   {
+    "email": "sharon.cooper@house.ga.gov",
+    "name": "Sharon Cooper",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=86&Session=27"
+   }
+  ],
+  "46": [
+   {
+    "email": "john.carson@house.ga.gov",
+    "name": "John Carson",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=795&Session=27"
+   }
+  ],
+  "47": [
+   {
+    "email": "jan.jones@house.ga.gov",
+    "name": "Jan Jones",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=142&Session=27"
+   }
+  ],
+  "48": [
+   {
+    "email": "scott.hilton@house.ga.gov",
+    "name": "Scott Hilton",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "49": [
+   {
+    "email": "chuck.martin@house.ga.gov",
+    "name": "Chuck Martin",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=164&Session=27"
+   }
+  ],
+  "5": [
+   {
+    "email": "matt.barton@house.ga.gov",
+    "name": "Matt Barton",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4966&Session=27"
+   }
+  ],
+  "50": [
+   {
+    "email": "michelle.au@house.ga.gov",
+    "name": "Michelle Au",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "51": [
+   {
+    "email": "esther.panitch@house.ga.gov",
+    "name": "Esther Panitch",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "52": [
+   {
+    "email": "shea.roberts@house.ga.gov",
+    "name": "Shea Roberts",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "53": [
+   {
+    "email": "deborah.silcox@house.ga.gov",
+    "name": "Deborah Silcox",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4887&Session=27"
+   }
+  ],
+  "54": [
+   {
+    "email": "betsy.holland@house.ga.gov",
+    "name": "Betsy Holland",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4943&Session=27"
+   }
+  ],
+  "55": [
+   {
+    "email": "inga.willis@house.ga.gov",
+    "name": "Inga Willis",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "56": [
+   {
+    "email": "bryce.berry@house.ga.gov",
+    "name": "Bryce Berry",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house/5069"
+   }
+  ],
+  "57": [
+   {
+    "email": "stacey.evans@house.ga.gov",
+    "name": "Stacey Evans",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=762&Session=25"
+   }
+  ],
+  "58": [
+   {
+    "email": "park.cannon@house.ga.gov",
+    "name": "Park Cannon",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4880&Session=27"
+   }
+  ],
+  "59": [
+   {
+    "email": "phil.olaleye@house.ga.gov",
+    "name": "Phil Olaleye",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "6": [
+   {
+    "email": "jason.ridley@house.ga.gov",
+    "name": "Jason Ridley",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4883&Session=27"
+   }
+  ],
+  "60": [
+   {
+    "email": "sheila.jones@house.ga.gov",
+    "name": "Sheila Jones",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=143&Session=27"
+   }
+  ],
+  "61": [
+   {
+    "email": "mekyah.mcqueen@house.ga.gov",
+    "name": "Mekyah McQueen",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house/5070"
+   }
+  ],
+  "62": [
+   {
+    "email": "tanya.miller@house.ga.gov",
+    "name": "Tanya Miller",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "63": [
+   {
+    "email": "kim.schofield@house.ga.gov",
+    "name": "Kim Schofield",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4916&Session=27"
+   }
+  ],
+  "64": [
+   {
+    "email": "sylvia.baker@house.ga.gov",
+    "name": "Sylvia Wayfer",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house/5071"
+   }
+  ],
+  "65": [
+   {
+    "email": "robert.dawson@house.ga.gov",
+    "name": "Robert Dawson",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house/5072"
+   }
+  ],
+  "66": [
+   {
+    "email": "kimberly.alexander@house.ga.gov",
+    "name": "Kimberly Alexander",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=806&Session=27"
+   }
+  ],
+  "67": [
+   {
+    "email": "lydia.glaize@house.ga.gov",
+    "name": "Lydia Glaize",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "68": [
+   {
+    "email": "derrick.jackson@house.ga.gov",
+    "name": "Derrick Jackson",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "69": [
+   {
+    "email": "debra.bazemore@house.ga.gov",
+    "name": "Debra Bazemore",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4890&Session=27"
+   }
+  ],
+  "7": [
+   {
+    "email": "johnny.chastain@house.ga.gov",
+    "name": "Johnny Chastain",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "70": [
+   {
+    "email": "lynn.smith@house.ga.gov",
+    "name": "Lynn Smith",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=212&Session=27"
+   }
+  ],
+  "71": [
+   {
+    "email": "justin.howard@house.ga.gov",
+    "name": "Jutt Howard",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house/5073"
+   }
+  ],
+  "72": [
+   {
+    "email": "david.huddleston@house.ga.gov",
+    "name": "David Huddleston",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "73": [
+   {
+    "email": "josh.bonner@house.ga.gov",
+    "name": "Josh Bonner",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4893&Session=27"
+   }
+  ],
+  "74": [
+   {
+    "email": "robert.flournoy@house.ga.gov",
+    "name": "Robert Flournoy",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house/5074"
+   }
+  ],
+  "75": [
+   {
+    "email": "eric.bell@house.ga.gov",
+    "name": "Eric Bell",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "76": [
+   {
+    "email": "sandra.scott@house.ga.gov",
+    "name": "Sandra Scott",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=766&Session=27"
+   }
+  ],
+  "77": [
+   {
+    "email": "rhonda.burnough@house.ga.gov",
+    "name": "Rhonda Burnough",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4895&Session=27"
+   }
+  ],
+  "78": [
+   {
+    "email": "demetrius.douglas@house.ga.gov",
+    "name": "Demetrius Douglas",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=817&Session=27"
+   }
+  ],
+  "79": [
+   {
+    "email": "yasmin.neal@house.ga.gov",
+    "name": "Yasmin Neal",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "8": [
+   {
+    "email": "stan.gunter@house.ga.gov",
+    "name": "Stan Gunter",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "80": [
+   {
+    "email": "long.tran@house.ga.gov",
+    "name": "Long Tran",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "81": [
+   {
+    "email": "noelle.kahaian@house.ga.gov",
+    "name": "Noelle Kahaian",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house/5075"
+   }
+  ],
+  "82": [
+   {
+    "email": "karen.mathiak@house.ga.gov",
+    "name": "Karen Mathiak",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4894&Session=27"
+   }
+  ],
+  "83": [
+   {
+    "email": "karen.lupton@house.ga.gov",
+    "name": "Karen Lupton",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "84": [
+   {
+    "email": "mary.oliver@house.ga.gov",
+    "name": "Mary Margaret Oliver",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "85": [
+   {
+    "email": "karla.drenner@house.ga.gov",
+    "name": "Karla Drenner",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=95&Session=27"
+   }
+  ],
+  "86": [
+   {
+    "email": "imani.barnes@house.ga.gov",
+    "name": "Imani Barnes",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "87": [
+   {
+    "email": "viola.davis@house.ga.gov",
+    "name": "Viola Davis",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4947&Session=27"
+   }
+  ],
+  "88": [
+   {
+    "email": "billy.mitchell@house.ga.gov",
+    "name": "Billy Mitchell",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=172&Session=27"
+   }
+  ],
+  "89": [
+   {
+    "email": "omari.crawford@house.ga.gov",
+    "name": "Omari Crawford",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "9": [
+   {
+    "email": "will.wade@house.ga.gov",
+    "name": "Will Wade",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "90": [
+   {
+    "email": "saira.draper@house.ga.gov",
+    "name": "Saira Draper",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "91": [
+   {
+    "email": "angela.moore@house.ga.gov",
+    "name": "Angela Moore",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "92": [
+   {
+    "email": "rhonda.taylor@house.ga.gov",
+    "name": "Rhonda Taylor",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "93": [
+   {
+    "email": "doreen.carter@house.ga.gov",
+    "name": "Doreen Carter",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=3877&Session=27"
+   }
+  ],
+  "94": [
+   {
+    "email": "venola.mason@house.ga.gov",
+    "name": "Venola Mason",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house/5095"
+   }
+  ],
+  "95": [
+   {
+    "email": "darshun.kendrick@house.ga.gov",
+    "name": "Dar'shun Kendrick",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=770&Session=27"
+   }
+  ],
+  "96": [
+   {
+    "email": "arlene.beckles@house.ga.gov",
+    "name": "Arlene Beckles",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house/5076"
+   }
+  ],
+  "97": [
+   {
+    "email": "ruwa.romman@house.ga.gov",
+    "name": "Ruwa Romman",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "98": [
+   {
+    "email": "marvin.lim@house.ga.gov",
+    "name": "Marvin Lim",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ],
+  "99": [
+   {
+    "email": "matt.reeves@house.ga.gov",
+    "name": "Matt Reeves",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/house"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/ga.csv"
+ },
+ "state": "GA",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "ben.watson@senate.ga.gov",
+    "name": "Ben Watson",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "10": [
+   {
+    "email": "emanuel.jones@senate.ga.gov",
+    "name": "Emanuel Jones",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "11": [
+   {
+    "email": "sam.watson@senate.ga.gov",
+    "name": "Sam Watson",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=837&Session=27"
+   }
+  ],
+  "13": [
+   {
+    "email": "carden.summers@senate.ga.gov",
+    "name": "Carden Summers",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "14": [
+   {
+    "email": "josh.mclaurin@senate.ga.gov",
+    "name": "Josh McLaurin",
+    "party": "Democratic",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4942&Session=27"
+   }
+  ],
+  "15": [
+   {
+    "email": "ed.harbison@senate.ga.gov",
+    "name": "Ed Harbison",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "16": [
+   {
+    "email": "marty.harbin@senate.ga.gov",
+    "name": "Marty Harbin",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "17": [
+   {
+    "email": "gail.davenport@senate.ga.gov",
+    "name": "Gail Davenport",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "18": [
+   {
+    "email": "steven.mcneel@senate.ga.gov",
+    "name": "Steven McNeel",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/senate/5093"
+   }
+  ],
+  "19": [
+   {
+    "email": "blake.tillery@senate.ga.gov",
+    "name": "Blake Tillery",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "2": [
+   {
+    "email": "derek.mallow@senate.ga.gov",
+    "name": "Derek Mallow",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/house/5007?session=1029"
+   }
+  ],
+  "20": [
+   {
+    "email": "larry.walker@senate.ga.gov",
+    "name": "Larry Walker",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "21": [
+   {
+    "email": "jason.dickerson@senate.ga.gov",
+    "name": "Jason Dickerson",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/senate/5088"
+   }
+  ],
+  "22": [
+   {
+    "email": "harold.jones@senate.ga.gov",
+    "name": "Harold Jones",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "23": [
+   {
+    "email": "max.burns@senate.ga.gov",
+    "name": "Max Burns",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "24": [
+   {
+    "email": "lee.anderson@senate.ga.gov",
+    "name": "Lee Anderson",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "25": [
+   {
+    "email": "rick.williams@senate.ga.gov",
+    "name": "Rick Williams",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=4905&Session=27"
+   }
+  ],
+  "26": [
+   {
+    "email": "david.lucas@senate.ga.gov",
+    "name": "David Lucas",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "27": [
+   {
+    "email": "greg.dolezal@senate.ga.gov",
+    "name": "Greg Dolezal",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "28": [
+   {
+    "email": "donzella.james@senate.ga.gov",
+    "name": "Donzella James",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "29": [
+   {
+    "email": "randy.robertson@senate.ga.gov",
+    "name": "Randy Robertson",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "3": [
+   {
+    "email": "mike.hodges@senate.ga.gov",
+    "name": "Mike Hodges",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "30": [
+   {
+    "email": "timothy.bearden@senate.ga.gov",
+    "name": "Tim Bearden",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/senate/62"
+   }
+  ],
+  "31": [
+   {
+    "email": "jason.anavitarte@senate.ga.gov",
+    "name": "Jason Anavitarte",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "32": [
+   {
+    "email": "kay.kirkpatrick@senate.ga.gov",
+    "name": "Kay Kirkpatrick",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "33": [
+   {
+    "email": "michael.rhett@senate.ga.gov",
+    "name": "Doc Rhett",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "34": [
+   {
+    "email": "kenya.wicks@senate.ga.gov",
+    "name": "Kenya Wicks",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/senate/5065"
+   }
+  ],
+  "35": [
+   {
+    "email": "jaha.howard@senate.ga.gov",
+    "name": "Jaha Howard",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/senate/5090"
+   }
+  ],
+  "36": [
+   {
+    "email": "nan.orrock@senate.ga.gov",
+    "name": "Nan Orrock",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "37": [
+   {
+    "email": "ed.setzler@senate.ga.gov",
+    "name": "Ed Setzler",
+    "party": "Republican",
+    "url": "https://www.house.ga.gov/Representatives/en-US/member.aspx?Member=203&Session=27"
+   }
+  ],
+  "38": [
+   {
+    "email": "rashaun.kemp@senate.ga.gov",
+    "name": "RaShaun Kemp",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/senate/5066"
+   }
+  ],
+  "39": [
+   {
+    "email": "sonya.halpern@senate.ga.gov",
+    "name": "Sonya Halpern",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "4": [
+   {
+    "email": "billy.hickman@senate.ga.gov",
+    "name": "Billy Hickman",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "40": [
+   {
+    "email": "sally.harrell@senate.ga.gov",
+    "name": "Sally Harrell",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "41": [
+   {
+    "email": "kim.jackson@senate.ga.gov",
+    "name": "Kim Jackson",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "42": [
+   {
+    "email": "brian.strickland@senate.ga.gov",
+    "name": "Brian Strickland",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "43": [
+   {
+    "email": "tonya.anderson@senate.ga.gov",
+    "name": "Tonya Anderson",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "44": [
+   {
+    "email": "elena.parent@senate.ga.gov",
+    "name": "Elena Parent",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "45": [
+   {
+    "email": "clint.dixon@senate.ga.gov",
+    "name": "Clint Dixon",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "46": [
+   {
+    "email": "bill.cowsert@senate.ga.gov",
+    "name": "Bill Cowsert",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "47": [
+   {
+    "email": "frank.ginn@senate.ga.gov",
+    "name": "Frank Ginn",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "48": [
+   {
+    "email": "shawn.still@senate.ga.gov",
+    "name": "Shawn Still",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "49": [
+   {
+    "email": "drew.echols@senate.ga.gov",
+    "name": "Drew Echols",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/senate/5067"
+   }
+  ],
+  "5": [
+   {
+    "email": "sheikh.rahman@senate.ga.gov",
+    "name": "Sheikh Rahman",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "50": [
+   {
+    "email": "bo.hatchett@senate.ga.gov",
+    "name": "Bo Hatchett",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "51": [
+   {
+    "email": "steve.gooch@senate.ga.gov",
+    "name": "Steve Gooch",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "52": [
+   {
+    "email": "chuck.hufstetler@senate.ga.gov",
+    "name": "Chuck Hufstetler",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "53": [
+   {
+    "email": "lanny.thomas@senate.ga.gov",
+    "name": "Lanny Thomas",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/senate/5094"
+   }
+  ],
+  "54": [
+   {
+    "email": "chuck.payne@senate.ga.gov",
+    "name": "Chuck Payne",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "55": [
+   {
+    "email": "randal.mangham@senate.ga.gov",
+    "name": "Randal Mangham",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/senate/161"
+   }
+  ],
+  "56": [
+   {
+    "email": "john.albers@senate.ga.gov",
+    "name": "John Albers",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "6": [
+   {
+    "email": "matt.brass@senate.ga.gov",
+    "name": "Matt Brass",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "7": [
+   {
+    "email": "adrienne.whitecarden@senate.ga.gov",
+    "name": "Adrienne White",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/senate/5097"
+   }
+  ],
+  "8": [
+   {
+    "email": "russ.goodman@senate.ga.gov",
+    "name": "Russ Goodman",
+    "party": "Republican",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ],
+  "9": [
+   {
+    "email": "nikki.merritt@senate.ga.gov",
+    "name": "Nikki Merritt",
+    "party": "Democratic",
+    "url": "https://www.legis.ga.gov/members/senate"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

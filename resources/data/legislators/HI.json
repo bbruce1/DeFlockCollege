@@ -1,0 +1,663 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Ed Case",
+    "party": "Democrat",
+    "phone": "202-225-2726",
+    "url": "https://case.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Jill Tokuda",
+    "party": "Democrat",
+    "phone": "202-225-4906",
+    "url": "https://tokuda.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.hirono.senate.gov/contact",
+   "email": null,
+   "name": "Mazie Hirono",
+   "party": "Democrat",
+   "phone": "202-224-6361",
+   "url": "https://www.hirono.senate.gov"
+  },
+  {
+   "contactForm": "https://www.schatz.senate.gov/contact",
+   "email": null,
+   "name": "Brian Schatz",
+   "party": "Democrat",
+   "phone": "202-224-3934",
+   "url": "https://www.schatz.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "repkusch@capitol.hawaii.gov",
+    "name": "Matthias Kusch",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=297"
+   }
+  ],
+  "10": [
+   {
+    "email": "repmiyake@capitol.hawaii.gov",
+    "name": "Tyson Miyake",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=294"
+   }
+  ],
+  "11": [
+   {
+    "email": "repamato@capitol.hawaii.gov",
+    "name": "Terez Amato",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=250"
+   }
+  ],
+  "12": [
+   {
+    "email": "repyamashita@capitol.hawaii.gov",
+    "name": "Kyle Yamashita",
+    "party": "Democratic",
+    "url": "https://capitol.hawaii.gov/memberpage.aspx?member=yamashita&year=2019"
+   }
+  ],
+  "13": [
+   {
+    "email": "reppoepoe@capitol.hawaii.gov",
+    "name": "Mahina Poepoe",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=284"
+   }
+  ],
+  "14": [
+   {
+    "email": "repcochran@capitol.hawaii.gov",
+    "name": "Elle Cochran",
+    "party": "Republican",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=253"
+   }
+  ],
+  "15": [
+   {
+    "email": "repnakamura@capitol.hawaii.gov",
+    "name": "Nadine Nakamura",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=100"
+   }
+  ],
+  "16": [
+   {
+    "email": "repevslin@capitol.hawaii.gov",
+    "name": "Luke Evslin",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=291"
+   }
+  ],
+  "17": [
+   {
+    "email": "repmorikawa@capitol.hawaii.gov",
+    "name": "Dee Morikawa",
+    "party": "Democratic",
+    "url": "https://capitol.hawaii.gov/memberpage.aspx?member=morikawa&year=2019"
+   }
+  ],
+  "18": [
+   {
+    "email": "repgedeon@capitol.hawaii.gov",
+    "name": "Joe Gedeon",
+    "party": "Republican",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=309"
+   }
+  ],
+  "19": [
+   {
+    "email": "rephashem@capitol.hawaii.gov",
+    "name": "Mark Hashem",
+    "party": "Democratic",
+    "url": "https://capitol.hawaii.gov/memberpage.aspx?member=hashem&year=2019"
+   }
+  ],
+  "2": [
+   {
+    "email": "repleeloy@capitol.hawaii.gov",
+    "name": "Sue Lee Loy",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=298"
+   }
+  ],
+  "20": [
+   {
+    "email": "repgrandinetti@capitol.hawaii.gov",
+    "name": "Tina Grandinetti",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=299"
+   }
+  ],
+  "21": [
+   {
+    "email": "repsayama@capitol.hawaii.gov",
+    "name": "Jackson Sayama",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=120"
+   }
+  ],
+  "22": [
+   {
+    "email": "repgarrett@capitol.hawaii.gov",
+    "name": "Andrew Garrett",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=256"
+   }
+  ],
+  "23": [
+   {
+    "email": "repolds@capitol.hawaii.gov",
+    "name": "Ikaika Olds",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=300"
+   }
+  ],
+  "24": [
+   {
+    "email": "reptam@capitol.hawaii.gov",
+    "name": "Adrian Tam",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=132"
+   }
+  ],
+  "25": [
+   {
+    "email": "repiwamoto@capitol.hawaii.gov",
+    "name": "Kim Coco Iwamoto",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=301"
+   }
+  ],
+  "26": [
+   {
+    "email": "repbelatti@capitol.hawaii.gov",
+    "name": "Della Belatti",
+    "party": "Democratic",
+    "url": "https://capitol.hawaii.gov/memberpage.aspx?member=belatti&year=2019"
+   }
+  ],
+  "27": [
+   {
+    "email": "reptakenouchi@capitol.hawaii.gov",
+    "name": "Jenna Takenouchi",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=290"
+   }
+  ],
+  "28": [
+   {
+    "email": "repratcliffe@capitol.hawaii.gov",
+    "name": "Cov Ratcliffe",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=311"
+   }
+  ],
+  "29": [
+   {
+    "email": "rephussey@capitol.hawaii.gov",
+    "name": "Ikaika Hussey",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=302"
+   }
+  ],
+  "3": [
+   {
+    "email": "reptodd@capitol.hawaii.gov",
+    "name": "Chris Todd",
+    "party": "Democratic",
+    "url": "https://capitol.hawaii.gov/memberpage.aspx?member=todd&year=2019"
+   }
+  ],
+  "30": [
+   {
+    "email": "reptemplo@capitol.hawaii.gov",
+    "name": "Shirley Templo",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=303"
+   }
+  ],
+  "31": [
+   {
+    "email": "repichiyama@capitol.hawaii.gov",
+    "name": "Linda Ichiyama",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=60"
+   }
+  ],
+  "32": [
+   {
+    "email": "repshimizu@capitol.hawaii.gov",
+    "name": "Garner Shimizu",
+    "party": "Republican",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=306"
+   }
+  ],
+  "33": [
+   {
+    "email": "repkong@capitol.hawaii.gov",
+    "name": "Sam Kong",
+    "party": "Democratic",
+    "url": "https://capitol.hawaii.gov/memberpage.aspx?member=kong&year=2019"
+   }
+  ],
+  "34": [
+   {
+    "email": "reptakayama@capitol.hawaii.gov",
+    "name": "Gregg Takayama",
+    "party": "Democratic",
+    "url": "https://capitol.hawaii.gov/memberpage.aspx?member=takayama&year=2019"
+   }
+  ],
+  "35": [
+   {
+    "email": "repchun@capitol.hawaii.gov",
+    "name": "Cory Chun",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=252"
+   }
+  ],
+  "36": [
+   {
+    "email": "rephartsfield@capitol.hawaii.gov",
+    "name": "Daisy Hartsfield",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=310"
+   }
+  ],
+  "37": [
+   {
+    "email": "replachica@capitol.hawaii.gov",
+    "name": "Trish La Chica",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=292"
+   }
+  ],
+  "38": [
+   {
+    "email": "repmatsumoto@capitol.hawaii.gov",
+    "name": "Lauren Matsumoto",
+    "party": "Republican",
+    "url": "https://capitol.hawaii.gov/memberpage.aspx?member=matsumoto&year=2019"
+   }
+  ],
+  "39": [
+   {
+    "email": "reppierick@capitol.hawaii.gov",
+    "name": "Elijah Pierick",
+    "party": "Republican",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=283"
+   }
+  ],
+  "4": [
+   {
+    "email": "repilagan@capitol.hawaii.gov",
+    "name": "Greggor Ilagan",
+    "party": "Democratic",
+    "url": "https://repilagan.com/"
+   }
+  ],
+  "40": [
+   {
+    "email": "repreyesoda@capitol.hawaii.gov",
+    "name": "Julie Reyes Oda",
+    "party": "Republican",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=304"
+   }
+  ],
+  "41": [
+   {
+    "email": "repalcos@capitol.hawaii.gov",
+    "name": "David Alcos",
+    "party": "Republican",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=249"
+   }
+  ],
+  "42": [
+   {
+    "email": "repgarcia@capitol.hawaii.gov",
+    "name": "Diamond Garcia",
+    "party": "Republican",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=255"
+   }
+  ],
+  "43": [
+   {
+    "email": "repsouza@capitol.hawaii.gov",
+    "name": "Kanani Souza",
+    "party": "Republican",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=288"
+   }
+  ],
+  "44": [
+   {
+    "email": "repkila@capitol.hawaii.gov",
+    "name": "Darius Kila",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=266"
+   }
+  ],
+  "45": [
+   {
+    "email": "repmuraoka@capitol.hawaii.gov",
+    "name": "Chris Muraoka",
+    "party": "Republican",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=307"
+   }
+  ],
+  "46": [
+   {
+    "email": "repperruso@capitol.hawaii.gov",
+    "name": "Amy Perruso",
+    "party": "Democratic",
+    "url": "https://capitol.hawaii.gov/memberpage.aspx?member=perruso&year=2019"
+   }
+  ],
+  "47": [
+   {
+    "email": "repquinlan@capitol.hawaii.gov",
+    "name": "Sean Quinlan",
+    "party": "Democratic",
+    "url": "https://capitol.hawaii.gov/memberpage.aspx?member=quinlan&year=2019"
+   }
+  ],
+  "48": [
+   {
+    "email": "repkitagawa@capitol.hawaii.gov",
+    "name": "Lisa Kitagawa",
+    "party": "Democratic",
+    "url": "https://capitol.hawaii.gov/memberpage.aspx?member=Kitagawa&year=2019"
+   }
+  ],
+  "49": [
+   {
+    "email": "repmatayoshi@capitol.hawaii.gov",
+    "name": "Scot Matayoshi",
+    "party": "Democratic",
+    "url": "https://capitol.hawaii.gov/memberpage.aspx?member=Matayoshi&year=2019"
+   }
+  ],
+  "5": [
+   {
+    "email": "repkapela@capitol.hawaii.gov",
+    "name": "Jeann\u00e9 Kapela",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=71"
+   }
+  ],
+  "50": [
+   {
+    "email": "replee@capitol.hawaii.gov",
+    "name": "Mike Lee",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=305"
+   }
+  ],
+  "51": [
+   {
+    "email": "repmarten@capitol.hawaii.gov",
+    "name": "Lisa Marten",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=87"
+   }
+  ],
+  "6": [
+   {
+    "email": "repkahaloa@capitol.hawaii.gov",
+    "name": "Kirstin Kahaloa",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=264"
+   }
+  ],
+  "7": [
+   {
+    "email": "replowen@capitol.hawaii.gov",
+    "name": "Nicole Lowen",
+    "party": "Democratic",
+    "url": "https://capitol.hawaii.gov/memberpage.aspx?member=lowen&year=2019"
+   }
+  ],
+  "8": [
+   {
+    "email": "reptarnas@capitol.hawaii.gov",
+    "name": "David Tarnas",
+    "party": "Democratic",
+    "url": "https://capitol.hawaii.gov/memberpage.aspx?member=tarnas&year=2019"
+   }
+  ],
+  "9": [
+   {
+    "email": "repwoodson@capitol.hawaii.gov",
+    "name": "Justin Woodson",
+    "party": "Democratic",
+    "url": "https://capitol.hawaii.gov/memberpage.aspx?member=woodson&year=2019"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/hi.csv"
+ },
+ "state": "HI",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "seninouye@capitol.hawaii.gov",
+    "name": "Lorraine Inouye",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=181&year=2023"
+   }
+  ],
+  "10": [
+   {
+    "email": "senihara@capitol.hawaii.gov",
+    "name": "Les Ihara",
+    "party": "Democratic",
+    "url": "https://capitol.hawaii.gov/memberpage.aspx?member=ihara&year=2019"
+   }
+  ],
+  "11": [
+   {
+    "email": "senfukunaga@capitol.hawaii.gov",
+    "name": "Carol Fukunaga",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=168"
+   }
+  ],
+  "12": [
+   {
+    "email": "senmoriwaki@capitol.hawaii.gov",
+    "name": "Sharon Moriwaki",
+    "party": "Democratic",
+    "url": "https://capitol.hawaii.gov/memberpage.aspx?member=moriwaki&year=2019"
+   }
+  ],
+  "13": [
+   {
+    "email": "senrhoads@capitol.hawaii.gov",
+    "name": "Karl Rhoads",
+    "party": "Democratic",
+    "url": "https://capitol.hawaii.gov/memberpage.aspx?member=krhoads&year=2019"
+   }
+  ],
+  "14": [
+   {
+    "email": "senkim@capitol.hawaii.gov",
+    "name": "Donna Kim",
+    "party": "Democratic",
+    "url": "https://capitol.hawaii.gov/memberpage.aspx?member=kim&year=2019"
+   }
+  ],
+  "15": [
+   {
+    "email": "senwakai@capitol.hawaii.gov",
+    "name": "Glenn Wakai",
+    "party": "Democratic",
+    "url": "https://capitol.hawaii.gov/memberpage.aspx?member=wakai&year=2019"
+   }
+  ],
+  "16": [
+   {
+    "email": "senelefante@capitol.hawaii.gov",
+    "name": "Brandon Elefante",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=229"
+   }
+  ],
+  "17": [
+   {
+    "email": "sendelacruz@capitol.hawaii.gov",
+    "name": "Donovan Dela Cruz",
+    "party": "Democratic",
+    "url": "https://capitol.hawaii.gov/memberpage.aspx?member=delacruz&year=2019"
+   }
+  ],
+  "18": [
+   {
+    "email": "senbass@capitol.hawaii.gov",
+    "name": "Danielle Bass",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=313"
+   }
+  ],
+  "19": [
+   {
+    "email": "senlamosao@capitol.hawaii.gov",
+    "name": "Rachele Lamosao",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=270"
+   }
+  ],
+  "2": [
+   {
+    "email": "sensanbuenaventura@capitol.hawaii.gov",
+    "name": "Joy San Buenaventura",
+    "party": "Democratic",
+    "url": "https://capitol.hawaii.gov/memberpage.aspx?member=Sanbuenaventura&year=2019"
+   }
+  ],
+  "20": [
+   {
+    "email": "senfevella@capitol.hawaii.gov",
+    "name": "Kurt Fevella",
+    "party": "Republican",
+    "url": "https://capitol.hawaii.gov/memberpage.aspx?member=fevella&year=2019"
+   }
+  ],
+  "21": [
+   {
+    "email": "sengabbard@capitol.hawaii.gov",
+    "name": "Mike Gabbard",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=169"
+   }
+  ],
+  "22": [
+   {
+    "email": "sendecorte@capitol.hawaii.gov",
+    "name": "Samantha DeCorte",
+    "party": "Republican",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=308"
+   }
+  ],
+  "23": [
+   {
+    "email": "senawa@capitol.hawaii.gov",
+    "name": "Brenton Awa",
+    "party": "Republican",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=225"
+   }
+  ],
+  "24": [
+   {
+    "email": "senkeohokalole@capitol.hawaii.gov",
+    "name": "Jarrett Keohokalole",
+    "party": "Democratic",
+    "url": "https://capitol.hawaii.gov/memberpage.aspx?member=jkeohokalole&year=2019"
+   }
+  ],
+  "25": [
+   {
+    "email": "senlee@capitol.hawaii.gov",
+    "name": "Chris Lee",
+    "party": "Democratic",
+    "url": "https://capitol.hawaii.gov/memberpage.aspx?member=clee&year=2019"
+   }
+  ],
+  "3": [
+   {
+    "email": "senkanuha@capitol.hawaii.gov",
+    "name": "Dru Kanuha",
+    "party": "Democratic",
+    "url": "https://capitol.hawaii.gov/memberpage.aspx?member=kanuha&year=2019"
+   }
+  ],
+  "4": [
+   {
+    "email": "senrichards@capitol.hawaii.gov",
+    "name": "Tim Richards",
+    "party": "Democratic",
+    "url": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=244"
+   }
+  ],
+  "5": [
+   {
+    "email": "senhashimoto@capitol.hawaii.gov",
+    "name": "Troy Hashimoto",
+    "party": "Democratic",
+    "url": "https://capitol.hawaii.gov/memberpage.aspx?member=hashimoto&year=2019"
+   }
+  ],
+  "6": [
+   {
+    "email": "senmckelvey@capitol.hawaii.gov",
+    "name": "Angus McKelvey",
+    "party": "Democratic",
+    "url": "https://capitol.hawaii.gov/memberpage.aspx?member=mckelvey&year=2019"
+   }
+  ],
+  "7": [
+   {
+    "email": "sendecoite@capitol.hawaii.gov",
+    "name": "Lynn DeCoite",
+    "party": "Democratic",
+    "url": "https://capitol.hawaii.gov/memberpage.aspx?member=decoite&year=2019"
+   }
+  ],
+  "8": [
+   {
+    "email": "senkouchi@capitol.hawaii.gov",
+    "name": "Ron Kouchi",
+    "party": "Democratic",
+    "url": "https://capitol.hawaii.gov/memberpage.aspx?member=kouchi&year=2019"
+   }
+  ],
+  "9": [
+   {
+    "email": "senchang@capitol.hawaii.gov",
+    "name": "Stanley Chang",
+    "party": "Democratic",
+    "url": "https://capitol.hawaii.gov/memberpage.aspx?member=chang&year=2019"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

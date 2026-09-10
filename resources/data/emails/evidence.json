@@ -1,0 +1,602 @@
+[
+  {
+    "id": "evidence-001",
+    "angle": "evidence",
+    "subject": "Looking for the goal these campus readers were meant to meet",
+    "body": "Dear {{officialName}},\n\nEvery system installed with public money was sold on a promise about what it would accomplish, and the promise is usually written down somewhere. What worries me about the automated license plate readers near {{school}} is that I have not been able to find where.\n\nAs a student here, my question is narrow. I would be grateful if you could point me to the document stating the goal these cameras were meant to achieve around {{shortName}}, the measure that would show whether the goal was met, and the office responsible for checking. Should no such document exist, that is an answer too, and it would mean the {{readersWithinMile}} readers within a mile of campus went up without a standard to meet.\n\nAbsent that, I would like to see them come down, with no new ones installed. Where was the goal recorded?"
+  },
+  {
+    "id": "evidence-002",
+    "angle": "evidence",
+    "subject": "Wondering what {{city}} actually measures about these readers",
+    "body": "Dear {{officialName}},\n\nMeasurement is the part of this that seems to get skipped. Surveillance equipment arrives, a statement explains the reasoning, and then years pass without a single published figure about what the equipment did.\n\nI am a student at {{shortName}}, and what I would like to know is what {{city}} tracks. How many alerts do the readers near campus generate in a year, and how many of those turn out to involve the vehicle the system thought it saw? Is that written down anywhere the public can read it? A count produced by the company selling the hardware feels closer to marketing than to evaluation, though I would be glad to hear an argument that it is more.\n\nUntil someone with no stake in selling them can show the {{readersWithinMile}} readers work, I would like them taken out and none added. What performance reporting reaches your office?"
+  },
+  {
+    "id": "evidence-003",
+    "angle": "evidence",
+    "subject": "Hoping renewal can wait for published results",
+    "body": "Dear {{officialName}},\n\nContracts tend to renew quietly, and that is how a program can run for years without ever being asked to show its work. The plate readers around {{school}} worry me for exactly that reason.\n\nBefore anything is renewed, I hope you will ask the vendor and your own staff for outcome data: what the system was supposed to change, and whether any comparison shows that it did. Testimonials or a handful of selected incidents would not be an evaluation, and I would not want to see them accepted as one.\n\nIf no such record turns up, the course that makes sense to me is to let the contract lapse, pull the {{readersWithinMile}} readers within a mile of {{shortName}}, and add none. I am one student writing on my own. Would you consider withholding your vote on renewal until outcome data is published?"
+  },
+  {
+    "id": "evidence-004",
+    "angle": "evidence",
+    "subject": "The error rate {{city}} treats as acceptable",
+    "body": "Dear {{officialName}},\n\nEvery detection system has an error rate. Plates get misread, records go stale, and a car that has done nothing gets flagged. That is not a criticism of anyone, just how pattern matching works, which is why I would like to know what rate {{city}} treats as acceptable and who settled on it.\n\nThe part that troubles me most is who carries the consequence when a match is wrong. A driver stopped at the roadside carries it. The agency acting on a bad read generally does not.\n\nIf nobody can state the error rate or name the threshold at which the program would stop, then the {{readersWithinMile}} readers around {{shortName}} are running without a standard, and I would rather see them removed than expanded, with no new ones installed. As a student here, I would be grateful for the figure and for wherever it is recorded."
+  },
+  {
+    "id": "evidence-005",
+    "angle": "evidence",
+    "subject": "Was a baseline recorded before the cameras went up",
+    "body": "Dear {{officialName}},\n\nA program cannot really be evaluated against nothing. What worries me is that if no baseline was recorded before the plate readers went in near {{shortName}}, then anything claimed for them afterward is a story rather than a finding, because there is no before to hold the after against.\n\nSo I would like to ask: was a baseline taken? Has any comparison been made between areas covered by readers and areas that are not? Was the system ever switched off anywhere in {{state}} long enough to see what changed?\n\nThose are the questions an evaluation would have to answer, and as a student trying to follow this, I cannot find that any of them were asked. Until they are, I would like the {{readersWithinMile}} readers around campus removed and no more installed. Which of those comparisons exists?"
+  },
+  {
+    "id": "evidence-006",
+    "angle": "evidence",
+    "subject": "The denominator behind any hit rate figure",
+    "body": "Dear {{officialName}},\n\nHit rates mean very little without the number underneath them. A quantity of alerts says nothing about how many plates were read to produce them, or what happened after each alert reached an officer.\n\nWould you consider asking for the full picture for the readers within a mile of {{shortName}}: total plates scanned, alerts generated, alerts that survived verification, and outcomes attributable to those alerts? If the reporting does not exist in that form, I would rather be told so plainly than pointed toward a vendor page.\n\nWithout those counts, I do not see how anyone can tell whether the {{readersWithinMile}} devices near campus are doing anything worth the exposure they create. That is why I would like them removed, with no new installation anywhere around the school. I am a student at {{school}}, and I would be grateful if the full set of counts could be released."
+  },
+  {
+    "id": "evidence-007",
+    "angle": "evidence",
+    "subject": "Whether anyone independent has reviewed this program",
+    "body": "Dear {{officialName}},\n\nEvaluation by the seller is not really evaluation. Vendors report the metrics that flatter the product, and no company publishes the figure that would end its own contract.\n\nWhat I would like to know is whether anyone independent has looked at the plate readers operating around {{school}}. An auditor or an inspector general, someone whose conclusion could be inconvenient. If such a review exists, I would genuinely like to read it. Where it does not, the program has never been tested, and that is the part that worries me.\n\nUntested systems seem like a poor thing to keep running over a campus. I would like the {{readersWithinMile}} readers within a mile of {{shortName}} taken down and no others put up until an independent review says they earn their place. One student asking is not much, I realize. Has any such review been commissioned?"
+  },
+  {
+    "id": "evidence-008",
+    "angle": "evidence",
+    "subject": "Hoping for a sunset clause tied to published results",
+    "body": "Dear {{officialName}},\n\nSurveillance contracts almost never end on their own. Once the hardware is mounted and the data is flowing, removal takes a decision nobody is obliged to make, so the equipment simply stays. That inertia is what bothers me here.\n\nA sunset clause would fix it. If a next agreement is written for the plate readers near {{shortName}}, I hope you will support language switching them off on a fixed schedule unless {{city}} has by then published a measurement of what they accomplished and a comparison with the period before they existed. Continuation would become the thing requiring justification.\n\nMy own preference is plainer. As a student at {{school}}, I would like the {{readersWithinMile}} readers around campus pulled now and none installed, since that justification has not appeared. Failing that, would you back a hard expiry that only evidence can extend?"
+  },
+  {
+    "id": "evidence-009",
+    "angle": "evidence",
+    "subject": "Asking for whatever analysis preceded the reader vote",
+    "body": "Dear {{officialName}},\n\nSomething must have been put in front of the decision makers before these cameras were approved. A staff report, or a vendor presentation with figures attached. Whatever it was, I would like a copy of the part that addressed effectiveness.\n\nWhat I am really after is the section saying how anyone would know afterward whether the money did what it was meant to do. That is the part that tends to be missing, and its absence is why a program can run for years around {{school}} with no verdict ever reached. It worries me more than the cameras themselves.\n\nIf your office can locate the document, I would be grateful for it. Should it contain no measurement plan, I would like the {{readersWithinMile}} readers near {{shortName}} removed and no new ones added. A student asking is not much, but I am asking."
+  },
+  {
+    "id": "evidence-010",
+    "angle": "evidence",
+    "subject": "Following one alert from the camera to an outcome",
+    "body": "Dear {{officialName}},\n\nTracing a single alert all the way through would tell me more than any brochure. A camera flags a plate. An officer receives the flag. Then what? Somewhere there should be a record of how often that chain ends in a confirmed match and how often it ends in nothing.\n\nDoes {{city}} keep that record for the readers around {{shortName}}, and does anyone review it? What concerns me is that if the chain is not tracked end to end, the department cannot know whether the system helps, and neither can you.\n\nOn that basis I would like the {{readersWithinMile}} readers near campus removed, with no replacements installed. I am a student here and I would rather be persuaded by data than argue in the dark, so please tell me what tracking exists. Even a short reply would help."
+  },
+  {
+    "id": "evidence-011",
+    "angle": "evidence",
+    "subject": "Counting the wrong matches as well as the right ones",
+    "body": "Dear {{officialName}},\n\nPrograms tend to count their successes and lose track of their failures. That asymmetry is how a system can look effective while nobody knows its actual accuracy, and it is the thing I keep coming back to.\n\nThe question I have not been able to answer about the readers near {{school}} is whether {{city}} logs the alerts that turn out to be wrong, and whether that log is published alongside whatever success figures get quoted. A count of one without the other is not really a performance record.\n\nPeople stopped over a bad read carry the cost of that gap. Since it is still open, I would like the {{readersWithinMile}} readers around {{shortName}} taken down and none installed in their place. As a student here, I would be grateful if you would ask for the error log to be published."
+  },
+  {
+    "id": "evidence-012",
+    "angle": "evidence",
+    "subject": "Comparing places with these cameras against places without",
+    "body": "Dear {{officialName}},\n\nThe comparison that would settle this is between places and periods with the technology and those without it, worked through by someone competent to do the arithmetic. Year over year totals do not answer the question.\n\nHas such a comparison been run anywhere in {{state}}, with its methods published? If it has, I would honestly like to read it, because it would end an argument I am tired of having. Where nothing like it exists, the {{readersInState}} readers now operating across the state, including the {{readersWithinMile}} near {{shortName}}, are an untested intervention deployed at scale, and that is what worries me.\n\nUntested things should not become permanent. I am a student at {{school}}, and I would like the readers around campus removed and new installations held off until that comparison is done and made public. Where does it stand?"
+  },
+  {
+    "id": "evidence-013",
+    "angle": "evidence",
+    "subject": "Why the reader program publishes no routine counts",
+    "body": "Dear {{officialName}},\n\nOther {{city}} functions publish their numbers as routine. Budgets and response times end up on a website where anyone can check them. Surveillance equipment somehow escapes that expectation, which strikes me as odd, since it is the purchase most likely to need public confidence.\n\nWould you back a requirement that the plate reader program report on a regular schedule: scan volume, alert volume, confirmed matches, and errors found after the fact? No individual plates and no personal data, just the counts that show whether the thing works.\n\nI am a student at {{shortName}}, and my view is that the {{readersWithinMile}} readers near campus should be removed with no new ones installed. The absence of any such reporting is a large part of why I hold it. Do you support publishing the counts, and would you say so on the record?"
+  },
+  {
+    "id": "evidence-014",
+    "angle": "evidence",
+    "subject": "What finding would change your mind about these readers",
+    "body": "Dear {{officialName}},\n\nHere is a test I try to apply to anything I am asked to support: can its defenders name the finding that would change their minds? If nothing could, the position is faith rather than policy, and that is where I worry this program sits.\n\nSo I would like to ask you plainly about the plate readers around {{school}}. What outcome, arriving in what document, would lead you to vote for taking them down? A hit rate below some level? Silence from the department when it is asked for figures?\n\nMy own answer is that the standard was never set, which is why I would like the {{readersWithinMile}} readers near {{shortName}} removed and none added. I am one student with one letter. Tell me the finding that would move you and I will go looking for it."
+  },
+  {
+    "id": "evidence-015",
+    "angle": "evidence",
+    "subject": "Whether the reader trial ever reached a conclusion",
+    "body": "Dear {{officialName}},\n\nPilots are supposed to end with a judgment. Equipment goes in, a period passes, someone writes down whether the thing did what was promised, and the decision to continue rests on that write up.\n\nDid the plate readers near {{shortName}} go through anything like that, or did a trial quietly become permanent because no review was scheduled? The distinction matters to me. A pilot that never concluded is an installation with better paperwork.\n\nI would be grateful to know which it was, and if a concluding report exists, to be sent it. Where there is none, I would ask you to treat the program as unproven, remove the {{readersWithinMile}} readers within a mile of campus, and install no new ones. Writing as a student at {{school}}, I would rather see the review than guess at it. What did it conclude?"
+  },
+  {
+    "id": "evidence-016",
+    "angle": "evidence",
+    "subject": "Which figures came from {{city}} and which from the vendor",
+    "body": "Dear {{officialName}},\n\nWhen the company selling the cameras also supplies the statistics about the cameras, the arrangement gives me pause. Marketing material has a job, and accuracy is not quite the job.\n\nCould you tell me which figures about the readers around {{school}} originate with {{city}} and which arrive from the vendor? If everything your office knows about performance came in a slide deck from a sales team, then the public record holds no independent evidence at all, and that is the part I find hard to sit with.\n\nIt matters for the decision in front of you. Without independent measurement, I would like the {{readersWithinMile}} readers near {{shortName}} taken down and no new units approved, since there is nothing to weigh against the cost and the exposure. I am a student here. Which performance claims has {{city}} verified on its own?"
+  },
+  {
+    "id": "evidence-017",
+    "angle": "evidence",
+    "subject": "Whether the contract itself requires any outcome reporting",
+    "body": "Dear {{officialName}},\n\nReporting requirements that live in a resolution get forgotten. Written into a contract, with payment attached, they tend not to be.\n\nIf the plate reader agreement covering {{shortName}} comes back to you in any form, I hope you will look for the clause obliging the vendor and the department to produce outcome data on a schedule. My guess is that no such clause is there, since these agreements are usually drafted to protect the seller from that kind of scrutiny, and I would be glad to be wrong about it.\n\nGiven the likely absence, what I would like is for the arrangement to end, the {{readersWithinMile}} readers around campus removed, with no new ones installed while effectiveness stays an open question. As a student at {{school}}, I would be grateful if you would check the contract language and tell me what it requires."
+  },
+  {
+    "id": "evidence-018",
+    "angle": "evidence",
+    "subject": "Which office is responsible for judging whether these work",
+    "body": "Dear {{officialName}},\n\nAccountability questions about this program seem to bounce. Ask the department and it points at the contract; ask the vendor and it points back at the department. Meanwhile {{readersWithinMile}} plate readers keep running within a mile of {{school}} and I cannot find who owns the judgment about whether they work.\n\nCould you name that office? The one that evaluates, rather than the one that operates. A name and a title would be enough, and would settle something that has taken me weeks to chase.\n\nShould the answer be that no such office exists, then the program has no evaluator, and equipment with no evaluator seems like the wrong thing to point at a campus. I would like the readers near {{shortName}} removed and no new ones approved. Writing as a student here, I am asking rather than instructing. Who holds the assessment?"
+  },
+  {
+    "id": "evidence-019",
+    "angle": "evidence",
+    "subject": "The share of cases these readers actually turn on",
+    "body": "Dear {{officialName}},\n\nA department will occasionally point to a case that a plate reader helped close. One case is an anecdote. The figure that would be useful is the share of investigations in which a reader made the difference, set against everything the system collects along the way.\n\nDoes {{city}} produce that figure for the readers near {{shortName}}? Is it separated from cases that would have closed by ordinary means? Nobody I have asked can point me to it, and after this many years of operation the gap is what unsettles me.\n\nUntil the share is known and published, I would ask you to support removing the {{readersWithinMile}} readers around campus and declining new ones. Speaking as a student at {{school}}, I would still like to hear what proportion of cases your office believes these devices affect, and on what basis."
+  },
+  {
+    "id": "evidence-020",
+    "angle": "evidence",
+    "subject": "How often a wrong read reaches an actual driver",
+    "body": "Dear {{officialName}},\n\nAccuracy questions get treated as technical, but they land on people, and the person is rarely the one who chose to buy the equipment. That is what bothers me.\n\nA driver flagged by mistake near {{school}} deals with the stop and with being treated as a suspect until it is sorted out. So the measurement I would like from {{city}} is simple: how often does that happen, and can the person affected ever learn that a machine was the reason?\n\nAs far as I can tell, no answer to either question has been published. While that holds, I would like the {{readersWithinMile}} readers within a mile of {{shortName}} removed and no others installed. I am a student here rather than anyone official, and I would be grateful if you could get me whatever error reporting exists."
+  },
+  {
+    "id": "evidence-021",
+    "angle": "evidence",
+    "subject": "A review with a date attached, if you would move for one",
+    "body": "Dear {{officialName}},\n\nPromises to review a program later have a way of dissolving. What survives is a date on a calendar and a named person expected to arrive with findings.\n\nWould you move for exactly that on the plate readers around {{shortName}}? A deadline, assigned work, a definition set in advance of what the report has to contain, and continuation of the contract made to depend on it arriving. Vagueness at this stage is what produces another decade of operation with no verdict, and that prospect worries me.\n\nWhere I stand is simpler. As a student at {{school}}, I would like the {{readersWithinMile}} readers within a mile of campus removed now and none installed, because the case for them was never shown. If you see it differently, a review would at least be something. Would you put a date on it?"
+  },
+  {
+    "id": "evidence-022",
+    "angle": "evidence",
+    "subject": "Deterrence is a claim somebody could actually test",
+    "body": "Dear {{officialName}},\n\nDeterrence is usually the reason offered for cameras, and it is a real hypothesis, which means someone can check it. Fewer incidents in covered areas relative to comparable uncovered ones, sustained over time, with the analysis published. That is what testing the claim would look like.\n\nHas anything of the sort been done for the readers near {{school}}? You need not accept my view of how it would come out. What I am asking is only whether the work was ever attempted by anyone in {{city}} or {{state}}.\n\nAn untested claim seems like a thin thing to hang a contract on. I would like the {{readersWithinMile}} readers around {{shortName}} removed and none added while the question sits open. As a student here, I would be glad to be pointed toward testing I have missed."
+  },
+  {
+    "id": "evidence-023",
+    "angle": "evidence",
+    "subject": "Telling a real reduction apart from simple displacement",
+    "body": "Dear {{officialName}},\n\nSuppose activity does drop in a covered area. The next question is whether it dropped overall or moved somewhere the cameras are not. Those two outcomes look identical if you count only inside the covered zone, and they mean opposite things for public safety.\n\nHas anyone in {{city}} run the numbers in a way that could tell them apart around {{shortName}}? Measurement that cannot distinguish a reduction from a relocation is not measurement I would want quoted at me, and I have not found any that can.\n\nBecause of that, my ask is the straightforward one: I would like the {{readersWithinMile}} readers near campus removed and no further installations approved until someone shows the work. Writing as a student at {{school}}, I would genuinely like to know whether any analysis in your files addresses displacement."
+  },
+  {
+    "id": "evidence-024",
+    "angle": "evidence",
+    "subject": "Whether the stated reason has shifted since the purchase",
+    "body": "Dear {{officialName}},\n\nThe rationale for a surveillance system tends to shift over time. Stolen vehicles at first, then missing persons, then whatever recent event is in the news. A justification that adapts to circumstances starts to look more like a habit than a reason, and that is my worry here.\n\nSo I would like the original stated purpose for the readers around {{school}}, in the words used when the money was approved, and the measure attached to it. Then I would like to know whether that measure was ever reported against.\n\nMy guess is that the purpose has been restated more often than it has been evaluated. Should that guess be right, I would like the {{readersWithinMile}} readers near {{shortName}} removed and no new ones added. I am a student here, and I would be grateful if you could send the original language."
+  },
+  {
+    "id": "evidence-025",
+    "angle": "evidence",
+    "subject": "Activity numbers are not the same as outcome numbers",
+    "body": "Dear {{officialName}},\n\nThere is a difference between counting what a machine did and counting what changed because of it. Scan totals and uptime describe activity. Whether anyone is safer is an outcome, and only the second kind of number justifies the spending.\n\nWhich kind does {{city}} collect about the readers near {{shortName}}? If the answer is activity, then the program is reporting its own busyness back to you, and busyness is available from any device that is switched on. That is the piece I find hardest to get past.\n\nOutcome reporting or removal seems like a fair choice to me. Since the outcome reporting does not appear to exist, I am asking you to support taking the {{readersWithinMile}} readers off the poles around campus and installing no more. I am a student at {{school}}. Which measures reach your desk?"
+  },
+  {
+    "id": "evidence-026",
+    "angle": "evidence",
+    "subject": "Where the burden of showing this works should sit",
+    "body": "Dear {{officialName}},\n\nResidents keep being asked to prove that the cameras are harmful, and that seems backwards to me. A public body that installs equipment to watch people is the party that owes a demonstration, and the demonstration should have arrived before the mounting brackets did.\n\nFor the readers around {{shortName}}, has that demonstration ever been made in public, with figures anyone can check? Not a statement of belief from the department, and not a case study chosen by the vendor. An actual accounting.\n\nWhere the burden has not been met, I do not think the equipment should stay up. I would like the {{readersWithinMile}} readers within a mile of campus removed and new ones turned down. If you believe the burden has been met, point me to the document and I will read it carefully, as a student who would rather be corrected than left guessing."
+  },
+  {
+    "id": "evidence-027",
+    "angle": "evidence",
+    "subject": "How often the underlying lists are checked for accuracy",
+    "body": "Dear {{officialName}},\n\nA plate reader is only as good as the list it checks against. When a record is out of date, the camera does not know that. It produces an alert with the same confidence it would give a genuine match, and somebody acts on it.\n\nHow often does {{city}} audit the accuracy of the lists feeding the readers near {{school}}, and are the results of those audits written down anywhere I could read? A system whose input quality is unmeasured cannot have a known output quality, and that is the gap that worries me.\n\nWithout those audits I find it hard to see the case for keeping the {{readersWithinMile}} devices around {{shortName}} in service, so I would like them removed with no replacements installed. As a student here, I would be grateful to know how often the underlying data is checked."
+  },
+  {
+    "id": "evidence-028",
+    "angle": "evidence",
+    "subject": "Whether anyone audits how the database gets searched",
+    "body": "Dear {{officialName}},\n\nEvery justification offered for this technology assumes it is used the way the policy says. Whether that assumption holds is an empirical question, and audit logs would answer it.\n\nDoes {{city}} audit who searches the plate reader database and for what stated reason? Are the results reported to you, or to anyone outside the department? A policy that is never audited works as a suggestion, and I would rather not rely on one.\n\nWith no effectiveness data and no usage auditing, there is nothing on the scale except the exposure. On that basis I would like the {{readersWithinMile}} readers near {{shortName}} removed and none installed in their place. I am a student at {{school}} and I am asking rather than telling. What auditing exists, and who gets to see it?"
+  },
+  {
+    "id": "evidence-029",
+    "angle": "evidence",
+    "subject": "Does the case system record when a reader helped",
+    "body": "Dear {{officialName}},\n\nSomething that sounds technical decides the whole argument. Does the case management system used in {{city}} have a field recording when a plate reader contributed to an outcome? Without one, any claim about the value of the program is reconstructed afterward from memory, which is a fragile thing to build a contract on.\n\nIf the field exists, counts can be produced on request, and I would like them for the area around {{shortName}}. Where it is missing, nobody can honestly say the readers have helped, whatever they believe.\n\nEither way the answer should be easy to give. Pending it, I would like the {{readersWithinMile}} readers near campus to come down with no new ones going up. I am a student here, and a single line telling me whether that field exists would help more than you might expect."
+  },
+  {
+    "id": "evidence-030",
+    "angle": "evidence",
+    "subject": "The ratio of alerts to confirmed matches",
+    "body": "Dear {{officialName}},\n\nOne ratio would tell me most of what I want to know: alerts generated per confirmed match, for the readers operating around {{school}}. Heavy noise means officers learn to discount the alerts, which makes a system useless in a different way than being wrong does.\n\nDoes {{city}} calculate that ratio, and has anyone tracked whether it improved or worsened since installation? Those are the sort of figures I would expect a serious program to keep as a matter of course, and their absence is what concerns me.\n\nIf they are not kept, I would like the {{readersWithinMile}} readers near {{shortName}} removed with nothing installed to replace them. Writing as a student here, I would rather hear that the ratio has never been computed than hear nothing at all. Could you find out either way?"
+  },
+  {
+    "id": "evidence-031",
+    "angle": "evidence",
+    "subject": "Whether any results have crossed your desk",
+    "body": "Dear {{officialName}},\n\nA direct question, and I hope a fair one to put to someone serving as {{officialTitle}}. In your time in the role, has anybody placed performance data about the plate readers in front of you? Not a briefing about capability. Results.\n\nVotes on this equipment tend to happen quickly, on the assurance that the technology is standard practice elsewhere. Standard practice is not evidence. Other places buying the same product tells you about sales rather than outcomes.\n\nIf no results have reached you, then the approval rested on trust, and that seems to me like reason enough to stop. I would like the {{readersWithinMile}} readers around {{shortName}} removed and no more approved. As a student at {{school}}, I would genuinely like to know what you have been shown."
+  },
+  {
+    "id": "evidence-032",
+    "angle": "evidence",
+    "subject": "Nobody seems to have added up what {{state}} received",
+    "body": "Dear {{officialName}},\n\nAcross {{state}} there are roughly {{readersInState}} of these cameras logging vehicles, and as far as I can determine, no office has ever compiled what the whole network produced. Individual agencies buy them and move on. Nobody sums it, and that strikes me as a strange thing to leave undone.\n\nIt seems like a gap worth closing before another installation is approved. Would you consider asking whoever holds the authority to gather the figures statewide: what was promised, and how delivery was measured against it?\n\nMeanwhile I would like the {{readersWithinMile}} readers near {{shortName}} taken down, with none added, because a share of an unmeasured whole is still unmeasured. I am a student here. Do you know of any statewide accounting, and if there is none, would you request one?"
+  },
+  {
+    "id": "evidence-033",
+    "angle": "evidence",
+    "subject": "An evaluation plan in writing before further spending",
+    "body": "Dear {{officialName}},\n\nSuppose the readers stay for now. The minimum condition I would hope for is a written evaluation plan produced before the next payment: the question to be answered, the data to be collected, the comparison to be made, and the date the answer is due.\n\nNothing of that kind appears in the public record for the cameras around {{school}}, which is why the argument about them never resolves. Each side asserts and nobody measures, and I find that more frustrating than either position.\n\nMy own view has not moved. As a student at {{shortName}}, I would like the {{readersWithinMile}} readers near campus removed and no new ones installed, since years of operation have produced no evaluation at all. Short of that, would you press for a written plan with a due date before more money is committed?"
+  },
+  {
+    "id": "evidence-034",
+    "angle": "evidence",
+    "subject": "Switching them off for a period and comparing",
+    "body": "Dear {{officialName}},\n\nHere is a suggestion that would cost nothing. Switch the plate readers around {{shortName}} off for a defined period, keep collecting the data your agencies already gather, then compare. If the readers matter, the comparison would show it and the program would finally have something to stand on.\n\nI notice that reluctance to run such a test would itself say something. A program confident in its results usually welcomes the chance to show them.\n\nMy preference is removal outright, since the {{readersWithinMile}} cameras near campus went up without a standard to meet and none has been applied since. I would like them gone and no new ones installed. A measured shutdown would at least generate evidence. As a student at {{school}}, I would like to know whether you could support either option."
+  },
+  {
+    "id": "evidence-035",
+    "angle": "evidence",
+    "subject": "What else the same money was weighed against",
+    "body": "Dear {{officialName}},\n\nBudget decisions are comparative by nature. Money going to camera contracts is money not going to lighting or staffing or anything else that could be tested against the same goal, and I would expect that comparison to be made openly rather than assumed.\n\nWas any such comparison performed before the readers went up near {{school}}? Did anyone ask what else the money could buy, and what evidence supported each option? A file holding one option at one price does not really record a decision, and I am afraid that is what the file contains.\n\nUntil the comparison exists on paper, I would like the {{readersWithinMile}} readers around {{shortName}} removed and no further units added. I am a student here. Could you tell me what alternatives were weighed, and by whom?"
+  },
+  {
+    "id": "evidence-036",
+    "angle": "evidence",
+    "subject": "When your body last received anything in writing",
+    "body": "Dear {{officialName}},\n\nOversight that receives no reports is oversight in name only. Whatever body approved these cameras ought to be getting something regular about them, and if it is not, the approval was effectively permanent from the first day. That is the part that worries me.\n\nDoes the plate reader program in {{city}} report to you on any schedule? What does the report contain, and does anyone move to accept or reject it? I would like to read the most recent one covering the area around {{shortName}}.\n\nWhere no reports arrive, there is no oversight, and equipment without oversight seems like the wrong thing to have watching a campus. I would like the {{readersWithinMile}} readers removed and no others installed. Speaking as a student at {{school}}, I would like to know: when did your body last receive anything about this?"
+  },
+  {
+    "id": "evidence-037",
+    "angle": "evidence",
+    "subject": "Whether the sales claims were checked before purchase",
+    "body": "Dear {{officialName}},\n\nProcurement usually includes a step where claims get verified. References are called and deliverables are defined. Whether that happened here is the thing I cannot determine from outside, and not knowing is why I am writing.\n\nWhen the plate readers now near {{shortName}} were bought, did anyone in {{city}} test the effectiveness claims made by the vendor against independent information, or were the claims taken as given? A record of that step would settle it for me.\n\nIf no such record exists, the reading I am left with is that the {{readersWithinMile}} devices around campus were purchased on assertion alone, and I would like them removed with no new ones approved. Writing as a student at {{school}}, I would be grateful to know what verification took place and whether it was documented."
+  },
+  {
+    "id": "evidence-038",
+    "angle": "evidence",
+    "subject": "Writing down what failure would look like here",
+    "body": "Dear {{officialName}},\n\nSuccess criteria get discussed occasionally. Failure criteria almost never do, and they are the more useful half, because a program that cannot fail cannot be evaluated.\n\nWhat would failure look like for the plate readers around {{school}}? Put it in terms someone could check: a hit rate under a stated level, or a year without a documented contribution to any case. Setting the threshold down before the data arrives is what stops it from being adjusted afterward to fit, and I would like to see that done.\n\nSince no such threshold appears to exist, the program cannot really be judged, and I would rather it did not continue on that footing. I would like the {{readersWithinMile}} readers near {{shortName}} taken out and none installed. My standing here is only that of a student. Would you propose a written failure standard?"
+  },
+  {
+    "id": "evidence-039",
+    "angle": "evidence",
+    "subject": "What share of scanned vehicles concerns anyone at all",
+    "body": "Dear {{officialName}},\n\nThe readers photograph every vehicle that passes, then check each one. What share of those vehicles turns out to be connected to anything? That ratio is the honest description of how the program treats the public around {{school}}, and it must be derivable from the logs.\n\nCould {{city}} publish it for the readers near campus? No plates and no identifying details, just the proportion. Where the proportion is small, the case for collecting everything has to rest on something besides efficiency, and I would like to hear what.\n\nMy request holds either way. I would like the {{readersWithinMile}} readers around {{shortName}} removed and no new ones put up. As a student here I have no standing beyond this letter, but I would be grateful if you would request the figure."
+  },
+  {
+    "id": "evidence-040",
+    "angle": "evidence",
+    "subject": "Complaints about reader stops would be data worth counting",
+    "body": "Dear {{officialName}},\n\nWhen a stop goes wrong because of a machine, the complaint that follows is a data point. Gathered over time, complaints are one of the few outside checks on a system that otherwise reports on itself.\n\nDoes {{city}} tag complaints involving a plate reader alert, and does anything summarize them for your body? Where complaints are recorded without that tag, failures dissolve into general paperwork and the pattern never becomes visible. That is the part I find worrying.\n\nWith no effectiveness data and no failure tracking either, the course I would choose is removal of the {{readersWithinMile}} readers around {{shortName}} with no new installations. I am a student at {{school}}, writing for myself. Would you ask for complaints involving reader alerts to be counted separately and reported?"
+  },
+  {
+    "id": "evidence-041",
+    "angle": "evidence",
+    "subject": "What a closing report on this program would say",
+    "body": "Dear {{officialName}},\n\nImagine the contract ends tomorrow and somebody has to write the closing summary of what the plate readers around {{shortName}} achieved. What would go in it? My suspicion is that the page would be mostly adjectives, because the counts that would fill it were never collected.\n\nThat thought is really the whole of my concern. A program unable to describe its own results at the end could not have been managed toward results at any point along the way.\n\nSo my ask is direct. I would like the {{readersWithinMile}} readers near campus removed and no new installations approved. Where you think the closing summary would be full of substance, send me the material that would fill it and I will read it and reconsider. I am a student at {{school}} and I would rather change my mind than be right."
+  },
+  {
+    "id": "evidence-042",
+    "angle": "evidence",
+    "subject": "What assisted in an investigation is taken to mean",
+    "body": "Dear {{officialName}},\n\nDepartments describe plate readers as having assisted in investigations. That phrase covers everything from a query that broke a case to a query that returned nothing and was logged anyway. Without a definition, the count means whatever its reader wants it to mean, and the vagueness is what troubles me.\n\nHow does {{city}} define assistance when describing what the readers near {{school}} do, and does the definition separate a decisive contribution from a routine database check? A published definition, followed by published counts under it, would let people argue about the same thing for once.\n\nUntil that happens I would like the {{readersWithinMile}} readers around {{shortName}} removed and no new ones installed. I am a student here. Would you ask for the definition and the counts to be released together?"
+  },
+  {
+    "id": "evidence-043",
+    "angle": "evidence",
+    "subject": "Whether accuracy has been checked in bad conditions",
+    "body": "Dear {{officialName}},\n\nAny optical system performs differently in poor light and bad weather. That is not a criticism of the technology, only physics, and it means a single accuracy figure quoted by a vendor cannot describe how the equipment behaves across a real year.\n\nHas the performance of the readers near {{shortName}} been checked under the range of conditions they actually work in, by anyone other than the manufacturer? Are those results available to the public? I have not found them, and their absence is what prompts this letter.\n\nAn unverified accuracy claim is an assumption that somebody on the receiving end of a wrong alert pays for. I would like the {{readersWithinMile}} readers around campus taken down and no more installed. As a student at {{school}}, I would be grateful to hear what independent testing has been done."
+  },
+  {
+    "id": "evidence-044",
+    "angle": "evidence",
+    "subject": "What analysis decided where these cameras were placed",
+    "body": "Dear {{officialName}},\n\nPlacement decisions ought to leave a trail. Someone picked the spots where the {{readersWithinMile}} cameras near {{shortName}} now sit, and presumably had a reason, whether that reason was analysis or convenience or a site survey from the vendor.\n\nCould you find out which it was and tell me? Alongside it, I would like to know whether anyone has gone back since to check whether the chosen locations produced what was expected of them. Placement without review is guesswork that hardened, and I would rather learn that is not what happened here.\n\nMy request does not change with the answer, though the answer matters to me. What I would like is the readers around campus removed and nothing new approved. I am a student at {{school}}. What analysis supported the siting, and has it been revisited?"
+  },
+  {
+    "id": "evidence-045",
+    "angle": "evidence",
+    "subject": "How many alerts get any human review at all",
+    "body": "Dear {{officialName}},\n\nAlerts arriving faster than anyone can act on them turn a system into a queue rather than a benefit. Whether that describes the plate reader operation in {{city}} is a measurable question, and I would expect someone to have measured it.\n\nHow many alerts arrive from the readers near {{school}} in a typical week, and what share of them receive any human review? Those figures sit inside the software already. They simply have not been shared, which is the frustrating part.\n\nShould it turn out that most alerts are never looked at, the argument for keeping {{readersWithinMile}} devices around {{shortName}} falls away without anyone needing to debate privacy at all. Removing them, with no new ones installed, is what I would like. I am a student here. What does the handling data show?"
+  },
+  {
+    "id": "evidence-046",
+    "angle": "evidence",
+    "subject": "Whether the contract guarantees any level of performance",
+    "body": "Dear {{officialName}},\n\nCities buying equipment normally sign agreements saying what the equipment must do. Uptime, accuracy, remedies if the supplier falls short. Whether the plate reader agreement covering {{shortName}} contains anything of that kind is something I cannot check from outside.\n\nCould you look, or have staff look? Specifically, does the contract commit the vendor to any measurable standard, and has compliance with that standard ever been assessed?\n\nAn agreement with no performance obligation works out as a subscription, and subscriptions get renewed rather than evaluated. That pattern is what I am worried about. Breaking it would mean removing the {{readersWithinMile}} readers near campus and adding none, which is what I would like. Writing as a student at {{school}}, I would be grateful to learn what the contract actually promises."
+  },
+  {
+    "id": "evidence-047",
+    "angle": "evidence",
+    "subject": "The evaluation that persuaded you, if there is one",
+    "body": "Dear {{officialName}},\n\nRather than argue, I would like to ask for a reading list. If you support keeping plate readers around {{school}}, there is presumably something you have read that persuaded you. Send it over and I will read it properly and tell you honestly what I made of it.\n\nWhat I am hoping to find is an evaluation with methods and a comparison group, using figures that no company with a product to move supplied. That seems a low bar for a technology deployed as widely as this one is across {{state}}.\n\nIf nothing meets it, then the honest word for the {{readersWithinMile}} readers near {{shortName}} is untested, and I would like untested equipment removed rather than expanded, with no new installations. I am a student here. What convinced you?"
+  },
+  {
+    "id": "evidence-048",
+    "angle": "evidence",
+    "subject": "On the idea that prevention cannot be measured",
+    "body": "Dear {{officialName}},\n\nThe usual reply to questions like mine is that prevention is impossible to measure. Fields that deal with prevention manage it anyway. Public health does not abandon a question because the comparison is hard; it designs one and reports the uncertainty honestly.\n\nSo when somebody says the effect of the readers near {{shortName}} cannot be measured, the follow up I would want is whether anyone qualified was ever asked to try. Difficulty seems like a reason to bring in a statistician rather than to set the question aside.\n\nUntil that work is done, I would like the {{readersWithinMile}} readers around campus removed and no further ones approved. I am a student at {{school}} and I know this is a lot to put in one letter. Has {{city}} ever sought that kind of expertise, and what came of it?"
+  },
+  {
+    "id": "evidence-049",
+    "angle": "evidence",
+    "subject": "Approving more before anyone assessed what is installed",
+    "body": "Dear {{officialName}},\n\nSurveillance programs tend to grow in steps, and each step gets approved before anybody has looked at the results of the one before. That is how a handful of cameras becomes {{readersInState}} across {{state}} without a single published verdict along the way, and the pattern worries me more than any individual camera does.\n\nBefore further expansion touches the area around {{shortName}}, would you ask to see an assessment of what is already installed? Not projections. Results from equipment that has been running.\n\nMy view is that the existing {{readersWithinMile}} readers near campus should come out and nothing should replace them, precisely because that assessment has never appeared. As a student at {{school}}, I would at least like new units held back until the current ones are evaluated in public. Would you support that?"
+  },
+  {
+    "id": "evidence-050",
+    "angle": "evidence",
+    "subject": "Data driven policing with no data about the equipment",
+    "body": "Dear {{officialName}},\n\nThe phrase data driven comes up a great deal when this equipment is discussed, which sits oddly with the fact that nobody can produce data about the equipment itself. The cameras generate enormous amounts of information about the public and almost none about their own performance.\n\nCould that be inverted? Less published about drivers around {{school}} and more about the system: what it flagged, and what share of those flags proved wrong.\n\nWhat I am asking is that the {{readersWithinMile}} readers near {{shortName}} be removed and no new ones installed, because years of collection with no self assessment is not a record I would want renewed on my behalf. I am a student here, writing for myself. Would you press for the program to report on itself?"
+  },
+  {
+    "id": "evidence-051",
+    "angle": "evidence",
+    "subject": "Has anyone with the right training looked at this",
+    "body": "Dear {{officialName}},\n\nAssessing whether an intervention worked is a technical job. Someone has to account for trends already moving and for the plain fact that most short term changes are noise.\n\nHas anybody with that training reviewed the plate reader program covering {{shortName}}, and is their work available? A department summarizing its own impressions would not settle it, however sincere the department is.\n\nWhere no competent review exists, the fair reading is that the effect is unknown, and unknown does not feel like enough to justify {{readersWithinMile}} cameras logging the traffic around a campus. I would like them removed and none added. As a student at {{school}}, I would rather read a real analysis than keep guessing. Who has looked at this with the relevant skills, and what did they find?"
+  },
+  {
+    "id": "evidence-052",
+    "angle": "evidence",
+    "subject": "Telling a tool that was used from one that mattered",
+    "body": "Dear {{officialName}},\n\nPlate readers can appear in a case file without having mattered to the outcome. Investigators check whatever tools are available, and a query that merely confirms something already known still shows up as usage.\n\nDoes {{city}} separate those categories when describing what the readers near {{school}} contribute? The share of cases in which a reader supplied information available nowhere else is the figure that would justify the program. Everything else is activity, and activity is easy to generate.\n\nSince that share has not been published, and nobody I have asked tracks it, I would like you to support removing the {{readersWithinMile}} readers around {{shortName}} and installing no new ones. Writing as a student here, I would still like an answer to the narrower question: does the department distinguish use from necessity?"
+  },
+  {
+    "id": "evidence-053",
+    "angle": "evidence",
+    "subject": "Whether {{state}} law requires any reporting on these systems",
+    "body": "Dear {{officialName}},\n\nA question I have not been able to answer on my own. Does anything in {{state}} law oblige an agency operating plate readers to report what the systems produce? If such a requirement exists, I would like to see the filings covering the readers near {{shortName}}. Where none exists, that looks like a gap you are positioned to close.\n\nEither answer points the same direction for me. Equipment that watches the public ought to account for itself in public, and where no accounting has been required or offered, I would rather the equipment came down.\n\nSo I would like the {{readersWithinMile}} readers around campus removed and no new ones approved. Failing that, would you support a reporting requirement with something behind it? I am a student at {{school}}, asking for whichever of the two you can give."
+  },
+  {
+    "id": "evidence-054",
+    "angle": "evidence",
+    "subject": "What happens to a misread once somebody catches it",
+    "body": "Dear {{officialName}},\n\nWhen a plate is read incorrectly, the wrong record does not necessarily disappear. It may sit in the system, searchable, attached to a vehicle that was never there. Whether {{city}} corrects such entries is both a fairness question and a measurement question, since a tally of corrections would be the closest thing to an error rate anyone has.\n\nSo I would like to ask whether a correction process exists for the readers around {{shortName}}, and whether anyone counts how often it is used. That count would be genuinely informative.\n\nWithout it, the {{readersWithinMile}} readers near campus operate with an unknown error profile, and I would like them removed with no new ones installed. I am a student at {{school}}. What does the correction log show, if there is one?"
+  },
+  {
+    "id": "evidence-055",
+    "angle": "evidence",
+    "subject": "Cost per outcome, once somebody establishes the outcome",
+    "body": "Dear {{officialName}},\n\nAny purchase can be described as cost divided by what it produced. For the plate readers serving {{shortName}}, the numerator is known to your finance staff and the denominator has never been established, which makes the division impossible and leaves the argument stuck.\n\nWould you ask for both halves? The annual cost is easy. Counting outcomes that would not have happened otherwise is the hard part, and its difficulty is exactly why I suspect it keeps being set aside.\n\nA purchase renewed year after year without that calculation is being made on faith. On what is available, I am asking you to support removing the {{readersWithinMile}} readers around campus and approving no additional ones. I am a student at {{school}}. Could both figures be produced before the next vote?"
+  },
+  {
+    "id": "evidence-056",
+    "angle": "evidence",
+    "subject": "Two figures that would settle most of this argument",
+    "body": "Dear {{officialName}},\n\nMost of the dispute about this technology would shrink if two figures were published for the readers around {{school}}: the share of alerts that turn out to be correct, and the share of cases in which an alert made a difference. Neither reveals anything about an individual driver.\n\nBoth are computable from records the department already holds. That they have not appeared is not a technical problem, and wondering why is what keeps me writing.\n\nUntil they do appear, the fair conclusion is that nobody knows what the {{readersWithinMile}} readers near {{shortName}} accomplish. Equipment nobody can evaluate seems like the wrong thing to leave pointed at a campus, so I would like it taken down with no replacements. I am a student here. Would you ask for those two figures by a set date?"
+  },
+  {
+    "id": "evidence-057",
+    "angle": "evidence",
+    "subject": "A public hearing where the figures have to appear",
+    "body": "Dear {{officialName}},\n\nA hearing where the department appears and answers questions in public would do more than another round of correspondence. Putting the plate reader program on an agenda, with figures rather than slides required, would let people ask what those figures mean.\n\nQuestions worth putting on the notice: what was promised when the readers near {{shortName}} were approved, and what has been measured since. If the answers are thin, everyone in the room will see that they are thin.\n\nMy position going in is that the {{readersWithinMile}} readers around campus should be removed and none installed in their place. A hearing would either change my mind or confirm it, and I would attend either way. I am a student at {{school}}. Would you call for one?"
+  },
+  {
+    "id": "evidence-058",
+    "angle": "evidence",
+    "subject": "How the number of readers was arrived at",
+    "body": "Dear {{officialName}},\n\nSomeone settled on how many of these cameras to buy. What determined the figure? Coverage modeling, or a package the vendor offered? If the count was chosen without evidence about how many are needed to achieve anything, then adding or removing units is not an evidence based decision either, and that circularity bothers me.\n\nThere are {{readersWithinMile}} readers within a mile of {{shortName}} today. I would like to know what analysis says that count is right, and what analysis would say it is too many.\n\nAbsent either, the number that makes sense to me is none. Removal of the readers around campus, with no new ones approved, is what I would like. I am a student here. What determined the current density, and who revisits it?"
+  },
+  {
+    "id": "evidence-059",
+    "angle": "evidence",
+    "subject": "Holding this to the standard any other contract meets",
+    "body": "Dear {{officialName}},\n\nApply the standard you would use for a road project or a piece of software. Someone shows the need, someone estimates the benefit, and someone comes back later to say whether the estimate held. The plate readers around {{school}} appear to have skipped every stage of that, which is the part I keep stumbling over.\n\nWhy the exception? Public safety purchases attract deference, and deference is how equipment becomes permanent without ever being assessed.\n\nI would like this program held to the ordinary standard. Since it cannot presently meet it, I would like the {{readersWithinMile}} readers near {{shortName}} removed and no others installed until it can. As a student at {{school}} I may be missing something. Would you apply the same test here, and what do you think it would show?"
+  },
+  {
+    "id": "evidence-060",
+    "angle": "evidence",
+    "subject": "Who benefits while the results stay unmeasured",
+    "body": "Dear {{officialName}},\n\nI find myself noticing who gains when performance goes unmeasured. A vendor keeps a renewing contract. The department keeps a capability. Residents keep a system nobody has justified, and the argument comes back every year with no new information in it.\n\nBreaking that loop takes somebody in your position asking for figures and attaching consequences to their absence. I hope you will ask what the readers near {{shortName}} were meant to achieve, ask what they achieved, and set a date for the answer.\n\nMeanwhile I would like the {{readersWithinMile}} readers around campus removed and no new units approved, since the weight of an unanswered question belongs on the program rather than on the public. I am a student at {{school}}, writing on my own. Would you set that date?"
+  },
+  {
+    "id": "evidence-061",
+    "angle": "evidence",
+    "subject": "Confidence in a tool is not the same as evidence",
+    "body": "Dear {{officialName}},\n\nOfficers who use these systems believe they help. That belief is genuine and it is still not evidence, because people who use a tool routinely are poorly placed to judge what would have happened without it.\n\nWhat would settle the matter for the readers near {{shortName}} is a comparison someone outside the department performed and published. Has one been done? Where the answer rests on testimony from users, the accurate word for this program is unevaluated, and that is my worry rather than any accusation.\n\nUnevaluated equipment seems like the wrong thing to give a permanent place over a campus. What I would like is the {{readersWithinMile}} readers there removed, with none installed in their place. I am a student at {{school}}. What evidence beyond user confidence exists?"
+  },
+  {
+    "id": "evidence-062",
+    "angle": "evidence",
+    "subject": "Were the promised vehicle recoveries ever counted",
+    "body": "Dear {{officialName}},\n\nStolen vehicles usually feature in the pitch for this equipment. That is fine, and it is a category with a countable outcome, which makes it a good place to check whether the promise held.\n\nSo, for the readers operating near {{school}}: how many recoveries does {{city}} attribute to them, and how does the figure compare with the period before they existed? Where those counts cannot be produced, the promise was never treated as a commitment, and I am afraid that is what happened.\n\nWhatever the answer, I would like it in writing. If the counts are unavailable, I would like the {{readersWithinMile}} readers around {{shortName}} removed and no new ones approved. I am a student here and I would be grateful if your office could obtain them."
+  },
+  {
+    "id": "evidence-063",
+    "angle": "evidence",
+    "subject": "Distinct vehicles counted alongside raw scan totals",
+    "body": "Dear {{officialName}},\n\nFigures like scans per day sound impressive until you ask how many distinct vehicles they represent. Commuters pass the same camera twice a day, so a large count can describe a small population being recorded over and over, which is a different thing entirely.\n\nDoes {{city}} report distinct vehicles alongside raw scan counts for the readers near {{shortName}}? The gap between those two numbers shows whether the system casts a wide net or watches the same people continuously, and both facts matter to how it should be judged.\n\nMy request does not change with the arithmetic. I would like the {{readersWithinMile}} readers around campus taken out and none added. Still, as a student at {{school}}, I would like to see the two counts side by side. Could they be published?"
+  },
+  {
+    "id": "evidence-064",
+    "angle": "evidence",
+    "subject": "Copies of whatever the vendor reports each month",
+    "body": "Dear {{officialName}},\n\nCompanies in this business typically send their customers regular usage summaries. If {{city}} receives such a document about the readers near {{shortName}}, I would like copies, with anything identifying individual vehicles taken out.\n\nTwo reasons. Whatever the vendor chooses to report reveals what the company itself treats as success. And where the summaries hold only activity figures, that tells you the contract has never been managed toward outcomes.\n\nMy expectation is that the documents will be thin on results, and I would be glad to be shown otherwise. Should I be right, I would like the {{readersWithinMile}} readers around campus removed with no more installed. I am a student at {{school}}. Would your office release the reports, or tell me that none arrive?"
+  },
+  {
+    "id": "evidence-065",
+    "angle": "evidence",
+    "subject": "Whether your own analysts have been asked to look",
+    "body": "Dear {{officialName}},\n\nMost departments of any size employ people whose job is analysis. Presumably some of them could answer whether the plate readers around {{school}} changed anything measurable.\n\nHave they been asked? An internal study would be weaker than an independent one, and it would still be far better than the nothing currently on the record. It could be commissioned this month at no extra cost.\n\nWhere that is not going to happen, I would ask you to treat the {{readersWithinMile}} readers near {{shortName}} as unproven, remove them, and approve no new installations. A program that never merited a week of an analyst's time is hard to read as a serious safety measure, and that concerns me. I am a student here. Has any internal analysis been done?"
+  },
+  {
+    "id": "evidence-066",
+    "angle": "evidence",
+    "subject": "Results from other cities are not results here",
+    "body": "Dear {{officialName}},\n\nExamples from other jurisdictions tend to get cited whenever this program comes up. Those examples arrive without methods, and they describe different places with different traffic and different policing.\n\nWhat would actually inform the decision is evidence from {{city}} about the readers near {{shortName}}. Local data, and a local comparison anyone can inspect. Anything short of that is borrowed reassurance, and I do not think it should carry a contract.\n\nSince no local evaluation appears to exist, I would like the {{readersWithinMile}} readers around campus removed and no further ones approved until one does. Writing as a student at {{school}}, I would be glad to be corrected. Could you tell me whether any assessment specific to {{city}} has been produced, and where I could read it?"
+  },
+  {
+    "id": "evidence-067",
+    "angle": "evidence",
+    "subject": "Whether the same outcomes would have arrived anyway",
+    "body": "Dear {{officialName}},\n\nEach claimed success needs a second question attached. Would the same outcome have arrived anyway, a day later, through ordinary investigation? That question rarely gets asked, which is why the win column keeps growing while the value stays unknown.\n\nDoes any review of the readers near {{school}} attempt that comparison? Without it, a list of cases is a list of cases the technology touched, and touching is not causing.\n\nGiven the gap, what I would like is for the {{readersWithinMile}} readers around {{shortName}} to come down with none going up in their place. Should you know of an analysis that addresses the question, I would be glad to be pointed toward it. I am a student here and I would read it carefully before writing again."
+  },
+  {
+    "id": "evidence-068",
+    "angle": "evidence",
+    "subject": "One good case is not a rate",
+    "body": "Dear {{officialName}},\n\nThe strongest defense usually offered for this equipment is a single case that went well. Such cases are real, and they are also why nothing ever gets evaluated, since any program run long enough will generate a story worth telling.\n\nWhat would carry weight is a rate rather than an anecdote. Out of everything the readers near {{shortName}} collected, what proportion contributed to anything at all? Somebody with access to the logs could answer that.\n\nWhile it goes unanswered, I would like the {{readersWithinMile}} readers around campus removed with nothing installed to replace them. I am a student at {{school}}, and I am aware that one letter is not a movement. Would you ask the department for rates rather than examples?"
+  },
+  {
+    "id": "evidence-069",
+    "angle": "evidence",
+    "subject": "Tying the next payment to a published measurement",
+    "body": "Dear {{officialName}},\n\nBudget votes are the point where conditions can actually be attached. Once money moves, the leverage is gone until the following cycle, and by then the question has usually gone quiet again.\n\nSo when the plate reader line comes up, would you move to condition it? Funds released only against a published report showing what the readers near {{shortName}} produced and how that was measured. No report, no payment. Vendors tend to respond to that structure quickly.\n\nMy preference is still removal of the {{readersWithinMile}} readers around campus with no new installations approved, since the program has run this long without producing anything of the kind. I am a student at {{school}}. If removal is not achievable, would you support the condition?"
+  },
+  {
+    "id": "evidence-070",
+    "angle": "evidence",
+    "subject": "A balance with nothing on one side of it",
+    "body": "Dear {{officialName}},\n\nProportionality needs two quantities. One side holds a record of the movements of everyone who drives near {{school}}, which is a substantial thing to keep. The other holds a benefit that nobody has quantified.\n\nA balance cannot be struck with one side empty. Either the benefit gets measured and published, or the exposure has no counterweight and the program cannot be justified on its own terms. That is the shape of my worry, and I would like to be shown the missing side.\n\nSince the measurement has not appeared after all this time, I would like the {{readersWithinMile}} readers around {{shortName}} removed and no new ones installed. I am a student here. What figure would you put on the benefit side, and where does it come from?"
+  },
+  {
+    "id": "evidence-071",
+    "angle": "evidence",
+    "subject": "Who verifies the cameras are even working",
+    "body": "Dear {{officialName}},\n\nStart with the simplest measurable thing. Are the readers near {{shortName}} operational, and does anyone in {{city}} verify that independently of the dashboard the vendor supplies?\n\nWhere a basic question like uptime is answered only by the supplier, every harder question about accuracy and outcomes is answered by the supplier too, and the public record holds no independent verification of anything. That is what unsettles me about renewing a contract on this footing.\n\nMy preference is for the {{readersWithinMile}} readers around campus to be removed, with no new ones installed until the program can answer straightforward questions with figures your own staff checked. I am a student at {{school}}, and a short reply would be worth a lot. Who confirms the equipment is functioning, and how often?"
+  },
+  {
+    "id": "evidence-072",
+    "angle": "evidence",
+    "subject": "Separating these readers from every other tool in use",
+    "body": "Dear {{officialName}},\n\nPlate readers rarely operate alone. Where other cameras and other tools are in use around {{school}}, attributing a result to any one of them takes deliberate analysis rather than assumption.\n\nHas anyone attempted that separation for the readers near {{shortName}}? Crediting the newest system for whatever happens next is a familiar habit, and it is how programs pick up reputations they have not earned. I am not saying that is what occurred, only that nothing on the record rules it out.\n\nUntil the contribution of the readers is isolated and reported, I would rather they were not treated as proven. So I would ask for the {{readersWithinMile}} units around campus to be taken down, with none approved to follow. I am a student here. Does any analysis in {{city}} try to separate these effects?"
+  },
+  {
+    "id": "evidence-073",
+    "angle": "evidence",
+    "subject": "A before and after table for the covered area",
+    "body": "Dear {{officialName}},\n\nThere is a report your staff could produce in an afternoon. Take the area covered by the readers near {{shortName}}, pull the relevant incident counts for the period before installation and the period since, and publish both with the caveats a careful person would attach.\n\nIt would not settle causation. What it would be is the first public figure of any kind about this program, and the fact that there is none after years of operation is itself a finding, and the one that worries me most.\n\nMy ask holds regardless of what the table shows: the {{readersWithinMile}} readers around campus removed and no new ones installed. I am a student at {{school}}. Would you request that comparison and have it made public?"
+  },
+  {
+    "id": "evidence-074",
+    "angle": "evidence",
+    "subject": "Three documents that would answer my questions",
+    "body": "Dear {{officialName}},\n\nHere is a list, kept deliberately short, of what would answer my questions about the plate readers around {{school}}. The document stating the objective of the program. Any report measuring performance against it. Correspondence in which somebody asked for such a report.\n\nIf all three exist, send them and I will read them before writing to you again. Where none exists, the answer is that this program has never been assessed, and that answer is enough on its own to explain my concern.\n\nEither way, my position is that the {{readersWithinMile}} readers near {{shortName}} should be removed and no new ones installed. I am a student here with no particular standing. Which of those documents could your office produce?"
+  },
+  {
+    "id": "evidence-075",
+    "angle": "evidence",
+    "subject": "Has any policing technology contract ended on the evidence",
+    "body": "Dear {{officialName}},\n\nA curious question, and I think a revealing one. Has {{city}} ever discontinued a piece of policing technology because a review found it was not delivering? Where the answer is no, reviews here are not decision points, and a promised review of the plate readers near {{shortName}} would mean very little.\n\nA process that can only conclude in favor of continuation is not really evaluation. Knowing whether that describes {{city}} would tell me how much weight to give any assurance about future study, which is why I am asking.\n\nWhat I would like is for you to support removing the {{readersWithinMile}} readers around campus and approving no new ones. I am a student at {{school}}. Has any such contract ever been ended on the evidence?"
+  },
+  {
+    "id": "evidence-076",
+    "angle": "evidence",
+    "subject": "The ordinary month, rather than the notable case",
+    "body": "Dear {{officialName}},\n\nWhat the public hears about this program arrives as announcements after notable cases. Announcements get chosen for their news value, so a collection of them says nothing about the typical result, only about the best one anybody could find.\n\nCould {{city}} publish the ordinary picture instead for the readers near {{shortName}}: what a normal month looks like in alerts and in cases actually affected? Boring figures would tell me far more than another highlight, and I would read them with an open mind.\n\nUntil that ordinary picture exists, I am asking you to support removing the {{readersWithinMile}} readers around campus and installing none. I am a student at {{school}}. Would you request routine reporting rather than occasional publicity?"
+  },
+  {
+    "id": "evidence-077",
+    "angle": "evidence",
+    "subject": "User satisfaction is a measure of convenience",
+    "body": "Dear {{officialName}},\n\nWhen a department says its people find the system valuable, the statement is probably true and still does not answer the question. Convenient tools get liked. Whether they change outcomes is a separate matter, and only that second thing justifies public money and standing collection.\n\nDoes {{city}} hold any measure of outcomes for the readers near {{shortName}} that is not user satisfaction? I have looked and cannot find one, which is why I am writing rather than assuming.\n\nIf none exists, then support for the program rests on preference, and preference feels like a thin basis for keeping {{readersWithinMile}} cameras trained on the roads around a campus. I would like them removed with no replacements installed. As a student here, I would be grateful to know what outcome measures your office has seen."
+  },
+  {
+    "id": "evidence-078",
+    "angle": "evidence",
+    "subject": "Whether any review has ever found a problem",
+    "body": "Dear {{officialName}},\n\nIn everything published locally about this equipment, I have not come across a single unfavorable finding. That pattern has two explanations. Either the technology performs flawlessly, or unfavorable findings are not the sort of thing that gets written down and released.\n\nWhich is it for the readers near {{school}}? A program with no recorded shortcomings after years of operation is either extraordinary or unexamined, and I would rather learn which than keep wondering.\n\nGiven the doubt, I would like the {{readersWithinMile}} readers around {{shortName}} removed and none installed to replace them. I am a student here. Has any review, internal or otherwise, ever identified a problem with this program, and where was it recorded? Even a pointer would help."
+  },
+  {
+    "id": "evidence-079",
+    "angle": "evidence",
+    "subject": "An independent panel before the next renewal vote",
+    "body": "Dear {{officialName}},\n\nRenewal decisions would benefit from someone with no stake in the outcome. A panel drawn from outside the department and outside the vendor, given access to the logs and asked one question: did this program do what it was bought to do?\n\nSetting that up before the next vote on the readers around {{shortName}} would cost little and settle a great deal. I would also read a reluctance to allow it as informative, though I hope it would not come to that.\n\nMy own recommendation is simpler. I would like the {{readersWithinMile}} readers near campus removed and no new ones installed, on the ground that the case was never made. Where a panel is the achievable option, I would support the panel. I am a student at {{school}}. Would you propose one?"
+  },
+  {
+    "id": "evidence-080",
+    "angle": "evidence",
+    "subject": "How anyone would notice if the system stopped helping",
+    "body": "Dear {{officialName}},\n\nSuppose the readers around {{school}} became useless tomorrow through a software change or a degraded database. Who would notice, and how long would it take? Where the honest answer is that nobody would, nobody is monitoring performance now either, and the equipment runs on assumption.\n\nThat question has been more useful to me than any argument about privacy, because it can be answered and it does not depend on anyone's politics. I would be grateful if you would put it to the department.\n\nMeanwhile I would like the {{readersWithinMile}} readers near {{shortName}} removed and no new ones approved. I am a student here. What monitoring would catch a decline in performance, and who reviews it?"
+  },
+  {
+    "id": "evidence-081",
+    "angle": "evidence",
+    "subject": "Whether more coverage ever produced better outcomes",
+    "body": "Dear {{officialName}},\n\nUnderneath this program runs a quiet assumption: that collecting more information must produce better outcomes. Assumptions of that kind can be tested, and this one has not been tested around {{school}}, which is the thing I keep coming back to.\n\nWhat I would like to see is any figure showing that outcomes improved as coverage grew. Where adding cameras made no measurable difference, that seems worth knowing before more go up anywhere in {{state}}.\n\nNobody has published such a comparison as far as I can find. On that basis I would like the {{readersWithinMile}} readers near {{shortName}} removed and no new ones installed. I am a student at {{school}}. Does {{city}} track outcomes against coverage over time, and could I see the series?"
+  },
+  {
+    "id": "evidence-082",
+    "angle": "evidence",
+    "subject": "Whether reader alerts changed the stop data",
+    "body": "Dear {{officialName}},\n\nOne effect of this technology should be visible in ordinary records. Alerts generate stops, so the stop data held by {{city}} ought to show whether reader driven stops rose after installation and what those stops produced.\n\nHas anyone looked? The figures would say something concrete about whether the readers near {{shortName}} help resolve cases or mostly generate encounters that end without a finding. Both possibilities deserve a count rather than an opinion, and neither has one at the moment.\n\nWhile the count is missing, I would like the {{readersWithinMile}} readers around campus taken down with no new ones approved. I am a student at {{school}}. Could you ask for reader related stops and their outcomes to be reported?"
+  },
+  {
+    "id": "evidence-083",
+    "angle": "evidence",
+    "subject": "Keeping a camera should take the evidence buying one takes",
+    "body": "Dear {{officialName}},\n\nApproving a new camera seems to require a presentation and a vote. Keeping an existing one requires nothing at all, which means the program faces its lowest scrutiny at exactly the point where real performance data could exist. That inversion is what I find hardest to understand.\n\nTurning it around would make continuation the decision that calls for evidence, since by then there is something actual to examine about the readers near {{shortName}}.\n\nApplied honestly, I think that test would end the program, because no performance data has been produced. What I would like is the {{readersWithinMile}} readers around campus removed and no new ones approved. I am a student at {{school}}. Where you think the test would come out differently, what evidence do you expect it would turn up?"
+  },
+  {
+    "id": "evidence-084",
+    "angle": "evidence",
+    "subject": "Aggregate totals would compromise no investigation",
+    "body": "Dear {{officialName}},\n\nRequests like mine often meet the reply that releasing information would harm investigations. That objection makes sense for individual records. Totals identify nobody, and a count of alerts or errors around {{shortName}} reveals nothing operational.\n\nSo when aggregate performance figures stay unpublished, something other than security is doing the work, and I would like to understand what. I hope you will press for the totals, with no plates and no case details attached.\n\nMy position is that the {{readersWithinMile}} readers near campus should be removed and no new ones installed, and the difficulty of obtaining even summary counts is part of why I hold it. I am a student at {{school}}. Has your office ever been given aggregate figures, and were they made public?"
+  },
+  {
+    "id": "evidence-085",
+    "angle": "evidence",
+    "subject": "Whether the original reasoning still holds today",
+    "body": "Dear {{officialName}},\n\nConditions that justify a purchase change, and nobody usually goes back to check whether the original reasoning still holds. The readers near {{school}} were approved in a particular context, and that context has moved on while the equipment stayed.\n\nWould you ask whether the stated rationale still applies, and whether anyone has tested it since? A justification that was never revisited has quietly expired without anyone noticing, which is a strange way to run a standing program.\n\nWhat I would like is for the {{readersWithinMile}} readers around {{shortName}} to be removed and none installed. Nobody can currently say what they achieve, and that is reason enough for me. I am a student here. What would it take for your office to revisit the original reasoning in public?"
+  },
+  {
+    "id": "evidence-086",
+    "angle": "evidence",
+    "subject": "Publishing the method before the analysis begins",
+    "body": "Dear {{officialName}},\n\nA review designed after the data arrives can be shaped toward a comfortable answer. Designing the method beforehand prevents that, which is why I would want it released first.\n\nIf any assessment of the readers near {{shortName}} is coming, I hope you will ask for the method up front: what will be compared, over what period, and what result would count as failure. That single step is most of the difference between evaluation and public relations.\n\nNo such assessment appears to be planned, so what I would like is removal of the {{readersWithinMile}} readers around campus with no new installations. I am a student at {{school}}, and I would settle for the smaller thing where the larger one is out of reach. Would you press for any future review to publish its method first?"
+  },
+  {
+    "id": "evidence-087",
+    "angle": "evidence",
+    "subject": "Whether the agreement permits any outside testing",
+    "body": "Dear {{officialName}},\n\nHere is something worth checking before the next vote. Does the plate reader contract covering {{shortName}} place any restriction on independent testing, or on publishing performance information?\n\nTerms like that appear in technology agreements more often than people expect, and they matter enormously, because such a clause makes evaluation legally awkward no matter how willing anyone is to do it. The possibility is what prompted this letter.\n\nWhere that language exists, the public has been sold a system that cannot be checked, and I would not want it left over a campus. That is why I would ask for the {{readersWithinMile}} readers near {{shortName}} to be removed, with none approved in their place. I am a student here. Could your office review the contract for those provisions and tell me what it finds?"
+  },
+  {
+    "id": "evidence-088",
+    "angle": "evidence",
+    "subject": "In your own words, what would make this worthwhile",
+    "body": "Dear {{officialName}},\n\nSetting my own views aside for a moment, what would the readers around {{school}} have to accomplish for you to consider them worth keeping? A written answer in your own words would be genuinely useful, because the discussion never seems to get that far.\n\nOnce a standard exists, the next question is whether anyone has measured against it. My guess is that no measurement exists, which would mean the standard has never been applied here at all.\n\nOn what I can see, I would like the {{readersWithinMile}} readers near {{shortName}} removed and no new ones installed. Tell me your standard and where the program stands against it, and I will respond to that rather than to my own assumptions. I am a student here, and I would rather have the conversation than guess."
+  },
+  {
+    "id": "evidence-089",
+    "angle": "evidence",
+    "subject": "Deploying everywhere at once removed the comparison",
+    "body": "Dear {{officialName}},\n\nPutting cameras everywhere at once removes the chance to compare. Leaving some areas uncovered would have allowed a real assessment later, and nothing like that was arranged around {{shortName}}.\n\nA deployment designed without a comparison guarantees the program can never be properly evaluated, which is convenient for anyone who would rather not know. Whether it was deliberate matters less to me than that it happened.\n\nWhat can still be done is to stop. The step I would ask for is the {{readersWithinMile}} readers near campus removed, no additional units approved in {{city}}, and any future proposal designed so that comparison is possible from the start. I am a student at {{school}}, asking rather than insisting. Would you support that condition?"
+  },
+  {
+    "id": "evidence-090",
+    "angle": "evidence",
+    "subject": "One thing to find out before the next meeting",
+    "body": "Dear {{officialName}},\n\nBefore the topic comes up again, could you find out one thing and share it? Whether any document held by {{city}} states a measurable objective for the plate readers near {{school}} and reports progress against it.\n\nThat single answer would tell residents more than the last several rounds of discussion combined. A yes means there is something to examine. Anything else would mean the program has been running on assertion, and I do not think it should continue on that footing.\n\nMy view is already the second one, which is why I am asking you to support removing the {{readersWithinMile}} readers around {{shortName}} and approving no new ones. I am a student here. Would you find out and let me know either way?"
+  },
+  {
+    "id": "evidence-091",
+    "angle": "evidence",
+    "subject": "Basic counts should not require a records request",
+    "body": "Dear {{officialName}},\n\nGetting basic figures about this program takes a formal request, a wait, and often a partial refusal. That process makes sense for sensitive material. Applied to a simple count of alerts around {{shortName}}, it makes the question expensive, and expense is what keeps most people from asking.\n\nCould your office publish the routine numbers so nobody has to file for them? Alerts generated, and errors identified afterward. Nothing in that identifies a person.\n\nUntil those figures are available without a fight, I find it hard to see the case for keeping {{readersWithinMile}} cameras near campus, and I am asking you to support their removal with no new installations. I am a student at {{school}}. Would you push for routine publication?"
+  },
+  {
+    "id": "evidence-092",
+    "angle": "evidence",
+    "subject": "Whether the list of permitted uses has grown",
+    "body": "Dear {{officialName}},\n\nUses expand quietly. A system approved for one purpose gets applied to others, and the expansion rarely comes back for a vote or a review.\n\nFor the readers near {{shortName}}, what is the current list of permitted uses, and how does it compare with the list at approval? Has anyone measured outcomes under any of them? An expanded purpose with no expanded measurement would mean less is known about the program now than when it started, and that direction of travel is what worries me.\n\nIt argues for stopping. What I would like is the {{readersWithinMile}} readers around campus removed and no new units approved in {{city}}. I am a student at {{school}}. Could you supply both versions of the permitted use list?"
+  },
+  {
+    "id": "evidence-093",
+    "angle": "evidence",
+    "subject": "Judging this by the standard you use elsewhere",
+    "body": "Dear {{officialName}},\n\nEvery official has some initiative they consider wasteful, and the argument against it usually comes down to a lack of demonstrated results. I would ask you to turn that same lens on the plate readers around {{school}} and see how the program holds up.\n\nNo published objective, and no published outcome data. Nothing resembling an independent review either. By the standard applied to something already doubted, I do not think this would survive a first hearing.\n\nConsistency seems to point one way. My own answer is the {{readersWithinMile}} readers near {{shortName}} removed and no new ones installed, or else the evidence produced that would let the program pass the test used on everything else. I am a student here. Which do you think is likelier?"
+  },
+  {
+    "id": "evidence-094",
+    "angle": "evidence",
+    "subject": "Comparing what the public heard with what was signed",
+    "body": "Dear {{officialName}},\n\nTwo documents should say the same thing and often do not. Whatever residents were told when these cameras were proposed, and whatever the contract commits anyone to deliver, are worth reading side by side.\n\nCould someone in your office do that comparison for the agreement covering {{shortName}}? Where the public promise includes outcomes while the contract includes only equipment and access, the promise was never enforceable and nobody was ever going to be held to it. That possibility concerns me.\n\nGiven it, I would like the {{readersWithinMile}} readers around campus removed and none installed to replace them. I am a student at {{school}}. What does the contract oblige the vendor to deliver, in terms anyone could measure?"
+  },
+  {
+    "id": "evidence-095",
+    "angle": "evidence",
+    "subject": "Counting installations is not measuring results",
+    "body": "Dear {{officialName}},\n\nProgress on this program tends to be described by how much equipment is deployed. Coverage expands, the count of installations rises, and the growth gets reported as though it were an achievement in itself.\n\nDeployment is an input. There are {{readersInState}} of these devices across {{state}} now, which tells you about purchasing rather than about results. What has any of it produced?\n\nI hope you will ask for outcome figures the next time expansion is described as progress. Meanwhile I would like the {{readersWithinMile}} readers around {{shortName}} removed and no new ones installed, since a count of hardware is the only figure this program has reliably published. I am a student at {{school}}. What outcome measure would you accept as an answer?"
+  },
+  {
+    "id": "evidence-096",
+    "angle": "evidence",
+    "subject": "Separating the cameras from a trend already moving",
+    "body": "Dear {{officialName}},\n\nCrime figures move for many reasons, most of which have nothing to do with any single program. Anyone crediting the readers near {{school}} with a change has to rule out the reasons already in motion, and that takes analysis rather than assertion.\n\nHas anyone attempted it? A serious answer would name the method and show the comparison. Something less serious points at a chart with a line on it, and that is mostly what I have found.\n\nSince the serious version has not appeared, I would ask you to support removing the {{readersWithinMile}} readers around {{shortName}} and approving no new installations. I am a student here. What analysis would you accept as ruling out the alternative explanations?"
+  },
+  {
+    "id": "evidence-097",
+    "angle": "evidence",
+    "subject": "What came back when your office asked for figures",
+    "body": "Dear {{officialName}},\n\nAssuming you have asked at some point, what came back? The response to a request for performance data is often more revealing than the data would be. A prompt answer with counts attached means the program is managed. Delay followed by generalities means it is not, and I would like to know which happened.\n\nSo I am asking about {{city}} and the readers near {{shortName}}, and I would be glad to see whatever you received.\n\nWhere nothing useful came back, the {{readersWithinMile}} readers around campus are running without accountability, and I would like them removed with no new ones approved. I am a student at {{school}}. What answer did you get, and when did it arrive?"
+  },
+  {
+    "id": "evidence-098",
+    "angle": "evidence",
+    "subject": "Making each new site wait for the last one",
+    "body": "Dear {{officialName}},\n\nConsider a rule that would change how these decisions get made. No new reader approved anywhere in {{city}} until the department publishes what the existing ones produced. Growth would then depend on results rather than on budget availability.\n\nApplied to the area around {{shortName}}, that rule would freeze the program where it stands, which seems right to me, given that nothing has been published about the {{readersWithinMile}} devices already there.\n\nWhat I would actually like goes further. I would like those readers taken down and none installed. Where that is out of reach, would you support the rule, and would you propose it at the next opportunity? I am a student at {{school}} and I would be grateful for either answer."
+  },
+  {
+    "id": "evidence-099",
+    "angle": "evidence",
+    "subject": "Hoping the evidence arrives before the renewal vote",
+    "body": "Dear {{officialName}},\n\nWhen this contract next comes to a vote, the question in front of you is narrow. Has anyone shown, with figures, that the plate readers near {{school}} did what they were bought to do?\n\nWhere the answer is no, continuing means spending on an unmeasured system, and it commits the next several years the way the last several were committed. That is what I would like to avoid.\n\nSo I am asking you to vote against renewal, to support taking down the {{readersWithinMile}} readers around {{shortName}}, and to approve no new installations. I am a student here, with one letter and no organization behind it. Should you plan to vote the other way, I would like to know what evidence you are relying on."
+  },
+  {
+    "id": "evidence-100",
+    "angle": "evidence",
+    "subject": "The whole worry in a single question",
+    "body": "Dear {{officialName}},\n\nStrip away everything else and one question remains. Does anybody know whether this program works, and if so, how? Every other argument about plate readers depends on the answer, and around {{shortName}} the answer appears to be that nobody knows and nobody has checked.\n\nA public body operating equipment it cannot evaluate is what worries me. Either the evidence gets produced and published, in which case there is something real to argue about, or it does not, in which case I think the equipment should come down.\n\nWhat I would like is the {{readersWithinMile}} readers near campus removed and no new ones installed. I am a student at {{school}}. Should you see it differently, please tell me what you know that I do not, and where it is written down."
+  }
+]

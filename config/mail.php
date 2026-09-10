@@ -110,6 +110,16 @@ return [
     |
     */
 
+    /*
+     * A real, monitored address on the sending domain. Filters treat an absent
+     * or unroutable reply-to as a signal, and a person who gets this by mistake
+     * needs somewhere to write.
+     */
+    'reply_to' => [
+        'address' => env('MAIL_REPLY_TO_ADDRESS'),
+        'name' => env('MAIL_REPLY_TO_NAME', 'DeFlock Campus'),
+    ],
+
     'from' => [
         'address' => env('MAIL_FROM_ADDRESS', 'hello@example.com'),
         'name' => env('MAIL_FROM_NAME', env('APP_NAME', 'Laravel')),

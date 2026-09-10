@@ -1,0 +1,1081 @@
+{
+ "federalHouse": {
+  "0": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Julie Fedorchak",
+    "party": "Republican",
+    "phone": "202-225-2611",
+    "url": "https://fedorchak.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.hoeven.senate.gov/contact/contact-the-senator",
+   "email": null,
+   "name": "John Hoeven",
+   "party": "Republican",
+   "phone": "202-224-2551",
+   "url": "https://www.hoeven.senate.gov"
+  },
+  {
+   "contactForm": "https://www.cramer.senate.gov/contact/contact-kevin",
+   "email": null,
+   "name": "Kevin Cramer",
+   "party": "Republican",
+   "phone": "202-224-2043",
+   "url": "https://www.cramer.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "dwrichter@ndlegis.gov",
+    "name": "David Richter",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/david-richter"
+   },
+   {
+    "email": "phatlestad@ndlegis.gov",
+    "name": "Patrick Hatlestad",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/patrick-hatlestad"
+   }
+  ],
+  "10": [
+   {
+    "email": "jhendrix@ndlegis.gov",
+    "name": "Jared Hendrix",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/jared-hendrix"
+   },
+   {
+    "email": "sswiontek@ndlegis.gov",
+    "name": "Steve Swiontek",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/steve-swiontek"
+   }
+  ],
+  "11": [
+   {
+    "email": "agoldwyn@ndlegis.gov",
+    "name": "Adam Goldwyn",
+    "party": "Democratic",
+    "url": "https://ndlegis.gov/biography/adam-goldwyn"
+   },
+   {
+    "email": "gdobervich@ndlegis.gov",
+    "name": "Gretchen Dobervich",
+    "party": "Democratic",
+    "url": "https://ndlegis.gov/biography/gretchen-dobervich"
+   }
+  ],
+  "12": [
+   {
+    "email": "blsatrom@ndlegis.gov",
+    "name": "Bernie Satrom",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/bernie-satrom"
+   },
+   {
+    "email": "mostlie@ndlegis.gov",
+    "name": "Mitch Ostlie",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/mitch-ostlie"
+   }
+  ],
+  "13": [
+   {
+    "email": "aschauer@ndlegis.gov",
+    "name": "Austen Schauer",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/austen-schauer"
+   },
+   {
+    "email": "jjonas@ndlegis.gov",
+    "name": "Jim Jonas",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/jim-jonas"
+   }
+  ],
+  "14": [
+   {
+    "email": "jonelson@ndlegis.gov",
+    "name": "Jon Nelson",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/jon-o-nelson"
+   },
+   {
+    "email": "rweisz@ndlegis.gov",
+    "name": "Robin Weisz",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/robin-weisz"
+   }
+  ],
+  "15": [
+   {
+    "email": "dhenderson@ndlegis.gov",
+    "name": "Donna Henderson",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/donna-henderson"
+   },
+   {
+    "email": "kfrelich@ndlegis.gov",
+    "name": "Kathy Frelich",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/kathy-frelich"
+   }
+  ],
+  "16": [
+   {
+    "email": "amarschall@ndlegis.gov",
+    "name": "Andrew Marschall",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/andrew-marschall"
+   },
+   {
+    "email": "bkoppelman@ndlegis.gov",
+    "name": "Ben Koppelman",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/ben-koppelman"
+   }
+  ],
+  "17": [
+   {
+    "email": "lbahl@ndlegis.gov",
+    "name": "Landon Bahl",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/landon-bahl"
+   },
+   {
+    "email": "masanford@ndlegis.gov",
+    "name": "Mark Sanford",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/mark-sanford"
+   }
+  ],
+  "18": [
+   {
+    "email": "nchristianson@ndlegis.gov",
+    "name": "Nels Christianson",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/nels-christianson"
+   },
+   {
+    "email": "smvetter@ndlegis.gov",
+    "name": "Steve Vetter",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/steve-vetter"
+   }
+  ],
+  "19": [
+   {
+    "email": "dmonson@ndlegis.gov",
+    "name": "Dave Monson",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/david-monson"
+   },
+   {
+    "email": "kanderson@ndlegis.gov",
+    "name": "Karen Anderson",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/karen-a-anderson"
+   }
+  ],
+  "2": [
+   {
+    "email": "bertanderson@ndlegis.gov",
+    "name": "Bert Anderson",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/bert-anderson"
+   },
+   {
+    "email": "dlongmuir@ndlegis.gov",
+    "name": "Donald Longmuir",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/donald-w-longmuir"
+   }
+  ],
+  "20": [
+   {
+    "email": "drustebakke@ndlegis.gov",
+    "name": "Dave Rustebakke",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/dave-rustebakke"
+   },
+   {
+    "email": "mbeltz@ndlegis.gov",
+    "name": "Mike Beltz",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/mike-beltz"
+   }
+  ],
+  "21": [
+   {
+    "email": "lbhager@ndlegis.gov",
+    "name": "LaurieBeth Hager",
+    "party": "Democratic",
+    "url": "https://ndlegis.gov/biography/lauriebeth-hager"
+   },
+   {
+    "email": "mschneider@ndlegis.gov",
+    "name": "Mary Schneider",
+    "party": "Democratic",
+    "url": "https://ndlegis.gov/biography/mary-schneider"
+   }
+  ],
+  "22": [
+   {
+    "email": "bpyle@ndlegis.gov",
+    "name": "Brandy Pyle",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/brandy-pyle"
+   },
+   {
+    "email": "jwarrey@ndlegis.gov",
+    "name": "Jonathan Warrey",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/jonathan-warrey"
+   }
+  ],
+  "23": [
+   {
+    "email": "denehring@ndlegis.gov",
+    "name": "Dennis Nehring",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/dennis-nehring"
+   },
+   {
+    "email": "nrios@ndlegis.gov",
+    "name": "Nico Rios",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/nico-rios"
+   }
+  ],
+  "24": [
+   {
+    "email": "djohnston@ndlegis.gov",
+    "name": "Dan Johnston",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/daniel-johnston"
+   },
+   {
+    "email": "dhkiefert@ndlegis.gov",
+    "name": "Dwight Kiefert",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/dwight-kiefert"
+   }
+  ],
+  "25": [
+   {
+    "email": "amitskog@ndlegis.gov",
+    "name": "Alisa Mitskog",
+    "party": "Democratic",
+    "url": "https://ndlegis.gov/biography/alisa-mitskog"
+   },
+   {
+    "email": "kskroch@ndlegis.gov",
+    "name": "Kathy Skroch",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/kathy-skroch"
+   }
+  ],
+  "26": [
+   {
+    "email": "ktimmons@ndlegis.gov",
+    "name": "Kelby Timmons",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/kelby-timmons"
+   },
+   {
+    "email": "rmaki@ndlegis.gov",
+    "name": "Roger Maki",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/roger-a-maki"
+   }
+  ],
+  "27": [
+   {
+    "email": "gstemen@ndlegis.gov",
+    "name": "Greg Stemen",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/greg-stemen"
+   },
+   {
+    "email": "tbrown@ndlegis.gov",
+    "name": "T.J. Brown",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/tj-brown"
+   }
+  ],
+  "28": [
+   {
+    "email": "jgrueneich@ndlegis.gov",
+    "name": "Jim Grueneich",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/jim-grueneich"
+   },
+   {
+    "email": "mbrandenburg@ndlegis.gov",
+    "name": "Mike Brandenburg",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/mike-brandenburg"
+   }
+  ],
+  "29": [
+   {
+    "email": "cheadland@ndlegis.gov",
+    "name": "Craig Headland",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/craig-headland"
+   },
+   {
+    "email": "dwvigesaa@ndlegis.gov",
+    "name": "Don Vigesaa",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/don-vigesaa"
+   }
+  ],
+  "3": [
+   {
+    "email": "jahoverson@ndlegis.gov",
+    "name": "Jeff Hoverson",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/jeff-a-hoverson"
+   },
+   {
+    "email": "lvanwinkle@ndlegis.gov",
+    "name": "Lori VanWinkle",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/lori-vanwinkle"
+   }
+  ],
+  "30": [
+   {
+    "email": "gdbosch@ndlegis.gov",
+    "name": "Glenn Bosch",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/glenn-bosch"
+   },
+   {
+    "email": "mrnathe@ndlegis.gov",
+    "name": "Mike Nathe",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/mike-nathe"
+   }
+  ],
+  "31": [
+   {
+    "email": "dholle@ndlegis.gov",
+    "name": "Dawson Holle",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/dawson-holle"
+   },
+   {
+    "email": "kmrohr@ndlegis.gov",
+    "name": "Karen Rohr",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/karen-m-rohr"
+   }
+  ],
+  "32": [
+   {
+    "email": "lmeier@ndlegis.gov",
+    "name": "Lisa Meier",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/lisa-meier"
+   },
+   {
+    "email": "pdheinert@ndlegis.gov",
+    "name": "Pat Heinert",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/pat-d-heinert"
+   }
+  ],
+  "33": [
+   {
+    "email": "anovak@ndlegis.gov",
+    "name": "Anna Novak",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/anna-s-novak"
+   },
+   {
+    "email": "btveit@ndlegis.gov",
+    "name": "Bill Tveit",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/bill-tveit"
+   }
+  ],
+  "34": [
+   {
+    "email": "nptoman@ndlegis.gov",
+    "name": "Nathan Toman",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/nathan-toman"
+   },
+   {
+    "email": "tkporter@ndlegis.gov",
+    "name": "Todd Porter",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/todd-porter"
+   }
+  ],
+  "35": [
+   {
+    "email": "bmartinson@ndlegis.gov",
+    "name": "Bob Martinson",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/bob-martinson"
+   },
+   {
+    "email": "kkarls@ndlegis.gov",
+    "name": "Karen Karls",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/karen-karls"
+   }
+  ],
+  "36": [
+   {
+    "email": "dorihauck@ndlegis.gov",
+    "name": "Dori Hauck",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/dori-hauck"
+   },
+   {
+    "email": "tdressler@ndlegis.gov",
+    "name": "Ty Dressler",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/ty-dressler"
+   }
+  ],
+  "37": [
+   {
+    "email": "mlefor@ndlegis.gov",
+    "name": "Mike Lefor",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/mike-lefor"
+   },
+   {
+    "email": "vsteiner@ndlegis.gov",
+    "name": "Vicky Steiner",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/vicky-steiner"
+   }
+  ],
+  "38": [
+   {
+    "email": "cwolff@ndlegis.gov",
+    "name": "Christina Wolff",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/christina-wolff"
+   },
+   {
+    "email": "druby@ndlegis.gov",
+    "name": "Dan Ruby",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/dan-ruby"
+   }
+  ],
+  "39": [
+   {
+    "email": "kkempenich@ndlegis.gov",
+    "name": "Keith Kempenich",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/keith-kempenich"
+   },
+   {
+    "email": "mischatz@ndlegis.gov",
+    "name": "Mike Schatz",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/mike-schatz"
+   }
+  ],
+  "40": [
+   {
+    "email": "mbolinske@ndlegis.gov",
+    "name": "Macy Bolinske",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/macy-bolinske"
+   },
+   {
+    "email": "mruby@ndlegis.gov",
+    "name": "Matt Ruby",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/matthew-ruby"
+   }
+  ],
+  "41": [
+   {
+    "email": "jjohnson@ndlegis.gov",
+    "name": "Jorin Johnson",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/jorin-johnson"
+   },
+   {
+    "email": "kgrindberg@ndlegis.gov",
+    "name": "Karen Grindberg",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/karen-grindberg"
+   }
+  ],
+  "42": [
+   {
+    "email": "dosowski@ndlegis.gov",
+    "name": "Doug Osowski",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/doug-osowski"
+   },
+   {
+    "email": "dmcnally@ndlegis.gov",
+    "name": "Dustin McNally",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/dustin-mcnally"
+   }
+  ],
+  "43": [
+   {
+    "email": "emurphy@ndlegis.gov",
+    "name": "Eric Murphy",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/eric-james-murphy"
+   },
+   {
+    "email": "zmista@ndlegis.gov",
+    "name": "Zac Ista",
+    "party": "Democratic",
+    "url": "https://ndlegis.gov/biography/zachary-ista"
+   }
+  ],
+  "44": [
+   {
+    "email": "afoss@ndlegis.gov",
+    "name": "Austin Foss",
+    "party": "Democratic",
+    "url": "https://ndlegis.gov/biography/austin-foss"
+   },
+   {
+    "email": "krhanson@ndlegis.gov",
+    "name": "Karla Rose Hanson",
+    "party": "Democratic",
+    "url": "https://ndlegis.gov/biography/karla-rose-hanson"
+   }
+  ],
+  "45": [
+   {
+    "email": "cmcleod@ndlegis.gov",
+    "name": "Carrie McLeod",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/carrie-mcleod"
+   },
+   {
+    "email": "swagner@ndlegis.gov",
+    "name": "Scott Wagner",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/scott-wagner"
+   }
+  ],
+  "46": [
+   {
+    "email": "dmorton@ndlegis.gov",
+    "name": "Desiree Morton",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/desiree-morton"
+   },
+   {
+    "email": "jkasper@ndlegis.gov",
+    "name": "Jim Kasper",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/jim-kasper"
+   }
+  ],
+  "47": [
+   {
+    "email": "lklemin@ndlegis.gov",
+    "name": "Larry Klemin",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/lawrence-r-klemin"
+   },
+   {
+    "email": "mmotschenbacher@ndlegis.gov",
+    "name": "Mike Motschenbacher",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/mike-motschenbacher"
+   }
+  ],
+  "4A": [
+   {
+    "email": "lfinleydeville@ndlegis.gov",
+    "name": "Lisa Finley-DeVille",
+    "party": "Democratic",
+    "url": "https://ndlegis.gov/biography/lisa-finley-deville"
+   }
+  ],
+  "4B": [
+   {
+    "email": "cfegley@ndlegis.gov",
+    "name": "Clayton Fegley",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/clayton-fegley"
+   }
+  ],
+  "5": [
+   {
+    "email": "jayfisher@ndlegis.gov",
+    "name": "Jay Fisher",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/jay-fisher"
+   },
+   {
+    "email": "slouser@ndlegis.gov",
+    "name": "Scott Louser",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/scott-louser"
+   }
+  ],
+  "6": [
+   {
+    "email": "dvollmer@ndlegis.gov",
+    "name": "Dan Vollmer",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/daniel-r-vollmer"
+   },
+   {
+    "email": "dickanderson@ndlegis.gov",
+    "name": "Dick Anderson",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/dick-anderson"
+   }
+  ],
+  "7": [
+   {
+    "email": "jddockter@ndlegis.gov",
+    "name": "Jason Dockter",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/jason-dockter"
+   },
+   {
+    "email": "mheilman@ndlegis.gov",
+    "name": "Matt Heilman",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/matt-heilman"
+   }
+  ],
+  "8": [
+   {
+    "email": "mberg@ndlegis.gov",
+    "name": "Mike Berg",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/mike-berg"
+   },
+   {
+    "email": "solson@ndlegis.gov",
+    "name": "SuAnn Olson",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/suann-olson"
+   }
+  ],
+  "9": [
+   {
+    "email": "cbrown@ndlegis.gov",
+    "name": "Collette Brown",
+    "party": "Democratic",
+    "url": "https://ndlegis.gov/biography/collette-brown"
+   },
+   {
+    "email": "jdavis@ndlegis.gov",
+    "name": "Jayme Davis",
+    "party": "Democratic",
+    "url": "https://ndlegis.gov/biography/jayme-davis"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/nd.csv"
+ },
+ "state": "ND",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "bbekkedahl@ndlegis.gov",
+    "name": "Brad Bekkedahl",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/brad-bekkedahl"
+   }
+  ],
+  "10": [
+   {
+    "email": "rbraunberger@ndlegis.gov",
+    "name": "Ryan Braunberger",
+    "party": "Democratic",
+    "url": "https://ndlegis.gov/biography/ryan-braunberger"
+   }
+  ],
+  "11": [
+   {
+    "email": "tmathern@ndlegis.gov",
+    "name": "Tim Mathern",
+    "party": "Democratic",
+    "url": "https://ndlegis.gov/biography/tim-mathern"
+   }
+  ],
+  "12": [
+   {
+    "email": "cconley@ndlegis.gov",
+    "name": "Cole Conley",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/cole-conley"
+   }
+  ],
+  "13": [
+   {
+    "email": "jlee@ndlegis.gov",
+    "name": "Judy Lee",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/judy-lee"
+   }
+  ],
+  "14": [
+   {
+    "email": "jklein@ndlegis.gov",
+    "name": "Jerry Klein",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/jerry-klein"
+   }
+  ],
+  "15": [
+   {
+    "email": "kweston@ndlegis.gov",
+    "name": "Kent Weston",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/kent-weston"
+   }
+  ],
+  "16": [
+   {
+    "email": "dclemens@ndlegis.gov",
+    "name": "David Clemens",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/david-a-clemens"
+   }
+  ],
+  "17": [
+   {
+    "email": "jlsickler@ndlegis.gov",
+    "name": "Jonathan Sickler",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/jonathan-sickler"
+   }
+  ],
+  "18": [
+   {
+    "email": "scottmeyer@ndlegis.gov",
+    "name": "Scott Meyer",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/scott-meyer"
+   }
+  ],
+  "19": [
+   {
+    "email": "jmyrdal@ndlegis.gov",
+    "name": "Janne Myrdal",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/janne-myrdal"
+   }
+  ],
+  "2": [
+   {
+    "email": "menget@ndlegis.gov",
+    "name": "Mark Enget",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/mark-enget"
+   }
+  ],
+  "20": [
+   {
+    "email": "rlemm@ndlegis.gov",
+    "name": "Randy Lemm",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/randy-d-lemm"
+   }
+  ],
+  "21": [
+   {
+    "email": "khogan@ndlegis.gov",
+    "name": "Kathy Hogan",
+    "party": "Democratic",
+    "url": "https://ndlegis.gov/biography/kathy-hogan"
+   }
+  ],
+  "22": [
+   {
+    "email": "markweber@ndlegis.gov",
+    "name": "Mark Weber",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/mark-f-weber"
+   }
+  ],
+  "23": [
+   {
+    "email": "tbeard@ndlegis.gov",
+    "name": "Todd Beard",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/todd-beard"
+   }
+  ],
+  "24": [
+   {
+    "email": "mwobbema@ndlegis.gov",
+    "name": "Mike Wobbema",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/michael-a-wobbema"
+   }
+  ],
+  "25": [
+   {
+    "email": "lluick@ndlegis.gov",
+    "name": "Larry Luick",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/larry-luick"
+   }
+  ],
+  "26": [
+   {
+    "email": "dpatten@ndlegis.gov",
+    "name": "Dale Patten",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/dale-patten"
+   }
+  ],
+  "27": [
+   {
+    "email": "kroers@ndlegis.gov",
+    "name": "Kristin Roers",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/kristin-roers"
+   }
+  ],
+  "28": [
+   {
+    "email": "rerbele@ndlegis.gov",
+    "name": "Robert Erbele",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/robert-erbele"
+   }
+  ],
+  "29": [
+   {
+    "email": "tmwanzek@ndlegis.gov",
+    "name": "Terry Wanzek",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/terry-m-wanzek"
+   }
+  ],
+  "3": [
+   {
+    "email": "bpaulson@ndlegis.gov",
+    "name": "Bob Paulson",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/bob-paulson"
+   }
+  ],
+  "30": [
+   {
+    "email": "dlarson@ndlegis.gov",
+    "name": "Diane Larson",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/diane-larson"
+   }
+  ],
+  "31": [
+   {
+    "email": "dgschaible@ndlegis.gov",
+    "name": "Don Schaible",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/donald-schaible"
+   }
+  ],
+  "32": [
+   {
+    "email": "ddever@ndlegis.gov",
+    "name": "Dick Dever",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/dick-dever"
+   }
+  ],
+  "33": [
+   {
+    "email": "kboehm@ndlegis.gov",
+    "name": "Keith Boehm",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/keith-boehm"
+   }
+  ],
+  "34": [
+   {
+    "email": "jgerhardt@ndlegis.gov",
+    "name": "Justin Gerhardt",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/justin-gerhardt"
+   }
+  ],
+  "35": [
+   {
+    "email": "scleary@ndlegis.gov",
+    "name": "Sean Cleary",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/sean-cleary"
+   }
+  ],
+  "36": [
+   {
+    "email": "dvanoosting@ndlegis.gov",
+    "name": "Desiree Van Oosting",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/desiree-van-oosting"
+   }
+  ],
+  "37": [
+   {
+    "email": "drummel@ndlegis.gov",
+    "name": "Dean Rummel",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/dean-rummel"
+   }
+  ],
+  "38": [
+   {
+    "email": "dhogue@ndlegis.gov",
+    "name": "David Hogue",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/david-hogue"
+   }
+  ],
+  "39": [
+   {
+    "email": "gkessel@ndlegis.gov",
+    "name": "Greg Kessel",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/greg-kessel"
+   }
+  ],
+  "4": [
+   {
+    "email": "cwalen@ndlegis.gov",
+    "name": "Chuck Walen",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/chuck-walen"
+   }
+  ],
+  "40": [
+   {
+    "email": "jcastaneda@ndlegis.gov",
+    "name": "Jose Castaneda",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/jose-l-castaneda"
+   }
+  ],
+  "41": [
+   {
+    "email": "kdavison@ndlegis.gov",
+    "name": "Kyle Davison",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/kyle-davison"
+   }
+  ],
+  "42": [
+   {
+    "email": "clairecory@ndlegis.gov",
+    "name": "Claire Cory",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/claire-cory"
+   }
+  ],
+  "43": [
+   {
+    "email": "jbarta@ndlegis.gov",
+    "name": "Jeff Barta",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/jeff-barta"
+   }
+  ],
+  "44": [
+   {
+    "email": "jselzler@ndlegis.gov",
+    "name": "Jamie Selzler",
+    "party": "Democratic",
+    "url": "https://ndlegis.gov/biography/jamie-selzler"
+   }
+  ],
+  "45": [
+   {
+    "email": "rsorvaag@ndlegis.gov",
+    "name": "Ron Sorvaag",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/ronald-sorvaag"
+   }
+  ],
+  "46": [
+   {
+    "email": "mpowers@ndlegis.gov",
+    "name": "Michelle Powers",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/michelle-powers"
+   }
+  ],
+  "47": [
+   {
+    "email": "mdwyer@ndlegis.gov",
+    "name": "Mike Dwyer",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/michael-dwyer"
+   }
+  ],
+  "5": [
+   {
+    "email": "raburckhard@ndlegis.gov",
+    "name": "Randy Burckhard",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/randy-a-burckhard"
+   }
+  ],
+  "6": [
+   {
+    "email": "paulthomas@ndlegis.gov",
+    "name": "Paul Thomas",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/paul-j-thomas"
+   }
+  ],
+  "7": [
+   {
+    "email": "maxtman@ndlegis.gov",
+    "name": "Michelle Axtman",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/michelle-axtman"
+   }
+  ],
+  "8": [
+   {
+    "email": "jmagrum@ndlegis.gov",
+    "name": "Jeff Magrum",
+    "party": "Republican",
+    "url": "https://ndlegis.gov/biography/jeffery-j-magrum"
+   }
+  ],
+  "9": [
+   {
+    "email": "rmarcellais@ndlegis.gov",
+    "name": "Richard Marcellais",
+    "party": "Democratic",
+    "url": "https://ndlegis.gov/biography/richard-marcellais"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

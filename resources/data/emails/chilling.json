@@ -1,0 +1,602 @@
+[
+  {
+    "id": "chilling-001",
+    "angle": "chilling",
+    "subject": "What worries me is what a reader records",
+    "body": "Dear {{officialName}},\n\nI keep coming back to a thought I cannot shake. A plate reader does not really record cars. It records where people were, since a car parked outside a building for an hour is a fair proxy for a person inside that building for an hour.\n\nThat worries me because of what buildings are. Clinics have parking lots. So do houses of worship, union halls, the offices of lawyers, and the rooms where people meet to argue about wages.\n\nI am not suggesting anyone has misused the {{readersWithinMile}} readers within a mile of {{shortName}}. What unsettles me is that the archive exists and could be read that way later, by people who did not build it and never explained why they wanted it.\n\nAs a student here, I would like to see the readers around campus come down, with none installed in their place. I would be grateful to know your view."
+  },
+  {
+    "id": "chilling-002",
+    "angle": "chilling",
+    "subject": "A question about places the readers leave alone",
+    "body": "Dear {{officialName}},\n\nA narrow question, and I would be glad of a narrow answer. Is there any category of location near {{shortName}} where plate data is not collected, or where reads are dropped before they are stored?\n\nI ask because the equipment does not seem to distinguish between a road that leads everywhere and a road that leads to one building. Where a single driveway serves a clinic or a house of worship, a reader at its mouth would work as a sign in sheet whether or not anyone intended that.\n\nIf no such exclusions exist, then the system logs attendance at every kind of place, and it does so by default rather than by anyone's decision. That is the part I find hard to sit with as a student here.\n\nI would like the readers around campus removed and no new ones authorized. Would you tell me whether you could support that?"
+  },
+  {
+    "id": "chilling-003",
+    "angle": "chilling",
+    "subject": "Archives outlast the people who approve them",
+    "body": "Dear {{officialName}},\n\nWhat bothers me most about the readers near {{shortName}} is a matter of timing. Policies governing plate data are written by whoever holds office now. The data outlives them. Whatever retention rule applies today could be rewritten by a council or a chief who takes office later, and the material they inherit will already have been collected.\n\nA safeguard is a promise about the future made by people who will not be around for it. The record is the only durable object in the whole arrangement, and that asymmetry unsettles me.\n\nRewriting a rule takes a vote. Deleting a database that has already been copied takes considerably more than that, and I doubt anyone tries.\n\nI would rather the collection stopped. As a student here I would like the readers around campus removed with no replacements approved, and I would appreciate knowing where you stand."
+  },
+  {
+    "id": "chilling-004",
+    "angle": "chilling",
+    "subject": "Who decides what the plate archive may answer",
+    "body": "Dear {{officialName}},\n\nSuppose the readers near {{shortName}} stay where they are. Someone will eventually decide which questions the stored data may be asked. I would like to know who that person is, and whether the list of permitted questions is written down anywhere a resident can read.\n\nProcess worries me more than hardware, because a plate log answers whatever question you put to it. Ask where a car was on a given night and you learn something about travel. Query the same archive for every plate outside one address on the same evening for a year and you learn something about association.\n\nNothing in the equipment separates those two requests. Only a policy does, and policies are easier to change than cameras are to install.\n\nI am one student writing one letter, and my hope is that the readers come out and none replace them. Where do you land?"
+  },
+  {
+    "id": "chilling-005",
+    "angle": "chilling",
+    "subject": "Attendance changes once someone starts logging it",
+    "body": "Dear {{officialName}},\n\nThe effect I worry about does not require anyone to misuse anything. It only requires people to know that a record is being kept.\n\nBehavior changes under a log. Someone who would have driven to a meeting takes a bus instead, or does not go at all. None of that shows up as a complaint to your office, because nobody was stopped and nobody was charged. The cost lands quietly and gets counted nowhere.\n\nWith {{readersWithinMile}} readers within a mile of {{shortName}}, a student can reasonably assume that most trips off campus are written down somewhere. Whether the assumption is exactly right matters less to me than the fact that it is not unreasonable.\n\nRemoving the readers and approving no new ones would settle the question. I would appreciate hearing whether you see it that way, and if not, what I am missing."
+  },
+  {
+    "id": "chilling-006",
+    "angle": "chilling",
+    "subject": "One observation about readers and where people meet",
+    "body": "Dear {{officialName}},\n\nHere is the whole of what worries me, and I will not pad it.\n\nA plate reader records that a car was at a place. Places are where people meet. A log of one is therefore a log of the other, and no version of the technology separates them. Nobody's intent enters into it, which is why assurances about intent do not reach the thing I am worried about.\n\nMuch else about these systems is arguable. That part does not seem to me to be.\n\nI am a student at {{shortName}} and I would like the readers around campus taken down, with no new ones purchased. One line telling me whether you could support that would be enough, and I would rather have a short honest answer than a long careful one. Thank you for reading this far."
+  },
+  {
+    "id": "chilling-007",
+    "angle": "chilling",
+    "subject": "Permanent records press harder on some drivers",
+    "body": "Dear {{officialName}},\n\nRecords of movement do not weigh the same on everyone caught by them, and that unevenness is what I find hardest. For most drivers near {{shortName}} it will never come up once. Drivers who are already asked more often to account for where they have been inherit one more thing waiting to be produced.\n\nThe asymmetry seems built into the arrangement rather than added to it by anyone behaving badly. The archive itself is indifferent. What gets done with it depends on who is already being looked at, and attention is not distributed evenly in {{city}} or anywhere else.\n\nI would rather the question did not arise. As a student here, my hope is that the readers around campus come out and that no replacements are approved. Would you tell me plainly whether removal is something you could support?"
+  },
+  {
+    "id": "chilling-008",
+    "angle": "chilling",
+    "subject": "Where does the plate data physically live",
+    "body": "Dear {{officialName}},\n\nBefore the next renewal, I would like to understand where the plate data physically lives. If reads collected near {{shortName}} sit on a vendor's servers rather than the city's, then the retention rule that matters is the vendor's, and a contract is the only thing standing between residents and whatever that company decides to do next.\n\nCompanies get sold. Terms get revised at the convenience of the party revising them. A record of who parked outside a house of worship every week does not become less sensitive because the logo on the login page changed.\n\nThat is what worries me, and I say it as a student rather than as anyone with expertise in contracts. The safest arrangement seems to me to be not holding the material at all. I would like the readers around campus removed and none added. If you disagree, I would genuinely like to hear the reasoning."
+  },
+  {
+    "id": "chilling-009",
+    "angle": "chilling",
+    "subject": "Is every search of the archive recorded",
+    "body": "Dear {{officialName}},\n\nTwo systems can hold identical data and still be very different things. What separates them is whether anyone can see who searched, and I have not been able to find out which kind this is.\n\nSo: is every query against the reads collected near {{shortName}} recorded with the name of the person asking and the reason they gave? Can a resident ever learn that their own plate was pulled, and by whom?\n\nI ask because an archive nobody audits depends entirely on the judgment of everyone who will ever hold a login. Over the life of a system that is a large and changing group of people, and that is what makes me uneasy.\n\nThe alternative I prefer is simpler. Remove the readers around campus, authorize no new ones, and a student like me has nothing left to worry about. Could you tell me your position?"
+  },
+  {
+    "id": "chilling-010",
+    "angle": "chilling",
+    "subject": "Patterns trouble me more than single sightings",
+    "body": "Dear {{officialName}},\n\nOne read tells you almost nothing. A car passed a corner. The value of these systems, and the part that troubles me, comes entirely from accumulation.\n\nSame plate, same lot, one evening a week, for a year. That is not a location. It is a habit, and habits can reveal what a person believes or what they are being treated for, without anyone having to ask.\n\nThe {{readersWithinMile}} readers within a mile of {{shortName}} are individually unremarkable. Taken together, over months, they produce something no resident applied for and no resident agreed to.\n\nSpeaking as one student, I would like them removed and none installed to replace them. Your position, stated in a sentence, would help me more than you might expect."
+  },
+  {
+    "id": "chilling-011",
+    "angle": "chilling",
+    "subject": "How long are plate reads near campus kept",
+    "body": "Dear {{officialName}},\n\nRetention seems to me the whole argument. A system that forgets within a day is a tool for finding a stolen car. One that remembers for years is a searchable history of where residents go, and the hardware is identical in both cases.\n\nI have not been able to find the retention period for reads collected near {{shortName}}, whether it sits in the contract or in departmental policy, or who can extend it without a public vote. I would like to know.\n\nEven a short period seems to have a catch. Any read attached to a case or shared with another agency escapes the schedule and lives wherever it lands, for as long as that place keeps things.\n\nRather than manage all of that, I would rather the readers around campus came out with no new ones approved. As a student here, I would be grateful for your position."
+  },
+  {
+    "id": "chilling-012",
+    "angle": "chilling",
+    "subject": "Collection outlives the reason given for it",
+    "body": "Dear {{officialName}},\n\nPlate readers are usually justified by a particular problem, and problems end. The reads do not. A file collected to help find stolen cars sits in storage long after the case that prompted it closed, available to anyone with a login and a fresh idea about what to look for.\n\nThat gap between purpose and persistence is where my discomfort lives. No student near {{shortName}} agreed to a permanent record of their movements. They agreed at most to a tool for a stated purpose, and the tool keeps working after the purpose is gone.\n\nWhat I am asking is that the readers around campus come out and that none are approved to replace them. If there is an argument for keeping them that I have not understood, I would like to hear it. Either way, a direct answer would mean a lot."
+  },
+  {
+    "id": "chilling-013",
+    "angle": "chilling",
+    "subject": "Are there buffer zones around sensitive addresses",
+    "body": "Dear {{officialName}},\n\nMany rules about cameras include a carve out for places where mere presence is revealing. I have been trying to find out whether anything like that applies to the plate readers near {{shortName}}.\n\nWhat I have in mind is the driveway of a medical office, the lot behind a house of worship, the parking a union hall shares with the businesses around it, and the visitor spaces outside a defense attorney's building. A reader does not need to be aimed at any of those to capture who came and went, because there is usually one road in.\n\nIf no carve out exists, then the honest description is that the system logs attendance everywhere, and the only limit is where the cameras happen to sit. That prospect worries me as a student who drives past several of them.\n\nRemoval around campus, with none added, is what I am hoping for. Will you say whether you agree?"
+  },
+  {
+    "id": "chilling-014",
+    "angle": "chilling",
+    "subject": "The discouraging effect does not need a working camera",
+    "body": "Dear {{officialName}},\n\nWhat gets lost in arguments about accuracy is that the discouraging effect does not depend on the system working. A person who believes their trips are logged behaves as though they are, whether or not the camera at the end of the block was running that night.\n\nThat belief is easy to arrive at and hard to argue anyone out of. Readers near {{shortName}} are visible from the road, and their positions are no secret.\n\nSo the part that worries me costs the city nothing to produce and appears in no report. Fewer students go to the meeting. Nobody can prove why, and nobody files anything about it.\n\nI would like the readers removed and no new ones authorized. Could you tell me whether that is something you would consider supporting?"
+  },
+  {
+    "id": "chilling-015",
+    "angle": "chilling",
+    "subject": "Which outside agencies can query the campus reads",
+    "body": "Dear {{officialName}},\n\nCould you find out how many other agencies are able to run a query against reads collected near {{shortName}}? Not how many do, but how many can. I have tried to establish this myself and got nowhere.\n\nMy guess is that the list is longer than residents assume, because sharing arrangements tend to be made at staff level and rarely come back for a vote. Once a read leaves the system it was collected in, the retention policy the council approved stops applying to it.\n\nReach is what concerns me rather than any particular partner. An archive of who parked where, searchable by parties {{city}} does not control, feels like a different animal from a local tool with a local purpose.\n\nAs a student I would rather see the readers around campus removed and none authorized. Would you state your position on that?"
+  },
+  {
+    "id": "chilling-016",
+    "angle": "chilling",
+    "subject": "Plainly, what I think these systems collect",
+    "body": "Dear {{officialName}},\n\nStrip the vocabulary away and the system does one thing. It writes down which cars were near which buildings, and it keeps the writing.\n\nEvery other description seems to me downstream of that. Public safety tool, investigative aid: both are accounts of what somebody intends to do with the writing rather than accounts of what the writing is.\n\nOnce you hold a record of which cars were outside which buildings, you hold a record of who attends what. I do not think policy changes that. Policy governs who gets to read it and for how long, and policy is rewritten all the time.\n\nSo I would rather it not be written down at all. I am a student at {{shortName}} and I hope you will support taking the readers out around campus and approving none to replace them. Would you let me know?"
+  },
+  {
+    "id": "chilling-017",
+    "angle": "chilling",
+    "subject": "A data policy cannot bind a future administration",
+    "body": "Dear {{officialName}},\n\nEvery assurance about plate data seems to carry an expiration date tied to the person giving it. A strict access policy written today can be loosened by a successor, and material collected under the current rule will still be sitting there when that happens.\n\nI am not suggesting anyone in office now has done anything wrong. My worry is structural. A safeguard is a document, an archive is an asset, and assets tend to outlast documents by a wide margin.\n\nGiven that, the decision in front of you is partly about what to leave behind. A record of movements around {{shortName}} will be inherited by people whose priorities none of us can predict.\n\nI would rather leave them nothing to inherit. As a student here I hope you will support removal with no new readers approved, and I would be grateful for your position in writing."
+  },
+  {
+    "id": "chilling-018",
+    "angle": "chilling",
+    "subject": "What parking outside a lawyer's office now records",
+    "body": "Dear {{officialName}},\n\nLet me put one narrow case, since the general worry turns abstract quickly.\n\nA person visits an attorney. The conversation inside is privileged, and everyone agrees it should be. Nothing protects the fact of the visit, and a reader at the end of the street logs it about as reliably as a signature in a visitor book.\n\nProtection therefore covers the contents and leaves the association exposed. Much the same holds for a clinic, or a hall where people meet to organize their workplace. Presence is the sensitive fact in each case, and presence is exactly what these systems collect.\n\nThat is the piece I keep turning over. As a student at {{shortName}} I would like the readers around campus removed and no further ones approved. Please tell me whether you agree, or why you see it differently."
+  },
+  {
+    "id": "chilling-019",
+    "angle": "chilling",
+    "subject": "Logs record cars and get read as people",
+    "body": "Dear {{officialName}},\n\nDefenders of plate readers make a technical point that is true and, I think, beside the point. These systems track vehicles rather than people.\n\nNobody uses them that way. A plate gets looked up precisely because it leads to a registered owner, and the worth of a hit is that it places a person somewhere at a time. Treating the distinction as a privacy protection asks residents to pretend the last step of every query does not happen.\n\nOnce you accept that a vehicle log is a person log, the question changes shape. What sits on the table is a running record of who was where, held indefinitely, around {{shortName}} and across {{state}}.\n\nI am a student and this is the part that unsettles me. I would like removal, with no new installations. Where do you stand?"
+  },
+  {
+    "id": "chilling-020",
+    "angle": "chilling",
+    "subject": "Has removal ever been considered at all",
+    "body": "Dear {{officialName}},\n\nHas anyone on the council asked what would happen if the readers near {{shortName}} simply came out?\n\nThe debate always seems to run between keeping the current system and enlarging it. Removal rarely gets costed or discussed, which makes the permanence feel like something nobody decided on purpose.\n\nMy reason for wanting them gone is narrow. A record of where cars stop is a record of what people attend, and that record will exist long after the reason for building it has been forgotten. Nothing about the equipment confines it to the purposes described when it was bought.\n\nSo I am asking, as one student with one letter, that the readers around campus be taken down and that no new ones be approved. Would you tell me whether that is a position you could support?"
+  },
+  {
+    "id": "chilling-021",
+    "angle": "chilling",
+    "subject": "Can new reader locations be added without a vote",
+    "body": "Dear {{officialName}},\n\nWhen a new reader gets mounted somewhere in {{city}}, does that take a vote, or is it handled administratively? I have not been able to work it out from the public material.\n\nMy interest here is not procedural pedantry. Placement seems to me the entire privacy question. A camera on a highway ramp collects travel. Mount one at the entrance of a lot shared by a clinic and a meeting hall and it collects attendance, with nothing but the address separating the two cases.\n\nIf placement decisions sit with staff, then the question of what gets recorded about residents has been delegated, and the delegation is effectively permanent because the resulting archive is.\n\nI would prefer the simpler outcome. As a student here I hope the readers around {{shortName}} come out with none to replace them. Could you let me know whether you would vote that way?"
+  },
+  {
+    "id": "chilling-022",
+    "angle": "chilling",
+    "subject": "Not every driver near campus is a student",
+    "body": "Dear {{officialName}},\n\nEnrollment is not the only thing a reader captures near {{shortName}}. Custodians, adjunct instructors, food service workers, and visiting relatives park in the same places and land in the same log.\n\nSuch drivers tend to have less room to absorb attention from whichever agency later asks for the file. A record that is a curiosity for one person can be a liability for another, and the equipment cannot tell them apart at the moment of collection.\n\nI am not suggesting anyone has singled anybody out. What worries me, as a student who parks in those same lots, is that the archive gets built without regard to who carries the risk of its existence, and that risk is not evenly held.\n\nRemoval, with no new readers approved afterward, seems to me the honest response. I would be glad to hear your view, including if it differs from mine."
+  },
+  {
+    "id": "chilling-023",
+    "angle": "chilling",
+    "subject": "What happens to the reads if the contract lapses",
+    "body": "Dear {{officialName}},\n\nSuppose {{city}} ended its agreement tomorrow. What would become of the reads already collected near {{shortName}}?\n\nContracts usually say something about this, and the something is usually vague. Deletion may be promised, but promises about deletion are hard to verify from outside, and backups are not always covered by them. A copy held by a subcontractor is still a copy.\n\nI raise it because it bears on how permanent this decision really is. If the archive survives the contract that produced it, then approving readers is closer to a one way door than to a renewable choice, and that thought is what keeps me writing.\n\nMy hope, as a student here, is that we stop before the door swings further. I would like the readers around campus gone and no new ones approved, and I would be glad to hear whether you agree."
+  },
+  {
+    "id": "chilling-024",
+    "angle": "chilling",
+    "subject": "A weekly list of cars outside a house of worship",
+    "body": "Dear {{officialName}},\n\nA record of which cars park outside a house of worship every week exists whether or not anybody asks for it. Collection does not wait for a request. The request comes later, if it comes at all, and by then the list is already complete and covers the whole period.\n\nThat property is the one I would ask you to sit with, because it is the one I cannot argue myself out of. Everything else, including who currently has access and what they use it for, can change without anyone's permission. The list cannot be unmade.\n\nSo my request is that the readers around {{shortName}} be removed and that no new ones be installed. I am not asking for a study or a working group. A yes or a no on removal, with your reasoning, is what this student is hoping for."
+  },
+  {
+    "id": "chilling-025",
+    "angle": "chilling",
+    "subject": "Warrants are targeted and this collection is not",
+    "body": "Dear {{officialName}},\n\nInvestigators have always been able to learn where a person was. What they had to do first was persuade a judge that this particular person was worth following.\n\nStanding collection seems to invert that order. Everyone is followed by default, and the persuasion happens afterward, if at all, when somebody decides which stored trips to look at. The {{readersWithinMile}} readers near {{shortName}} do not care whether anyone is suspected of anything.\n\nMy unease is with the inversion rather than with police work, which I am in no position to judge. Reversing it looks straightforward, since it means only declining to collect from people nobody has any reason to follow.\n\nI hope you will support removing the readers around campus and approving none in their place. A reply from you would be welcome, and a student here would read a disagreement carefully."
+  },
+  {
+    "id": "chilling-026",
+    "angle": "chilling",
+    "subject": "Being innocent does not keep you out of the log",
+    "body": "Dear {{officialName}},\n\nEvery driver in the archive is presumed innocent, and every driver is in the archive regardless. Those two facts sit together uncomfortably in my head.\n\nA person who has broken no law still generates a full account of where they stopped and for how long. Nothing in that account is evidence. It is raw material, and raw material turns into evidence when somebody with a theory goes looking through it.\n\nWhat bothers me is that being blameless offers no protection whatsoever against being in the file. Around {{shortName}} the readers do not filter, and I doubt any workable system could.\n\nI am a student here and I would like them removed with no new ones approved. A short answer telling me whether you could support that would be welcome."
+  },
+  {
+    "id": "chilling-027",
+    "angle": "chilling",
+    "subject": "Is there any public accounting of how searches happen",
+    "body": "Dear {{officialName}},\n\nDoes the department publish anything about how the plate system actually gets used? Not material about outcomes, but a plain accounting of who ran searches and under what authority.\n\nWithout that, the council is approving a capability rather than a practice, and only the practice can really be judged. A student near {{shortName}} has no way to tell a carefully governed archive from a loosely governed one, and I am not sure the council has a much better view of it than I do.\n\nMy own conclusion is that the safest archive is the one that was never assembled. I hope you will support removing the readers around campus and installing none to replace them.\n\nIf you would rather defend the system, I would genuinely like to read the defense. Either way, a reply would mean something to me."
+  },
+  {
+    "id": "chilling-028",
+    "angle": "chilling",
+    "subject": "Today's ordinary trip may be tomorrow's question",
+    "body": "Dear {{officialName}},\n\nLaws change more often than databases get purged. A trip that raises no question this year may become interesting to some agency later, and the record of it will already be in hand, complete and timestamped.\n\nThat thought applies with particular force to medical appointments and to meetings about work, both of which are lawful now and both of which have been contested at other times. Anyone storing years of movement is storing the answer to a question nobody has asked yet.\n\nNone of that requires bad faith from a single person in {{city}}. It requires only time, which is why reassurance about present intentions does not reach it.\n\nAs a student at {{shortName}} I would like the readers removed and no new ones approved. Would you tell me whether you could support that, and if not, what you would support instead?"
+  },
+  {
+    "id": "chilling-029",
+    "angle": "chilling",
+    "subject": "How many people hold a login to the system",
+    "body": "Dear {{officialName}},\n\nCould you ask how many people currently hold credentials to search plate data covering {{shortName}}? Contractors and partner agencies included, because credentials determine exposure far more than headcount at the department does.\n\nThe reason I ask is that every login is a person who can, on any given afternoon, pull the history of one car outside one building. Policy sets what they should do. Access sets what they are able to do, and the gap between those two is where my worry sits.\n\nShrinking the number of logins would help. Ending the collection would help more, since a record that was never made cannot be pulled by anybody at all.\n\nThat is what I am hoping for around campus, with no new readers approved afterward. I am one student, and I would still be grateful to know where you stand."
+  },
+  {
+    "id": "chilling-030",
+    "angle": "chilling",
+    "subject": "Nothing to hide seems the wrong test to me",
+    "body": "Dear {{officialName}},\n\nThe usual reply to worries like mine is that a person with nothing to hide has nothing to fear. Set aside whether that holds. It seems to me to answer a question nobody asked.\n\nMy concern is about attendance rather than concealment. Where a student goes on a Sunday, or on the evening a union meets, is not hidden in any guilty sense. Such trips are simply nobody's business by default, and a permanent log converts them into somebody's business permanently.\n\nSo I hope you will support removing the readers around {{shortName}} and approving no new ones. If you think the tradeoff is worth making, say so and I will take the answer seriously. I would rather have an honest disagreement than no reply at all."
+  },
+  {
+    "id": "chilling-031",
+    "angle": "chilling",
+    "subject": "Graduates leave and the record stays behind",
+    "body": "Dear {{officialName}},\n\nStudents leave after a few years. Their reads do not leave with them, and that is a small thing that has stayed with me.\n\nWhatever was collected around {{shortName}} stays in the system, attached to a plate that may later belong to somebody else entirely, in a city the original driver has not lived in for a decade. I doubt records of that age get reviewed, and I doubt anyone has much incentive to correct errors in them.\n\nA log of who attended what, held that long, seems a strange thing for a city to own. Its operational value looks close to nothing after the first year. What it has instead is durability.\n\nI would rather it did not accumulate. Please consider supporting removal around campus with no replacements approved, and let me know your position."
+  },
+  {
+    "id": "chilling-032",
+    "angle": "chilling",
+    "subject": "Can a resident see their own entries",
+    "body": "Dear {{officialName}},\n\nCan a person in {{city}} find out what the plate system holds about them? Not whether a search was run, though I would like that too, but simply the list of reads tied to their own vehicle.\n\nIf the answer is no, then residents are the only party to this arrangement who cannot see it. Everyone holding a login knows more about a student's movements than the student does, which strikes me as an unusual shape for a public record to take.\n\nShould the answer turn out to be yes, I would still wonder why the collection happens at all for people nobody is investigating.\n\nEither way my hope is the same. I would like the readers around {{shortName}} removed and no new ones approved. Would you tell me where you stand?"
+  },
+  {
+    "id": "chilling-033",
+    "angle": "chilling",
+    "subject": "Statewide totals are what surprised me most",
+    "body": "Dear {{officialName}},\n\nThere are {{readersInState}} plate readers across {{state}}, and that figure changed how I think about this. The relevant unit is no longer a camera on a corner. It is a network, and a network turns scattered sightings into an itinerary.\n\nAn itinerary is where the sensitive material shows up. Which building, and how often. Neither of those is inferred from any single read. Both fall out of the collection automatically once the reads are put side by side.\n\nThe readers around {{shortName}} are a small share of that total and a large share of what students actually encounter. I would like them taken out, with no new ones approved, and I would like to know whether you see it differently."
+  },
+  {
+    "id": "chilling-034",
+    "angle": "chilling",
+    "subject": "Picture the file a year of reads produces",
+    "body": "Dear {{officialName}},\n\nWhat I would ask you to picture is the file rather than the camera. A year of reads for one vehicle is a document that reads like a calendar, with the same lot on the same weekday evening and a medical office in one season.\n\nNobody set out to write that document. It falls out of the collection automatically, and one exists for every plate that passes a reader near {{shortName}}, including the plates of students who will never be suspected of anything.\n\nWhen a council approves these systems, that file is the thing being approved. Cameras are only how it gets written, and the file is what worries me.\n\nI would like the readers around campus removed and no new ones installed. Could I have your position on that?"
+  },
+  {
+    "id": "chilling-035",
+    "angle": "chilling",
+    "subject": "Does the contract let the city walk away",
+    "body": "Dear {{officialName}},\n\nBefore the next vote, I wish someone would read the termination clause aloud. Can {{city}} end the arrangement and require deletion, or would ending it merely stop new collection while the stored reads stay where they are?\n\nThat distinction decides whether removal is genuinely available to you. A council able to switch off cameras but unable to reach the archive has less control than it appears to have, and students around {{shortName}} would be better off knowing which situation this is.\n\nAssuming the clause is workable, I hope you would use it. Take the readers out and approve no new ones. If the clause is not workable, that strikes me as a strong reason not to sign another one.\n\nI would appreciate hearing which of those we are in, and what you think should happen next."
+  },
+  {
+    "id": "chilling-036",
+    "angle": "chilling",
+    "subject": "Lawful meetings can still carry a social cost",
+    "body": "Dear {{officialName}},\n\nPlenty of lawful activity carries a cost if the wrong person learns of it. Attending a meeting about pay at work is legal and can still make somebody's job harder. Sitting in the lot of a treatment center is legal and is nobody's business.\n\nWhat a plate reader captures is the attendance rather than the activity, and for these purposes the address supplies the rest.\n\nSo the harm I am worried about does not depend on anything unlawful happening. It depends only on the record existing and on somebody eventually reading it, which is what records are for.\n\nI am a student at {{shortName}} and I would like the readers around campus removed with none approved to replace them. Would you tell me whether you agree, or explain why the tradeoff looks acceptable to you?"
+  },
+  {
+    "id": "chilling-037",
+    "angle": "chilling",
+    "subject": "Rules written after collection arrive too late",
+    "body": "Dear {{officialName}},\n\nRules about plate data usually arrive after the data does, and that order is what troubles me. It means the first years of collection run under whatever practices the vendor and the department settled between themselves.\n\nBy the time a council writes a policy there is already an archive to govern, and governing an archive is a much weaker act than declining to build one. Deletion of material already gathered near {{shortName}} rarely reaches an agenda, and a policy that starts from today leaves everything before today alone.\n\nI would rather not add another year to that pile. My hope is that the readers around campus come out and that no new ones are approved.\n\nIf you think a strong policy is the better route, I would like to hear why, and what it would say about the reads already gathered. I am a student here and I would read the answer carefully."
+  },
+  {
+    "id": "chilling-038",
+    "angle": "chilling",
+    "subject": "Drivers cannot inspect the system that watches them",
+    "body": "Dear {{officialName}},\n\nOne side of this arrangement is visible and the other is not. A reader takes in every plate that passes. Drivers cannot see what it kept or who has looked at the result.\n\nThat asymmetry is, I think, why people quietly adjust their habits instead of complaining. Complaining requires knowing something happened to you. Adjusting requires only suspecting it might, and suspicion comes cheap when the equipment is bolted to a pole in plain view near {{shortName}}.\n\nA system nobody outside it can inspect is one nobody outside it can check, and checking is the only thing that would make me trust it.\n\nAs a student here I would like removal around campus with no new installations. I would be grateful for a plain statement of your position, even if it runs against mine."
+  },
+  {
+    "id": "chilling-039",
+    "angle": "chilling",
+    "subject": "Are houses of worship treated any differently",
+    "body": "Dear {{officialName}},\n\nHere is a question I have not been able to find answered anywhere.\n\nAre houses of worship, clinics, union halls, or the offices of attorneys treated any differently by the plate system near {{shortName}}? Is collection suspended on the roads that serve them, or are reads from those roads deleted sooner than the rest?\n\nIf the answer is that no location receives special handling, then what the council has approved is a weekly attendance list for every such place within range. Nobody has to intend that outcome for it to be the outcome, which is the part that unsettles me.\n\nSince I suspect the answer is no, I hope you will support removing the readers around campus and approving none to replace them. A short reply to a student would be enough."
+  },
+  {
+    "id": "chilling-040",
+    "angle": "chilling",
+    "subject": "Whoever signs the next renewal inherits everything",
+    "body": "Dear {{officialName}},\n\nWhoever signs the next renewal inherits everything collected under the last one. That is the quiet feature of these programs, and it is the one I find hardest to look past. Each term hands the following term a larger archive and a stronger argument that the investment has already been made.\n\nSo the decision compounds. A council that keeps readers near {{shortName}} does more than extend a service for another term. It enlarges a permanent record of who went where, then passes that record to officials none of us has met.\n\nBreaking the cycle takes one vote. Taking out the readers around campus and approving no new ones would stop the archive growing.\n\nI am a student here, and I would like to know whether you would cast that vote, and if not, what would change your mind."
+  },
+  {
+    "id": "chilling-041",
+    "angle": "chilling",
+    "subject": "Two plates in one lot become a connection",
+    "body": "Dear {{officialName}},\n\nOne feature of these archives gets very little attention, and it is the one I think about most. Where two plates keep appearing at the same address within the same hour, a search can link the two owners without either of them ever being named in a complaint.\n\nAssociation is what that produces. Who meets whom, and how regularly. A tool sold as a way to recover stolen cars doubles as a way to chart who spends time with whom near {{shortName}}.\n\nNo new capability has to be purchased for any of that. The data already supports it, and somebody only has to think of the query.\n\nWhich is why I would rather the data not sit there. As a student here I hope you will support removing the readers around campus and adding none. Could you tell me your position?"
+  },
+  {
+    "id": "chilling-042",
+    "angle": "chilling",
+    "subject": "Exceptions for urgent cases tend to grow",
+    "body": "Dear {{officialName}},\n\nMost access policies include an exception for urgent situations, and the exception is usually reasonable on its face. Over time it can also become the ordinary route, because urgency is easy to assert and awkward to review afterward.\n\nApplied to plate data, that would mean the written rule about what the archive near {{shortName}} may be searched for describes the formal path rather than the common one. An audit would tell you which is which. Without one, the council is relying on a document instead of on knowledge, and so am I.\n\nI would rather depend on neither. If the readers around campus came out and none were approved in their place, the question of exceptions would not arise.\n\nWould you say whether that has your support? I am a student here and a short answer would do."
+  },
+  {
+    "id": "chilling-043",
+    "angle": "chilling",
+    "subject": "Assembly leaves a parking record behind",
+    "body": "Dear {{officialName}},\n\nPeople who gather to make a point about government have to park somewhere. Where they parked is now written down, along with the hour and the day, by equipment that has no idea what the gathering concerned.\n\nThat record is available to whoever holds the archive, for as long as the archive is held. It is also available to future officials who may take a different view of the gathering than you would.\n\nNone of this requires anyone in {{city}} to behave improperly, which is exactly why I cannot argue myself into being reassured. The capability exists on its own, and capabilities outlast the intentions of the people who bought them.\n\nSo I hope you will support removing the readers around {{shortName}} and approving no new ones. A student here would be glad of a reply either way."
+  },
+  {
+    "id": "chilling-044",
+    "angle": "chilling",
+    "subject": "Nobody was asked and nobody can decline",
+    "body": "Dear {{officialName}},\n\nDriving is not consent to a permanent record, and there is no way to opt out of one in any case. A person who dislikes the arrangement can walk, which is barely a choice in a city built around cars.\n\nCollection near {{shortName}} therefore reaches everyone, including people who would refuse if refusing were on offer. That seems to me to deserve weight when the council weighs benefit against imposition, since the imposition falls on people who never got a say in it.\n\nMy own answer is that the benefit does not justify it, though I hold that as a student's opinion rather than an expert's. I would like the readers around campus removed and no new ones approved.\n\nWhere do you come out? A brief answer would do."
+  },
+  {
+    "id": "chilling-045",
+    "angle": "chilling",
+    "subject": "What standard must an outside agency meet",
+    "body": "Dear {{officialName}},\n\nWhen an agency outside {{city}} wants reads from the system covering {{shortName}}, what must it show? A warrant, or a written request from somebody with the right title?\n\nThe answer determines how much the local policy is actually worth. An archive reachable by request rather than by order is governed in practice by whoever asks most politely, and the residents inside it have no standing in that conversation.\n\nYou may find the answer reassuring. I think I would still want the collection stopped, because a standard that is adequate today can be relaxed later without any of us hearing about it.\n\nI hope you will support removing the readers around campus and installing no new ones. As a student I would appreciate a direct reply, and I will read a disagreement carefully."
+  },
+  {
+    "id": "chilling-046",
+    "angle": "chilling",
+    "subject": "Databases that exist can escape",
+    "body": "Dear {{officialName}},\n\nAny stored collection can escape, whether through error or through a records request broader than anyone expected. I mean that as a property of storage rather than a prediction about {{city}}.\n\nWhat makes plate data awkward in this respect is its content. A loose spreadsheet of movements is a loose list of who attends what, and the people most exposed would be those whose attendance was nobody's business to begin with.\n\nRisk of that kind can be reduced by careful practice. Removing it seems to require not holding the data at all.\n\nI would take the second route around {{shortName}}, which means taking the readers out and approving no new ones. Would you tell me whether you agree, and if not, what level of exposure a student here should consider acceptable?"
+  },
+  {
+    "id": "chilling-047",
+    "angle": "chilling",
+    "subject": "A public street does not make a public history",
+    "body": "Dear {{officialName}},\n\nThe standard reply is that anyone can see a car on a public street, so recording it changes nothing. Presence in public has always been observable and has also always been forgotten, and forgetting is the part that has changed.\n\nAn observer on a corner sees one car once. Equipment that never forgets produces a history, and a history of stops is a history of attendance. Scale converts something harmless into something else, with no point in the middle where it announces the conversion.\n\nAround {{shortName}} that history is being written continuously, for every student who drives and for everyone else besides.\n\nI think it should stop. Remove the readers, approve no new ones, and I would be grateful to hear whether you could support that."
+  },
+  {
+    "id": "chilling-048",
+    "angle": "chilling",
+    "subject": "Has the council seen a sample of the output",
+    "body": "Dear {{officialName}},\n\nBefore the next vote, I would ask to see what the system produces for a single plate over a long period. Not a demonstration of a hit on a stolen vehicle, but the ordinary output for an ordinary driver who has done nothing at all.\n\nMy expectation is that it reads less like a traffic record and more like a diary somebody else kept. Locations repeat. Times repeat. Those repetitions are the informative part, and they are what makes attendance readable from movement.\n\nSeeing it once would probably tell you more than any policy briefing about what the readers near {{shortName}} collect.\n\nAfterward I hope you would support removal, with no new readers approved. As a student here I would be glad to know your position either way."
+  },
+  {
+    "id": "chilling-049",
+    "angle": "chilling",
+    "subject": "Some drivers already have to explain themselves",
+    "body": "Dear {{officialName}},\n\nThis kind of record costs almost nothing to most people and a great deal to a few, and the unevenness is what worries me. Drivers whose paperwork is already under review somewhere, or who are already familiar to a department for reasons unrelated to any offense, carry a different exposure entirely.\n\nFor them the archive works less like background infrastructure and more like a file waiting to be opened, assembled without their knowledge and beyond their power to correct.\n\nAveraging the burden across all drivers near {{shortName}} hides that. The average is low and the distribution is not.\n\nI am a student here and I would like the readers removed with none approved to replace them. Would you give me your position on removal?"
+  },
+  {
+    "id": "chilling-050",
+    "angle": "chilling",
+    "subject": "Calling it metadata does not make it small",
+    "body": "Dear {{officialName}},\n\nPlate reads get described as metadata, which makes them sound thin. Location over time seems to me close to the least thin category of information there is, because so much that is private about a person can be inferred from where they keep going.\n\nHealth, faith, work, and politics all have addresses. A system that logs addresses logs those things by implication, without ever recording a word anyone said.\n\nThat holds for the readers near {{shortName}} whatever the vendor calls the output, and it is why the word metadata does not settle me.\n\nI would like them taken out and no new ones approved. Your position, stated plainly to a student who asked, is what I am writing for."
+  },
+  {
+    "id": "chilling-051",
+    "angle": "chilling",
+    "subject": "Data outlives the equipment that captured it",
+    "body": "Dear {{officialName}},\n\nEquipment gets replaced every few years. Whatever the readers near {{shortName}} are now, they will be something else before long, and reads collected by the current generation will be migrated into whatever comes after it.\n\nSo the decision in front of you reaches past any particular make or model. What it settles is whether {{city}} maintains a continuous record of where residents stop, across vendors and across whoever is running things later.\n\nRecords survive their instruments. That is what makes them records rather than observations, and it is why I cannot treat this as a procurement question.\n\nI would rather the chain broke here. As a student at {{shortName}} I hope you will support removing the readers around campus and approving no new ones. Would you tell me whether that is a position you could take?"
+  },
+  {
+    "id": "chilling-052",
+    "angle": "chilling",
+    "subject": "Who verifies that deleted reads are deleted",
+    "body": "Dear {{officialName}},\n\nRetention rules are only as good as the deletion that follows them. I would like to know who checks that reads past the limit are actually gone from the vendor's storage and from every backup and copy.\n\nIf the answer is that the vendor reports compliance and the city accepts the report, then deletion is a matter of trust rather than verification. Trust may well be warranted here. It is still a different thing, and the difference is what I keep thinking about.\n\nA student near {{shortName}} cannot check any of this, which is why the question lands with you.\n\nMy preference is to remove the reason for asking. Taking the readers out around campus, with no new ones approved, would leave nothing to verify. Where do you stand?"
+  },
+  {
+    "id": "chilling-053",
+    "angle": "chilling",
+    "subject": "Your own movements sit in the same file",
+    "body": "Dear {{officialName}},\n\nOne point that sometimes lands better than the civil liberties framing is that the archive includes you. Every trip you make past a reader near {{shortName}} is stored on the same terms as everyone else's, reachable by the same logins, inherited by the same successors.\n\nMost of us assume access will be exercised sensibly. That assumption rests on the character of people who have not been hired yet, in administrations that have not been elected yet, and I find I cannot rest much on it.\n\nA record of who attended what, held indefinitely, is uncomfortable for whoever is in it. Holding office exempts nobody.\n\nI am a student asking for the readers around campus to come out, with no new ones approved. Would you tell me where you stand?"
+  },
+  {
+    "id": "chilling-054",
+    "angle": "chilling",
+    "subject": "Cameras cannot know why you stopped",
+    "body": "Dear {{officialName}},\n\nReaders record that a car stopped. They cannot record why, and the why is where all the difference lies.\n\nA vehicle outside a clinic might belong to a patient or to a plumber. Whoever reads the log later will guess, and the guess will follow whatever theory they brought with them. Nothing in the record corrects a wrong guess, and the person in the record is not there to correct it either.\n\nSo the archive near {{shortName}} is a set of accurate facts that invites inferences it cannot support. Its precision about location is exactly what would make those inferences persuasive, and that is what worries a student like me.\n\nI would rather it did not accumulate. I hope you will back removing the readers around campus and approving none in their place. Let me know your view."
+  },
+  {
+    "id": "chilling-055",
+    "angle": "chilling",
+    "subject": "Does {{school}} have access to the reads",
+    "body": "Dear {{officialName}},\n\nA question that may not have come up: does {{school}} have any access to plate reads collected around its campus, and does any department there receive them on request?\n\nI ask because the answer changes who is positioned to observe attendance. A city archive and a campus archive raise much the same problem, and an arrangement where both can search the same reads doubles the number of parties with an interest in what a student's evenings look like. That is an uncomfortable thought.\n\nWhatever the answer turns out to be, my hope stays the same. I would like the readers near {{shortName}} removed and no new ones approved, so that the question of who may search stops mattering.\n\nCould you find out, and also tell me your own position on removal?"
+  },
+  {
+    "id": "chilling-056",
+    "angle": "chilling",
+    "subject": "Current practice is not a limit",
+    "body": "Dear {{officialName}},\n\nWhen a department says the archive is searched only during active investigations, that describes current practice. Practice is set by whoever runs the department, and it can be revised in a memo nobody outside the building reads.\n\nCapability is the durable part. A system able to produce every plate seen outside one address over several years will keep being able to do that, whatever the policy says about when anyone should ask.\n\nCouncils vote on capability and are then reassured about practice. Those seem to me different things, and only one of them survives a change of leadership.\n\nSo I hope you will reduce the capability. I am a student at {{shortName}} asking for the readers around campus to come out with no new ones approved. Please tell me whether you could support that."
+  },
+  {
+    "id": "chilling-057",
+    "angle": "chilling",
+    "subject": "Someone will eventually find a use for it",
+    "body": "Dear {{officialName}},\n\nGive a large archive enough time and somebody will think of a use for it that nobody discussed when it was approved. That is not cynicism about any particular person. It is simply how useful data behaves, as far as I can tell.\n\nThe reads collected around {{shortName}} will still be there when priorities have shifted and some question arises that makes a list of who was outside a particular building look extremely convenient.\n\nAt that point the collection will already be done, and nobody will need permission to have gathered it. That sequence is what worries me.\n\nWhich is why I think the moment to decide is now. As a student here I would like the readers around campus gone with no new ones approved. Please let me know whether you agree."
+  },
+  {
+    "id": "chilling-058",
+    "angle": "chilling",
+    "subject": "May I read the list of approved queries",
+    "body": "Dear {{officialName}},\n\nIs there a written list of the query types the plate system may be used for, and can a member of the public read it?\n\nShould such a list exist, I would like to see whether it excludes anything at all. Searching for every vehicle present at one address on a recurring weekday evening is technically a location query. It is also a way of assembling a membership roll for whatever meets there.\n\nA rule permitting location queries without qualification permits that too, probably without anyone having intended it, and that unintended reach is what I find hard to set aside.\n\nRather than draft a better list, I would rather the readers around {{shortName}} came out with no new ones approved. Could you tell me whether the list exists, and where a student should understand you to stand?"
+  },
+  {
+    "id": "chilling-059",
+    "angle": "chilling",
+    "subject": "Harm from this shows up as absence",
+    "body": "Dear {{officialName}},\n\nHarm from a system like this shows up as absence, which makes it easy for a council to miss entirely. Nobody files a complaint about a meeting they decided not to drive to.\n\nSo the feedback reaching you will always understate the effect. Complaints come from people who were stopped or charged. Those who quietly changed their plans generate no paperwork, and their reasoning never gets in front of you.\n\nThat second group is what I am writing about, and my guess is that it is larger near {{shortName}} than any complaint volume would suggest. I cannot prove it, and I would rather say so than pretend otherwise.\n\nRemoving the readers, and approving no new ones, is the only remedy I can see that reaches a student in that position. Would you tell me whether you could support it?"
+  },
+  {
+    "id": "chilling-060",
+    "angle": "chilling",
+    "subject": "A short summary of what worries me",
+    "body": "Dear {{officialName}},\n\nMy worry fits in a paragraph, so here it is.\n\nA log of where a car was is a log of what a person attended. Attendance covers medical care, worship, legal advice, and organizing at work. Such a log, once made, outlasts the reason it was made and passes to people who did not make it. Knowing that it exists changes what people do, and it changes most for those already under the most scrutiny.\n\nNone of that requires anyone in {{city}} to act badly. It follows, I think, from the nature of the record.\n\nSo I am asking you, as one student, to support removing the plate readers around {{shortName}} and approving no new ones. A reply stating your position would be genuinely useful to me."
+  },
+  {
+    "id": "chilling-061",
+    "angle": "chilling",
+    "subject": "Can residents see where the readers are",
+    "body": "Dear {{officialName}},\n\nIs the location of every reader in {{city}} published anywhere? Residents cannot evaluate what a system collects without knowing where it collects, and a map hardly seems a security risk when the equipment is visible from the road already.\n\nMy interest is in what sits nearby. A reader on an arterial road collects traffic. One at the mouth of a lot serving a clinic or a meeting hall collects attendance, and the difference between those is entirely a question of address.\n\nPublishing the locations would let people judge for themselves. Removing the readers around {{shortName}} would settle it better, and removal with no new installations is what I am hoping you will support.\n\nCould you tell me whether the locations are public, and where you stand on taking them out? I am a student here and would be glad of either answer."
+  },
+  {
+    "id": "chilling-062",
+    "angle": "chilling",
+    "subject": "Cameras can be moved and files cannot",
+    "body": "Dear {{officialName}},\n\nCameras are portable and reversible. Files are neither. If the council later concluded the readers near {{shortName}} were a mistake, the equipment could come down in an afternoon while reads collected in the meantime would stay wherever they had been copied.\n\nThat imbalance ought, I think, to affect how the decision gets made. A choice that can be undone deserves less caution than one that cannot, and this one is only half undoable.\n\nSo I would rather err early. If the readers around campus came out and none were approved, the part that cannot be reversed would stop growing.\n\nWould you tell me whether you see it the same way, and if not, which part you think is recoverable? I am a student here and I would take the answer seriously."
+  },
+  {
+    "id": "chilling-063",
+    "angle": "chilling",
+    "subject": "Movement records land differently in a legal dispute",
+    "body": "Dear {{officialName}},\n\nRecords of where a car went are exactly the kind of thing sought once people end up in a dispute, whether with an employer or a former spouse.\n\nI am not describing anything that has happened. My concern is what the archive makes available. Reads collected near {{shortName}} for one stated purpose can be sought later by parties with entirely different purposes, and the person in the record has no say in whether it gets handed over.\n\nA city holding this data may be holding an evidence pool for disputes it has nothing to do with.\n\nI would like the readers around campus removed with no new ones approved. Would you tell me your position, and whether that use of the archive has been considered? A student's question, but a real one."
+  },
+  {
+    "id": "chilling-064",
+    "angle": "chilling",
+    "subject": "Public safety is an argument and not a measurement",
+    "body": "Dear {{officialName}},\n\nEvery surveillance program gets defended as a public safety measure, and a showing to that effect is rarely asked for. That would trouble me less if the cost were only money.\n\nThe cost here includes a permanent record of who attended what, held by the city and reachable by parties the city does not control. Weighing that against a benefit nobody has measured is not a real comparison, and the council is being asked to make it anyway.\n\nUntil someone can say what the readers near {{shortName}} have delivered, I find myself treating the balance as unfavorable.\n\nSo I hope you will take them out and approve nothing to replace them. If you have seen evidence I have not, I would like to read it, and I would be grateful for your position either way. I am a student here."
+  },
+  {
+    "id": "chilling-065",
+    "angle": "chilling",
+    "subject": "Is there a sunset date on the program",
+    "body": "Dear {{officialName}},\n\nDoes the plate reader program in {{city}} have an end date, or does it continue until somebody affirmatively stops it?\n\nPrograms without sunsets tend to survive their own justifications, because ending one requires a positive act while continuing it requires nothing at all. That seems a poor arrangement for anything accumulating a permanent record of where residents go.\n\nA sunset would at least force a conversation. Removal would be better, and removal is what I am hoping for around {{shortName}}, along with a commitment to install no new readers.\n\nCould you tell me whether a sunset exists, and if not, whether you would consider setting one or ending the program outright? I am a student here and would be grateful for either answer."
+  },
+  {
+    "id": "chilling-066",
+    "angle": "chilling",
+    "subject": "A reader at a single entrance counts the door",
+    "body": "Dear {{officialName}},\n\nWhere a building has one way in, a reader on that road stops being a traffic device. It becomes a count of who came and at what hour, which is the same information a person standing at the door with a clipboard would collect, except that nobody has to stand there and the clipboard never gets thrown away.\n\nThat description covers a fair number of addresses near {{shortName}}, including the kind where attendance is nobody's business.\n\nNo policy fixes the geometry. The only thing that changes it is not having a reader there, which is why I keep coming back to removal.\n\nSo I am asking, as a student, for the readers around campus to come out and for no new installations. Please let me know whether that has your support."
+  },
+  {
+    "id": "chilling-067",
+    "angle": "chilling",
+    "subject": "Who owns the reads, the city or the vendor",
+    "body": "Dear {{officialName}},\n\nOwnership seems worth pinning down before the next renewal. When a reader near {{shortName}} captures a plate, does that record belong to {{city}}, or does it belong to the company operating the system?\n\nThe answer decides who can be told to delete it. A city that does not own the record cannot promise anything about its future, and any assurance the council gave residents would then be an assurance about somebody else's property. That thought is what prompted this letter.\n\nI would rather nobody owned it, which means not creating it in the first place. I hope you will support removing the readers around campus and approving no new ones.\n\nCould you also tell me what the contract says about ownership, and where you stand on removal? A student would be glad to know both."
+  },
+  {
+    "id": "chilling-068",
+    "angle": "chilling",
+    "subject": "A professional query looks like a personal one",
+    "body": "Dear {{officialName}},\n\nThe system cannot tell why a search was run. A query typed for a case and a query typed out of curiosity look identical to the software, and both return the same history of where a car has been.\n\nWhatever separates them comes from supervision and from logging. Both are administrative measures, both depend on staffing, and both can lapse quietly without anyone outside the department noticing.\n\nI am not accusing anybody of anything. My unease is only that the archive near {{shortName}} sits one login away from whoever holds one, for as long as it is kept.\n\nSo I hope it will stop growing. Removing the readers around campus, with no new ones approved, would end it. As a student here I would be glad to know where you stand."
+  },
+  {
+    "id": "chilling-069",
+    "angle": "chilling",
+    "subject": "Not everyone can leave the car at home",
+    "body": "Dear {{officialName}},\n\nThe practical answer to a person worried about plate readers is that they can travel some other way. That answer works better for some people than for others.\n\nA student living beside campus can walk to a meeting. Someone commuting in from further out, on a schedule the buses do not cover, has no such option and lands in the record every time. The people with the least flexibility generate the most complete files.\n\nSo the burden sorts by circumstance rather than by conduct, which strikes me as a strange way to distribute anything.\n\nI would like the readers around {{shortName}} removed and no new ones approved. Would you tell me whether that is something you could support, or explain how you weigh it differently?"
+  },
+  {
+    "id": "chilling-070",
+    "angle": "chilling",
+    "subject": "A hot list still requires reading every plate",
+    "body": "Dear {{officialName}},\n\nOne reassurance offered about these systems is that only plates on a list of interest generate an alert. That is true, and it does not quite reach my worry, because checking a plate against a list means reading the plate first.\n\nEvery vehicle therefore gets captured, and what happens next is a matter of retention policy rather than of design. If reads that match nothing are stored at all, then what the council approved is a general record with an alert feature attached to it.\n\nI would like to know which of those describes the system near {{shortName}}, and how long unmatched reads are kept.\n\nEither way my hope is removal, with no new readers approved. What is your position? I am a student here and would appreciate a reply."
+  },
+  {
+    "id": "chilling-071",
+    "angle": "chilling",
+    "subject": "Does anyone outside the department review this",
+    "body": "Dear {{officialName}},\n\nIs there any body outside the police department that reviews the plate program each year and reports publicly on it? Not a briefing, but a review with access to the query logs.\n\nWithout one, the council's oversight amounts to asking the operator whether the operation is going well. That is fine for most municipal services and worrying for a system quietly assembling a record of who attended what near {{shortName}}.\n\nEstablishing a reviewer would help. Ending the collection would help more, and the latter is what I hope you will support: readers around campus removed, none approved to replace them.\n\nI would appreciate knowing whether any independent review exists, and whether removal is something you could vote for. I am a student here, writing for myself."
+  },
+  {
+    "id": "chilling-072",
+    "angle": "chilling",
+    "subject": "My worry does not depend on misreads",
+    "body": "Dear {{officialName}},\n\nMuch of the debate about these systems concerns error rates and wrong stops. Those are real problems, and they are not the ones I am writing about.\n\nSuppose the readers near {{shortName}} were perfectly accurate. The result would be a flawless account of where every driver stopped, held indefinitely, searchable by whoever holds credentials a decade from now. Accuracy makes that worse rather than better, since a perfect record is a more useful one to somebody looking for something.\n\nSo improvements to the technology do not answer what worries me. Only less collection does, as far as I can see.\n\nI hope you will support removing the readers around campus and approving no new ones. A student here would be grateful for a plain answer either way."
+  },
+  {
+    "id": "chilling-073",
+    "angle": "chilling",
+    "subject": "One point, briefly put",
+    "body": "Dear {{officialName}},\n\nBriefly, because you have a great deal to read.\n\nWhere a car stops is where a person goes. A permanent log of the first is a permanent log of the second, and that log will still exist when the reason for building it has been forgotten and the people who built it have moved on to other work.\n\nThat is the whole of my worry. Everything else I could add would be decoration on it, and I would rather not decorate.\n\nI am a student at {{shortName}} and I would like the plate readers around campus removed with no new ones approved. Should you support that, saying so would help. If you do not, I would still rather know than wonder. Thank you for reading."
+  },
+  {
+    "id": "chilling-074",
+    "angle": "chilling",
+    "subject": "Attendance at a public meeting is recorded too",
+    "body": "Dear {{officialName}},\n\nOne implication that may not have come up. People who drive to a public meeting to oppose something the city is doing park nearby, and their plates get captured the same as anyone else's.\n\nNobody has to intend that as a deterrent for it to work as one. A person weighing whether to show up and speak now weighs it against a record they cannot see and cannot erase.\n\nThe same logic covers any gathering where the point is to be counted, which is most of them, and that is what makes me uneasy.\n\nI would rather that calculation did not exist for anyone in {{city}}. As a student I hope the readers around {{shortName}} come out with no new ones approved, and I would be glad to hear where you stand."
+  },
+  {
+    "id": "chilling-075",
+    "angle": "chilling",
+    "subject": "What a system is for and what it is",
+    "body": "Dear {{officialName}},\n\nPurpose and capacity are different properties, and only one of them holds still. A plate reader is sold for finding stolen vehicles. It also, unavoidably, writes down which cars were outside which buildings.\n\nPurpose is a statement of intent that any future administration can revise in a memo. Capacity is physical, and it persists in the stored reads long after the intent has changed.\n\nCouncils tend to debate the first and inherit the second. I would ask you to look hard at the second, because the archive near {{shortName}} is the part that will still be here.\n\nMy hope is removal, with no new readers approved. I am one student with one letter, and I would still like to know your position."
+  },
+  {
+    "id": "chilling-076",
+    "angle": "chilling",
+    "subject": "Who should have to justify what here",
+    "body": "Dear {{officialName}},\n\nResidents find themselves arguing against a system that is already installed. That order strikes me as backwards for anything creating a permanent record of where people go.\n\nThe party proposing to keep a record of everyone's movements should, I think, carry the burden of showing why it is necessary, in public, with something more than a general appeal to safety. No student near {{shortName}} was asked to consent, and none of us is able to decline.\n\nSo I would put the question back to the {{role}}. What would these readers have to accomplish to be worth an archive of that kind?\n\nMy own answer is that no plausible benefit gets there, and I hope you will support taking them out and adding none in their place. I would welcome your reply."
+  },
+  {
+    "id": "chilling-077",
+    "angle": "chilling",
+    "subject": "Visibility here runs in one direction",
+    "body": "Dear {{officialName}},\n\nInstitutions have always known more about residents than the reverse. Plate readers widen that gap in a specific way, by making a person's routine legible to an office they will never visit.\n\nA student near {{shortName}} cannot see the file and cannot know when it was read. The office holding it needs no permission to keep it and owes no explanation for looking.\n\nGaps like that are usually managed by rules. Rules get written by whoever holds the office, which is to say by the party on the wide side of the gap, and that circularity is what troubles me.\n\nI would rather narrow it by collecting less. I hope you will support removing the readers around campus and approving no new ones. Would you tell me whether you agree?"
+  },
+  {
+    "id": "chilling-078",
+    "angle": "chilling",
+    "subject": "Would you accept this from a government you distrusted",
+    "body": "Dear {{officialName}},\n\nA test I have found useful is whether I would accept a measure from an administration I did not trust. The archive being built around {{shortName}} will eventually be held by administrations none of us has met, and reads collected this year will still be sitting in it.\n\nSo the question I keep returning to reaches past whether the current department behaves well. It is whether the record is safe to hand to whoever comes next, given that the handover is automatic and takes no vote.\n\nMy own answer is no, which is why I am asking, as a student, for removal of the readers around campus and no new installations.\n\nWould you apply that test yourself and tell me what result you get? I would read it carefully."
+  },
+  {
+    "id": "chilling-079",
+    "angle": "chilling",
+    "subject": "The city may be building a resource for someone else",
+    "body": "Dear {{officialName}},\n\nMost of what {{city}} builds gets used by {{city}}. A movement archive seems different, since its usefulness to outside parties grows as it lengthens while its usefulness for finding a stolen car is nearly all spent in the first few days.\n\nSo the long tail of this data serves everyone except the department that collected it. Whoever wants to know who attended what, years afterward, is the natural reader of a record like this.\n\nThat seems a strange thing for a local government to produce on behalf of parties it cannot name, and it is the part I keep stumbling over.\n\nI would like the readers around {{shortName}} removed and none approved to replace them. Could you tell me whether you agree, and what use you think the older reads serve? I am a student here."
+  },
+  {
+    "id": "chilling-080",
+    "angle": "chilling",
+    "subject": "Where you stand on the readers near campus",
+    "body": "Dear {{officialName}},\n\nI would like a position from you, and I will keep the reasoning short.\n\nA log of where a car was is a log of what a person attended. Places people attend include clinics, houses of worship, lawyers' offices, and halls where workers meet. Once such a log exists it outlives the reason for it, and the people who inherit it will not be the people making promises about it now.\n\nNone of that turns on anyone in {{city}} acting badly, which is why a written policy does not settle me.\n\nSo: I am asking that the plate readers around {{shortName}} be removed and that no new ones be installed. Could you support that? A yes or a no from you to one student is genuinely all I am after."
+  },
+  {
+    "id": "chilling-081",
+    "angle": "chilling",
+    "subject": "Some destinations nobody would put on a list",
+    "body": "Dear {{officialName}},\n\nAsk anyone to write down every place they went last month and most people would leave a few off. Not because anything improper happened, but because some destinations are private in the ordinary sense: a counselor, a clinic, a hall where people meet about their jobs, a service they would rather not discuss at work.\n\nThe plate readers near {{shortName}} write that list anyway, accurately, and nobody gets to review it before it is filed. That is what I find uncomfortable.\n\nNone of it requires misuse. The record seems to me a problem on its own terms.\n\nI am a student here, asking that the readers around campus be removed and that no new ones be approved. Would you tell me whether you could support it?"
+  },
+  {
+    "id": "chilling-082",
+    "angle": "chilling",
+    "subject": "Readers near campus concentrate the effect",
+    "body": "Dear {{officialName}},\n\nStudents drive a small number of routes. Housing sits close to campus, the same lots get used every week, and the result is that a handful of readers near {{shortName}} can characterize a person's week more completely than a much larger deployment elsewhere would.\n\nDensity is doing the work. {{readersWithinMile}} readers within a mile of a place where many people repeat the same short trips produces unusually complete files, without anyone having designed it that way.\n\nSo the readers near campus seem to me to deserve separate consideration from the rest of the network in {{state}}.\n\nWhat I am hoping for is that they come out and that no new ones go up. Could you tell me whether you would support removing them?"
+  },
+  {
+    "id": "chilling-083",
+    "angle": "chilling",
+    "subject": "Keeping them is a decision to collect more",
+    "body": "Dear {{officialName}},\n\nLeaving the readers in place gets described as maintaining the status quo. The status quo here is accumulation. Every month they stay, the archive covering {{shortName}} grows a month longer, and longer archives support questions that short ones cannot.\n\nThat framing matters to me, because it changes what a quiet vote means. There is no neutral option on the table. Doing nothing is a choice to keep writing.\n\nI would rather the writing stopped. If the readers around campus came out and none were approved, that is the only version of this that actually holds still.\n\nWould you tell me whether you could support that, and if timing is the obstacle, when you think it might be raised? I am a student here and would be grateful either way."
+  },
+  {
+    "id": "chilling-084",
+    "angle": "chilling",
+    "subject": "Does the retention clock survive a transfer",
+    "body": "Dear {{officialName}},\n\nSuppose a read collected near {{shortName}} is shared with another agency. Does the retention limit travel with it, or does the receiving agency apply its own?\n\nMy understanding is that the second is usual, which would mean the local rule governs only the local copy. A student told that reads are kept for a limited period may in fact sit in files elsewhere with no limit at all.\n\nIf that is right, then the retention policy the council approved is doing less work than it appears to be doing, and I would rather know than assume.\n\nRather than chase copies, I would like the collection to end. I hope you will support removing the readers around campus and approving no new ones, and I would be glad of both the answer and your own position."
+  },
+  {
+    "id": "chilling-085",
+    "angle": "chilling",
+    "subject": "Organizing gets quieter when arrival is logged",
+    "body": "Dear {{officialName}},\n\nPeople who meet about wages or conditions at work already take care about who knows. A permanent record of which cars were outside the hall does not stop anyone from meeting. It changes who is willing to arrive by car, and it changes who is willing to host.\n\nEffects like that never appear in a complaint to your office, because nothing illegal has occurred and nobody has been harmed in a way that fits a form.\n\nWhether any particular meeting has got smaller is not something I can show you. Nobody can, which is part of why the cost stays out of the ledger and part of why I am writing.\n\nAs a student I hope you will support removal of the readers around {{shortName}} with no new ones approved. Where do you stand?"
+  },
+  {
+    "id": "chilling-086",
+    "angle": "chilling",
+    "subject": "The effect is real and hard to measure",
+    "body": "Dear {{officialName}},\n\nThis worry has a weakness worth admitting, which is that it produces no evidence. Nobody keeps a record of the trips they decided not to take, so the influence of a surveillance system on ordinary behavior leaves no trace a council could examine.\n\nThat is an awkward position to argue from, and I would rather say so than overstate anything. What I can point to is the structure. A permanent searchable record of attendance exists near {{shortName}}, students know it exists, and knowing tends to matter.\n\nWhether it matters a lot or a little, the remedy is the same and costs little to try.\n\nI hope you will support removing the readers around campus and approving no new ones, and I would be glad to hear if you weigh it differently."
+  },
+  {
+    "id": "chilling-087",
+    "angle": "chilling",
+    "subject": "Was the program ever put to the public",
+    "body": "Dear {{officialName}},\n\nBefore the readers went up around {{shortName}}, was there a public hearing on them, or did the decision move through as a routine item?\n\nI ask because the answer says something about how much consent there was. A permanent record of where residents go is the sort of thing that ought to be adopted deliberately, and adopting it quietly is a different act even when the paperwork looks identical.\n\nIf the decision was never really debated, then reopening it now would be a first look rather than a reversal, which seems to me easier rather than harder.\n\nMy hope is plain enough: readers around campus removed, no new ones approved. Would you tell me what the record shows and where you stand? A student would be grateful for both."
+  },
+  {
+    "id": "chilling-088",
+    "angle": "chilling",
+    "subject": "An exclusion list would be revealing on its own",
+    "body": "Dear {{officialName}},\n\nOne proposed fix is to exclude sensitive locations from collection. Consider what that would require. Somebody would have to compile a list of the addresses in {{city}} where attendance is nobody's business, and such a list would itself be a document worth having, which is an odd result.\n\nThe exercise also cannot be finished. Places become sensitive depending on who is asking and when, and no list written this year anticipates the questions of the next decade.\n\nSo the carve out approach solves less than it appears to. Not collecting seems to solve it completely.\n\nI am a student here, hoping you will support removing the readers around {{shortName}} and approving no new ones. Please let me know whether that is a position you could take."
+  },
+  {
+    "id": "chilling-089",
+    "angle": "chilling",
+    "subject": "Good management is not the same as a safeguard",
+    "body": "Dear {{officialName}},\n\nAssume everyone currently handling this data is careful and well intentioned. I am willing to assume it. The assumption changes little about what worries me, because the archive outlasts their tenure and the next group inherits it without conditions attached.\n\nSafeguards resting on personnel expire with the personnel. Only the record persists, and it persists in a form that answers any question a future holder chooses to ask about who was where near {{shortName}}.\n\nWhich is why assurances about current practice do not settle me, and I do not intend that as a criticism of anyone by name.\n\nWhat would settle it is removal of the readers around campus and a commitment against new ones. Would you tell a student here whether you could support that?"
+  },
+  {
+    "id": "chilling-090",
+    "angle": "chilling",
+    "subject": "Every trip is stored the same way",
+    "body": "Dear {{officialName}},\n\nEvery stop looks the same in a plate log. A run to a grocery store and a visit to a clinic are stored identically, in the same fields, in the same table, for the same length of time.\n\nThat uniformity sounds neutral and I do not think it is, because it means sensitive trips receive no special handling at any stage. Sensitivity comes from the address, and the system near {{shortName}} does not read addresses that way.\n\nWhoever examines the file later supplies the interpretation, and nothing in the record argues back. That is the part a student cannot do anything about.\n\nI would like the readers around campus removed and no new ones approved. Could you tell me where you stand on that?"
+  },
+  {
+    "id": "chilling-091",
+    "angle": "chilling",
+    "subject": "I would like the readers taken out",
+    "body": "Dear {{officialName}},\n\nMy request is simple and I would rather not bury it.\n\nI would like the plate readers around {{shortName}} taken out, with no new ones approved anywhere in {{city}}.\n\nThe reason is that a permanent log of where cars stop is a permanent log of what people attend, and attendance at a clinic or a house of worship is not something I think a local government should be recording as a matter of routine. Whoever holds the file later will not have made any of the promises being made now.\n\nIf you support removal, saying so publicly would matter to a lot of students. Should you not, I would still like to hear the reason. Either reply is welcome, and thank you for reading."
+  },
+  {
+    "id": "chilling-092",
+    "angle": "chilling",
+    "subject": "What would move you to vote against renewal",
+    "body": "Dear {{officialName}},\n\nRather than repeat arguments you have probably heard, I would like to ask what would move you. What showing about the readers near {{shortName}} would lead you to vote against the next renewal?\n\nThe question is sincere. If the answer is a cost threshold or an audit result, then a student like me knows what to look for. Should there be no such answer, that is worth knowing too, because it would mean the decision is settled regardless of what turns up.\n\nMy own worry is that a record of where cars stop is a record of what people attend, and that it lasts far longer than the reason for it. So I hope for removal around campus and no new installations.\n\nWould you tell me what would change your mind?"
+  },
+  {
+    "id": "chilling-093",
+    "angle": "chilling",
+    "subject": "Is the archive reachable by subpoena",
+    "body": "Dear {{officialName}},\n\nCan a private party reach these records through a court process? If so, then the collection near {{shortName}} is not only a police matter. It becomes a resource for anyone in litigation who can persuade a judge that a person's movements are relevant.\n\nI raise it as a foreseeable consequence rather than an abuse. Records held by a public body tend to be reachable, which is usually a good feature and seems awkward here, because the content is a history of attendance.\n\nNothing in the public material I have found discusses it, and I would like to know whether the {{role}} has considered the point.\n\nMy hope stands either way: readers around campus removed, no new ones approved. Where do you stand? A student would be glad to know."
+  },
+  {
+    "id": "chilling-094",
+    "angle": "chilling",
+    "subject": "There is nobody to raise an objection with",
+    "body": "Dear {{officialName}},\n\nWhen a person objects to being recorded by a neighbor or a business, there is somebody to talk to. A pole mounted reader offers no such conversation. Nobody is present to hear an objection, and a driver's only real option is to change where they drive.\n\nSo the ordinary social mechanisms that keep watching in check do not seem to operate here. What remains is whatever the {{role}} decides, which is why I am writing to you rather than to anyone else.\n\nThe decision I am hoping for is removal of the readers around {{shortName}}, with no new ones approved.\n\nA reply telling me your position would be appreciated, particularly if it differs from mine. I am one student and I would rather understand the other side than assume it."
+  },
+  {
+    "id": "chilling-095",
+    "angle": "chilling",
+    "subject": "Visitors are recorded and never consented",
+    "body": "Dear {{officialName}},\n\nReaders do not check residency. Parents driving in for a weekend, contractors passing through, patients traveling to an appointment, and people attending a service at a congregation they belong to but do not live near all end up in the same archive.\n\nThose drivers have no vote in {{city}} and no way to raise the matter with you except through somebody like me, which is part of why a student is the one writing. Their attendance is recorded on the same terms and kept for the same period as everyone else's.\n\nA local decision with that reach seems to deserve more scrutiny than a routine contract item usually receives.\n\nI hope you will support removing the readers around {{shortName}} and approving none to replace them. Would you tell me your position?"
+  },
+  {
+    "id": "chilling-096",
+    "angle": "chilling",
+    "subject": "One prediction I feel confident about",
+    "body": "Dear {{officialName}},\n\nI cannot tell you how the plate archive will be used a decade from now. Nobody can, and I would not trust anyone who claimed otherwise, myself included.\n\nWhat seems predictable is that it will be larger. Every day the readers near {{shortName}} operate, the record of who was outside which building gets longer, and each addition is permanent in a way the surrounding policy is not.\n\nDecisions under uncertainty usually favor the option that leaves fewer doors open for other people to walk through. Here that seems to mean collecting less.\n\nSo I am asking, as a student here, for removal around campus and no new installations. If you see the uncertainty differently, I would like to hear how. Either way, a statement of your position would be useful."
+  },
+  {
+    "id": "chilling-097",
+    "angle": "chilling",
+    "subject": "A records question more than a camera question",
+    "body": "Dear {{officialName}},\n\nDiscussion of plate readers tends to focus on the hardware, which seems to me the least interesting part. Cameras are cheap and replaceable. Archives are the durable object, and the questions worth asking are records questions: how long, who may search, under what authority, and what happens when the answers change.\n\nApplied around {{shortName}}, those questions have no public answers that I can find. That alone gives me pause, since a record of attendance is being produced whether or not anyone has settled how it should be governed.\n\nGoverning it well looks harder to me than not producing it.\n\nSo I hope you will support removal of the readers around campus with no new ones approved, and I would like to know your position. I am a student writing for myself."
+  },
+  {
+    "id": "chilling-098",
+    "angle": "chilling",
+    "subject": "Weekly attendance at a congregation is now recorded",
+    "body": "Dear {{officialName}},\n\nCongregations meet on a schedule, in the same place, with largely the same people, which makes them unusually legible to a system that logs plates by time and location.\n\nNothing about that requires anyone to be interested in a particular congregation. Legibility is a property of regular attendance, and a plate archive near {{shortName}} captures regularity better than it captures anything else.\n\nWhat follows is a list, held indefinitely, of who was there most weeks. Nobody had to request it, and nobody has to justify keeping it. That is the shape of the thing that bothers me.\n\nI am a student here and I would like the readers removed around campus with no new ones approved. Please tell me whether that is a position you would take, and if not, how you would answer the point."
+  },
+  {
+    "id": "chilling-099",
+    "angle": "chilling",
+    "subject": "This binds people who are not here yet",
+    "body": "Dear {{officialName}},\n\nStudents arriving in {{city}} some years from now will inherit whatever the council decides about this, and they will inherit the accumulated reads as well. None of them has any say in it, and by the time they arrive the arrangement will look settled rather than chosen.\n\nThat is how programs like this become permanent, as far as I can tell. Each year of collection makes removal look more like a disruption and less like a correction.\n\nBreaking the pattern seems easier now than it will be later.\n\nSo I hope you will support taking the readers out around {{shortName}} and approving no new ones. Would you tell me whether you could support it, and if not, what would need to be true?"
+  },
+  {
+    "id": "chilling-100",
+    "angle": "chilling",
+    "subject": "A last word on the readers around campus",
+    "body": "Dear {{officialName}},\n\nYou may have received several letters on this, so I will add only the point I think carries the most weight.\n\nA record of where a car stopped is a record of what a person attended. That record is kept whether or not anyone intends to read it, and it stays available long after the reason for collecting it has passed. Knowing it exists changes how people behave, and it changes most for those already under closer watch than the rest of us.\n\nNothing in that worry depends on anyone in {{city}} acting in bad faith.\n\nSo my request is the plain one: I would like the plate readers around {{shortName}} removed and no new ones installed. I would be grateful for your position, and for a reply either way. Thank you for reading a student's letter."
+  }
+]

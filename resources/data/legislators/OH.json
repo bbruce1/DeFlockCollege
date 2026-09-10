@@ -1,0 +1,1233 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Greg Landsman",
+    "party": "Democrat",
+    "phone": "202-225-2216",
+    "url": "https://landsman.house.gov"
+   }
+  ],
+  "10": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Michael Turner",
+    "party": "Republican",
+    "phone": "202-225-6465",
+    "url": "https://turner.house.gov"
+   }
+  ],
+  "11": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Shontel Brown",
+    "party": "Democrat",
+    "phone": "202-225-7032",
+    "url": "https://shontelbrown.house.gov"
+   }
+  ],
+  "12": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Troy Balderson",
+    "party": "Republican",
+    "phone": "202-225-5355",
+    "url": "https://balderson.house.gov"
+   }
+  ],
+  "13": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Emilia Sykes",
+    "party": "Democrat",
+    "phone": "202-225-6265",
+    "url": "https://sykes.house.gov"
+   }
+  ],
+  "14": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "David Joyce",
+    "party": "Republican",
+    "phone": "202-225-5731",
+    "url": "https://joyce.house.gov"
+   }
+  ],
+  "15": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Mike Carey",
+    "party": "Republican",
+    "phone": "202-225-2015",
+    "url": "https://carey.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "David Taylor",
+    "party": "Republican",
+    "phone": "202-225-3164",
+    "url": "https://taylor.house.gov"
+   }
+  ],
+  "3": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Joyce Beatty",
+    "party": "Democrat",
+    "phone": "202-225-4324",
+    "url": "https://beatty.house.gov"
+   }
+  ],
+  "4": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Jim Jordan",
+    "party": "Republican",
+    "phone": "202-225-2676",
+    "url": "https://jordan.house.gov"
+   }
+  ],
+  "5": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Robert Latta",
+    "party": "Republican",
+    "phone": "202-225-6405",
+    "url": "https://latta.house.gov"
+   }
+  ],
+  "6": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Michael Rulli",
+    "party": "Republican",
+    "phone": "202-225-5705",
+    "url": "https://rulli.house.gov"
+   }
+  ],
+  "7": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Max Miller",
+    "party": "Republican",
+    "phone": "202-225-3876",
+    "url": "https://maxmiller.house.gov"
+   }
+  ],
+  "8": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Warren Davidson",
+    "party": "Republican",
+    "phone": "202-225-6205",
+    "url": "https://davidson.house.gov"
+   }
+  ],
+  "9": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Marcy Kaptur",
+    "party": "Democrat",
+    "phone": "202-225-4146",
+    "url": "https://kaptur.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": null,
+   "email": null,
+   "name": "Bernie Moreno",
+   "party": "Republican",
+   "phone": "202-224-2315",
+   "url": "https://www.moreno.senate.gov"
+  },
+  {
+   "contactForm": null,
+   "email": null,
+   "name": "Jon Husted",
+   "party": "Republican",
+   "phone": "202-224-3353",
+   "url": "https://www.husted.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "rep01@ohiohouse.gov",
+    "name": "Dontavius Jarrells",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/dontavius-l-jarrells"
+   }
+  ],
+  "10": [
+   {
+    "email": "rep10@ohiohouse.gov",
+    "name": "Mark Sigrist",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/members/mark-sigrist"
+   }
+  ],
+  "11": [
+   {
+    "email": "rep11@ohiohouse.gov",
+    "name": "Crystal Lett",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/members/crystal-lett"
+   }
+  ],
+  "12": [
+   {
+    "email": "rep12@ohiohouse.gov",
+    "name": "Brian Stewart",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/brian-stewart"
+   }
+  ],
+  "13": [
+   {
+    "email": "rep13@ohiohouse.gov",
+    "name": "Tristan Rader",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/members/tristan-rader"
+   }
+  ],
+  "14": [
+   {
+    "email": "rep14@ohiohouse.gov",
+    "name": "Sean Brennan",
+    "party": "Democratic",
+    "url": "https://www.ohiohouse.gov/members/sean-p-brennan"
+   }
+  ],
+  "15": [
+   {
+    "email": "rep15@ohiohouse.gov",
+    "name": "Chris Glassburn",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/members/chris-glassburn"
+   }
+  ],
+  "16": [
+   {
+    "email": "rep16@ohiohouse.gov",
+    "name": "Bride Sweeney",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/bride-rose-sweeney"
+   }
+  ],
+  "17": [
+   {
+    "email": "rep17@ohiohouse.gov",
+    "name": "Mike Dovilla",
+    "party": "Republican",
+    "url": "https://www.ohiohouse.gov/members/michael-d-dovilla"
+   }
+  ],
+  "18": [
+   {
+    "email": "rep18@ohiohouse.gov",
+    "name": "Juanita Brent",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/juanita-o-brent"
+   }
+  ],
+  "19": [
+   {
+    "email": "rep19@ohiohouse.gov",
+    "name": "Phil Robinson",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/phillip-m-robinson-jr"
+   }
+  ],
+  "2": [
+   {
+    "email": "rep02@ohiohouse.gov",
+    "name": "Latyna Humphrey",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/latyna-m-humphrey"
+   }
+  ],
+  "20": [
+   {
+    "email": "rep20@ohiohouse.gov",
+    "name": "Terrence Upchurch",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/terrence-upchurch"
+   }
+  ],
+  "21": [
+   {
+    "email": "rep21@ohiohouse.gov",
+    "name": "Eric Synenberg",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/members/eric-synenberg"
+   }
+  ],
+  "22": [
+   {
+    "email": "rep22@ohiohouse.gov",
+    "name": "Darnell Brewer",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/members/darnell-t-brewer"
+   }
+  ],
+  "23": [
+   {
+    "email": "rep23@ohiohouse.gov",
+    "name": "Dan Troy",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/daniel-p-troy"
+   }
+  ],
+  "24": [
+   {
+    "email": "rep24@ohiohouse.gov",
+    "name": "Dani Isaacsohn",
+    "party": "Democratic",
+    "url": "https://www.ohiohouse.gov/members/dani-isaacsohn"
+   }
+  ],
+  "25": [
+   {
+    "email": "rep25@ohiohouse.gov",
+    "name": "Cecil Thomas",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/members/cecil-thomas"
+   }
+  ],
+  "26": [
+   {
+    "email": "rep26@ohiohouse.gov",
+    "name": "Ashley Bryant Bailey",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/members/ashley-bryant-bailey"
+   }
+  ],
+  "27": [
+   {
+    "email": "rep27@ohiohouse.gov",
+    "name": "Rachel Baker",
+    "party": "Democratic",
+    "url": "https://www.ohiohouse.gov/members/rachel-b-baker"
+   }
+  ],
+  "28": [
+   {
+    "email": "rep28@ohiohouse.gov",
+    "name": "Karen Brownlee",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/members/karen-brownlee"
+   }
+  ],
+  "29": [
+   {
+    "email": "rep29@ohiohouse.gov",
+    "name": "Cindy Abrams",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/cindy-abrams"
+   }
+  ],
+  "3": [
+   {
+    "email": "rep03@ohiohouse.gov",
+    "name": "Ismail Mohamed",
+    "party": "Democratic",
+    "url": "https://www.ohiohouse.gov/members/ismail-mohamed"
+   }
+  ],
+  "30": [
+   {
+    "email": "rep30@ohiohouse.gov",
+    "name": "Mike Odioso",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/members/mike-odioso"
+   }
+  ],
+  "31": [
+   {
+    "email": "rep31@ohiohouse.gov",
+    "name": "Bill Roemer",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/bill-roemer"
+   }
+  ],
+  "32": [
+   {
+    "email": "rep32@ohiohouse.gov",
+    "name": "Jack Daniels",
+    "party": "Republican",
+    "url": "https://www.ohiohouse.gov/members/jack-k-daniels"
+   }
+  ],
+  "33": [
+   {
+    "email": "rep33@ohiohouse.gov",
+    "name": "Veronica Sims",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/members/veronica-r-sims"
+   }
+  ],
+  "34": [
+   {
+    "email": "rep34@ohiohouse.gov",
+    "name": "Derrick Hall",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/members/derrick-hall"
+   }
+  ],
+  "35": [
+   {
+    "email": "rep35@ohiohouse.gov",
+    "name": "Steve Demetriou",
+    "party": "Republican",
+    "url": "https://www.ohiohouse.gov/members/steve-demetriou"
+   }
+  ],
+  "36": [
+   {
+    "email": "rep36@ohiohouse.gov",
+    "name": "Andrea White",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/andrea-white"
+   }
+  ],
+  "37": [
+   {
+    "email": "rep37@ohiohouse.gov",
+    "name": "Tom Young",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/members/tom-young"
+   }
+  ],
+  "38": [
+   {
+    "email": "rep38@ohiohouse.gov",
+    "name": "Desire\u00e8 Tims",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/members/desiree-tims"
+   }
+  ],
+  "39": [
+   {
+    "email": "rep39@ohiohouse.gov",
+    "name": "Phil Plummer",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/phil-plummer"
+   }
+  ],
+  "4": [
+   {
+    "email": "rep04@ohiohouse.gov",
+    "name": "Beryl Piccolantonio",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/members/beryl-piccolantonio"
+   }
+  ],
+  "40": [
+   {
+    "email": "rep40@ohiohouse.gov",
+    "name": "Rodney Creech",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/members/rodney-creech"
+   }
+  ],
+  "41": [
+   {
+    "email": "rep41@ohiohouse.gov",
+    "name": "Erika White",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/members/erika-white"
+   }
+  ],
+  "42": [
+   {
+    "email": "rep42@ohiohouse.gov",
+    "name": "Elgin Rogers",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/members/elgin-rogers-jr"
+   }
+  ],
+  "43": [
+   {
+    "email": "rep43@ohiohouse.gov",
+    "name": "Michele Grim",
+    "party": "Democratic",
+    "url": "https://www.ohiohouse.gov/members/michele-grim"
+   }
+  ],
+  "44": [
+   {
+    "email": "rep44@ohiohouse.gov",
+    "name": "Josh Williams",
+    "party": "Republican",
+    "url": "https://www.ohiohouse.gov/members/josh-williams"
+   }
+  ],
+  "45": [
+   {
+    "email": "rep45@ohiohouse.gov",
+    "name": "Jennifer Gross",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/jennifer-gross"
+   }
+  ],
+  "46": [
+   {
+    "email": "rep46@ohiohouse.gov",
+    "name": "Thomas Hall",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/members/thomas-hall"
+   }
+  ],
+  "47": [
+   {
+    "email": "rep47@ohiohouse.gov",
+    "name": "Diane Mullins",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/members/diane-mullins"
+   }
+  ],
+  "48": [
+   {
+    "email": "rep48@ohiohouse.gov",
+    "name": "Scott Oelslager",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/scott-oelslager"
+   }
+  ],
+  "49": [
+   {
+    "email": "rep49@ohiohouse.gov",
+    "name": "Jim Thomas",
+    "party": "Republican",
+    "url": "https://www.ohiohouse.gov/members/jim-thomas"
+   }
+  ],
+  "5": [
+   {
+    "email": "rep05@ohiohouse.gov",
+    "name": "Meredith Lawson\u2010Rowe",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/members/meredith-r-lawson-rowe"
+   }
+  ],
+  "50": [
+   {
+    "email": "rep50@ohiohouse.gov",
+    "name": "Matt Kishman",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/members/matthew-kishman"
+   }
+  ],
+  "51": [
+   {
+    "email": "rep51@ohiohouse.gov",
+    "name": "Jodi Salvo",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/members/jodi-salvo"
+   }
+  ],
+  "52": [
+   {
+    "email": "rep52@ohiohouse.gov",
+    "name": "Gayle Manning",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/gayle-manning"
+   }
+  ],
+  "53": [
+   {
+    "email": "rep53@ohiohouse.gov",
+    "name": "Joe Miller",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/joseph-a-miller-iii"
+   }
+  ],
+  "54": [
+   {
+    "email": "rep54@ohiohouse.gov",
+    "name": "Kellie Deeter",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/members/kellie-deeter"
+   }
+  ],
+  "55": [
+   {
+    "email": "rep55@ohiohouse.gov",
+    "name": "Michelle Teska",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/members/michelle-teska"
+   }
+  ],
+  "56": [
+   {
+    "email": "rep56@ohiohouse.gov",
+    "name": "Adam Mathews",
+    "party": "Republican",
+    "url": "https://www.ohiohouse.gov/members/adam-mathews"
+   }
+  ],
+  "57": [
+   {
+    "email": "rep57@ohiohouse.gov",
+    "name": "Jamie Callender",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/jamie-callender"
+   }
+  ],
+  "58": [
+   {
+    "email": "rep58@ohiohouse.gov",
+    "name": "Lauren McNally",
+    "party": "Democratic",
+    "url": "https://www.ohiohouse.gov/members/lauren-mcnally"
+   }
+  ],
+  "59": [
+   {
+    "email": "rep59@ohiohouse.gov",
+    "name": "Tex Fischer",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/houseapp/members/tex-fischer"
+   }
+  ],
+  "6": [
+   {
+    "email": "rep06@ohiohouse.gov",
+    "name": "Christine Cockley",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/members/christine-cockley"
+   }
+  ],
+  "60": [
+   {
+    "email": "rep60@ohiohouse.gov",
+    "name": "Brian Lorenz",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/members/brian-lorenz"
+   }
+  ],
+  "61": [
+   {
+    "email": "rep61@ohiohouse.gov",
+    "name": "Beth Lear",
+    "party": "Republican",
+    "url": "https://www.ohiohouse.gov/members/beth-lear"
+   }
+  ],
+  "62": [
+   {
+    "email": "rep62@ohiohouse.gov",
+    "name": "Jean Schmidt",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/jean-schmidt"
+   }
+  ],
+  "63": [
+   {
+    "email": "rep63@ohiohouse.gov",
+    "name": "Adam Bird",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/adam-c-bird"
+   }
+  ],
+  "64": [
+   {
+    "email": "rep64@ohiohouse.gov",
+    "name": "Nick Santucci",
+    "party": "Republican",
+    "url": "https://www.ohiohouse.gov/members/nick-santucci"
+   }
+  ],
+  "65": [
+   {
+    "email": "rep65@ohiohouse.gov",
+    "name": "David Thomas",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/members/david-thomas"
+   }
+  ],
+  "66": [
+   {
+    "email": "rep66@ohiohouse.gov",
+    "name": "Sharon Ray",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/members/sharon-a-ray"
+   }
+  ],
+  "67": [
+   {
+    "email": "rep67@ohiohouse.gov",
+    "name": "Melanie Miller",
+    "party": "Republican",
+    "url": "https://www.ohiohouse.gov/members/melanie-miller"
+   }
+  ],
+  "68": [
+   {
+    "email": "rep68@ohiohouse.gov",
+    "name": "Thad Claggett",
+    "party": "Republican",
+    "url": "https://www.ohiohouse.gov/members/thaddeus-j-claggett"
+   }
+  ],
+  "69": [
+   {
+    "email": "rep69@ohiohouse.gov",
+    "name": "Kevin Miller",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/kevin-d-miller"
+   }
+  ],
+  "7": [
+   {
+    "email": "rep07@ohiohouse.gov",
+    "name": "Allison Russo",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/c-allison-russo"
+   }
+  ],
+  "70": [
+   {
+    "email": "rep70@ohiohouse.gov",
+    "name": "Brian Lampton",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/brian-e-lampton"
+   }
+  ],
+  "71": [
+   {
+    "email": "rep71@ohiohouse.gov",
+    "name": "Levi Dean",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/members/levi-dean"
+   }
+  ],
+  "72": [
+   {
+    "email": "rep72@ohiohouse.gov",
+    "name": "Heidi Workman",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/members/heidi-workman"
+   }
+  ],
+  "73": [
+   {
+    "email": "rep73@ohiohouse.gov",
+    "name": "Jeff LaRe",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/jeff-lare"
+   }
+  ],
+  "74": [
+   {
+    "email": "rep74@ohiohouse.gov",
+    "name": "Bernie Willis",
+    "party": "Republican",
+    "url": "https://www.ohiohouse.gov/members/bernard-willis"
+   }
+  ],
+  "75": [
+   {
+    "email": "rep75@ohiohouse.gov",
+    "name": "Haraz Ghanbari",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/haraz-n-ghanbari"
+   }
+  ],
+  "76": [
+   {
+    "email": "rep76@ohiohouse.gov",
+    "name": "Marilyn John",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/marilyn-s-john"
+   }
+  ],
+  "77": [
+   {
+    "email": "rep77@ohiohouse.gov",
+    "name": "Meredith Craig",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/members/meredith-craig"
+   }
+  ],
+  "78": [
+   {
+    "email": "rep78@ohiohouse.gov",
+    "name": "Matt Huffman",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/members/matt-huffman"
+   }
+  ],
+  "79": [
+   {
+    "email": "rep79@ohiohouse.gov",
+    "name": "Monica Blasdel",
+    "party": "Republican",
+    "url": "https://www.ohiohouse.gov/members/monica-robb-blasdel"
+   }
+  ],
+  "8": [
+   {
+    "email": "rep08@ohiohouse.gov",
+    "name": "Anita Somani",
+    "party": "Democratic",
+    "url": "https://www.ohiohouse.gov/members/anita-somani"
+   }
+  ],
+  "80": [
+   {
+    "email": "rep80@ohiohouse.gov",
+    "name": "Johnathan Newman",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/members/johnathan-newman"
+   }
+  ],
+  "81": [
+   {
+    "email": "rep81@ohiohouse.gov",
+    "name": "Jim Hoops",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/james-m-hoops"
+   }
+  ],
+  "82": [
+   {
+    "email": "rep82@ohiohouse.gov",
+    "name": "Roy Klopfenstein",
+    "party": "Republican",
+    "url": "https://www.ohiohouse.gov/members/roy-klopfenstein"
+   }
+  ],
+  "83": [
+   {
+    "email": "rep83@ohiohouse.gov",
+    "name": "Ty Mathews",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/members/ty-d-mathews"
+   }
+  ],
+  "84": [
+   {
+    "email": "rep84@ohiohouse.gov",
+    "name": "Angie King",
+    "party": "Republican",
+    "url": "https://www.ohiohouse.gov/members/angela-n-king"
+   }
+  ],
+  "85": [
+   {
+    "email": "rep85@ohiohouse.gov",
+    "name": "Tim Barhorst",
+    "party": "Republican",
+    "url": "https://www.ohiohouse.gov/members/tim-barhorst"
+   }
+  ],
+  "86": [
+   {
+    "email": "rep86@ohiohouse.gov",
+    "name": "Tracy Richardson",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/tracy-m-richardson"
+   }
+  ],
+  "87": [
+   {
+    "email": "rep87@ohiohouse.gov",
+    "name": "Riordan McClain",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/members/riordan-t-mcclain"
+   }
+  ],
+  "88": [
+   {
+    "email": "rep88@ohiohouse.gov",
+    "name": "Gary Click",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/gary-click"
+   }
+  ],
+  "89": [
+   {
+    "email": "rep89@ohiohouse.gov",
+    "name": "D.J. Swearingen",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/d-j-swearingen"
+   }
+  ],
+  "9": [
+   {
+    "email": "rep09@ohiohouse.gov",
+    "name": "Munira Abdullahi",
+    "party": "Democratic",
+    "url": "https://www.ohiohouse.gov/members/munira-abdullahi"
+   }
+  ],
+  "90": [
+   {
+    "email": "rep90@ohiohouse.gov",
+    "name": "Justin Pizzulli",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/members/justin-pizzulli"
+   }
+  ],
+  "91": [
+   {
+    "email": "rep91@ohiohouse.gov",
+    "name": "Bob Peterson",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/members/bob-peterson"
+   }
+  ],
+  "92": [
+   {
+    "email": "rep92@ohiohouse.gov",
+    "name": "Mark Johnson",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/mark-johnson"
+   }
+  ],
+  "93": [
+   {
+    "email": "rep93@ohiohouse.gov",
+    "name": "Jason Stephens",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/jason-stephens"
+   }
+  ],
+  "94": [
+   {
+    "email": "rep94@ohiohouse.gov",
+    "name": "Kevin Ritter",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/members/kevin-ritter"
+   }
+  ],
+  "95": [
+   {
+    "email": "rep95@ohiohouse.gov",
+    "name": "Ty Moore",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/members/ty-moore"
+   }
+  ],
+  "96": [
+   {
+    "email": "rep96@ohiohouse.gov",
+    "name": "Ron Ferguson",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/members/ron-ferguson"
+   }
+  ],
+  "97": [
+   {
+    "email": "rep97@ohiohouse.gov",
+    "name": "Adam Holmes",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/adam-holmes"
+   }
+  ],
+  "98": [
+   {
+    "email": "rep98@ohiohouse.gov",
+    "name": "Mark Hiner",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/members/mark-hiner"
+   }
+  ],
+  "99": [
+   {
+    "email": "rep99@ohiohouse.gov",
+    "name": "Sarah Fowler Arthur",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/members/sarah-fowler-arthur"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/oh.csv"
+ },
+ "state": "OH",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "sd01@ohiosenate.gov",
+    "name": "Rob McColley",
+    "party": "Republican",
+    "url": "https://www.ohiosenate.gov/members/rob-mccolley"
+   }
+  ],
+  "10": [
+   {
+    "email": "sd10@ohiosenate.gov",
+    "name": "Kyle Koehler",
+    "party": "Republican",
+    "url": "https://ohiosenate.gov/members/kyle-koehler"
+   }
+  ],
+  "11": [
+   {
+    "email": "sd11@ohiosenate.gov",
+    "name": "Paula Hicks-Hudson",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/paula-hicks-hudson"
+   }
+  ],
+  "12": [
+   {
+    "email": "sd12@ohiosenate.gov",
+    "name": "Susan Manchester",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/susan-manchester"
+   }
+  ],
+  "14": [
+   {
+    "email": "sd14@ohiosenate.gov",
+    "name": "Terry Johnson",
+    "party": "Republican",
+    "url": "https://www.ohiosenate.gov/members/terry-johnson"
+   }
+  ],
+  "15": [
+   {
+    "email": "sd15@ohiosenate.gov",
+    "name": "Hearcel Craig",
+    "party": "Democratic",
+    "url": "https://www.ohiosenate.gov/members/hearcel-f-craig"
+   }
+  ],
+  "16": [
+   {
+    "email": "sd16@ohiosenate.gov",
+    "name": "Beth Liston",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/beth-liston"
+   }
+  ],
+  "17": [
+   {
+    "email": "sd17@ohiosenate.gov",
+    "name": "Shane Wilkin",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/shane-wilkin"
+   }
+  ],
+  "18": [
+   {
+    "email": "sd18@ohiosenate.gov",
+    "name": "Jerry Cirino",
+    "party": "Republican",
+    "url": "https://ohiosenate.gov/members/jerry-c-cirino"
+   }
+  ],
+  "19": [
+   {
+    "email": "sd19@ohiosenate.gov",
+    "name": "Andrew Brenner",
+    "party": "Republican",
+    "url": "https://www.ohiosenate.gov/members/andrew-o-brenner"
+   }
+  ],
+  "2": [
+   {
+    "email": "sd02@ohiosenate.gov",
+    "name": "Theresa Gavarone",
+    "party": "Republican",
+    "url": "https://www.ohiosenate.gov/members/theresa-gavarone"
+   }
+  ],
+  "20": [
+   {
+    "email": "sd20@ohiosenate.gov",
+    "name": "Tim Schaffer",
+    "party": "Republican",
+    "url": "https://www.ohiosenate.gov/members/tim-schaffer"
+   }
+  ],
+  "21": [
+   {
+    "email": "sd21@ohiosenate.gov",
+    "name": "Kent Smith",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/kent-smith"
+   }
+  ],
+  "22": [
+   {
+    "email": "sd22@ohiosenate.gov",
+    "name": "Mark Romanchuk",
+    "party": "Republican",
+    "url": "https://www.ohiosenate.gov/members/mark-romanchuk"
+   }
+  ],
+  "23": [
+   {
+    "email": "sd23@ohiosenate.gov",
+    "name": "Nickie Antonio",
+    "party": "Democratic",
+    "url": "https://www.ohiosenate.gov/members/nickie-j-antonio"
+   }
+  ],
+  "24": [
+   {
+    "email": "sd24@ohiosenate.gov",
+    "name": "Tom Patton",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/thomas-f-patton"
+   }
+  ],
+  "25": [
+   {
+    "email": "sd25@ohiosenate.gov",
+    "name": "Bill DeMora",
+    "party": "Democratic",
+    "url": "https://www.ohiosenate.gov/members/william-p-demora"
+   }
+  ],
+  "26": [
+   {
+    "email": "sd26@ohiosenate.gov",
+    "name": "Bill Reineke",
+    "party": "Republican",
+    "url": "https://www.ohiohouse.gov/bill-reineke"
+   }
+  ],
+  "27": [
+   {
+    "email": "sd27@ohiosenate.gov",
+    "name": "Kristina Roegner",
+    "party": "Republican",
+    "url": "https://www.ohiosenate.gov/members/kristina-d-roegner"
+   }
+  ],
+  "28": [
+   {
+    "email": "sd28@ohiosenate.gov",
+    "name": "Casey Weinstein",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/casey-weinstein"
+   }
+  ],
+  "29": [
+   {
+    "email": "sd29@ohiosenate.gov",
+    "name": "Jane Timken",
+    "party": "Republican",
+    "url": "https://www.ohiosenate.gov/members/jane-m-timken"
+   }
+  ],
+  "3": [
+   {
+    "email": "reynolds@ohiosenate.gov",
+    "name": "Michele Reynolds",
+    "party": "Republican",
+    "url": "https://www.ohiosenate.gov/members/michele-reynolds"
+   }
+  ],
+  "30": [
+   {
+    "email": "sd30@ohiosenate.gov",
+    "name": "Brian Chavez",
+    "party": "Republican",
+    "url": "https://www.ohiosenate.gov/members/brian-m-chavez"
+   }
+  ],
+  "31": [
+   {
+    "email": "sd31@ohiosenate.gov",
+    "name": "Al Landis",
+    "party": "Republican",
+    "url": "https://ohiosenate.gov/members/al-landis"
+   }
+  ],
+  "32": [
+   {
+    "email": "sd32@ohiosenate.gov",
+    "name": "Sandy O'Brien",
+    "party": "Republican",
+    "url": "https://www.ohiosenate.gov/members/sandra-obrien"
+   }
+  ],
+  "33": [
+   {
+    "email": "sd33@ohiosenate.gov",
+    "name": "Al Cutrona",
+    "party": "Republican",
+    "url": "https://ohiohouse.gov/al-cutrona"
+   }
+  ],
+  "4": [
+   {
+    "email": "sd04@ohiosenate.gov",
+    "name": "George Lang",
+    "party": "Republican",
+    "url": "https://www.ohiohouse.gov/george-f-lang"
+   }
+  ],
+  "5": [
+   {
+    "email": "sd05@ohiosenate.gov",
+    "name": "Steve Huffman",
+    "party": "Republican",
+    "url": "https://www.ohiosenate.gov/members/stephen-a-huffman"
+   }
+  ],
+  "6": [
+   {
+    "email": "sd06@ohiosenate.gov",
+    "name": "Willis Blackshear",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/members/willis-e-blackshear-jr"
+   }
+  ],
+  "7": [
+   {
+    "email": "sd07@ohiosenate.gov",
+    "name": "Steve Wilson",
+    "party": "Republican",
+    "url": "https://www.ohiosenate.gov/members/steve-wilson"
+   }
+  ],
+  "8": [
+   {
+    "email": "sd08@ohiosenate.gov",
+    "name": "Bill Blessing",
+    "party": "Republican",
+    "url": "https://www.ohiosenate.gov/members/louis-w-blessing-iii"
+   }
+  ],
+  "9": [
+   {
+    "email": "sd09@ohiosenate.gov",
+    "name": "Catherine Ingram",
+    "party": "Democratic",
+    "url": "https://ohiohouse.gov/catherine-d-ingram"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

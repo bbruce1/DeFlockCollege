@@ -1,0 +1,602 @@
+[
+  {
+    "id": "policy-001",
+    "angle": "policy",
+    "subject": "Asking whether you would put removal on an agenda",
+    "body": "Dear {{officialName}},\n\nThere are {{readersWithinMile}} automated plate readers within a mile of {{school}}, and what unsettles me is that none of them arrived because students asked for them. As a student here I have no way to change that on my own. The first step is procedural rather than dramatic, since somebody has to put the question on an agenda.\n\nI am asking you to be that person, and I would like to know whether you will. The item would read plainly: remove the readers already installed around campus and authorize no new ones.\n\nA retention rule would leave the network standing, and so would an annual report. What would change conditions on the ground is taking equipment down and declining to add more.\n\nWould you sponsor that item? If something makes it difficult, I would genuinely like to understand what."
+  },
+  {
+    "id": "policy-002",
+    "angle": "policy",
+    "subject": "Asking for a yes or no on removal",
+    "body": "Dear {{officialName}},\n\nOne line would answer this, which is why I am asking rather than arguing.\n\nWould you vote to remove the automated plate readers around {{school}} and to bar new installations in {{city}}? A yes or a no is enough for me. Should the answer be yes, I would like to know when such a vote could be scheduled. If it is no, I would like the reason, so that I can repeat it accurately to other students rather than guessing at it.\n\nWhat troubles me is that the cameras went up without a public decision by the people they record. Reversing that needs a public decision too, and that part is not something a student can do.\n\nA one word reply would count as a complete answer, and I would be grateful for it."
+  },
+  {
+    "id": "policy-003",
+    "angle": "policy",
+    "subject": "Letting the plate reader contract lapse at renewal",
+    "body": "Dear {{officialName}},\n\nEvery surveillance contract has an end date, and that date looks to me like the least painful place to undo a decision. No lawsuit would be needed and no buyout would have to be negotiated. The {{role}} lets the agreement lapse and directs that the equipment come down.\n\nThat is what I am asking for with the automated plate readers near {{school}}. At the next renewal, I hope you will vote no, and I hope the same motion will make clear that no replacement system is to be installed. A lapsed contract with a new vendor waiting would not feel like a change to me.\n\nI am one student writing one letter, and I never agreed to be logged on my way to campus.\n\nCould you tell me the renewal date and how you expect to vote?"
+  },
+  {
+    "id": "policy-004",
+    "angle": "policy",
+    "subject": "A referral with a deadline and a stated subject",
+    "body": "Dear {{officialName}},\n\nCommittee referral is often where a question goes quiet, so I want to be specific about what I am hoping for. Would you send the matter of the automated plate readers near {{school}} to whichever committee handles public safety contracts, with a deadline attached and a stated subject: removal of the cameras already installed and a prohibition on new ones?\n\nA referral that asks only how long footage is kept would worry me more than it would help. Retention schedules do not take a single camera down.\n\nThere are {{readersWithinMile}} of these readers within a mile of campus and {{readersInState}} across {{state}}. Growth on that scale bothers me precisely because each approval behind it felt small at the time.\n\nWould you make the referral, and what deadline would you want on it? I am a student here and would follow it through."
+  },
+  {
+    "id": "policy-005",
+    "angle": "policy",
+    "subject": "A public hearing on the readers already installed",
+    "body": "Dear {{officialName}},\n\nBefore another camera goes up in {{city}}, I would like a public hearing on the ones already there, and I am asking you to call for one.\n\nI am a student at {{shortName}}. The {{readersWithinMile}} plate readers within a mile of campus were installed without anyone in my position being consulted, and that is the part I keep turning over. A hearing would not undo it. It would put the {{role}} in a position to say on the record why the cameras stay up, which is something students have never heard.\n\nWhat I hope comes out of that hearing is a vote to take the readers down and to authorize no further installations. My worry is that it ends at a presentation from the vendor instead.\n\nWould you support scheduling one, and would you be willing to say so publicly?"
+  },
+  {
+    "id": "policy-006",
+    "angle": "policy",
+    "subject": "Striking the plate reader line in the next budget",
+    "body": "Dear {{officialName}},\n\nThe simplest way to end a program is to stop paying for it, and somewhere in the {{role}} budget there is a line funding the automated plate readers operating around {{school}}. I am asking you to strike it before the next cycle closes.\n\nDefunding on its own would leave hardware bolted to poles, so I hope it can be paired with direction that the cameras come down and that none go up in their place. Two motions, one meeting.\n\nWhat worries me most is not the money. It is that a program students never agreed to could renew by default because nobody raised it in time.\n\nWould you be willing to move that amendment? If you would rather another member moved it, would you vote for it? I am a student here and would like to know either way."
+  },
+  {
+    "id": "policy-007",
+    "angle": "policy",
+    "subject": "An ordinance to stop new installations in {{city}}",
+    "body": "Dear {{officialName}},\n\nNew plate readers keep appearing in cities that never voted on the first ones, and that pattern is what worries me about {{city}}. An ordinance prohibiting further installations would stop it, and nothing prevents a member of the {{role}} from introducing one.\n\nA ban on new cameras would only be half of what I am asking for. The readers already running near {{school}} log every student who drives past, none of us having done anything to attract attention, and I would like them to come down alongside the prohibition.\n\nI am not asking for a moratorium that expires quietly, and an oversight board meeting after the fact would not settle my worry either.\n\nWould you introduce such an ordinance? If you would rather co-sponsor than lead, tell me who you would want beside you and I will write to them as well."
+  },
+  {
+    "id": "policy-008",
+    "angle": "policy",
+    "subject": "What would it take for you to vote yes",
+    "body": "Dear {{officialName}},\n\nMost constituent letters change nothing, which I know, so let me ask a different question instead of repeating one. What would it take for you to vote to remove the automated plate readers near {{school}}?\n\nIf the answer is evidence, I would like to know what kind. Should it be a number of constituents, tell me roughly how many and I will go and find them. And if the honest answer is that nothing would move you, I would rather hear that than a polite reply, because at least it tells me where I stand.\n\nMy own position is straightforward. I think the cameras around campus should come down, and that {{city}} should approve no new ones.\n\nI am one student asking. Would you tell me what sits between that position and your vote?"
+  },
+  {
+    "id": "policy-009",
+    "angle": "policy",
+    "subject": "Your position on the readers, in writing",
+    "body": "Dear {{officialName}},\n\nStudents in {{city}} have very little to go on when we try to work out where local officials stand on surveillance, and that gap is why I am writing now rather than later.\n\nDo you support removing the automated plate readers currently operating near {{school}}, and do you support barring new installations? A written answer, even a short one, would let a student compare officials on something concrete instead of guessing from general statements about public safety.\n\nThe thing I find hardest to accept is how quietly these systems accumulate. {{readersInState}} readers now operate across {{state}}, and each was approved somewhere without the people recorded being asked.\n\nI would be grateful for an answer in writing, and I will share it exactly as you give it, without shortening it."
+  },
+  {
+    "id": "policy-010",
+    "angle": "policy",
+    "subject": "Two steps I am hoping you will take",
+    "body": "Dear {{officialName}},\n\nTwo things, in this order, and I would be glad of an answer on either.\n\nThe first is to ask staff at an upcoming meeting for the expiration date of every agreement covering automated plate readers in {{city}}, and to put those dates on the public record. What unsettles me about programs like this is that almost nobody outside the building knows when they renew.\n\nThe second is a commitment now to vote against renewal and to direct removal of the cameras around {{school}}. That commitment matters more to me than the date, since a schedule without a decision behind it only tells the vendor when to begin lobbying.\n\nA student here is counted by {{readersWithinMile}} readers within a mile of campus, and none of us were asked.\n\nWhich of those steps would you be willing to take?"
+  },
+  {
+    "id": "policy-011",
+    "angle": "policy",
+    "subject": "Pulling the reader item for a recorded vote",
+    "body": "Dear {{officialName}},\n\nConsent agendas are where surveillance contracts tend to sit, and that is the part I find hardest to accept. I am asking you to pull the plate reader item off yours, so that the {{role}} takes a recorded vote on whether the cameras around {{school}} stay up.\n\nA recorded vote would do two things I care about. Every member would have to hold a position, and a student would have a document to keep after the meeting ends.\n\nMy ask is not a neutral one. I want that vote to end in removal of the existing readers and a prohibition on new ones. Even so, I would rather lose a recorded vote than win a quiet delay, since delay only moves the same decision somewhere less visible.\n\nWould you make the request, and how do you expect to vote?"
+  },
+  {
+    "id": "policy-012",
+    "angle": "policy",
+    "subject": "Directing staff to draft a removal plan",
+    "body": "Dear {{officialName}},\n\nWhen a body is uncomfortable with a question it often directs staff to study it, and I understand why. Could that study be a useful one? I would like staff asked what it would cost and how long it would take to remove every automated plate reader operating near {{school}}, and what authority exists to prohibit new ones.\n\nThat would be a removal plan with a deadline, coming back to a public meeting for a vote.\n\nA study of retention periods would not be that, and neither would a transparency dashboard. Both leave {{readersWithinMile}} cameras running within a mile of campus while everyone feels better about oversight.\n\nWould you give that direction at an upcoming meeting? As a student here I would like to know what reporting date you would set."
+  },
+  {
+    "id": "policy-013",
+    "angle": "policy",
+    "subject": "When does the {{city}} reader agreement come up",
+    "body": "Dear {{officialName}},\n\nA date is all I am after to begin with. When does the agreement covering automated plate readers in {{city}} come up for renewal, and who signs it?\n\nWith that in hand, my second question gets easy. Would you vote against renewal and move that the cameras near {{school}} be taken down?\n\nVendors present these systems as settled, and I think that framing is the thing a student should push back on hardest. Every one of them exists because somebody voted, or because somebody had authority to sign without a vote, and either arrangement can be reversed by the body that created it.\n\nCould you send me the date? I would also be grateful to know plainly whether you would oppose renewal when it arrives."
+  },
+  {
+    "id": "policy-014",
+    "angle": "policy",
+    "subject": "I would like the readers near {{shortName}} taken down",
+    "body": "Dear {{officialName}},\n\nI would like them taken down, and I want to be plain about that rather than hint at it.\n\nThere are {{readersWithinMile}} automated plate readers within a mile of {{shortName}}, recording who drives where at all hours, and no student I know agreed to it. The authority to remove them, and to approve no more, sits with the {{role}}.\n\nI am not asking for a policy governing their use. Rules about a camera network still leave a camera network standing, and that is what bothers me about the usual response.\n\nWould you bring removal to a vote? Should you decide against it, I would rather hear that directly from you than assume it, and I would like to understand the reasoning well enough to think about it properly.\n\nWhat would your answer be?"
+  },
+  {
+    "id": "policy-015",
+    "angle": "policy",
+    "subject": "Could a meeting be named for the removal vote",
+    "body": "Dear {{officialName}},\n\nWhat I would like is a date on the calendar.\n\nA specific meeting, identified in advance, at which the {{role}} votes on removing the automated plate readers around {{school}} and prohibiting new installations in {{city}}. General assurances would not give a student anything to prepare for, and a referral without a return deadline has the same problem.\n\nYou have procedural tools I do not, whether that means placing the item yourself or asking the presiding officer to calendar it. I expect staff will say it needs preparation, and preparation is a schedule rather than an obstacle.\n\n{{readersInState}} of these cameras now operate across {{state}}, each one somebody's routine approval, which is the part that worries me.\n\nWhich meeting could it be? If you can tell me beforehand, students will come."
+  },
+  {
+    "id": "policy-016",
+    "angle": "policy",
+    "subject": "Using your office to put the item forward",
+    "body": "Dear {{officialName}},\n\nAs {{officialTitle}} you can put an item in front of your colleagues without waiting for anyone to agree it is worth discussing. That is the whole of what I am asking for.\n\nThe item: remove the automated plate readers operating around {{school}}, and adopt a prohibition on installing new ones anywhere in {{city}}.\n\nNo student was consulted before the cameras went up, and most of us still do not know how many there are. Within a mile of campus the count is {{readersWithinMile}}, which surprised me when I found it.\n\nI expect the objection will be that the program helps solve crimes. If that is your view, I would rather you said it publicly and let the vote happen anyway. A program that can survive a public vote has nothing to fear from one.\n\nWould you put it forward?"
+  },
+  {
+    "id": "policy-017",
+    "angle": "policy",
+    "subject": "A freeze on new readers, then a removal vote",
+    "body": "Dear {{officialName}},\n\nStart with the easier half, if that helps. Would you ask the {{role}} to approve no new automated plate readers in {{city}} while the question of the existing ones is decided? A freeze costs nothing and commits no member to a final position.\n\nThen I would like the rest of it. The readers already installed near {{school}} should come down, and the freeze should become permanent rather than expiring on its own.\n\nI raise the order deliberately, because what worries me is that programs like this grow fastest during the period when everyone has agreed to think about them. {{readersWithinMile}} readers already sit within a mile of campus.\n\nCould you move the freeze at an upcoming meeting? As a student I would also like to know now whether you would support removal at the end of it."
+  },
+  {
+    "id": "policy-018",
+    "angle": "policy",
+    "subject": "Would you second a motion to remove them",
+    "body": "Dear {{officialName}},\n\nSooner or later somebody on the {{role}} will move to remove the automated plate readers around {{school}}. A motion dies without a second, and seconds are cheap, which is why I am asking for one in advance.\n\nWould you second such a motion if it is made, and would you vote for it? Seconding is not agreement with everything a colleague says. It only lets the question be argued in public, which is the part students cannot arrange for ourselves.\n\nThe same goes for a proposal barring new installations. Both belong in front of the {{role}}, and at the moment neither exists anywhere.\n\nI would be grateful for your answer in writing, so a student knows who to approach once a motion is ready. If you would rather not commit yet, tell me what would help."
+  },
+  {
+    "id": "policy-019",
+    "angle": "policy",
+    "subject": "Asking for a standalone vote on the reader agreement",
+    "body": "Dear {{officialName}},\n\nRenewal decisions on surveillance equipment often arrive late, bundled with unrelated items, and framed as routine. That framing is something the {{role}} can decline, and I am asking you to decline it.\n\nWhen the automated plate reader agreement covering {{city}} next comes up, would you ask that it be separated from everything else and debated on its own? Then I hope you will vote against it, and direct that the cameras near {{school}} be removed rather than handed to another vendor under a new name.\n\nA student here drives past {{readersWithinMile}} of these readers within a mile of campus. None of us signed anything, and that is the part I cannot get comfortable with.\n\nWould you press for a standalone vote, and how do you expect to cast yours?"
+  },
+  {
+    "id": "policy-020",
+    "angle": "policy",
+    "subject": "One narrow question about the readers near {{shortName}}",
+    "body": "Dear {{officialName}},\n\nMy question is narrow and does not need a meeting to answer.\n\nWould you support taking down the automated plate readers within a mile of {{shortName}}, currently {{readersWithinMile}} of them, and refusing approval for any more?\n\nA yes would tell me who students can work with. A no would at least tell me where the argument has to be made. An automatic acknowledgment of receipt would tell me nothing, and I would rather your office spared itself the trouble.\n\nEvery student at {{school}} is among the people these cameras log most often, since we come and go from the same place all week. Nobody asked whether we thought that trade was worth making, and I do not think it was.\n\nYes or no, if you can spare the line."
+  },
+  {
+    "id": "policy-021",
+    "angle": "policy",
+    "subject": "The choice about the cameras belongs to the {{role}}",
+    "body": "Dear {{officialName}},\n\nPolice departments buy this equipment, and they do not have the last word on keeping it. The {{role}} approves the money and the agreements, which means the {{role}} can end both, and that is why I am writing to you rather than to them.\n\nI am asking you to use that authority on the automated plate readers around {{school}}. Bring removal to a vote, and bring a prohibition on new installations alongside it.\n\nAn audit would not address what I am worried about, and neither would an oversight policy. Only a decision to stop operating the cameras takes them off the streets a student uses every day.\n\nIf the authority actually sits somewhere else, I would be glad to be told where, and I will write there instead. Should it sit with you, when could you use it?"
+  },
+  {
+    "id": "policy-022",
+    "angle": "policy",
+    "subject": "A written position from you rather than from staff",
+    "body": "Dear {{officialName}},\n\nReplies to letters like mine usually restate a department's policy and stop there. What I am hoping for is something different, and from you personally.\n\nWould you put in writing whether you will vote to remove the automated plate readers operating near {{school}} and to prohibit new ones in {{city}}? That is a position, and a position is something a student can actually work with.\n\nThe route from there is ordinary. Place the item on an agenda, or ask a colleague to, and let the {{role}} decide in public what has so far been decided quietly.\n\n{{readersInState}} readers across {{state}} did not appear by accident. Each was approved somewhere, and the quietness of that is what unsettles me.\n\nCould I have your answer in your own words?"
+  },
+  {
+    "id": "policy-023",
+    "angle": "policy",
+    "subject": "Installed equipment can still come back down",
+    "body": "Dear {{officialName}},\n\nInstalled equipment feels permanent, which is probably why vendors like installing it. Nothing about the automated plate readers near {{school}} actually is permanent, since mounting hardware comes down as easily as it goes up.\n\nWhat the {{role}} needs is a vote, and what a vote needs is an agenda item. I am asking you to create one that does two things: order removal of the existing readers, and prohibit approval of new installations in {{city}}.\n\nHalf measures will be offered, I expect. Shorter retention periods, perhaps, or a public dashboard. Neither takes a camera down, and as a student I would find either one hard to describe as progress.\n\nWould you put the item forward? If you would rather not, I would be grateful to know which of your colleagues might."
+  },
+  {
+    "id": "policy-024",
+    "angle": "policy",
+    "subject": "Hold the vote even if you favor the program",
+    "body": "Dear {{officialName}},\n\nYou may think this program is worth keeping, and I am asking for the vote anyway.\n\nA public decision on the automated plate readers around {{school}} would settle something that has never actually been settled. Should your colleagues agree with you, the program survives openly instead of by default, and I will have to make a better argument next time.\n\nMy own position is that the readers should be removed and that {{city}} should approve no new ones. Changing your mind through one letter from one student is not something I expect.\n\nWhat I am asking for is procedural. Put it on an agenda, let people speak, then take a recorded vote.\n\nWould you agree to that much, whichever way you plan to vote? I would like to know before the argument starts."
+  },
+  {
+    "id": "policy-025",
+    "angle": "policy",
+    "subject": "Somebody has to object before the term ends",
+    "body": "Dear {{officialName}},\n\nThere is a version of this where nobody has to make a speech. The agreement covering automated plate readers in {{city}} reaches its term, the {{role}} takes no action to extend it, and the cameras near {{school}} come down on schedule.\n\nThat outcome still needs a decision, since renewal tends to be automatic unless a member objects. I am asking you to be the one who objects, and to pair the objection with direction that no replacement system be installed.\n\nThe count within a mile of campus is {{readersWithinMile}}. Across {{state}} it reaches {{readersInState}}. Neither figure is one a student was consulted about, and both are larger than I expected.\n\nWould you raise the objection before the term ends, and would you let me know if you do?"
+  },
+  {
+    "id": "policy-026",
+    "angle": "policy",
+    "subject": "Routine approvals built this network one at a time",
+    "body": "Dear {{officialName}},\n\nNobody in {{city}} ever voted to build a surveillance network. It got built anyway, one routine approval at a time, and the {{readersWithinMile}} automated license plate readers within a mile of {{school}} are what that looks like locally.\n\nThe same mechanism runs in reverse. An agenda item, then a motion with a majority behind it, and the cameras come down.\n\nI am asking you, as one student, to start that. The motion should cover removal of the readers already in place and a bar on approving new ones, because taking down cameras that get replaced next quarter would not settle anything.\n\nShould you want to hear from more students first, tell me what would count as enough and I will work toward it rather than guess.\n\nWould you be willing to make that motion?"
+  },
+  {
+    "id": "policy-027",
+    "angle": "policy",
+    "subject": "Supporting a prohibition on further reader installations",
+    "body": "Dear {{officialName}},\n\nIf the body you serve on has any say over where surveillance cameras go in {{city}}, I would like to see that authority used to say no to the next batch.\n\nA prohibition on new automated license plate readers is a clean thing to vote on. It costs nothing, and it keeps the number from growing while the larger question is decided.\n\nThat larger question is whether the {{readersWithinMile}} readers near {{school}} should be there at all. My answer, as a student who passes them, is that they should not, and I am asking you to bring it to a vote rather than leave it to whoever signs the next agreement.\n\nWould you introduce or support such a prohibition? I would also like to know whether you would say publicly that removal is where you want this to end."
+  },
+  {
+    "id": "policy-028",
+    "angle": "policy",
+    "subject": "Who on the {{role}} can calendar an item",
+    "body": "Dear {{officialName}},\n\nPart of what I am asking for is information, since a student has no reliable way to find it. Who on the {{role}} has the power to place an item on an agenda, and what does a member have to do to get a motion heard?\n\nThe item I would like heard is removal of the automated plate readers around {{school}}, together with a prohibition on new installations in {{city}}.\n\nShould that authority be yours, I am asking you to use it, and I would like to know whether you will. If it belongs to a chair or a presiding officer, tell me who and I will send the same request there.\n\nStudents can show up to meetings. Calendaring them is beyond us.\n\nCould you answer both questions?"
+  },
+  {
+    "id": "policy-029",
+    "angle": "policy",
+    "subject": "A vote on removal before this term ends",
+    "body": "Dear {{officialName}},\n\nSemesters end and students graduate, which is one reason surveillance programs outlast the people who worry about them. That is not a reason to wait, though it is a reason I am writing now.\n\nI am asking for a vote on removing the automated plate readers near {{school}} before this term is over, along with a decision that {{city}} will approve no new installations.\n\nDelay past the end of term works like a no, since the student raising the question gets replaced by people who do not yet know the cameras exist. There are {{readersWithinMile}} of them within a mile of campus.\n\nCould you commit to a date this term? If the calendar genuinely will not allow it, I would be grateful to know the first date that would."
+  },
+  {
+    "id": "policy-030",
+    "angle": "policy",
+    "subject": "The whole request, in one short letter",
+    "body": "Dear {{officialName}},\n\nRemove the automated plate readers around {{school}}, and approve no new ones in {{city}}. That is what I am asking for, and I would like to know whether you will support it.\n\nIt needs an agenda item and a majority, both within the reach of {{officialTitle}}.\n\nA student was not asked before {{readersWithinMile}} of these cameras went up within a mile of campus, and nobody has asked since. Every review of the program so far has been carried out by the people running it, which is the part I find least reassuring.\n\nA policy on how the data is stored would not address my worry. Storage rules change nothing about who gets recorded.\n\nWould you bring removal to a vote, and would you be willing to say so on the record?"
+  },
+  {
+    "id": "policy-031",
+    "angle": "policy",
+    "subject": "Treat the next renewal as a new purchase",
+    "body": "Dear {{officialName}},\n\nCompanies that sell plate reader systems prefer quiet renewals, and quiet renewals are usually what they get. One procedural decision by the {{role}} would break that habit.\n\nWhen the {{city}} agreement next comes up, would you treat it as a new purchase rather than a continuation, and ask for public comment? Then I hope you will vote it down and direct that the cameras near {{school}} be removed rather than relocated.\n\nRelocation is the part a student would watch. Moving readers a few blocks and calling it a reduction would leave the same number scanning the same students. Around campus the count stands at {{readersWithinMile}}.\n\nWould you be prepared to treat the renewal as a fresh decision? I would like to know how you expect to vote on it."
+  },
+  {
+    "id": "policy-032",
+    "angle": "policy",
+    "subject": "Saying publicly where you stand, then moving it",
+    "body": "Dear {{officialName}},\n\nThere is a difference between telling a student you have concerns and telling a room how you intend to vote. The second is what I am asking for.\n\nWould you say publicly that you support removing the automated plate readers near {{school}} and prohibiting new installations in {{city}}? Then move it, or vote for it when a colleague does.\n\nPrivate sympathy does not remove hardware. What worries me is the loop underneath this: members who dislike a program stay quiet because no vote is scheduled, and nothing gets scheduled because everyone assumes the votes are not there.\n\nWould you break that loop by stating your position first? I cannot do it from outside, and I would happily point other students toward anyone who does."
+  },
+  {
+    "id": "policy-033",
+    "angle": "policy",
+    "subject": "A hearing at an hour students can attend",
+    "body": "Dear {{officialName}},\n\nPublic comment after a decision is theatre. Before one, it is close to the only thing standing between a vendor and an automatic renewal, which is why the timing matters to me.\n\nWould you ask for a hearing on the automated plate readers operating near {{school}} while the decision is still open, and press for it to be held at an hour a student can attend? Then the vote that matters can follow: whether the readers stay up, and whether {{city}} approves any more.\n\nMy position is that they should come down and that no further installations should be authorized. I would much rather argue that in front of the {{role}} than in a letter nobody has to answer.\n\nWould you request the hearing? If it gets set, I would be grateful to hear when."
+  },
+  {
+    "id": "policy-034",
+    "angle": "policy",
+    "subject": "An amendment attaching removal to the next extension",
+    "body": "Dear {{officialName}},\n\nThe next time anything involving automated plate readers reaches the {{role}}, it will most likely be an extension request. That looks to me like the moment to attach a condition rather than approve the item as written.\n\nThe condition I am asking for is removal of the cameras around {{school}} and a bar on installing new ones in {{city}}. An amendment from the dais could do that without waiting for a separate process to be invented.\n\nA student here drives past the {{readersWithinMile}} readers within a mile of campus constantly, and none of us were any part of the original decision. That is the thing I would like on the record.\n\nWould you offer that amendment? And if it failed, would you vote against the extension itself?"
+  },
+  {
+    "id": "policy-035",
+    "angle": "policy",
+    "subject": "Sponsoring the ordinance, and who else might",
+    "body": "Dear {{officialName}},\n\nOrdinances need a sponsor before they need a majority, and this one has neither, which is where a student gets stuck.\n\nThe text could be short. No new automated license plate readers may be installed in {{city}}, and those already operating near {{school}} are to be removed on a stated schedule.\n\nI am asking you to sponsor it. Beyond that, I am asking for something students cannot get on our own, which is an honest read on which of your colleagues might vote yes, so we know where to spend our time.\n\nThe number of readers within a mile of campus is {{readersWithinMile}}. Across {{state}} the count reaches {{readersInState}}.\n\nWould you sponsor it, and who else should hear from us? Either answer would help."
+  },
+  {
+    "id": "policy-036",
+    "angle": "policy",
+    "subject": "Has the {{role}} ever voted on these cameras",
+    "body": "Dear {{officialName}},\n\nI would like to know whether the {{role}} has ever voted on the automated plate readers now operating in {{city}}, or whether they were approved administratively and never came before you at all. I have not been able to work it out from outside.\n\nEither answer leads me to the same request. Should there have been a vote, I am asking for another one that reverses it. Where there was none, I think the {{role}} ought to take the decision back and make it in public.\n\nWhat I hope comes out of that decision is removal of the readers near {{school}} and a prohibition on new installations. No student was part of the original approval, however it happened.\n\nCould you tell me which it was, and whether you would bring it back?"
+  },
+  {
+    "id": "policy-037",
+    "angle": "policy",
+    "subject": "Calendar the question before the agreement renews",
+    "body": "Dear {{officialName}},\n\nContracts are the pressure point here, and the calendar is close to the only leverage a student has, so my request is timed rather than general.\n\nBefore the automated plate reader agreement covering {{city}} is renewed, would you put removal on an agenda? Let the {{role}} decide in public whether the cameras near {{school}} continue, and pair that decision with a rule against approving new readers.\n\nWaiting until after renewal turns this into a conversation about breaking a contract, which is a far easier thing for colleagues to refuse, and that is what I am trying to avoid.\n\nCould you find the renewal date and calendar the question ahead of it? I would be grateful to know what you learn either way."
+  },
+  {
+    "id": "policy-038",
+    "angle": "policy",
+    "subject": "Setting a date by which the readers come down",
+    "body": "Dear {{officialName}},\n\nPrograms without an end date do not end. That is most of what has happened with automated plate readers in {{city}}, as far as a student can tell from outside.\n\nTwo motions would change it. Would you move that the {{role}} set a date by which the readers around {{school}} come down, and move that no new installations be approved in the meantime or afterward?\n\nAn end date forces a public decision. Anyone who wants the program to continue then has to argue for it in front of people who never agreed to it, which is how I think the choice should have been made in the first place.\n\nWould you move both? If you would move only one, I would like to know which, and why that one."
+  },
+  {
+    "id": "policy-039",
+    "angle": "policy",
+    "subject": "Turning down outside money for more readers",
+    "body": "Dear {{officialName}},\n\nSurveillance expansion often arrives as free equipment. Someone else pays at the start, the {{role}} accepts, and the cost lands in a later budget when refusing it looks like a cut. That sequence is what worries me.\n\nI am asking you to decline that arrangement for automated plate readers in {{city}}, whatever form it takes and whoever is offering. Alongside it, I hope you will bring removal of the readers near {{school}} to a vote.\n\nAccepting no new cameras while leaving {{readersWithinMile}} of them running within a mile of campus would only freeze a situation students never agreed to.\n\nWould you commit to voting against both new funding and renewal? As one student I would rather ask you now than find out afterward."
+  },
+  {
+    "id": "policy-040",
+    "angle": "policy",
+    "subject": "Raising it in whichever committee you sit on",
+    "body": "Dear {{officialName}},\n\nYou sit somewhere with jurisdiction over this, or beside somebody who does. Either way there is a room where the question can be raised without an ordinance being drafted first.\n\nI am asking you to raise it. Ask why {{city}} operates automated plate readers around {{school}}, and ask what removal would require. It would help a student enormously if you made plain that removal with no replacements is the outcome you are after.\n\nA question in committee is not a vote, so I am asking for the vote as well, once the question has been aired.\n\nWhat is the earliest meeting where you could put this on the table? I would like to know so that students can be in the room for it."
+  },
+  {
+    "id": "policy-041",
+    "angle": "policy",
+    "subject": "Tell me the process and students will use it",
+    "body": "Dear {{officialName}},\n\nStudents are willing to do the work. What we lack is a map of the process, and I am hoping you can draw it.\n\nHow does an item like removing the automated plate readers near {{school}} get onto an agenda in {{city}}? Does it need a member to sponsor it, a petition, a committee referral, or a request to staff? Tell me the actual sequence and I will follow it.\n\nA referral to a comment portal is the answer I am worried about receiving. Comments do not schedule votes.\n\nMy request as a student stands whatever the route. The readers around campus should be removed, and no new ones approved. Would you walk me through the steps, and would you support the item once it arrives?"
+  },
+  {
+    "id": "policy-042",
+    "angle": "policy",
+    "subject": "A clear no would be better than silence",
+    "body": "Dear {{officialName}},\n\nWhat I am asking for is a vote of the {{role}} on removing the automated plate readers around {{school}}, with a ban on installing new ones in {{city}} written into the same measure.\n\nEverything else here is context. There are {{readersWithinMile}} readers within a mile of campus. None were discussed with the students who pass them daily. Reviews conducted by the agency running a program are not the same thing as a decision by the body that funds it, and that difference is the whole of my worry.\n\nI would rather have a clear no from you than a long explanation of why the timing is difficult, because a no at least tells a student where to go next.\n\nWhere do you stand?"
+  },
+  {
+    "id": "policy-043",
+    "angle": "policy",
+    "subject": "A no vote the next time one is proposed",
+    "body": "Dear {{officialName}},\n\nAt some point another plate reader installation will come before you, framed as a small addition to a system already in place. I am asking you to vote against it.\n\nThat vote is worth asking for on its own, because the argument that the network already exists gets stronger with every camera added to it. {{readersWithinMile}} now stand within a mile of {{school}}.\n\nThe larger request is removal of what is already installed. I would like the {{role}} to schedule that decision rather than wait for the question to arrive attached to a purchase order.\n\nCan a student count on a no vote on new installations? And would you push for the removal question to be calendared, so it is not left to arrive by accident?"
+  },
+  {
+    "id": "policy-044",
+    "angle": "policy",
+    "subject": "A date would help more than an acknowledgment",
+    "body": "Dear {{officialName}},\n\nAn acknowledgment from your office would not get me very far, so let me ask for something specific instead.\n\nCould you give me a date by which the {{role}} will consider removing the automated plate readers around {{school}} and barring new installations in {{city}}? A meeting date or a budget deadline would each do. Either tells students when to show up and what to prepare.\n\nWithout a date this stays correspondence, and correspondence has never taken a camera down, which is the thing I keep running into.\n\nIf you cannot give one, I would be grateful to be told who can, and I will write there next. I am a student here and would rather spend the effort in the right place."
+  },
+  {
+    "id": "policy-045",
+    "angle": "policy",
+    "subject": "A moratorium now if removal is not yet possible",
+    "body": "Dear {{officialName}},\n\nSupposing you are not ready to vote for removal, there is still something that could happen this month.\n\nWould you move a moratorium on new automated plate readers in {{city}}? Nothing about it forecloses your eventual position on the existing cameras, and it stops the network around {{school}} from growing while the question stays open.\n\nI should be honest that a moratorium is not what I want in the end. The {{readersWithinMile}} readers within a mile of campus should be taken down, and as a student here I will keep asking for that.\n\nWould you move the moratorium now? I would genuinely like to know what it would take to get you to removal, since guessing at it has not served us well."
+  },
+  {
+    "id": "policy-046",
+    "angle": "policy",
+    "subject": "Skipping the listening session and scheduling the item",
+    "body": "Dear {{officialName}},\n\nA listening session would be a reasonable response to this letter, and it would change nothing, which is why I would rather ask for the part that matters.\n\nPut removal of the automated plate readers near {{school}} on an agenda, take public comment there, and hold the vote the same night. Add a prohibition on new installations in {{city}} so the outcome cannot be undone quietly by the next purchase order.\n\nStudents have been told before that our concerns are noted. Notes are not decisions, and the {{readersWithinMile}} cameras within a mile of campus keep recording while the notes accumulate.\n\nWould you schedule the item? Even a rough sense of when would help a student plan."
+  },
+  {
+    "id": "policy-047",
+    "angle": "policy",
+    "subject": "Ask the department, then take the vote anyway",
+    "body": "Dear {{officialName}},\n\nBy all means ask the department how it uses the automated plate readers in {{city}}. My hope is that you decide in advance what you will do with the answer.\n\nShould the response be that the cameras are valuable, that still would not tell you whether a student agreed to be recorded, because we were not asked. A vague response would worry me in a different way, and would be its own argument for ending the program.\n\nEither way I would like the same outcome: a vote of the {{role}} to remove the readers around {{school}} and to prohibit new ones.\n\nQuestions to staff seem a reasonable first step as long as a vote is the second. Would you commit to both, and tell me if you do?"
+  },
+  {
+    "id": "policy-048",
+    "angle": "policy",
+    "subject": "My understanding of what your office can do",
+    "body": "Dear {{officialName}},\n\nI have been trying to work out what {{officialTitle}} can actually do here, so let me set out my understanding and invite you to correct it.\n\nYou can request an agenda item. Voting against renewals and new purchases is also yours. And saying publicly where you stand often unsticks a question nobody wants to raise first.\n\nWhat I would like out of all that is removal of the automated plate readers near {{school}} and a bar on new installations in {{city}}.\n\nIf my reading of your authority is wrong, I would genuinely like to know what I have missed, since a student is working from guesswork here. Should it be right, which of those would you do, and roughly when?"
+  },
+  {
+    "id": "policy-049",
+    "angle": "policy",
+    "subject": "Surveillance by default is still somebody's choice",
+    "body": "Dear {{officialName}},\n\nNobody decided that a student at {{school}} would have their movements logged. It happened because the question was never framed as a decision, and defaults require nobody's approval, which is the part I find hard to sit with.\n\nFraming it properly is within your power. An agenda item asking whether the {{role}} wants automated plate readers in {{city}} at all would turn a default into a choice, and creating one is what I am asking of you.\n\nThe outcome I argue for is removal of the {{readersWithinMile}} readers within a mile of campus, with no new installations approved afterward.\n\nWould you raise it? Should your answer be no, I would like to know whether that is about the outcome or about the process."
+  },
+  {
+    "id": "policy-050",
+    "angle": "policy",
+    "subject": "Adopting a standing position against new readers",
+    "body": "Dear {{officialName}},\n\nA standing position would be worth more than a single vote, so that is what I am asking you to adopt.\n\nWould you commit to voting against any proposal to install additional automated plate readers in {{city}}, from any source and funded by anyone? Then I hope you will work toward removing the ones already operating near {{school}}, which is the part that actually shrinks the network.\n\n{{readersInState}} of these cameras run across {{state}} now. Each was added by a body that told itself one more would not matter, and as a student I find that arithmetic unnerving.\n\nWould you state that standing position publicly? I would also like to know whether you would support putting removal to a vote."
+  },
+  {
+    "id": "policy-051",
+    "angle": "policy",
+    "subject": "One agenda slot is all this would take",
+    "body": "Dear {{officialName}},\n\nYour calendar is full and this is not the largest problem in {{city}}. It is, however, one that a single agenda slot could settle.\n\nThe item is removal of the automated plate readers around {{school}} and a prohibition on new installations. No study is needed to hold that vote. The {{role}} either wants the cameras or it does not, and so far nobody has been asked to say which.\n\nWithin a mile of campus there are {{readersWithinMile}} of them. A student passes those readers going to class and going home, and what bothers me is that the record of the trip outlives the trip.\n\nCould you claim one slot for this? I would like to know which meeting you would aim for."
+  },
+  {
+    "id": "policy-052",
+    "angle": "policy",
+    "subject": "Any of several routes would get to removal",
+    "body": "Dear {{officialName}},\n\nSeveral routes lead to the same place, and I do not much mind which one the {{role}} picks.\n\nRefusing renewal would do it. An ordinance prohibiting automated plate readers in {{city}} would as well. So would a budget amendment striking the funding, provided direction to remove the hardware travels with it.\n\nWhat I care about is the destination. The readers around {{school}} come down, and no new ones go up. Anything short of that leaves {{readersWithinMile}} cameras within a mile of campus doing exactly what they do now, which is what I am writing about.\n\nWhich route would you be willing to take? If there is something a student could supply that would make it easier, I would like to know what."
+  },
+  {
+    "id": "policy-053",
+    "angle": "policy",
+    "subject": "A plain description of what this equipment does",
+    "body": "Dear {{officialName}},\n\nAn automated plate reader records the plate of every vehicle that passes it, with the time and the place, whether or not the driver is suspected of anything. That is not a characterization borrowed from an advocacy group. It is how the equipment is built to work.\n\nWith that description in front of you, the question for the {{role}} gets simple. Should {{city}} keep doing this to the people who live and study here?\n\nMy answer is no, and I am asking you to put it to a vote: remove the readers near {{school}}, and approve no new installations.\n\nWould you bring that question forward? If a colleague brought it instead, I would like to know how you would vote, since a student has no way to guess."
+  },
+  {
+    "id": "policy-054",
+    "angle": "policy",
+    "subject": "The question the department presentation will not answer",
+    "body": "Dear {{officialName}},\n\nWhen this comes up, the department will say the readers help solve cases and that records are kept only for a limited period. Assume both statements are made in good faith. Then I hope you will ask the question they do not answer.\n\nDid the people being recorded ever agree to it? No student at {{school}} was consulted before {{readersWithinMile}} readers went up within a mile of campus, and being consulted afterward is not the same as agreeing.\n\nThe remedy I am asking for is a vote. Take the cameras down, and prohibit new ones in {{city}}.\n\nWould you ask for that vote? I would also like to know what answer from the department would satisfy you, in case one is offered."
+  },
+  {
+    "id": "policy-055",
+    "angle": "policy",
+    "subject": "A motion in two parts, and my reasoning",
+    "body": "Dear {{officialName}},\n\nWhat I am asking for is a motion, and it has two parts.\n\nFirst, direct that the automated plate readers operating within a mile of {{school}}, {{readersWithinMile}} of them, be removed. Second, prohibit installation of any new readers in {{city}} regardless of who pays for them.\n\nMy reasoning is not complicated. Recording where people drive, by default and without suspicion, seems to me like something a government should have to justify at a public meeting beforehand rather than afterward.\n\nNo such meeting has happened here, as far as a student can tell. You could call one.\n\nWould you move it? And if you would rather not move it yourself, would you vote for it when somebody else does?"
+  },
+  {
+    "id": "policy-056",
+    "angle": "policy",
+    "subject": "{{state}} keeps adding readers without anyone voting",
+    "body": "Dear {{officialName}},\n\n{{readersInState}} automated plate readers now operate across {{state}}. Nothing about that total was decided in one place. It accumulated from local approvals, each small enough to pass without argument, and that is what makes it hard for a student to push back on.\n\n{{city}} can make its own contribution smaller. I am asking the {{role}} to vote on removing the readers near {{school}} and on barring new installations here, whatever other jurisdictions choose to do.\n\nA vote in one city will not fix a statewide pattern. It would establish that the pattern is a choice, which is the part I think gets forgotten.\n\nWould you put the question on an agenda? I would also like to know what you would need in order to vote yes."
+  },
+  {
+    "id": "policy-057",
+    "angle": "policy",
+    "subject": "The safety argument deserves a public airing",
+    "body": "Dear {{officialName}},\n\nYou will hear that the plate readers keep people safe. Some of your colleagues may believe it and some may not, and either way the claim has never been tested in front of the public in {{city}}, which is what I would like to change.\n\nWould you put removal of the readers around {{school}} on an agenda and let the argument happen where a student can hear it? I hope a prohibition on new installations can be attached, so the vote settles a direction rather than a single purchase.\n\nPrejudging the debate is not what I am asking of you. I am asking you to allow one.\n\nIf you would schedule it, tell me when. Otherwise I would be grateful to know who might."
+  },
+  {
+    "id": "policy-058",
+    "angle": "policy",
+    "subject": "Would this pass if it were proposed today",
+    "body": "Dear {{officialName}},\n\nImagine a company came to the {{role}} today proposing cameras that record every plate passing a set of intersections in {{city}}, indefinitely, with no requirement of suspicion. My guess is that it would get a harder look than a renewal does.\n\nSo I am asking you to look at it that way. When the automated plate reader arrangement covering {{school}} next comes up, evaluate it as though it were new, and vote accordingly.\n\nMy own view is that it fails that test, which is why I would like the {{readersWithinMile}} readers within a mile of campus removed and no new ones approved.\n\nWould you commit to treating the renewal as a fresh purchase? As a student here I would also like to know how you expect to vote."
+  },
+  {
+    "id": "policy-059",
+    "angle": "policy",
+    "subject": "One question to counsel about ending the agreement",
+    "body": "Dear {{officialName}},\n\nOne question to counsel would settle the objection I expect to hear.\n\nWhat does it take for {{city}} to end its automated plate reader arrangement, and what notice period applies? Officials often say their hands are tied without checking, and the answer usually sits in a clause somebody could read in an afternoon.\n\nOnce you have it, I am asking for the follow through. Move to terminate the agreement or let it lapse, and pair that with direction to remove the readers near {{school}} and to bar new installations, so the question does not return under a different vendor.\n\nWould you ask counsel? And would you share the answer publicly rather than only with colleagues, since a student has no way to obtain it otherwise?"
+  },
+  {
+    "id": "policy-060",
+    "angle": "policy",
+    "subject": "Does the {{city}} agreement renew on its own",
+    "body": "Dear {{officialName}},\n\nAutomatic renewal clauses are how programs outlive the support for them. Should the {{city}} plate reader agreement contain one, the {{role}} may need to act before a deadline nobody has publicly identified, and that possibility is what prompted this letter.\n\nSo, two requests. Would you find out whether the agreement renews on its own and when notice would be due? Then give that notice, and direct that the {{readersWithinMile}} readers within a mile of {{school}} be taken down rather than left running under a successor contract.\n\nA student has no way to see these dates. A member of the {{role}} can simply ask.\n\nWould you ask? I would also like to know whether you would commit now to opposing renewal when the date arrives."
+  },
+  {
+    "id": "policy-061",
+    "angle": "policy",
+    "subject": "Would you ask your colleagues and tell students",
+    "body": "Dear {{officialName}},\n\nBefore anything gets scheduled, somebody has to know whether the votes exist, and you are in a far better position to find out than I am.\n\nWould you ask your colleagues where they stand on removing the automated plate readers around {{school}} and on prohibiting new ones in {{city}}? Then tell students what you learned, even if the news is discouraging. A count of likely no votes would tell us who to persuade, which is more use than general encouragement.\n\nMy hope is that you are a yes. Should you not be yet, I would like to know what is missing, because a student guessing at it wastes everyone's time.\n\nWould you do the asking, and would you share the result?"
+  },
+  {
+    "id": "policy-062",
+    "angle": "policy",
+    "subject": "Request the item for the next agenda packet",
+    "body": "Dear {{officialName}},\n\nAgenda packets get assembled by staff from requests made by members. That is the whole mechanism, and it is the one I am asking you to use.\n\nWould you request an item for the next packet: removal of the automated plate readers operating near {{school}}, plus a prohibition on installing new ones in {{city}}? I would ask that it be listed for action rather than discussion, since discussion items tend to end without a decision, which is the outcome I worry about most.\n\nThere are {{readersWithinMile}} readers within a mile of campus. Every student I have spoken to would turn out to speak on the item if it appeared.\n\nWould you make the request, and could you let me know once the packet is set?"
+  },
+  {
+    "id": "policy-063",
+    "angle": "policy",
+    "subject": "Object on the record the next time it appears",
+    "body": "Dear {{officialName}},\n\nMost surveillance items pass because nobody objects out loud. Silence gets recorded as consensus, and consensus gets cited later as settled policy, which is the pattern that worries me here.\n\nSo the smallest thing I am asking is that you object on the record the next time automated plate readers appear on an agenda in {{city}}, in any form.\n\nThe larger thing is a motion: removal of the readers near {{school}}, and a bar on new installations, put to a vote where every member has to choose.\n\nA student cannot make a motion from the public comment podium. Only members can, which is why I am asking you.\n\nWould you do the small thing, and would you be willing to do the larger one?"
+  },
+  {
+    "id": "policy-064",
+    "angle": "policy",
+    "subject": "How would you vote if it came up today",
+    "body": "Dear {{officialName}},\n\nSuppose the motion were in front of you this afternoon. Remove the automated plate readers around {{school}}, and install no more anywhere in {{city}}. How would you vote?\n\nI ask because the usual reply to letters like mine is that the matter is not currently before the {{role}}. That is true and beside the point, since members hold positions before items get scheduled, and those positions determine what gets scheduled.\n\nShould you vote yes, I hope you will help schedule it. Were you to vote no, I would like to understand the reasoning well enough to answer it properly.\n\nEither way, a response in your own words would be worth far more to a student than a summary of department policy."
+  },
+  {
+    "id": "policy-065",
+    "angle": "policy",
+    "subject": "Ask that the item be held, not approved",
+    "body": "Dear {{officialName}},\n\nWhen the plate reader item lands on an agenda in {{city}}, would you ask that it be held rather than approved? A hold costs the {{role}} nothing and takes away the vendor's timeline, which is usually the only thing forcing a decision.\n\nThen I hope the time gets used for the actual question. Should {{city}} operate automated plate readers at all? My answer is no, and what follows from it is removing the {{readersWithinMile}} near {{school}} and approving no replacements.\n\nA hold that ends in quiet approval weeks later would trouble me more than a straight yes, because it would wear the appearance of deliberation.\n\nWould you ask for the hold? As a student here I would like to know what you intend at the end of it."
+  },
+  {
+    "id": "policy-066",
+    "angle": "policy",
+    "subject": "Require a vote for each camera as an interim step",
+    "body": "Dear {{officialName}},\n\nAs best a student can tell from outside, cameras get added in {{city}} without any of them being voted on individually. Could that change as an interim step? I am asking you to require that each proposed automated plate reader come before the {{role}} on its own.\n\nMost would not survive the attention, which is rather the point.\n\nThe step after that is the one I actually want. Remove the readers already installed near {{school}}, and stop approving new ones altogether. A vote requirement slows growth without reducing the {{readersWithinMile}} cameras already surrounding campus, and it is those I am writing about.\n\nWould you propose the interim rule? I would also like to know whether you would commit to the removal vote that should follow."
+  },
+  {
+    "id": "policy-067",
+    "angle": "policy",
+    "subject": "Raising removal during the next budget hearing",
+    "body": "Dear {{officialName}},\n\nBudget hearings are the one time of year when every line is theoretically open, so that is when I am hoping this can be raised.\n\nWould you ask what {{city}} spends on automated plate readers, then move to zero out the line and direct removal of the equipment near {{school}}? Language barring new installations would need to travel with it, because unspent authority has a way of reappearing later.\n\nMy interest in the figure is not really about cost. Whatever it turns out to be, what troubles me is that a student is recorded going about an ordinary day without ever having been asked.\n\nWould you raise it during the budget process? I would be grateful to know when that process begins."
+  },
+  {
+    "id": "policy-068",
+    "angle": "policy",
+    "subject": "Name one colleague who might support this",
+    "body": "Dear {{officialName}},\n\nEven a supportive answer from you leaves a student stuck if there is no path to a majority, so let me ask for something more useful than agreement.\n\nCould you name one colleague on the {{role}} who might support removing the automated plate readers around {{school}} and prohibiting new installations in {{city}}? We will write to them and make the case ourselves.\n\nShould you be willing to make the motion yourself, better still. {{readersWithinMile}} readers within a mile of campus is a count that only rises while everyone waits for somebody else to move first, and that is the part I keep worrying about.\n\nWho should we talk to? And would you be one of the yes votes if it reached the floor?"
+  },
+  {
+    "id": "policy-069",
+    "angle": "policy",
+    "subject": "A sunset date students could organize around",
+    "body": "Dear {{officialName}},\n\nA sunset looks to me like the cleanest instrument available, and the {{role}} could adopt one without anybody having to say the original decision was wrong.\n\nWould you set a date on which authority to operate automated plate readers in {{city}} ends, and direct that the equipment near {{school}} be removed by then? New installations should require a fresh vote, which under a sunset means starting the argument over in public.\n\nEvery student at {{shortName}} lives inside the coverage of {{readersWithinMile}} of these devices. A sunset would give us a date to organize around, which is more than exists now.\n\nWould you propose it, and what date would you choose? I would rather ask than assume the answer is no."
+  },
+  {
+    "id": "policy-070",
+    "angle": "policy",
+    "subject": "No more evergreen clauses on surveillance contracts",
+    "body": "Dear {{officialName}},\n\nContracts that renew unless somebody cancels them are the reason surveillance programs feel permanent to a student. I would like {{city}} to sign no more of them for automated plate readers, and not to honor the current arrangement past its term.\n\nThat is a policy the {{role}} could adopt in a sentence. I hope it can be paired with the decision that matters more, which is removal of the readers already running near {{school}}.\n\nHalf of my concern is procedural and half of it is substantive. Nobody voted, and {{readersWithinMile}} cameras within a mile of campus record people who are not suspected of anything.\n\nWould you support both measures? And would you be willing to say so before the next renewal comes due?"
+  },
+  {
+    "id": "policy-071",
+    "angle": "policy",
+    "subject": "Please schedule the vote and let it happen",
+    "body": "Dear {{officialName}},\n\nI would like the vote scheduled. The cameras should come down, and I hope {{city}} will approve no more.\n\nThat is what I want from the {{role}}, and I would rather say it plainly than dress it up.\n\nThe automated plate readers around {{school}} record a student who is not suspected of anything, {{readersWithinMile}} of them within a mile of campus, and the decision to install them was never put to the people affected. Reversing it strikes me as ordinary municipal business rather than anything radical.\n\nWhat worries me is that every month it stays unscheduled is a month the program grows more entrenched and easier to defend as the way things are.\n\nWhat would you be willing to do, and by roughly when?"
+  },
+  {
+    "id": "policy-072",
+    "angle": "policy",
+    "subject": "Better to schedule it now than to wait",
+    "body": "Dear {{officialName}},\n\nSooner or later somebody will ask the {{role}} in public whether it intends to keep the plate readers. Answering on your own schedule seems easier than answering on someone else's.\n\nSo I am inviting you to move first. Would you put removal of the automated plate readers near {{school}} on an agenda, together with a prohibition on new installations in {{city}}, and take the vote before the argument arrives fully formed?\n\nEvery student I know is talking about this whether or not the {{role}} engages. {{readersWithinMile}} readers within a mile of campus is a fact that is easy to explain to people who have never thought about surveillance before.\n\nWould you rather schedule it than wait? I would genuinely like to know which you prefer."
+  },
+  {
+    "id": "policy-073",
+    "angle": "policy",
+    "subject": "A sentence students could publish alongside your name",
+    "body": "Dear {{officialName}},\n\nStudents at {{shortName}} are putting together a record of where local officials stand on the automated plate readers around campus, and your entry is blank at the moment.\n\nWhat I am asking for is a sentence or two, in writing, saying whether you support removing the readers near {{school}} and barring new installations in {{city}}. It would be published as you write it, without editing.\n\nShould you prefer not to answer, the record will simply note that, though I would much rather have your own words in it.\n\nBeyond the statement, I am asking you to bring the question to a vote. Statements help a student understand the ground. Votes are what change what hangs on the poles.\n\nCould I have your sentence?"
+  },
+  {
+    "id": "policy-074",
+    "angle": "policy",
+    "subject": "Start with the readers closest to campus",
+    "body": "Dear {{officialName}},\n\nIf removing every automated plate reader in {{city}} at once is more than the {{role}} will accept, I would rather start where the case is clearest than get nowhere.\n\nThe {{readersWithinMile}} readers within a mile of {{school}} sit on routes a student has no practical way to avoid. Would you move to remove those first, and to bar new installations anywhere in the city while the rest is decided?\n\nLet me be straightforward that this is a first step rather than the goal. What I want is a city that does not run this equipment at all.\n\nWould you move the narrower version if the broader one cannot pass? And would you say publicly which of the two you prefer?"
+  },
+  {
+    "id": "policy-075",
+    "angle": "policy",
+    "subject": "Use the member comment slot to start this",
+    "body": "Dear {{officialName}},\n\nMeetings usually end with a period where members can raise anything they like. That slot would be enough to start this.\n\nWould you use it to ask that removal of the automated plate readers around {{school}} be placed on a future agenda, along with a prohibition on new installations in {{city}}? Nothing has to be prepared, no report has to be commissioned, and nobody has to agree with you in advance.\n\nThe hardest part of this for a student has been getting the question in front of the {{role}} at all. Once it is there, we will handle our share of the argument.\n\nWould you use that slot at the next meeting? I would like to know, so that students can be in the room."
+  },
+  {
+    "id": "policy-076",
+    "angle": "policy",
+    "subject": "Even if the cameras work, consent is missing",
+    "body": "Dear {{officialName}},\n\nAssume for the sake of argument that the automated plate readers in {{city}} do everything the vendor claims. The question in front of the {{role}} would still be whether residents agreed to be recorded, and no student at {{school}} plainly did.\n\nThat question belongs to elected members rather than to a department, which is why I am asking you to schedule it. An agenda item on removing the readers near campus and prohibiting new ones would put the decision where I think it goes.\n\nEffectiveness will be the whole of the department's presentation. Consent will be missing from it, and that absence is what I am writing about.\n\nWould you calendar the item? I would also like to know in advance how you expect to vote."
+  },
+  {
+    "id": "policy-077",
+    "angle": "policy",
+    "subject": "The decision to keep paying still belongs to you",
+    "body": "Dear {{officialName}},\n\nWhatever the department has told the {{role}} about the plate readers, the choice to keep paying for them belongs to elected officials. Departments request. Bodies like yours approve or decline.\n\nI am asking you to decline. End the arrangement covering the {{readersWithinMile}} readers within a mile of {{school}}, direct their removal, and adopt a rule against new installations in {{city}}.\n\nThe rule matters because equipment removed under one budget has a habit of returning under the next with different branding, which is an outcome I would hate to see a student celebrate too early.\n\nShould you be willing, I would like to know the first procedural step and when you could take it. If not, I would rather hear the reason from you than from staff."
+  },
+  {
+    "id": "policy-078",
+    "angle": "policy",
+    "subject": "Settling your position sooner rather than later",
+    "body": "Dear {{officialName}},\n\nNo student at {{shortName}} is going to stop thinking about {{readersWithinMile}} cameras pointed at the roads we use, so this question will keep arriving at your office in one form or another.\n\nThat seems like a reason to settle it. Do you support removing the automated plate readers near campus and banning new ones in {{city}}, or do you not?\n\nAn answer now costs nothing and lets me stop guessing. The same answer later, after the program has grown further, would be worth less to everybody, which is why I am asking today rather than next year.\n\nBeyond your own position, I am asking for a vote of the {{role}}. Would you help schedule one, and where do you stand in the meantime?"
+  },
+  {
+    "id": "policy-079",
+    "angle": "policy",
+    "subject": "Removal is the ask, the mechanism is yours",
+    "body": "Dear {{officialName}},\n\nRemoval is what I am asking for. How the {{role}} gets there is genuinely up to you.\n\nA contract vote would do it, and so would an ordinance. What I would not be able to treat as success is a data retention policy or a public dashboard, because {{readersWithinMile}} cameras keep operating near {{school}} under either one.\n\nStudents have been polite about this for a while, and politeness has not moved a camera, so I am trying to be direct instead without being rude about it.\n\nWhich mechanism would you use, and how soon could the {{role}} vote on it? An answer with a month in it would help a student far more than an answer with a sentiment in it."
+  },
+  {
+    "id": "policy-080",
+    "angle": "policy",
+    "subject": "Scheduling costs little, and the question needs scheduling",
+    "body": "Dear {{officialName}},\n\nScheduling a vote asks very little of a member, which is part of why I am writing to you about it.\n\nThe item I am hoping to see scheduled is removal of the automated plate readers near {{school}} and a prohibition on new installations in {{city}}.\n\nYou might well vote against it. That is your call, and a recorded no is at least a decision a student can understand and respond to.\n\nWhat worries me is the third possibility, where the question never appears on any agenda and nobody has to take a position at all. That is the outcome I am asking you to help us avoid.\n\nWould you make sure it appears? If something stands in the way, I would like to know what it is."
+  },
+  {
+    "id": "policy-081",
+    "angle": "policy",
+    "subject": "Good faith disagreement is what votes are for",
+    "body": "Dear {{officialName}},\n\nPeople disagree about surveillance in good faith, and I do not assume otherwise about anyone on the {{role}}. Disagreement is what votes are for.\n\nSo I would like one. Would you ask the {{role}} to decide whether the automated plate readers around {{school}} stay in place and whether {{city}} should approve any more? My position is that they should go and that no replacements should follow.\n\nThe outcome is not what troubles me most. No decision was ever made in a room where a student could speak, and that is the part I keep coming back to.\n\nWould you be willing to fix that? I would like to know what would have to happen first, since we are trying to work out where to put our effort."
+  },
+  {
+    "id": "policy-082",
+    "angle": "policy",
+    "subject": "One refusal would matter more than many letters",
+    "body": "Dear {{officialName}},\n\nThese systems spread because approvals are easy and refusals are rare. One refusal in {{city}} would be worth more than a dozen letters like mine.\n\nWould you refuse the next automated plate reader request that reaches the {{role}}, whatever form it takes? Then I hope you will go further and move that the readers already near {{school}} be removed, since declining to expand still leaves {{readersWithinMile}} cameras running within a mile of campus.\n\nThe second part is harder than the first. It is also the part that would change what a student actually passes on the way to class.\n\nCould you commit to the refusal? And would you take up removal afterward, or tell me what would be needed for that?"
+  },
+  {
+    "id": "policy-083",
+    "angle": "policy",
+    "subject": "Doing nothing is itself a position here",
+    "body": "Dear {{officialName}},\n\nDoing nothing about the automated plate readers in {{city}} is a position. It keeps {{readersWithinMile}} of them running within a mile of {{school}} and lets the number grow whenever the next request is approved, which is why I cannot read silence as neutral.\n\nSince neutrality is not really available, I would rather the choice were made openly. Would you bring removal to a vote of the {{role}}, along with a prohibition on new installations, and let the record show where everyone stands?\n\nA student can work with a no. What we cannot work with is the question never appearing on any agenda at all.\n\nWould you put it on one? I would also like to know how you would vote once it got there."
+  },
+  {
+    "id": "policy-084",
+    "angle": "policy",
+    "subject": "No new legal authority is needed for this",
+    "body": "Dear {{officialName}},\n\nNothing I am asking for requires new legal authority. The {{role}} already decides what {{city}} renews and whether public property carries surveillance equipment.\n\nI am asking you to use the authority you have. Direct removal of the automated plate readers near {{school}}, and decline to approve new installations. The vote could happen at the next regular meeting if a member asked for it.\n\nI expect the response will be that this needs study, and that is the response I am most worried about, because study is what tends to happen to requests nobody intends to grant.\n\nWould you ask for the item yourself? A yes or a no on that narrow question is all one student is hoping for today, and I would be grateful for either."
+  },
+  {
+    "id": "policy-085",
+    "angle": "policy",
+    "subject": "A written request would survive between meetings",
+    "body": "Dear {{officialName}},\n\nVerbal requests to staff have a way of evaporating between meetings, so I am asking for this one on paper.\n\nWould you send a written request that removal of the automated plate readers around {{school}} be placed on an agenda of the {{role}}, together with a proposed prohibition on new installations in {{city}}? Copying whoever sets the calendar would help.\n\nA written request creates a record a student can follow up on, and following up is close to the only leverage we have. There are {{readersWithinMile}} readers within a mile of campus and no scheduled moment when anyone has to justify them, which is the gap I am trying to close.\n\nWould you send it, and would you copy me so I know it went?"
+  },
+  {
+    "id": "policy-086",
+    "angle": "policy",
+    "subject": "Engagement needs something on an agenda to engage with",
+    "body": "Dear {{officialName}},\n\nStudents get told to engage with local government rather than complain online. This letter is what engagement looks like from my side, and here is the part that has to come from yours.\n\nWould you put removal of the automated plate readers near {{school}} on an agenda of the {{role}}, with a prohibition on new installations in {{city}} attached? We will handle our half, which is showing up and making the argument in public.\n\nWhat frustrates me is that engagement stops being possible when there is nothing to engage with. At the moment there is no item on any agenda and no date on any calendar.\n\nWould you create one? Name the meeting and a student will be there."
+  },
+  {
+    "id": "policy-087",
+    "angle": "policy",
+    "subject": "Your answer would shape where students spend time",
+    "body": "Dear {{officialName}},\n\nStudent organizing time is limited, and where it goes depends a great deal on answers like yours.\n\nWould you support removing the automated plate readers around {{school}} and prohibiting new ones in {{city}}? A yes would mean we spend the term helping you find a majority. A no would mean we look for that majority elsewhere on the {{role}} while trying to understand your reasoning.\n\nNothing about that is meant as pressure. It is arithmetic about a small group of people with a limited number of hours.\n\nThe procedural piece is small. Somebody has to ask for an agenda item, and somebody has to make the motion. Would you be that person, and if not, would you say so plainly?"
+  },
+  {
+    "id": "policy-088",
+    "angle": "policy",
+    "subject": "This is a policy question, not a technical one",
+    "body": "Dear {{officialName}},\n\nThe {{role}} will be tempted to treat this as a technical matter for staff. As a student I read it as a question about what {{city}} does to people who have done nothing.\n\nI am asking that it be decided that way. Vote on whether the automated plate readers near {{school}} come down, and vote on whether new installations are allowed at all. Both are policy questions, and policy questions belong to elected members.\n\nA technical framing produces retention schedules and access logs, which leave {{readersWithinMile}} cameras exactly where they are. That is what I would like to avoid.\n\nWould you insist the question be taken up as policy? I would also be glad to know how you would vote on it."
+  },
+  {
+    "id": "policy-089",
+    "angle": "policy",
+    "subject": "I am asking for a vote, not sympathy",
+    "body": "Dear {{officialName}},\n\nSympathy is not really what I am writing for, nor a statement about how seriously you take privacy. What I am hoping for is a vote.\n\nThe motion: remove the automated plate readers operating around {{school}}, and prohibit installation of new ones anywhere in {{city}}. Should you agree with it, I would like to know when you could bring it forward. If you disagree, say that instead and I will treat your position as settled rather than keep writing.\n\nA student passes {{readersWithinMile}} of these readers within a mile of campus. The system logs us whether or not anyone has any reason to, and that is the thing I cannot get past.\n\nWhich is it, and when?"
+  },
+  {
+    "id": "policy-090",
+    "angle": "policy",
+    "subject": "If the authority is elsewhere, tell me where",
+    "body": "Dear {{officialName}},\n\nOne honest possibility is that the {{role}} cannot remove these cameras on its own. I would rather be told that plainly, with the name of the body that can, and I will take the same request there without complaint.\n\nWhat I am worried about is the other version, where every office points at another one while the automated plate readers near {{school}} keep running and a student goes round in circles.\n\nSo, does the authority to remove them and to prohibit new installations in {{city}} sit with you? A straight answer either commits you or redirects me, and both would be useful.\n\nCould you reply with the name of whoever holds the decision, and with your own position if it is yours to hold?"
+  },
+  {
+    "id": "policy-091",
+    "angle": "policy",
+    "subject": "I would rather be writing to thank you",
+    "body": "Dear {{officialName}},\n\nThere is a version of the coming year in which students at {{shortName}} spend it thanking you publicly, and I would much prefer that one. It starts with a motion to remove the automated plate readers around campus and to bar new installations in {{city}}.\n\nThe version I am worried about is duller. The question never reaches an agenda, a student keeps writing letters, and the readers stay where they are while everyone waits.\n\n{{readersWithinMile}} readers sit within a mile of {{school}}, and none were approved by the people they record. That is what makes this feel pressing to me rather than academic.\n\nWhich version would you like? A date for the vote would be a good answer."
+  },
+  {
+    "id": "policy-092",
+    "angle": "policy",
+    "subject": "Please do not let the item be deferred",
+    "body": "Dear {{officialName}},\n\nDeferral is what I expect, so let me name it in advance. The item gets continued to a future meeting, the future meeting never arrives, and the automated plate readers around {{school}} stay up by default.\n\nAvoiding that needs one thing, which is a member willing to insist the question be decided rather than carried over.\n\nI am asking you to be that member. Push for a vote on removal and on prohibiting new installations in {{city}}, and push against any motion that only postpones the choice.\n\nWould you commit to voting no on a continuance? And does the item exist anywhere yet, on any list a student could look at? I have not been able to find it."
+  },
+  {
+    "id": "policy-093",
+    "angle": "policy",
+    "subject": "Pull the vendor payment out of the routine list",
+    "body": "Dear {{officialName}},\n\nPayments to surveillance vendors usually ride through on a routine list that nobody reads aloud. Would you pull the automated plate reader payment out of that list in {{city}} and ask the {{role}} to vote on it separately?\n\nA separate vote would do two useful things. Members would have to take a position, and the public would get a moment to speak that a routine list never provides.\n\nThen I hope you will vote no, and pair the no with direction to remove the readers near {{school}} and to approve no new installations. Withholding money without ordering removal would leave the hardware in place and simply unpaid for.\n\nWould you pull the item? As a student here I would like to know how you would vote once it stood alone."
+  },
+  {
+    "id": "policy-094",
+    "angle": "policy",
+    "subject": "Students would turn out if a hearing were set",
+    "body": "Dear {{officialName}},\n\nThe usual complaint about public meetings is that nobody comes. Set a hearing on the automated plate readers near {{school}} and I do not think that complaint will apply.\n\nA student will turn out for this, and so will many others. What we cannot do is create the hearing, which is why I am asking you to request one, and to make sure the item is listed for a vote rather than for discussion alone.\n\nThe vote I am hoping for is removal of the existing readers and a bar on new ones in {{city}}. {{readersWithinMile}} of them operate within a mile of campus as I write this.\n\nWould you request the hearing? If a date gets set, I would be grateful to hear it early."
+  },
+  {
+    "id": "policy-095",
+    "angle": "policy",
+    "subject": "One line in a motion would cover this",
+    "body": "Dear {{officialName}},\n\nThe language would not have to be elaborate. A motion directing that automated plate readers in {{city}} be removed and that no additional units be installed would cover it.\n\nDrafting is not the obstacle, as far as I can tell. Somebody has to be willing to make the motion, and so far no member of the {{role}} has.\n\nA student at {{school}} has {{readersWithinMile}} of these devices within a mile of where we live and study, and the arrangement was settled without us, which is the part I find difficult.\n\nWould you make the motion? If the wording is what holds you back, I would happily send a version you could change however you liked, and I would not mind at all if you rewrote every word."
+  },
+  {
+    "id": "policy-096",
+    "angle": "policy",
+    "subject": "Two questions I have not been able to answer",
+    "body": "Dear {{officialName}},\n\nStudents keep being told this belongs to somebody else. The department says it follows policy, the policy is said to come from elsewhere, and elsewhere does not answer letters.\n\nTwo sentences from you would end that loop. Can the {{role}} direct removal of the automated plate readers around {{school}} and prohibit new installations in {{city}}? And would you vote to do it?\n\nBoth answers can be no. Two honest no answers would serve me better than another referral to a different office, because at least I would know where the question actually lives.\n\nCould you reply to both parts? I am one student trying to find the right door to knock on."
+  },
+  {
+    "id": "policy-097",
+    "angle": "policy",
+    "subject": "A decision would help more than another conversation",
+    "body": "Dear {{officialName}},\n\nConsultation is the standard answer to letters like mine, and consultation leaves the equipment where it is.\n\nWhat I am asking the {{role}} for is a decision. Vote to remove the automated plate readers near {{school}}, and vote to prohibit new installations in {{city}}. Both could happen at the same meeting.\n\nNo student was part of the choice to install {{readersWithinMile}} readers within a mile of campus, and no amount of engagement afterward repairs that. A decision would, or at least it would put the choice where we can see it made.\n\nWould you be prepared to call for the vote? I would also like to know how you would cast yours."
+  },
+  {
+    "id": "policy-098",
+    "angle": "policy",
+    "subject": "Something concrete to do before the term ends",
+    "body": "Dear {{officialName}},\n\nTerms end, and what a member did with theirs is what gets remembered. Removing the automated plate readers around {{school}} would be a concrete thing to have done.\n\nThe path is short. Ask for the agenda item, then make the motion, with a prohibition on new installations in {{city}} written into the same measure.\n\nA student cannot do this part. We can fill a room and we can write letters, and the motion still has to come from a member of the {{role}}, which is why I am writing to you rather than organizing another petition.\n\nIs this something you would take on? I would like to know what timeline you would consider realistic, even a rough one."
+  },
+  {
+    "id": "policy-099",
+    "angle": "policy",
+    "subject": "Name the condition and students will work on it",
+    "body": "Dear {{officialName}},\n\nEvery official who has declined to act had a reason, and the reasons are usually specific. So let me ask for yours in advance rather than afterward.\n\nWhat would a yes vote on removing the automated plate readers around {{school}} require? Support from a particular colleague, a legal opinion, a request from the department, or turnout at a meeting? Name the condition and a student will work on it.\n\nMy request also covers new installations in {{city}}, which I hope will stop regardless of what happens to the existing readers.\n\nShould the honest answer be that you would vote no under any condition, I would rather know that than keep guessing. Which is it?"
+  },
+  {
+    "id": "policy-100",
+    "angle": "policy",
+    "subject": "Everything I am hoping the {{role}} will do",
+    "body": "Dear {{officialName}},\n\nHere is the request in full, so nothing is left implied.\n\nRemove the automated plate readers operating around {{school}}, of which {{readersWithinMile}} sit within a mile of campus. Prohibit installation of new readers in {{city}}, whoever offers to pay for them. Get both in front of the {{role}} as an agenda item with a vote attached, rather than as a discussion that ends in a referral.\n\nI am a student, not a lawyer and not a spokesman for anyone. What I can tell you is that none of us were asked, and that {{readersInState}} of these cameras now run across {{state}} because being asked was never part of how any of it happened.\n\nWould you put it on an agenda? And how would you vote?"
+  }
+]

@@ -1,0 +1,1581 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "John Larson",
+    "party": "Democrat",
+    "phone": "202-225-2265",
+    "url": "https://larson.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Joe Courtney",
+    "party": "Democrat",
+    "phone": "202-225-2076",
+    "url": "https://courtney.house.gov"
+   }
+  ],
+  "3": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Rosa DeLauro",
+    "party": "Democrat",
+    "phone": "202-225-3661",
+    "url": "https://delauro.house.gov"
+   }
+  ],
+  "4": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "James Himes",
+    "party": "Democrat",
+    "phone": "202-225-5541",
+    "url": "https://himes.house.gov"
+   }
+  ],
+  "5": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Jahana Hayes",
+    "party": "Democrat",
+    "phone": "202-225-4476",
+    "url": "https://hayes.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.blumenthal.senate.gov/contact/",
+   "email": null,
+   "name": "Richard Blumenthal",
+   "party": "Democrat",
+   "phone": "202-224-2823",
+   "url": "https://www.blumenthal.senate.gov"
+  },
+  {
+   "contactForm": "https://www.murphy.senate.gov/contact",
+   "email": null,
+   "name": "Christopher Murphy",
+   "party": "Democrat",
+   "phone": "202-224-4041",
+   "url": "https://www.murphy.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "matthew.ritter@cga.ct.gov",
+    "name": "Matt Ritter",
+    "party": "Democratic",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27001%27&dist_name=001%20-%Ritter,%Matt"
+   }
+  ],
+  "10": [
+   {
+    "email": "henry.genga@cga.ct.gov",
+    "name": "Henry Genga",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27010%27&dist_name=Genga,%20Henry%20J."
+   }
+  ],
+  "100": [
+   {
+    "email": "kai.belton@cga.ct.gov",
+    "name": "Kai Belton",
+    "party": "Democratic",
+    "url": "https://housedems.ct.gov/belton"
+   }
+  ],
+  "101": [
+   {
+    "email": "john-michael.parker@cga.ct.gov",
+    "name": "John-Michael Parker",
+    "party": "Democratic",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27101%27&dist_name=101%20-%Parker,%John-Michael"
+   }
+  ],
+  "102": [
+   {
+    "email": "robin.comey@cga.ct.gov",
+    "name": "Robin Comey",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27102%27&dist_name=Comey,%20Robin%20E."
+   }
+  ],
+  "103": [
+   {
+    "email": "liz.linehan@cga.ct.gov",
+    "name": "Liz Linehan",
+    "party": "Democratic",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27103%27&dist_name=103%20-%Linehan,%Liz"
+   }
+  ],
+  "104": [
+   {
+    "email": "kara.rochelle@cga.ct.gov",
+    "name": "Kara Rochelle",
+    "party": "Democratic",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27104%27&dist_name=104%20-%Rochelle,%Kara"
+   }
+  ],
+  "105": [
+   {
+    "email": "nicole.klarides-ditria@housegop.ct.gov",
+    "name": "Nicole Klarides-Ditria",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27105%27&dist_name=Klarides-Ditria,%20Nicole"
+   }
+  ],
+  "106": [
+   {
+    "email": "mitch.bolinsky@housegop.ct.gov",
+    "name": "Mitch Bolinsky",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27106%27&dist_name=Bolinsky,%20Mitch"
+   }
+  ],
+  "107": [
+   {
+    "email": "martin.foncello@housegop.ct.gov",
+    "name": "Marty Foncello",
+    "party": "Republican",
+    "url": "https://www.cthousegop.com/Foncello/"
+   }
+  ],
+  "108": [
+   {
+    "email": "patrick.callahan@housegop.ct.gov",
+    "name": "Pat Callahan",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27108%27&dist_name=Callahan,%20Patrick%20E."
+   }
+  ],
+  "109": [
+   {
+    "email": "farley.santos@cga.ct.gov",
+    "name": "Farley Santos",
+    "party": "Democratic",
+    "url": "https://www.housedems.ct.gov/Santos"
+   }
+  ],
+  "11": [
+   {
+    "email": "patrick.biggins@cga.ct.gov",
+    "name": "Patrick Biggins",
+    "party": "Democratic",
+    "url": "https://www.housedems.ct.gov/Biggins"
+   }
+  ],
+  "110": [
+   {
+    "email": "bob.godfrey@cga.ct.gov",
+    "name": "Bob Godfrey",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27110%27&dist_name=Godfrey,%20Bob"
+   }
+  ],
+  "111": [
+   {
+    "email": "aimee.berger-girvalo@cga.ct.gov",
+    "name": "Aimee Berger-Girvalo",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27111%27&dist_name=Berger-Girvalo,%20Aimee"
+   }
+  ],
+  "112": [
+   {
+    "email": "tony.scott@housegop.ct.gov",
+    "name": "Tony Scott",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27112%27&dist_name=Scott,%20Tony%20J"
+   }
+  ],
+  "113": [
+   {
+    "email": "amy.romano@housegop.ct.gov",
+    "name": "Amy Romano",
+    "party": "Republican",
+    "url": "https://www.cthousegop.com/Romano/"
+   }
+  ],
+  "114": [
+   {
+    "email": "mary.welander@cga.ct.gov",
+    "name": "Mary Welander",
+    "party": "Democratic/Working Families",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27114%27&dist_name=114%20-%Welander,%Mary"
+   }
+  ],
+  "115": [
+   {
+    "email": "bill.heffernan@cga.ct.gov",
+    "name": "Bill Heffernan",
+    "party": "Democratic",
+    "url": "https://www.housedems.ct.gov/heffernan"
+   }
+  ],
+  "116": [
+   {
+    "email": "trenee.mcgee@cga.ct.gov",
+    "name": "Trene\u00e9 McGee",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27116%27&dist_name=McGee,%20Trenee"
+   }
+  ],
+  "117": [
+   {
+    "email": "mj.shannon@cga.ct.gov",
+    "name": "M.J. Shannon",
+    "party": "Democratic",
+    "url": "https://www.housedems.ct.gov/Shannon"
+   }
+  ],
+  "118": [
+   {
+    "email": "frank.smith@cga.ct.gov",
+    "name": "Frank Smith",
+    "party": "Democratic/Working Families",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27118%27&dist_name=Smith,%20Frank"
+   }
+  ],
+  "119": [
+   {
+    "email": "kathy.kennedy@housegop.ct.gov",
+    "name": "Kathy Kennedy",
+    "party": "Republican",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27119%27"
+   }
+  ],
+  "12": [
+   {
+    "email": "geoff.luxenberg@cga.ct.gov",
+    "name": "Geoff Luxenberg",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27012%27&dist_name=Luxenberg,%20Geoff"
+   }
+  ],
+  "120": [
+   {
+    "email": "kaitlyn.shake@cga.ct.gov",
+    "name": "Kaitlyn Shake",
+    "party": "Democratic/Working Families",
+    "url": "https://www.housedems.ct.gov/Shake"
+   }
+  ],
+  "121": [
+   {
+    "email": "joseph.gresko@cga.ct.gov",
+    "name": "Joe Gresko",
+    "party": "Democratic",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27121%27&dist_name=121%20-%Gresko,%Joseph%20P."
+   }
+  ],
+  "122": [
+   {
+    "email": "ben.mcgorty@cga.ct.gov",
+    "name": "Ben McGorty",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27122%27&dist_name=McGorty,%20Ben"
+   }
+  ],
+  "123": [
+   {
+    "email": "dave.rutigliano@housegop.ct.gov",
+    "name": "Dave Rutigliano",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27123%27&dist_name=Rutigliano,%20David"
+   }
+  ],
+  "124": [
+   {
+    "email": "andre.baker@cga.ct.gov",
+    "name": "Andre Baker",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27124%27&dist_name=Baker,%20Andre%20F."
+   }
+  ],
+  "125": [
+   {
+    "email": "tom.odea@housegop.ct.gov",
+    "name": "Tom O'Dea",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27125%27&dist_name=O%27Dea,%20Tom"
+   }
+  ],
+  "126": [
+   {
+    "email": "fred.gee@cga.ct.gov",
+    "name": "Fred Gee",
+    "party": "Democratic",
+    "url": "https://www.housedems.ct.gov/gee"
+   }
+  ],
+  "127": [
+   {
+    "email": "marcus.brown@cga.ct.gov",
+    "name": "Marcus Brown",
+    "party": "Democratic",
+    "url": "https://www.housedems.ct.gov/BrownM"
+   }
+  ],
+  "128": [
+   {
+    "email": "christopher.rosario@cga.ct.gov",
+    "name": "Christopher Rosario",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27128%27&dist_name=Rosario,%20Christopher"
+   }
+  ],
+  "129": [
+   {
+    "email": "steven.stafstrom@cga.ct.gov",
+    "name": "Steve Stafstrom",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27129%27&dist_name=Stafstrom,%20Steven%20J."
+   }
+  ],
+  "13": [
+   {
+    "email": "jason.doucette@cga.ct.gov",
+    "name": "Jason Doucette",
+    "party": "Democratic",
+    "url": "https://housedems.ct.gov/doucette"
+   }
+  ],
+  "130": [
+   {
+    "email": "antonio.felipe@cga.ct.gov",
+    "name": "Tone Felipe",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27130%27&dist_name=Felipe,%20Antonio"
+   }
+  ],
+  "131": [
+   {
+    "email": "arnold.jensen@housegop.ct.gov",
+    "name": "Arnie Jensen",
+    "party": "Republican",
+    "url": "https://www.cthousegop.com/jensen/"
+   }
+  ],
+  "132": [
+   {
+    "email": "jennifer.leeper@cga.ct.gov",
+    "name": "Jenn Leeper",
+    "party": "Democratic/Working Families",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27132%27&dist_name=132%20-%Leeper,%Jennifer"
+   }
+  ],
+  "133": [
+   {
+    "email": "cristin.mccarthyvahey@cga.ct.gov",
+    "name": "Cristin McCarthy Vahey",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27133%27&dist_name=McCarthy%20Vahey,%20Cristin"
+   }
+  ],
+  "134": [
+   {
+    "email": "sarah.keitt@cga.ct.gov",
+    "name": "Sarah Keitt",
+    "party": "Democratic",
+    "url": "https://www.housedems.ct.gov/keitt"
+   }
+  ],
+  "135": [
+   {
+    "email": "anne.hughes@cga.ct.gov",
+    "name": "Anne Hughes",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27135%27&dist_name=Hughes,%20Anne%20M."
+   }
+  ],
+  "136": [
+   {
+    "email": "jonathan.steinberg@cga.ct.gov",
+    "name": "Jonathan Steinberg",
+    "party": "Democratic",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27136%27&dist_name=136%20-%Steinberg,%Jonathan"
+   }
+  ],
+  "137": [
+   {
+    "email": "kadeem.roberts@cga.ct.gov",
+    "name": "Kadeem Roberts",
+    "party": "Democratic/Working Families",
+    "url": "https://www.housedems.ct.gov/Roberts"
+   }
+  ],
+  "138": [
+   {
+    "email": "ken.gucker@cga.ct.gov",
+    "name": "Ken Gucker",
+    "party": "Democratic/Working Families",
+    "url": "https://www.housedems.ct.gov/gucker"
+   }
+  ],
+  "139": [
+   {
+    "email": "larry.pemberton@cga.ct.gov",
+    "name": "Larry Pemberton",
+    "party": "Democratic",
+    "url": "https://www.housedems.ct.gov/pemberton"
+   }
+  ],
+  "14": [
+   {
+    "email": "tom.delnicki@housegop.ct.gov",
+    "name": "Tom Delnicki",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27014%27&dist_name=Delnicki,%20Tom"
+   }
+  ],
+  "140": [
+   {
+    "email": "travis.simms@cga.ct.gov",
+    "name": "Travis Simms",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27140%27&dist_name=Simms,%20Travis"
+   }
+  ],
+  "141": [
+   {
+    "email": "tracy.marra@housegop.ct.gov",
+    "name": "Tracy Marra",
+    "party": "Republican",
+    "url": "https://www.cthousegop.com/Marra/"
+   }
+  ],
+  "142": [
+   {
+    "email": "lucy.dathan@cga.ct.gov",
+    "name": "Lucy Dathan",
+    "party": "Democratic",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27142%27&dist_name=142%20-%Dathan,%Lucy"
+   }
+  ],
+  "143": [
+   {
+    "email": "dominique.johnson@cga.ct.gov",
+    "name": "Dominique Johnson",
+    "party": "Democratic/Working Families",
+    "url": "https://www.housedems.ct.gov/JohnsonD"
+   }
+  ],
+  "144": [
+   {
+    "email": "hubert.delany@cga.ct.gov",
+    "name": "Hubert Delany",
+    "party": "Democratic",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27144%27&dist_name=144%20-%Delany,%Hubert"
+   }
+  ],
+  "145": [
+   {
+    "email": "corey.paris@cga.ct.gov",
+    "name": "Corey Paris",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27145%27&dist_name=Paris,%20Corey%20P."
+   }
+  ],
+  "146": [
+   {
+    "email": "eilish.collinsmain@cga.ct.gov",
+    "name": "Eilish Collins Main",
+    "party": "Democratic",
+    "url": "https://www.housedems.ct.gov/CollinsMain"
+   }
+  ],
+  "147": [
+   {
+    "email": "matt.blumenthal@cga.ct.gov",
+    "name": "Matt Blumenthal",
+    "party": "Democratic",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27147%27&dist_name=147%20-%Blumenthal,%Matt"
+   }
+  ],
+  "148": [
+   {
+    "email": "jonathan.jacobson@cga.ct.gov",
+    "name": "Jonathan Jacobson",
+    "party": "Democratic",
+    "url": "https://www.housedems.ct.gov/Jacobson"
+   }
+  ],
+  "149": [
+   {
+    "email": "tina.courpas@housegop.ct.gov",
+    "name": "Tina Courpas",
+    "party": "Republican",
+    "url": "https://www.cthousegop.com/courpas/"
+   }
+  ],
+  "15": [
+   {
+    "email": "bobby.gibson@cga.ct.gov",
+    "name": "Bobby Gibson",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27015%27&dist_name=Gibson,%20Bobby%20G."
+   }
+  ],
+  "150": [
+   {
+    "email": "stephen.meskers@cga.ct.gov",
+    "name": "Steve Meskers",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27150%27&dist_name=Meskers,%20Stephen%20R"
+   }
+  ],
+  "151": [
+   {
+    "email": "hector.arzeno@cga.ct.gov",
+    "name": "H\u00e9ctor Arzeno",
+    "party": "Democratic",
+    "url": "https://www.housedems.ct.gov/arzeno"
+   }
+  ],
+  "16": [
+   {
+    "email": "melissa.osborne@cga.ct.gov",
+    "name": "Melissa Osborne",
+    "party": "Democratic",
+    "url": "https://www.housedems.ct.gov/Osborne"
+   }
+  ],
+  "17": [
+   {
+    "email": "elenikavros.degraw@cga.ct.gov",
+    "name": "Eleni DeGraw",
+    "party": "Democratic/Working Families",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27017%27&dist_name=Kavros%20DeGraw,%20Eleni"
+   }
+  ],
+  "18": [
+   {
+    "email": "jillian.gilchrest@cga.ct.gov",
+    "name": "Jill Gilchrest",
+    "party": "Democratic",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27018%27&dist_name=018%20-%Gilchrest,%Jillian"
+   }
+  ],
+  "19": [
+   {
+    "email": "tammy.exum@cga.ct.gov",
+    "name": "Tammy Exum",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27019%27&dist_name=Exum,%20Tammy%20R."
+   }
+  ],
+  "2": [
+   {
+    "email": "raghib.allie-brennan@cga.ct.gov",
+    "name": "Raghib Allie-Brennan",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27002%27&dist_name=Allie-Brennan,%20Raghib"
+   }
+  ],
+  "20": [
+   {
+    "email": "kate.farrar@cga.ct.gov",
+    "name": "Kate Farrar",
+    "party": "Democratic/Working Families",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27020%27&dist_name=020%20-%Farrar,%Kate"
+   }
+  ],
+  "21": [
+   {
+    "email": "mike.demicco@cga.ct.gov",
+    "name": "Mike Demicco",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27021%27&dist_name=Demicco,%20Mike"
+   }
+  ],
+  "22": [
+   {
+    "email": "rebecca.martinez@cga.ct.gov",
+    "name": "Rebecca Martinez",
+    "party": "Democratic",
+    "url": "https://www.housedems.ct.gov/martinez"
+   }
+  ],
+  "23": [
+   {
+    "email": "devin.carney@housegop.ct.gov",
+    "name": "Devin Carney",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27023%27&dist_name=Carney,%20Devin%20R."
+   }
+  ],
+  "24": [
+   {
+    "email": "emmanuel.sanchez@cga.ct.gov",
+    "name": "Manny Sanchez",
+    "party": "Democratic/Working Families",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27024%27&dist_name=Sanchez,%20Emmanuel"
+   }
+  ],
+  "25": [
+   {
+    "email": "iris.sanchez@cga.ct.gov",
+    "name": "Iris S\u00e1nchez",
+    "party": "Democratic",
+    "url": "https://housedems.ct.gov/SanchezI"
+   }
+  ],
+  "26": [
+   {
+    "email": "dave.defronzo@cga.ct.gov",
+    "name": "Dave DeFronzo",
+    "party": "Democratic/Working Families",
+    "url": "https://www.housedems.ct.gov/DeFronzo"
+   }
+  ],
+  "27": [
+   {
+    "email": "gary.turco@cga.ct.gov",
+    "name": "Gary Turco",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27027%27&dist_name=Turco,%20Gary%20A."
+   }
+  ],
+  "28": [
+   {
+    "email": "amy.morrinbello@cga.ct.gov",
+    "name": "Amy Morrin Bello",
+    "party": "Democratic/Working Families",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27028%27&dist_name=Morrin%20Bello,%20Amy"
+   }
+  ],
+  "29": [
+   {
+    "email": "kerry.wood@cga.ct.gov",
+    "name": "Kerry Wood",
+    "party": "Democratic",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27029%27&dist_name=029%20-%Wood,%Kerry"
+   }
+  ],
+  "3": [
+   {
+    "email": "minnie.gonzalez@cga.ct.gov",
+    "name": "Minnie Gonzalez",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27003%27&dist_name=Gonzalez,%20Minnie"
+   }
+  ],
+  "30": [
+   {
+    "email": "donna.veach@housegop.ct.gov",
+    "name": "Donna Veach",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27030%27&dist_name=Veach,%20Donna"
+   }
+  ],
+  "31": [
+   {
+    "email": "jill.barry@cga.ct.gov",
+    "name": "Jill Barry",
+    "party": "Democratic",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27031%27&dist_name=031%20-%Barry,%Jill"
+   }
+  ],
+  "32": [
+   {
+    "email": "christie.carpino@housegop.ct.gov",
+    "name": "Christie Carpino",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27032%27&dist_name=Carpino,%20Christie%20M."
+   }
+  ],
+  "33": [
+   {
+    "email": "brandon.chafee@cga.ct.gov",
+    "name": "Brandon Chafee",
+    "party": "Democratic/Working Families",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27033%27&dist_name=Chafee,%20Brandon"
+   }
+  ],
+  "34": [
+   {
+    "email": "irene.haines@housegop.ct.gov",
+    "name": "Irene Haines",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27034%27&dist_name=Haines,%20Irene%20M."
+   }
+  ],
+  "35": [
+   {
+    "email": "chris.aniskovich@housegop.ct.gov",
+    "name": "Chris Aniskovich",
+    "party": "Republican",
+    "url": "https://www.cthousegop.com/aniskovich/"
+   }
+  ],
+  "36": [
+   {
+    "email": "renee.lamarkmuir@cga.ct.gov",
+    "name": "Renee Muir",
+    "party": "Democratic",
+    "url": "https://www.housedems.ct.gov/LaMarkMuir"
+   }
+  ],
+  "37": [
+   {
+    "email": "nick.menapace@cga.ct.gov",
+    "name": "Nick Menapace",
+    "party": "Democratic/Working Families",
+    "url": "https://www.housedems.ct.gov/Menapace"
+   }
+  ],
+  "38": [
+   {
+    "email": "nick.gauthier@cga.ct.gov",
+    "name": "Nick Gauthier",
+    "party": "Democratic",
+    "url": "https://www.housedems.ct.gov/Gauthier"
+   }
+  ],
+  "39": [
+   {
+    "email": "anthony.nolan@cga.ct.gov",
+    "name": "Anthony Nolan",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27039%27&dist_name=Nolan,%20Anthony%20L."
+   }
+  ],
+  "4": [
+   {
+    "email": "julio.concepcion@cga.ct.gov",
+    "name": "Julio Concepci\u00f3n",
+    "party": "Democratic",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27004%27&dist_name=004%20-%Concepcion,%Julio"
+   }
+  ],
+  "40": [
+   {
+    "email": "daniel.gaiewski@cga.ct.gov",
+    "name": "Dan Gaiewski",
+    "party": "Democratic",
+    "url": "https://www.housedems.ct.gov/gaiewski"
+   }
+  ],
+  "41": [
+   {
+    "email": "aundre.bumgardner@cga.ct.gov",
+    "name": "Aundr\u00e9 Bumgardner",
+    "party": "Democratic/Working Families",
+    "url": "https://repbumgardner.com"
+   }
+  ],
+  "42": [
+   {
+    "email": "savet.constantine@cga.ct.gov",
+    "name": "Savet Constantine",
+    "party": "Democratic",
+    "url": "https://www.housedems.ct.gov/Constantine"
+   }
+  ],
+  "43": [
+   {
+    "email": "greg.howard@housegop.ct.gov",
+    "name": "Greg Howard",
+    "party": "Republican",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27043%27&dist_name=Howard,%20Greg%20S."
+   }
+  ],
+  "44": [
+   {
+    "email": "anne.dauphinais@housegop.ct.gov",
+    "name": "Anne Dauphinais",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27044%27&dist_name=Dauphinais,%20Anne"
+   }
+  ],
+  "45": [
+   {
+    "email": "brian.lanoue@cga.ct.gov",
+    "name": "Brian Lanoue",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27045%27&dist_name=Lanoue,%20Brian"
+   }
+  ],
+  "46": [
+   {
+    "email": "derell.wilson@cga.ct.gov",
+    "name": "Derell Wilson",
+    "party": "Democratic/Working Families",
+    "url": "https://www.housedems.ct.gov/Wilson"
+   }
+  ],
+  "47": [
+   {
+    "email": "doug.dubitsky@housegop.ct.gov",
+    "name": "Doug Dubitsky",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27047%27&dist_name=Dubitsky,%20Doug"
+   }
+  ],
+  "48": [
+   {
+    "email": "mark.decaprio@housegop.ct.gov",
+    "name": "Mark DeCaprio",
+    "party": "Republican",
+    "url": "https://www.cthousegop.com/decaprio/"
+   }
+  ],
+  "49": [
+   {
+    "email": "susan.johnson@cga.ct.gov",
+    "name": "Susan Johnson",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27049%27&dist_name=Johnson,%20Susan%20M."
+   }
+  ],
+  "5": [
+   {
+    "email": "maryam.khan@cga.ct.gov",
+    "name": "Maryam Khan",
+    "party": "Democratic",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27005%27&dist_name=005%20-%Khan,%Maryam"
+   }
+  ],
+  "50": [
+   {
+    "email": "pat.boyd@cga.ct.gov",
+    "name": "Pat Boyd",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27050%27&dist_name=Boyd,%20Patrick%20S."
+   }
+  ],
+  "51": [
+   {
+    "email": "chris.stewart@housegop.ct.gov",
+    "name": "Chris Stewart",
+    "party": "Republican",
+    "url": "https://www.cthousegop.com/stewart/"
+   }
+  ],
+  "52": [
+   {
+    "email": "kurt.vail@housegop.ct.gov",
+    "name": "Kurt Vail",
+    "party": "Republican",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27052%27&dist_name=Kurt,%20Vail"
+   }
+  ],
+  "53": [
+   {
+    "email": "tammy.nuccio@housegop.ct.gov",
+    "name": "Tammy Nuccio",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27053%27&dist_name=Nuccio,%20Tammy"
+   }
+  ],
+  "54": [
+   {
+    "email": "gregory.haddad@cga.ct.gov",
+    "name": "Gregg Haddad",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27054%27&dist_name=Haddad,%20Gregory"
+   }
+  ],
+  "55": [
+   {
+    "email": "steve.weir@housegop.ct.gov",
+    "name": "Steve Weir",
+    "party": "Republican",
+    "url": "https://www.cthousegop.com/Weir/"
+   }
+  ],
+  "56": [
+   {
+    "email": "kevin.brown@cga.ct.gov",
+    "name": "Kevin Brown",
+    "party": "Democratic",
+    "url": "https://www.housedems.ct.gov/BrownK"
+   }
+  ],
+  "57": [
+   {
+    "email": "jaime.foster@cga.ct.gov",
+    "name": "Jaime Foster",
+    "party": "Democratic/Independence/Working Families",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27057%27&dist_name=057%20-%Foster,%Jaime"
+   }
+  ],
+  "58": [
+   {
+    "email": "john.santanella@cga.ct.gov",
+    "name": "John Santanella",
+    "party": "Democratic",
+    "url": "https://www.housedems.ct.gov/Santanella"
+   }
+  ],
+  "59": [
+   {
+    "email": "carol.hall@housegop.ct.gov",
+    "name": "Carol Hall",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27059%27&dist_name=Hall,%20Carol"
+   }
+  ],
+  "6": [
+   {
+    "email": "james.sanchez@cga.ct.gov",
+    "name": "Jimmy S\u00e1nchez",
+    "party": "Democratic",
+    "url": "https://www.housedems.ct.gov/sanchezJ"
+   }
+  ],
+  "60": [
+   {
+    "email": "jane.garibay@cga.ct.gov",
+    "name": "Jane Garibay",
+    "party": "Democratic",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27060%27&dist_name=060%20-%Garibay,%Jane"
+   }
+  ],
+  "61": [
+   {
+    "email": "tami.zawistowski@housegop.ct.gov",
+    "name": "Tami Zawistowski",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27061%27&dist_name=Zawistowski,%20Tami"
+   }
+  ],
+  "62": [
+   {
+    "email": "mark.anderson@housegop.ct.gov",
+    "name": "Mark Anderson",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27062%27&dist_name=Anderson,%20Mark%20W"
+   }
+  ],
+  "63": [
+   {
+    "email": "jay.case@housegop.ct.gov",
+    "name": "Jay Case",
+    "party": "Republican",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27063%27&dist_name=Jay,%20Case"
+   }
+  ],
+  "64": [
+   {
+    "email": "maria.horn@cga.ct.gov",
+    "name": "Maria Horn",
+    "party": "Democratic",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27064%27&dist_name=064%20-%Horn,%Maria"
+   }
+  ],
+  "65": [
+   {
+    "email": "joe.canino@housegop.ct.gov",
+    "name": "Joe Canino",
+    "party": "Republican",
+    "url": "https://www.cthousegop.com/canino/"
+   }
+  ],
+  "66": [
+   {
+    "email": "karen.reddington-hughes@housegop.ct.gov",
+    "name": "Karen Reddington-Hughes",
+    "party": "Republican",
+    "url": "https://www.cthousegop.com/Reddington-Hughes/"
+   }
+  ],
+  "67": [
+   {
+    "email": "bill.buckbee@housegop.ct.gov",
+    "name": "Billy Buckbee",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27067%27&dist_name=Buckbee,%20Bill"
+   }
+  ],
+  "68": [
+   {
+    "email": "joe.polletta@housegop.ct.gov",
+    "name": "Joe Polletta",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27068%27&dist_name=Polletta,%20Joe"
+   }
+  ],
+  "69": [
+   {
+    "email": "jason.buchsbaum@housegop.ct.gov",
+    "name": "Jason Buchsbaum",
+    "party": "Republican",
+    "url": "https://www.cthousegop.com/buchsbaum/"
+   }
+  ],
+  "7": [
+   {
+    "email": "joshua.hall@cga.ct.gov",
+    "name": "Joshua Hall",
+    "party": "Democratic",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27007%27&dist_name=007%20-%Hall,%Joshua"
+   }
+  ],
+  "70": [
+   {
+    "email": "seth.bronko@housegop.ct.gov",
+    "name": "Seth Bronko",
+    "party": "Republican",
+    "url": "https://www.cthousegop.com/Bronko/"
+   }
+  ],
+  "71": [
+   {
+    "email": "william.pizzuto@housegop.ct.gov",
+    "name": "Bill Pizzuto",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27071%27&dist_name=Pizzuto,%20William"
+   }
+  ],
+  "72": [
+   {
+    "email": "larry.butler@cga.ct.gov",
+    "name": "Larry Butler",
+    "party": "Democratic",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27072%27&dist_name=072%20-%Butler,%Larry%20B."
+   }
+  ],
+  "73": [
+   {
+    "email": "ron.napoli@cga.ct.gov",
+    "name": "Ron Napoli",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27073%27&dist_name=Napoli,%20Ronald%20A."
+   }
+  ],
+  "74": [
+   {
+    "email": "michael.digiovancarlo@cga.ct.gov",
+    "name": "Michael DiGiovancarlo",
+    "party": "Democratic/Working Families",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27074%27&dist_name=074%20-%DiGiovancarlo,%Michael"
+   }
+  ],
+  "75": [
+   {
+    "email": "geraldo.reyes@cga.ct.gov",
+    "name": "Geraldo Reyes",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27075%27&dist_name=Reyes,%20Geraldo%20C."
+   }
+  ],
+  "76": [
+   {
+    "email": "john.piscopo@housegop.ct.gov",
+    "name": "John Piscopo",
+    "party": "Republican",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27076%27&dist_name=Piscopo,%20John"
+   }
+  ],
+  "77": [
+   {
+    "email": "cara.pavalock@housegop.ct.gov",
+    "name": "Cara Pavalock-D'Amato",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27077%27&dist_name=Pavalock-D%27Amato,%20Cara%20Christine"
+   }
+  ],
+  "78": [
+   {
+    "email": "joe.hoxha@housegop.ct.gov",
+    "name": "Joe Hoxha",
+    "party": "Republican",
+    "url": "https://www.cthousegop.com/hoxha/"
+   }
+  ],
+  "79": [
+   {
+    "email": "mary.fortier@cga.ct.gov",
+    "name": "Mary Fortier",
+    "party": "Democratic",
+    "url": "https://www.housedems.ct.gov/Fortier"
+   }
+  ],
+  "8": [
+   {
+    "email": "tim.ackert@housegop.ct.gov",
+    "name": "Tim Ackert",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27008%27&dist_name=Ackert,%20Tim"
+   }
+  ],
+  "80": [
+   {
+    "email": "gale.mastrofrancesco@housegop.ct.gov",
+    "name": "Gale Mastrofrancesco",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27080%27&dist_name=Mastrofrancesco,%20Gale%20L."
+   }
+  ],
+  "81": [
+   {
+    "email": "chris.poulos@cga.ct.gov",
+    "name": "Chris Poulos",
+    "party": "Democratic",
+    "url": "https://www.housedems.ct.gov/poulos"
+   }
+  ],
+  "82": [
+   {
+    "email": "michaeld.quinn@cga.ct.gov",
+    "name": "Michael Quinn",
+    "party": "Democratic",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27082%27&dist_name=082%20-%Quinn,%Michael%20D."
+   }
+  ],
+  "83": [
+   {
+    "email": "jack.fazzino@cga.ct.gov",
+    "name": "Jack Fazzino",
+    "party": "Democratic/Working Families",
+    "url": "https://www.housedems.ct.gov/Fazzino"
+   }
+  ],
+  "84": [
+   {
+    "email": "hilda.santiago@cga.ct.gov",
+    "name": "Hilda Santiago",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27084%27&dist_name=Santiago,%20Hilda%20E."
+   }
+  ],
+  "85": [
+   {
+    "email": "mary.mushinsky@cga.ct.gov",
+    "name": "Mary Mushinsky",
+    "party": "Democratic",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27085%27&dist_name=085%20-%Mushinsky,%Mary%20M."
+   }
+  ],
+  "86": [
+   {
+    "email": "vincent.candelora@housegop.ct.gov",
+    "name": "Vin Candelora",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27086%27&dist_name=Candelora,%20Vincent%20J."
+   }
+  ],
+  "87": [
+   {
+    "email": "dave.yaccarino@housegop.ct.gov",
+    "name": "Dave Yaccarino",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27087%27&dist_name=Yaccarino,%20Dave%20W."
+   }
+  ],
+  "88": [
+   {
+    "email": "josh.elliott@cga.ct.gov",
+    "name": "Josh Elliott",
+    "party": "Democratic",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27088%27&dist_name=088%20-%Elliott,%Josh"
+   }
+  ],
+  "89": [
+   {
+    "email": "lezlye.zupkus@housegop.ct.gov",
+    "name": "Lezlye Zupkus",
+    "party": "Republican",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27089%27&dist_name=089-Lezlye%20Zupkus"
+   }
+  ],
+  "9": [
+   {
+    "email": "jason.rojas@cga.ct.gov",
+    "name": "Jason Rojas",
+    "party": "Democratic",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27009%27&dist_name=009%20-%Rojas,%Jason"
+   }
+  ],
+  "90": [
+   {
+    "email": "craig.fishbein@housegop.ct.gov",
+    "name": "Craig Fishbein",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27090%27&dist_name=Fishbein,%20Craig%20C."
+   }
+  ],
+  "91": [
+   {
+    "email": "laurie.sweet@cga.ct.gov",
+    "name": "Laurie Sweet",
+    "party": "Democratic/Working Families",
+    "url": "https://www.housedems.ct.gov/Sweet"
+   }
+  ],
+  "92": [
+   {
+    "email": "patricia.dillon@cga.ct.gov",
+    "name": "Pat Dillon",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27092%27&dist_name=Dillon,%20Patricia%20A."
+   }
+  ],
+  "93": [
+   {
+    "email": "toni.walker@cga.ct.gov",
+    "name": "Toni Walker",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27093%27&dist_name=Walker,%20Toni%20E."
+   }
+  ],
+  "94": [
+   {
+    "email": "steve.winter@cga.ct.gov",
+    "name": "Steven Winter",
+    "party": "Democratic",
+    "url": "https://www.housedems.ct.gov/Winter"
+   }
+  ],
+  "95": [
+   {
+    "email": "juan.candelaria@cga.ct.gov",
+    "name": "Juan Candelaria",
+    "party": "Democratic",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27095%27&dist_name=095%20-%Candelaria,%Juan%20R."
+   }
+  ],
+  "96": [
+   {
+    "email": "roland.lemar@cga.ct.gov",
+    "name": "Roland Lemar",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27096%27&dist_name=Lemar,%20Roland%20J."
+   }
+  ],
+  "97": [
+   {
+    "email": "alphonse.paolillo@cga.ct.gov",
+    "name": "Al Paolillo",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27097%27&dist_name=Paolillo,%20Alphonse"
+   }
+  ],
+  "98": [
+   {
+    "email": "moira.rader@cga.ct.gov",
+    "name": "Moira Rader",
+    "party": "Democratic/Working Families",
+    "url": "https://www.housedems.ct.gov/Rader"
+   }
+  ],
+  "99": [
+   {
+    "email": "joe.zullo@housegop.ct.gov",
+    "name": "Joe Zullo",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27099%27&dist_name=Zullo,%20Joseph%20H."
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/ct.csv"
+ },
+ "state": "CT",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "fonfara@senatedems.ct.gov",
+    "name": "John Fonfara",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S01%27&dist_name=Fonfara,%20John%20W."
+   }
+  ],
+  "10": [
+   {
+    "email": "winfield@senatedems.ct.gov",
+    "name": "Gary Winfield",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S10%27&dist_name=Winfield,%20Gary%20A."
+   }
+  ],
+  "11": [
+   {
+    "email": "looney@senatedems.ct.gov",
+    "name": "Martin Looney",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S11%27&dist_name=Looney,%20Martin%20M."
+   }
+  ],
+  "12": [
+   {
+    "email": "christine.cohen@cga.ct.gov",
+    "name": "Christine Cohen",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S12%27&dist_name=Cohen,%20Christine"
+   }
+  ],
+  "13": [
+   {
+    "email": "jan.hochadel@cga.ct.gov",
+    "name": "Jan Hochadel",
+    "party": "Democratic/Working Families",
+    "url": "https://www.senatedems.ct.gov/hochadel"
+   }
+  ],
+  "14": [
+   {
+    "email": "maroney@senatedems.ct.gov",
+    "name": "James Maroney",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S14%27&dist_name=Maroney,%20James%20J."
+   }
+  ],
+  "15": [
+   {
+    "email": "hartley@senatedems.ct.gov",
+    "name": "Joan Hartley",
+    "party": "Democratic",
+    "url": "https://www.senatedems.ct.gov/Hartley"
+   }
+  ],
+  "16": [
+   {
+    "email": "rob.sampson@cga.ct.gov",
+    "name": "Rob Sampson",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S16%27&dist_name=Sampson,%20Rob"
+   }
+  ],
+  "17": [
+   {
+    "email": "jorge.cabrera@cga.ct.gov",
+    "name": "Jorge Cabrera",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S17%27&dist_name=Cabrera,%20Jorge"
+   }
+  ],
+  "18": [
+   {
+    "email": "heather.somers@cga.ct.gov",
+    "name": "Heather Somers",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S18%27&dist_name=Somers,%20Heather%20S."
+   }
+  ],
+  "19": [
+   {
+    "email": "osten@senatedems.ct.gov",
+    "name": "Cathy Osten",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S19%27&dist_name=Osten,%20Catherine%20A."
+   }
+  ],
+  "2": [
+   {
+    "email": "douglas.mccrory@cga.ct.gov",
+    "name": "Doug McCrory",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S02%27&dist_name=McCrory,%20Douglas"
+   }
+  ],
+  "20": [
+   {
+    "email": "martha.marx@cga.ct.gov",
+    "name": "Martha Marx",
+    "party": "Democratic/Working Families",
+    "url": "https://www.senatedems.ct.gov/marx"
+   }
+  ],
+  "21": [
+   {
+    "email": "jason.perillo@cga.ct.gov",
+    "name": "Jason Perillo",
+    "party": "Republican",
+    "url": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27113%27&dist_name=Jason,%20Perillo"
+   }
+  ],
+  "22": [
+   {
+    "email": "gadkarwilcox@senatedems.ct.gov",
+    "name": "Sujata Gadkar-Wilcox",
+    "party": "Democratic",
+    "url": "https://www.senatedems.ct.gov/senator/sujata-gadkar-wilcox"
+   }
+  ],
+  "23": [
+   {
+    "email": "herron.gaston@cga.ct.gov",
+    "name": "Herron Gaston",
+    "party": "Democratic",
+    "url": "https://senatedems.ct.gov/gaston"
+   }
+  ],
+  "24": [
+   {
+    "email": "julie.kushner@cga.ct.gov",
+    "name": "Julie Kushner",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S24%27&dist_name=Kushner,%20Julie"
+   }
+  ],
+  "25": [
+   {
+    "email": "duff@senatedems.ct.gov",
+    "name": "Bob Duff",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S25%27&dist_name=Duff,%20Bob"
+   }
+  ],
+  "26": [
+   {
+    "email": "ceci.maher@cga.ct.gov",
+    "name": "Ceci Maher",
+    "party": "Democratic",
+    "url": "https://www.senatedems.ct.gov/maher"
+   }
+  ],
+  "27": [
+   {
+    "email": "patricia.miller@cga.ct.gov",
+    "name": "Pat Miller",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S27%27&dist_name=Miller,%20Patricia%20Billie"
+   }
+  ],
+  "28": [
+   {
+    "email": "tony.hwang@cga.ct.gov",
+    "name": "Tony Hwang",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S28%27&dist_name=Hwang,%20Tony"
+   }
+  ],
+  "29": [
+   {
+    "email": "flexer@senatedems.ct.gov",
+    "name": "Mae Flexer",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S29%27&dist_name=Flexer,%20Mae"
+   }
+  ],
+  "3": [
+   {
+    "email": "saud.anwar@cga.ct.gov",
+    "name": "Saud Anwar",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S03%27&dist_name=Anwar,%20Saud"
+   }
+  ],
+  "30": [
+   {
+    "email": "stephen.harding@cga.ct.gov",
+    "name": "Stephen Harding",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27107%27&dist_name=Harding,%20Stephen%20G."
+   }
+  ],
+  "31": [
+   {
+    "email": "henri.martin@cga.ct.gov",
+    "name": "Henri Martin",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S31%27&dist_name=Martin,%20Henri"
+   }
+  ],
+  "32": [
+   {
+    "email": "eric.berthel@cga.ct.gov",
+    "name": "Eric Berthel",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S32%27&dist_name=Berthel,%20Eric%20C."
+   }
+  ],
+  "33": [
+   {
+    "email": "norm.needleman@cga.ct.gov",
+    "name": "Norm Needleman",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S33%27&dist_name=Needleman,%20Norman"
+   }
+  ],
+  "34": [
+   {
+    "email": "paul.cicarella@cga.ct.gov",
+    "name": "Paul Cicarella",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S34%27&dist_name=Cicarella,%20Paul"
+   }
+  ],
+  "35": [
+   {
+    "email": "jeffrey.gordon@cga.ct.gov",
+    "name": "Jeff Gordon",
+    "party": "Republican",
+    "url": "https://ctsenaterepublicans.com/home-gordon/"
+   }
+  ],
+  "36": [
+   {
+    "email": "ryan.fazio@cga.ct.gov",
+    "name": "Ryan Fazio",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S36%27&dist_name=Fazio,%20Ryan"
+   }
+  ],
+  "4": [
+   {
+    "email": "md.rahman@cga.ct.gov",
+    "name": "M.D. Rahman",
+    "party": "Democratic/Working Families",
+    "url": "https://www.senatedems.ct.gov/Rahman"
+   }
+  ],
+  "5": [
+   {
+    "email": "derek.slap@cga.ct.gov",
+    "name": "Derek Slap",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S05%27&dist_name=Slap,%20Derek"
+   }
+  ],
+  "6": [
+   {
+    "email": "rick.lopes@cga.ct.gov",
+    "name": "Rick Lopes",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S06%27&dist_name=Lopes,%20Rick"
+   }
+  ],
+  "7": [
+   {
+    "email": "john.a.kissel@cga.ct.gov",
+    "name": "John Kissel",
+    "party": "Republican",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S07%27&dist_name=Kissel,%20John%20A."
+   }
+  ],
+  "8": [
+   {
+    "email": "paul.honig@cga.ct.gov",
+    "name": "Paul Honig",
+    "party": "Democratic/Working Families",
+    "url": "https://www.senatedems.ct.gov/senator/paul-honig"
+   }
+  ],
+  "9": [
+   {
+    "email": "matthew.lesser@cga.ct.gov",
+    "name": "Matt Lesser",
+    "party": "Democratic",
+    "url": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S09%27&dist_name=Lesser,%20Matthew%20L."
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

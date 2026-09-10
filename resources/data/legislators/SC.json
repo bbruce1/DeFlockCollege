@@ -1,0 +1,1465 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Nancy Mace",
+    "party": "Republican",
+    "phone": "202-225-3176",
+    "url": "https://mace.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Joe Wilson",
+    "party": "Republican",
+    "phone": "202-225-2452",
+    "url": "https://joewilson.house.gov"
+   }
+  ],
+  "3": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Sheri Biggs",
+    "party": "Republican",
+    "phone": "202-225-5301",
+    "url": "https://sheribiggs.house.gov"
+   }
+  ],
+  "4": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "William Timmons",
+    "party": "Republican",
+    "phone": "202-225-6030",
+    "url": "https://timmons.house.gov"
+   }
+  ],
+  "5": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Ralph Norman",
+    "party": "Republican",
+    "phone": "202-225-5501",
+    "url": "https://norman.house.gov"
+   }
+  ],
+  "6": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "James Clyburn",
+    "party": "Democrat",
+    "phone": "202-225-3315",
+    "url": "https://clyburn.house.gov"
+   }
+  ],
+  "7": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Russell Fry",
+    "party": "Republican",
+    "phone": "202-225-9895",
+    "url": "https://fry.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.scott.senate.gov/contact/email-me",
+   "email": null,
+   "name": "Tim Scott",
+   "party": "Republican",
+   "phone": "202-224-6121",
+   "url": "https://www.scott.senate.gov"
+  },
+  {
+   "contactForm": null,
+   "email": null,
+   "name": "Darline Graham Nordone",
+   "party": "Republican",
+   "phone": "202-224-5972",
+   "url": "https://www.dgraham.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "billwhitmire@schouse.gov",
+    "name": "Bill Whitmire",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1914204316"
+   }
+  ],
+  "10": [
+   {
+    "email": "thomasbeach@schouse.gov",
+    "name": "Thomas Beach",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0129545439"
+   }
+  ],
+  "100": [
+   {
+    "email": "syllestedavis@schouse.gov",
+    "name": "Sylleste Davis",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0456249946"
+   }
+  ],
+  "101": [
+   {
+    "email": "rogerkirby@schouse.gov",
+    "name": "Roger Kirby",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=1006818061"
+   }
+  ],
+  "102": [
+   {
+    "email": "harrietholman@schouse.gov",
+    "name": "Harriet Holman",
+    "party": "Republican",
+    "url": "https://www.scstatehouse.gov/member.php?code=0867045351"
+   }
+  ],
+  "103": [
+   {
+    "email": "carlanderson@schouse.gov",
+    "name": "Carl Anderson",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=0021590907"
+   }
+  ],
+  "104": [
+   {
+    "email": "williambailey@schouse.gov",
+    "name": "William Bailey",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0088636353"
+   }
+  ],
+  "105": [
+   {
+    "email": "kevinhardee@schouse.gov",
+    "name": "Kevin Hardee",
+    "party": "Republican",
+    "url": "https://kevinhardee.com/"
+   }
+  ],
+  "106": [
+   {
+    "email": "valguest@schouse.gov",
+    "name": "Val Guest",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0730113549"
+   }
+  ],
+  "107": [
+   {
+    "email": "casebrittain@schouse.gov",
+    "name": "Case Brittain",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0202272703"
+   }
+  ],
+  "108": [
+   {
+    "email": "leehewitt@schouse.gov",
+    "name": "Lee Hewitt",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0834658991"
+   }
+  ],
+  "109": [
+   {
+    "email": "tiffanyspannwilder@schouse.gov",
+    "name": "Tiffany Spann-Wilder",
+    "party": "Democratic",
+    "url": "https://www.scstatehouse.gov/member.php?code=1742897519"
+   }
+  ],
+  "11": [
+   {
+    "email": "craiggagnon@schouse.gov",
+    "name": "Craig Gagnon",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0632954470"
+   }
+  ],
+  "110": [
+   {
+    "email": "tomhartnett@schouse.gov",
+    "name": "Tom Hartnett",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0774999907"
+   }
+  ],
+  "111": [
+   {
+    "email": "wendellgilliard@schouse.gov",
+    "name": "Wendell Gilliard",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=0675568101"
+   }
+  ],
+  "112": [
+   {
+    "email": "joebustos@schouse.gov",
+    "name": "Joe Bustos",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0278409057"
+   }
+  ],
+  "113": [
+   {
+    "email": null,
+    "name": "Courtney Waters",
+    "party": "Democratic",
+    "url": "https://www.scstatehouse.gov/member.php?code=1896590682"
+   }
+  ],
+  "114": [
+   {
+    "email": "garybrewer@schouse.gov",
+    "name": "Gary Brewer",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0192045432"
+   }
+  ],
+  "115": [
+   {
+    "email": "spencerwetmore@schouse.gov",
+    "name": "Spencer Wetmore",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=1905681590"
+   }
+  ],
+  "116": [
+   {
+    "email": "jamesteeple@schouse.gov",
+    "name": "James Teeple",
+    "party": "Republican",
+    "url": "https://www.scstatehouse.gov/member.php?code=1812215692"
+   }
+  ],
+  "117": [
+   {
+    "email": "jordanpace@schouse.gov",
+    "name": "Jordan Pace",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1433984204"
+   }
+  ],
+  "118": [
+   {
+    "email": "billherbkerman@schouse.gov",
+    "name": "Bill Herbkersman",
+    "party": "Republican",
+    "url": "https://repbillherbkersman.com/"
+   }
+  ],
+  "119": [
+   {
+    "email": "leonstavrinakis@schouse.gov",
+    "name": "Leon Stavrinakis",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=1747727063"
+   }
+  ],
+  "12": [
+   {
+    "email": "danielgibson@schouse.gov",
+    "name": "Daniel Gibson",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0667045375"
+   }
+  ],
+  "120": [
+   {
+    "email": "westonnewton@schouse.gov",
+    "name": "Weston Newton",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1418749830"
+   }
+  ],
+  "121": [
+   {
+    "email": "michaelrivers@schouse.gov",
+    "name": "Michael Rivers",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=1564346404"
+   }
+  ],
+  "122": [
+   {
+    "email": "billhager@schouse.gov",
+    "name": "Bill Hager",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0733948776"
+   }
+  ],
+  "123": [
+   {
+    "email": "jeffbradley@schouse.gov",
+    "name": "Jeff Bradley",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0171590889"
+   }
+  ],
+  "124": [
+   {
+    "email": "shannonerickson@schouse.gov",
+    "name": "Shannon Erickson",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0539772663"
+   }
+  ],
+  "13": [
+   {
+    "email": "johnmccravy@schouse.gov",
+    "name": "John McCravy",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1217045309"
+   }
+  ],
+  "14": [
+   {
+    "email": "lukerankin@schouse.gov",
+    "name": "Luke Rankin",
+    "party": "Republican",
+    "url": "https://www.scstatehouse.gov/member.php?code=1510227092"
+   }
+  ],
+  "15": [
+   {
+    "email": "jamoore@schouse.gov",
+    "name": "J.A. Moore",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=1356818019"
+   }
+  ],
+  "16": [
+   {
+    "email": "markwillis@schouse.gov",
+    "name": "Mark Willis",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1942613404"
+   }
+  ],
+  "17": [
+   {
+    "email": "mikeburns@schouse.gov",
+    "name": "Mike Burns",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0257954515"
+   }
+  ],
+  "18": [
+   {
+    "email": "alanmorgan@schouse.gov",
+    "name": "Alan Morgan",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1374999835"
+   }
+  ],
+  "19": [
+   {
+    "email": "patrick@patrickhaddon.com",
+    "name": "Patrick Haddon",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0733806731"
+   }
+  ],
+  "2": [
+   {
+    "email": "adamduncan@schouse.gov",
+    "name": "Adam Duncan",
+    "party": "Republican",
+    "url": "https://www.scstatehouse.gov/member.php?code=0502272667"
+   }
+  ],
+  "20": [
+   {
+    "email": "stephenfrank@schouse.gov",
+    "name": "Stephen Frank",
+    "party": "Republican",
+    "url": "https://www.scstatehouse.gov/member.php?code=0614772654"
+   }
+  ],
+  "21": [
+   {
+    "email": "diannemitchell@schouse.gov",
+    "name": "Dianne Mitchell",
+    "party": "Republican",
+    "url": "https://www.scstatehouse.gov/member.php?code=1344175976"
+   }
+  ],
+  "22": [
+   {
+    "email": "paulwickensimer@schouse.gov",
+    "name": "Paul Wickensimer",
+    "party": "Republican",
+    "url": "https://www.scstatehouse.gov/member.php?code=1914630453"
+   }
+  ],
+  "23": [
+   {
+    "email": "chandra@chandradillard.com",
+    "name": "Chandra Dillard",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=0479545397"
+   }
+  ],
+  "24": [
+   {
+    "email": "brucebannister@schouse.gov",
+    "name": "Bruce Bannister",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0103409079"
+   }
+  ],
+  "25": [
+   {
+    "email": "wendelljones@schouse.gov",
+    "name": "Wendell Jones",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=0953408977"
+   }
+  ],
+  "26": [
+   {
+    "email": "davidmartin@schouse.gov",
+    "name": "David Martin",
+    "party": "Republican",
+    "url": "https://www.scstatehouse.gov/member.php?code=1157954407"
+   }
+  ],
+  "27": [
+   {
+    "email": "davidvaughan@schouse.gov",
+    "name": "David Vaughan",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1865908867"
+   }
+  ],
+  "28": [
+   {
+    "email": "chrishuff@schouse.gov",
+    "name": "Chris Huff",
+    "party": "Republican",
+    "url": "https://www.scstatehouse.gov/member.php?code=0893181711"
+   }
+  ],
+  "29": [
+   {
+    "email": "dennismoss@schouse.gov",
+    "name": "Dennis Moss",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1379545289"
+   }
+  ],
+  "3": [
+   {
+    "email": "phillipbowers@schouse.gov",
+    "name": "Phillip Bowers",
+    "party": "Republican",
+    "url": "https://www.scstatehouse.gov/member.php?code=0169318162"
+   }
+  ],
+  "30": [
+   {
+    "email": "brianlawson@schouse.gov",
+    "name": "Brian Lawson",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1067613508"
+   }
+  ],
+  "31": [
+   {
+    "email": "rosalynhenderson-myers@schouse.gov",
+    "name": "Rosalyn Henderson-Myers",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=0824999901"
+   }
+  ],
+  "32": [
+   {
+    "email": "scottmontgomery@schouse.gov",
+    "name": "Scott Montgomery",
+    "party": "Republican",
+    "url": "https://www.scstatehouse.gov/member.php?code=1351704384"
+   }
+  ],
+  "33": [
+   {
+    "email": "travismoore@schouse.gov",
+    "name": "Travis Moore",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1365908927"
+   }
+  ],
+  "34": [
+   {
+    "email": "saritaedgerton@schouse.gov",
+    "name": "Sarita Edgerton",
+    "party": "Republican",
+    "url": "https://www.scstatehouse.gov/member.php?code=0522159029"
+   }
+  ],
+  "35": [
+   {
+    "email": "billchumley@schouse.gov",
+    "name": "Bill Chumley",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0351704504"
+   }
+  ],
+  "36": [
+   {
+    "email": "robharris@schouse.gov",
+    "name": "Rob Harris",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0764772636"
+   }
+  ],
+  "37": [
+   {
+    "email": "stevenlong@schouse.gov",
+    "name": "Steven Long",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1120454411"
+   }
+  ],
+  "38": [
+   {
+    "email": "josiahmagnuson@schouse.gov",
+    "name": "Josiah Magnuson",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1130965774"
+   }
+  ],
+  "39": [
+   {
+    "email": "calforrest@schouse.gov",
+    "name": "Cal Forrest",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0608238564"
+   }
+  ],
+  "4": [
+   {
+    "email": "daveyhiott@schouse.gov",
+    "name": "Davey Hiott",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0848863535"
+   }
+  ],
+  "40": [
+   {
+    "email": "joewhite@schouse.gov",
+    "name": "Joe White",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1912499771"
+   }
+  ],
+  "41": [
+   {
+    "email": "anniemcdaniel@schouse.gov",
+    "name": "Annie McDaniel",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=1221590763"
+   }
+  ],
+  "42": [
+   {
+    "email": "douggilliam@schouse.gov",
+    "name": "Doug Gilliam",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0675426055"
+   }
+  ],
+  "43": [
+   {
+    "email": "randyligon@schouse.gov",
+    "name": "Randy Ligon",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1087499870"
+   }
+  ],
+  "44": [
+   {
+    "email": "mikeneese@schouse.gov",
+    "name": "Mike Neese",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1403977105"
+   }
+  ],
+  "45": [
+   {
+    "email": "brandonnewton@schouse.gov",
+    "name": "Brandon Newton",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1418607785"
+   }
+  ],
+  "46": [
+   {
+    "email": "heathsessions@schouse.gov",
+    "name": "Heath Sessions",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1649715712"
+   }
+  ],
+  "47": [
+   {
+    "email": "tommypope@schouse.gov",
+    "name": "Tommy Pope",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1484090731"
+   }
+  ],
+  "48": [
+   {
+    "email": "brandonguffey@schouse.gov",
+    "name": "Brandon Guffey",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0730681731"
+   }
+  ],
+  "49": [
+   {
+    "email": "johnking@schouse.gov",
+    "name": "John King",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=1002272607"
+   }
+  ],
+  "5": [
+   {
+    "email": "nealcollins@schouse.gov",
+    "name": "Neal Collins",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0388636317"
+   }
+  ],
+  "50": [
+   {
+    "email": null,
+    "name": "Keishan Scott",
+    "party": "Democratic",
+    "url": "https://www.scstatehouse.gov/member.php?code=1645738439"
+   }
+  ],
+  "51": [
+   {
+    "email": "davidweeks@schouse.gov",
+    "name": "David Weeks",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=1898863409"
+   }
+  ],
+  "52": [
+   {
+    "email": "jermainejohnson@schouse.gov",
+    "name": "Jermaine Johnson",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=0943181705"
+   }
+  ],
+  "53": [
+   {
+    "email": "richieyow@schouse.gov",
+    "name": "Richie Yow",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1998863577"
+   }
+  ],
+  "54": [
+   {
+    "email": "jasonluck@schouse.gov",
+    "name": "Jason Luck",
+    "party": "Democratic",
+    "url": "https://www.scstatehouse.gov/member.php?code=1126420320"
+   }
+  ],
+  "55": [
+   {
+    "email": "jackiehayes@schouse.gov",
+    "name": "Jackie Hayes",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=0802272631"
+   }
+  ],
+  "56": [
+   {
+    "email": "timmcginnis@schouse.gov",
+    "name": "Tim McGinnis",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1256818031"
+   }
+  ],
+  "57": [
+   {
+    "email": "lucasatkinson@schouse.gov",
+    "name": "Lucas Atkinson",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0066477265"
+   }
+  ],
+  "58": [
+   {
+    "email": "jeffjohnson@schouse.gov",
+    "name": "Jeff Johnson",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0938636251"
+   }
+  ],
+  "59": [
+   {
+    "email": "terryalexander@schouse.gov",
+    "name": "Terry Alexander",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=0011363635"
+   }
+  ],
+  "6": [
+   {
+    "email": "aprilcromer@schouse.gov",
+    "name": "April Cromer",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0434090857"
+   }
+  ],
+  "60": [
+   {
+    "email": "philliplowe@schouse.gov",
+    "name": "Phillip Lowe",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1125568047"
+   }
+  ],
+  "61": [
+   {
+    "email": "carlaschuessler@schouse.gov",
+    "name": "Carla Schuessler",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1635227077"
+   }
+  ],
+  "62": [
+   {
+    "email": "robertwilliams@schouse.gov",
+    "name": "Robert Williams",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=1942045222"
+   }
+  ],
+  "63": [
+   {
+    "email": "jayjordan@schouse.gov",
+    "name": "Jay Jordan",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0957954431"
+   }
+  ],
+  "64": [
+   {
+    "email": "fawnpedalino@schouse.gov",
+    "name": "Fawn Pedalino",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1453408917"
+   }
+  ],
+  "65": [
+   {
+    "email": "codymitchell@schouse.gov",
+    "name": "Cody Mitchell",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1344033930"
+   }
+  ],
+  "66": [
+   {
+    "email": "jackieterribile@schouse.gov",
+    "name": "Jackie Terribile",
+    "party": "Republican",
+    "url": "https://www.scstatehouse.gov/member.php?code=1812357738"
+   }
+  ],
+  "67": [
+   {
+    "email": "murrellsmith@schouse.gov",
+    "name": "Murrell Smith",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1703408887"
+   }
+  ],
+  "68": [
+   {
+    "email": "heathercrawford@schouse.gov",
+    "name": "Heather Crawford",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0428977222"
+   }
+  ],
+  "69": [
+   {
+    "email": "chriswooten@schouse.gov",
+    "name": "Chris Wooten",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1978408854"
+   }
+  ],
+  "7": [
+   {
+    "email": "leegilreath@schouse.gov",
+    "name": "Lee Gilreath",
+    "party": "Republican",
+    "url": "https://www.scstatehouse.gov/member.php?code=0675852192"
+   }
+  ],
+  "70": [
+   {
+    "email": "robertreese@schouse.gov",
+    "name": "Robert Reese",
+    "party": "Democratic",
+    "url": "https://www.scstatehouse.gov/member.php?code=1527840726"
+   }
+  ],
+  "71": [
+   {
+    "email": "nathanballentine@schouse.gov",
+    "name": "Nathan Ballentine",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0102272715"
+   }
+  ],
+  "72": [
+   {
+    "email": "sethrose@schouse.gov",
+    "name": "Seth Rose",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=1584090719"
+   }
+  ],
+  "73": [
+   {
+    "email": "chrishart@schouse.gov",
+    "name": "Chris Hart",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=0770454453"
+   }
+  ],
+  "74": [
+   {
+    "email": "toddrutherford@schouse.gov",
+    "name": "Todd Rutherford",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=1614772534"
+   }
+  ],
+  "75": [
+   {
+    "email": "heatherbauer@schouse.gov",
+    "name": "Heather Bauer",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=0125568167"
+   }
+  ],
+  "76": [
+   {
+    "email": "leonhoward@schouse.gov",
+    "name": "Leon Howard",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=0879545349"
+   }
+  ],
+  "77": [
+   {
+    "email": "kambrellgarvin@schouse.gov",
+    "name": "Kambrell Garvin",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=0657954467"
+   }
+  ],
+  "78": [
+   {
+    "email": "bethbernstein@schouse.gov",
+    "name": "Beth Bernstein",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=0141477256"
+   }
+  ],
+  "79": [
+   {
+    "email": "hamiltongrant@schouse.gov",
+    "name": "Hamilton Grant",
+    "party": "Democratic",
+    "url": "https://www.scstatehouse.gov/member.php?code=0705681734"
+   }
+  ],
+  "8": [
+   {
+    "email": "donchapman@schouse.gov",
+    "name": "Don Chapman",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0347727231"
+   }
+  ],
+  "80": [
+   {
+    "email": "kathylanding@schouse.gov",
+    "name": "Kathy Landing",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1066477145"
+   }
+  ],
+  "81": [
+   {
+    "email": "charleshartz@schouse.gov",
+    "name": "Charlie Hartz",
+    "party": "Republican",
+    "url": "https://www.scstatehouse.gov/member.php?code=0776136271"
+   }
+  ],
+  "82": [
+   {
+    "email": "billclyburn@schouse.gov",
+    "name": "Bill Clyburn",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=0363636320"
+   }
+  ],
+  "83": [
+   {
+    "email": "billhixon@schouse.gov",
+    "name": "Bill Hixon",
+    "party": "Republican",
+    "url": "https://billhixon.com/"
+   }
+  ],
+  "84": [
+   {
+    "email": "melissaoremus@schouse.gov",
+    "name": "Melissa Oremus",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1432386192"
+   }
+  ],
+  "85": [
+   {
+    "email": "jaykilmartin@schouse.gov",
+    "name": "Jay Kilmartin",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0993323745"
+   }
+  ],
+  "86": [
+   {
+    "email": "billtaylor@schouse.gov",
+    "name": "Bill Taylor",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1811363419"
+   }
+  ],
+  "87": [
+   {
+    "email": "paulacalhoon@schouse.gov",
+    "name": "Paula Calhoon",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0293181783"
+   }
+  ],
+  "88": [
+   {
+    "email": "johnlastinger@schouse.gov",
+    "name": "John Lastinger",
+    "party": "Republican",
+    "url": "https://www.scstatehouse.gov/member.php?code=1066761236"
+   }
+  ],
+  "89": [
+   {
+    "email": "micahcaskey@schouse.gov",
+    "name": "Micah Caskey",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0329545415"
+   }
+  ],
+  "9": [
+   {
+    "email": "blakesanders@schouse.gov",
+    "name": "Blake Sanders",
+    "party": "Republican",
+    "url": "https://www.scstatehouse.gov/member.php?code=1624999805"
+   }
+  ],
+  "90": [
+   {
+    "email": "justinbamberg@schouse.gov",
+    "name": "Justin Bamberg",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=0102840897"
+   }
+  ],
+  "91": [
+   {
+    "email": "onniehosey@schouse.gov",
+    "name": "Lonnie Hosey",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=0874999895"
+   }
+  ],
+  "92": [
+   {
+    "email": "brandoncox@schouse.gov",
+    "name": "Brandon Cox",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0428124949"
+   }
+  ],
+  "93": [
+   {
+    "email": "jerrygovan@schouse.gov",
+    "name": "Jerry Govan",
+    "party": "Democratic",
+    "url": "https://www.scstatehouse.gov/member.php?code=0702272643"
+   }
+  ],
+  "94": [
+   {
+    "email": "gilgatch@schouse.gov",
+    "name": "Gil Gatch",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0658522648"
+   }
+  ],
+  "95": [
+   {
+    "email": "gildacobbhunter@schouse.gov",
+    "name": "Gilda Cobb-Hunter",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=0372727228"
+   }
+  ],
+  "96": [
+   {
+    "email": "ryanmccabe@schouse.gov",
+    "name": "Ryan McCabe",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1206818037"
+   }
+  ],
+  "97": [
+   {
+    "email": "robertrobbins@schouse.gov",
+    "name": "Robby Robbins",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1565340722"
+   }
+  ],
+  "98": [
+   {
+    "email": "gregford@schouse.gov",
+    "name": "Greg Ford",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0605681746"
+   }
+  ],
+  "99": [
+   {
+    "email": "marksmith@schouse.gov",
+    "name": "Mark Smith",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1724999793"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/sc.csv"
+ },
+ "state": "SC",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "thomasalexander@scsenate.gov",
+    "name": "Tom Alexander",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0013636362"
+   }
+  ],
+  "10": [
+   {
+    "email": "billygarrett@scsenate.gov",
+    "name": "Billy Garrett",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0638636287"
+   }
+  ],
+  "11": [
+   {
+    "email": "joshkimbrell@scsenate.gov",
+    "name": "Josh Kimbrell",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0993465790"
+   }
+  ],
+  "12": [
+   {
+    "email": "leebright@scsenate.gov",
+    "name": "Lee Bright",
+    "party": "Republican",
+    "url": "https://www.scstatehouse.gov/member.php?code=0193181795"
+   }
+  ],
+  "13": [
+   {
+    "email": "shanemartin@scsenate.gov",
+    "name": "Shane Martin",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1179545313"
+   }
+  ],
+  "14": [
+   {
+    "email": "harveypeeler@scsenate.gov",
+    "name": "Harvey Peeler",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1454545280"
+   }
+  ],
+  "15": [
+   {
+    "email": "wesclimer@scsenate.gov",
+    "name": "Wes Climer",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0356818139"
+   }
+  ],
+  "16": [
+   {
+    "email": "michaeljohnson@scsenate.gov",
+    "name": "Michael Johnson",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0949431704"
+   }
+  ],
+  "17": [
+   {
+    "email": "everettstubbs@scsenate.gov",
+    "name": "Everett Stubbs",
+    "party": "Republican",
+    "url": "https://www.scstatehouse.gov/member.php?code=1780681605"
+   }
+  ],
+  "18": [
+   {
+    "email": "ronniecromer@scsenate.gov",
+    "name": "Ronnie Cromer",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0438636311"
+   }
+  ],
+  "19": [
+   {
+    "email": "tameikaisaacdevine@scsenate.gov",
+    "name": "Tameika Isaac Devine",
+    "party": "Democratic",
+    "url": "https://www.scstatehouse.gov/member.php?code=0477840852"
+   }
+  ],
+  "2": [
+   {
+    "email": "rexrice@scsenate.gov",
+    "name": "Rex Rice",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1547727087"
+   }
+  ],
+  "20": [
+   {
+    "email": "edsutton@scsenate.gov",
+    "name": "Ed Sutton",
+    "party": "Democratic",
+    "url": "https://www.scstatehouse.gov/member.php?code=1782954332"
+   }
+  ],
+  "21": [
+   {
+    "email": "darrelljackson@scsenate.gov",
+    "name": "Darrell Jackson",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=0920454435"
+   }
+  ],
+  "22": [
+   {
+    "email": "overturewalker@scsenate.gov",
+    "name": "Overture Walker",
+    "party": "Democratic",
+    "url": "https://www.scstatehouse.gov/member.php?code=1889772501"
+   }
+  ],
+  "23": [
+   {
+    "email": "carlislekennedy@scsenate.gov",
+    "name": "Carlisle Kennedy",
+    "party": "Republican",
+    "url": "https://www.scstatehouse.gov/member.php?code=0984090791"
+   }
+  ],
+  "24": [
+   {
+    "email": "tomyoung@scsenate.gov",
+    "name": "Tom Young",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1996590730"
+   }
+  ],
+  "25": [
+   {
+    "email": "shanemassey@scsenate.gov",
+    "name": "Shane Massey",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1185227131"
+   }
+  ],
+  "26": [
+   {
+    "email": "russellott@scsenate.gov",
+    "name": "Russell Ott",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=1433096420"
+   }
+  ],
+  "27": [
+   {
+    "email": "allenblackmon@scsenate.gov",
+    "name": "Allen Blackmon",
+    "party": "Republican",
+    "url": "https://www.scstatehouse.gov/member.php?code=0143749983"
+   }
+  ],
+  "28": [
+   {
+    "email": "greghembree@scsenate.gov",
+    "name": "Greg Hembree",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0819318084"
+   }
+  ],
+  "29": [
+   {
+    "email": "jdchaplin@scsenate.gov",
+    "name": "J.D. Chaplin",
+    "party": "Republican",
+    "url": "https://www.scstatehouse.gov/member.php?code=0346590868"
+   }
+  ],
+  "3": [
+   {
+    "email": "richardcash@scsenate.gov",
+    "name": "Richard Cash",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0328409052"
+   }
+  ],
+  "30": [
+   {
+    "email": "kentwilliams@scsenate.gov",
+    "name": "Kent Williams",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=1938636131"
+   }
+  ],
+  "31": [
+   {
+    "email": "mikereichenbach@scsenate.gov",
+    "name": "Mike Reichenbach",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1528408908"
+   }
+  ],
+  "32": [
+   {
+    "email": "ronniesabb@scsenate.gov",
+    "name": "Ronnie Sabb",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=1617045261"
+   }
+  ],
+  "33": [
+   {
+    "email": "lukerankin@scsenate.gov",
+    "name": "Luke Rankin",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1511363455"
+   }
+  ],
+  "34": [
+   {
+    "email": "stephen@stephengoldfinch.com",
+    "name": "Stephen Goldfinch",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0682386282"
+   }
+  ],
+  "35": [
+   {
+    "email": "jeffreygraham@scsenate.gov",
+    "name": "Jeffrey Graham",
+    "party": "Democratic",
+    "url": "https://www.scstatehouse.gov/member.php?code=0703124916"
+   }
+  ],
+  "36": [
+   {
+    "email": "jeffzell@scsenate.gov",
+    "name": "Jeff Zell",
+    "party": "Republican",
+    "url": "https://www.scstatehouse.gov/member.php?code=1999431789"
+   }
+  ],
+  "37": [
+   {
+    "email": "stranscomm@scsenate.gov",
+    "name": "Larry Grooms",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0729545367"
+   }
+  ],
+  "38": [
+   {
+    "email": "seanbennett@scsenate.gov",
+    "name": "Sean Bennett",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0141193165"
+   }
+  ],
+  "39": [
+   {
+    "email": "tomfernandez@scsenate.gov",
+    "name": "Tom Fernandez",
+    "party": "Republican",
+    "url": "https://www.scstatehouse.gov/member.php?code=0574999931"
+   }
+  ],
+  "4": [
+   {
+    "email": "mwgambrell@bellsouth.net",
+    "name": "Mike Gambrell",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0635227197"
+   }
+  ],
+  "40": [
+   {
+    "email": "bradhutto@scsenate.gov",
+    "name": "Brad Hutto",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=0912499891"
+   }
+  ],
+  "41": [
+   {
+    "email": "matthewleber@scsenate.gov",
+    "name": "Matt Leber",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1074431690"
+   }
+  ],
+  "42": [
+   {
+    "email": "deontedder@scsenate.gov",
+    "name": "Deon Tedder",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=1811931601"
+   }
+  ],
+  "43": [
+   {
+    "email": "chipcampsen@scsenate.gov",
+    "name": "Chip Campsen",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0302272691"
+   }
+  ],
+  "44": [
+   {
+    "email": "brianadams@scsenate.gov",
+    "name": "Brian Adams",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0002272727"
+   }
+  ],
+  "45": [
+   {
+    "email": "margiebrightmatthews@scsenate.gov",
+    "name": "Margie Bright Matthews",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=0194318159"
+   }
+  ],
+  "46": [
+   {
+    "email": "tomdavis@scsenate.gov",
+    "name": "Tom Davis",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0456818127"
+   }
+  ],
+  "5": [
+   {
+    "email": "tomcorbin@scsenate.gov",
+    "name": "Tom Corbin",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0402272679"
+   }
+  ],
+  "6": [
+   {
+    "email": "jasonelliott@scsenate.gov",
+    "name": "Jason Elliott",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=0529545391"
+   }
+  ],
+  "7": [
+   {
+    "email": "karlallen@scsenate.gov",
+    "name": "Karl Allen",
+    "party": "Democratic",
+    "url": "https://scstatehouse.gov/member.php?code=0015340908"
+   }
+  ],
+  "8": [
+   {
+    "email": "rossturner@scsenate.gov",
+    "name": "Ross Turner",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1847727051"
+   }
+  ],
+  "9": [
+   {
+    "email": "dannyverdin@scsenate.gov",
+    "name": "Danny Verdin",
+    "party": "Republican",
+    "url": "https://scstatehouse.gov/member.php?code=1874999775"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

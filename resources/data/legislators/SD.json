@@ -1,0 +1,819 @@
+{
+ "federalHouse": {
+  "0": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Dusty Johnson",
+    "party": "Republican",
+    "phone": "202-225-2801",
+    "url": "https://dustyjohnson.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.thune.senate.gov/public/index.cfm/contact",
+   "email": null,
+   "name": "John Thune",
+   "party": "Republican",
+   "phone": "202-224-2321",
+   "url": "https://www.thune.senate.gov"
+  },
+  {
+   "contactForm": "https://www.rounds.senate.gov/contact/email-mike",
+   "email": null,
+   "name": "Mike Rounds",
+   "party": "Republican",
+   "phone": "202-224-5842",
+   "url": "https://www.rounds.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "logan.manhart@sdlegislature.gov",
+    "name": "Logan Manhart",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4685/Detail"
+   },
+   {
+    "email": "nick.fosness@sdlegislature.gov",
+    "name": "Nick Fosness",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4839/Detail"
+   }
+  ],
+  "10": [
+   {
+    "email": "bobbi.andera@sdlegislature.gov",
+    "name": "Bobbi Andera",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4715/Detail"
+   },
+   {
+    "email": "erin.healy@sdlegislature.gov",
+    "name": "Erin Healy",
+    "party": "Democratic",
+    "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1624&Session=2019"
+   }
+  ],
+  "11": [
+   {
+    "email": "brian.mulder@sdlegislature.gov",
+    "name": "Brian Mulder",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4447/Detail"
+   },
+   {
+    "email": "keri.weems@sdlegislature.gov",
+    "name": "Keri Weems",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4691/Detail"
+   }
+  ],
+  "12": [
+   {
+    "email": "amber.arlint@sdlegislature.gov",
+    "name": "Amber Arlint",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4456/Detail"
+   },
+   {
+    "email": "greg.jamison@sdlegislature.gov",
+    "name": "Greg Jamison",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1536&Session=2018s"
+   }
+  ],
+  "13": [
+   {
+    "email": "jack.kolbeck@sdlegislature.gov",
+    "name": "Jack Kolbeck",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1538&Session=2018s"
+   },
+   {
+    "email": "john.hughes@sdlegislature.gov",
+    "name": "John Hughes",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4690/Detail"
+   }
+  ],
+  "14": [
+   {
+    "email": "taylor.rehfeldt@sdlegislature.gov",
+    "name": "Taylor Rehfeldt",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/3799/Detail"
+   },
+   {
+    "email": "tony.kayser@sdlegislature.gov",
+    "name": "Tony Kayser",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4724/Detail"
+   }
+  ],
+  "15": [
+   {
+    "email": "erik.muckey@sdlegislature.gov",
+    "name": "Erik Muckey",
+    "party": "Democratic",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4719/Detail"
+   },
+   {
+    "email": "kadyn.wittman@sdlegislature.gov",
+    "name": "Kadyn Wittman",
+    "party": "Democratic",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4461/Detail"
+   }
+  ],
+  "16": [
+   {
+    "email": "john.shubeck@sdlegislature.gov",
+    "name": "John Shubeck",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4947/Detail"
+   },
+   {
+    "email": "karla.lems@sdlegislature.gov",
+    "name": "Karla Lems",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4443/Detail"
+   }
+  ],
+  "17": [
+   {
+    "email": "chris.kassin@sdlegislature.gov",
+    "name": "Chris Kassin",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4462/Detail"
+   },
+   {
+    "email": "william.shorma@sdlegislature.gov",
+    "name": "William Shorma",
+    "party": "Republican",
+    "url": "https://legis.sd.gov/Legislators/Legislators/MemberDetail.aspx?Member=1066&Session=2016"
+   }
+  ],
+  "18": [
+   {
+    "email": "julie.auch@sdlegislature.gov",
+    "name": "Julie Auch",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4445/Detail"
+   },
+   {
+    "email": "mike.stevens@sdlegislature.gov",
+    "name": "Mike Stevens",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/3790/Detail"
+   }
+  ],
+  "19": [
+   {
+    "email": "drew.peterson@sdlegislature.gov",
+    "name": "Drew Peterson",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4440/Detail"
+   },
+   {
+    "email": "jessica.bahmuller@sdlegislature.gov",
+    "name": "Jessica Bahmuller",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4441/Detail"
+   }
+  ],
+  "2": [
+   {
+    "email": "david.kull@sdlegislature.gov",
+    "name": "David Kull",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4438/Detail"
+   },
+   {
+    "email": "john.sjaarda@sdlegislature.gov",
+    "name": "John Sjaarda",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4439/Detail"
+   }
+  ],
+  "20": [
+   {
+    "email": "jeff.bathke@sdlegislature.gov",
+    "name": "Jeff Bathke",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4688/Detail"
+   },
+   {
+    "email": "kaley.nolz@sdlegislature.gov",
+    "name": "Kaley Nolz",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4689/Detail"
+   }
+  ],
+  "21": [
+   {
+    "email": "jim.halverson@sdlegislature.gov",
+    "name": "Jim Halverson",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4712/Detail"
+   },
+   {
+    "email": "marty.overweg@sdlegislature.gov",
+    "name": "Marty Overweg",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/1832/Detail"
+   }
+  ],
+  "22": [
+   {
+    "email": "kevin.vandiepen@sdlegislature.gov",
+    "name": "Kevin Van Diepen",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4699/Detail"
+   },
+   {
+    "email": "lana.greenfield@sdlegislature.gov",
+    "name": "Lana Greenfield",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1509&Session=2018s"
+   }
+  ],
+  "23": [
+   {
+    "email": "scott.moore@sdlegislature.gov",
+    "name": "Scott Moore",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4469/Detail"
+   },
+   {
+    "email": "spencer.gosch@sdlegislature.gov",
+    "name": "Spencer Gosch",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1434&Session=2019"
+   }
+  ],
+  "24": [
+   {
+    "email": "mike.weisgram@sdlegislature.gov",
+    "name": "Mike Weisgram",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/3789/Detail"
+   },
+   {
+    "email": "will.mortenson@sdlegislature.gov",
+    "name": "Will Mortenson",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/3788/Detail"
+   }
+  ],
+  "25": [
+   {
+    "email": "les.heinemann@sdlegislature.gov",
+    "name": "Les Heinemann",
+    "party": "Republican",
+    "url": "https://legis.sd.gov/Legislators/Legislators/MemberDetail.aspx?Member=1019&Session=2016"
+   },
+   {
+    "email": "jon.hansen@sdlegislature.gov",
+    "name": "Jon Hansen",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1635&Session=2019"
+   }
+  ],
+  "26A": [
+   {
+    "email": "eric.emery@sdlegislature.gov",
+    "name": "Eric Emery",
+    "party": "Democratic",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4471/Detail"
+   }
+  ],
+  "26B": [
+   {
+    "email": "rebecca.reimer@sdlegislature.gov",
+    "name": "Rebecca Reimer",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1554&Session=2018s"
+   }
+  ],
+  "27": [
+   {
+    "email": "liz.may@sdlegislature.gov",
+    "name": "Liz May",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/3806/Detail"
+   },
+   {
+    "email": "peri.pourier@sdlegislature.gov",
+    "name": "Peri Pourier",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1638&Session=2019"
+   }
+  ],
+  "28A": [
+   {
+    "email": "jana.hunt@sdlegislature.gov",
+    "name": "Jana Hunt",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4718/Detail"
+   }
+  ],
+  "28B": [
+   {
+    "email": "travis.ismay@sdlegislature.gov",
+    "name": "Travis Ismay",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4725/Detail"
+   }
+  ],
+  "29": [
+   {
+    "email": "kathy.rice@sdlegislature.gov",
+    "name": "Kathy Rice",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4711/Detail"
+   },
+   {
+    "email": "terri.jorgenson@sdlegislature.gov",
+    "name": "Terri Jorgenson",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4710/Detail"
+   }
+  ],
+  "3": [
+   {
+    "email": "al.novstrup@sdlegislature.gov",
+    "name": "Al Novstrup",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1456&Session=2018s"
+   },
+   {
+    "email": "brandei.schaefbauer@sdlegislature.gov",
+    "name": "Brandei Schaefbauer",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4444/Detail"
+   }
+  ],
+  "30": [
+   {
+    "email": "tim.goodwin@sdlegislature.gov",
+    "name": "Tim Goodwin",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1444&Session=2019"
+   },
+   {
+    "email": "trish.ladner@sdlegislature.gov",
+    "name": "Trish Ladner",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/3802/Detail"
+   }
+  ],
+  "31": [
+   {
+    "email": "mary.fitzgerald@sdlegislature.gov",
+    "name": "Mary Fitzgerald",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/3785/Detail"
+   },
+   {
+    "email": "scott.odenbach@sdlegislature.gov",
+    "name": "Scott Odenbach",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/3784/Detail"
+   }
+  ],
+  "32": [
+   {
+    "email": "nicole.uhre-balk@sdlegislature.gov",
+    "name": "Nicole Uhre-Balk",
+    "party": "Democratic",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4693/Detail"
+   },
+   {
+    "email": "steve.duffy@sdlegislature.gov",
+    "name": "Steve Duffy",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4468/Detail"
+   }
+  ],
+  "33": [
+   {
+    "email": "curt.massie@sdlegislature.gov",
+    "name": "Curt Massie",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4451/Detail"
+   },
+   {
+    "email": "phil.jensen@sdlegislature.gov",
+    "name": "Phil Jensen",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1442&Session=2019"
+   }
+  ],
+  "34": [
+   {
+    "email": "heather.baxter@sdlegislature.gov",
+    "name": "Heather Baxter",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4721/Detail"
+   },
+   {
+    "email": "mike.derby@sdlegislature.gov",
+    "name": "Mike Derby",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/3791/Detail"
+   }
+  ],
+  "35": [
+   {
+    "email": "tina.mulally@sdlegislature.gov",
+    "name": "Tina Mulally",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1646&Session=2019"
+   },
+   {
+    "email": "tony.randolph@sdlegislature.gov",
+    "name": "Tony Randolph",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1647&Session=2019"
+   }
+  ],
+  "4": [
+   {
+    "email": "dylan.jordan@sdlegislature.gov",
+    "name": "Dylan Jordan",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4714/Detail"
+   },
+   {
+    "email": "kent.roe@sdlegislature.gov",
+    "name": "Kent Roe",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4713/Detail"
+   }
+  ],
+  "5": [
+   {
+    "email": "josephine.garcia@sdlegislature.gov",
+    "name": "Josephine Garcia",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4705/Detail"
+   },
+   {
+    "email": "matt.roby@sdlegislature.gov",
+    "name": "Matt Roby",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4704/Detail"
+   }
+  ],
+  "6": [
+   {
+    "email": "aaron.aylward@sdlegislature.gov",
+    "name": "Aaron Aylward",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/3786/Detail"
+   },
+   {
+    "email": "tim.czmowski@sdlegislature.gov",
+    "name": "Tim Czmowski",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4730/Detail"
+   }
+  ],
+  "7": [
+   {
+    "email": "mellissa.heermann@sdlegislature.gov",
+    "name": "Mellissa Heermann",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4450/Detail"
+   },
+   {
+    "email": "roger.degroot@sdlegislature.gov",
+    "name": "Roger DeGroot",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4449/Detail"
+   }
+  ],
+  "8": [
+   {
+    "email": "tim.reisch@sdlegislature.gov",
+    "name": "Tim Reisch",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4458/Detail"
+   },
+   {
+    "email": "tim.walburg@sdlegislature.gov",
+    "name": "Tim Walburg",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4687/Detail"
+   }
+  ],
+  "9": [
+   {
+    "email": "bethany.soye@sdlegislature.gov",
+    "name": "Bethany Soye",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/3793/Detail"
+   },
+   {
+    "email": "tesa.schwans@sdlegislature.gov",
+    "name": "Tesa Schwans",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4717/Detail"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/sd.csv"
+ },
+ "state": "SD",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "michael.rohl@sdlegislature.gov",
+    "name": "Michael Rohl",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/3805/Detail"
+   }
+  ],
+  "10": [
+   {
+    "email": "liz.larson@sdlegislature.gov",
+    "name": "Liz Larson",
+    "party": "Democratic",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4466/Detail"
+   }
+  ],
+  "11": [
+   {
+    "email": "chris.karr@sdlegislature.gov",
+    "name": "Chris Karr",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1549&Session=2018s"
+   }
+  ],
+  "12": [
+   {
+    "email": "arch.beal@sdlegislature.gov",
+    "name": "Arch Beal",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1518&Session=2018s"
+   }
+  ],
+  "13": [
+   {
+    "email": "sue.peterson@sdlegislature.gov",
+    "name": "Sue Peterson",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1431&Session=2019"
+   }
+  ],
+  "14": [
+   {
+    "email": "larry.zikmund@sdlegislature.gov",
+    "name": "Larry Zikmund",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/1870/Detail"
+   }
+  ],
+  "15": [
+   {
+    "email": "jamie.smith@sdlegislature.gov",
+    "name": "Jamie Smith",
+    "party": "Democratic",
+    "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1539&Session=2018s"
+   }
+  ],
+  "16": [
+   {
+    "email": "kevin.jensen@sdlegislature.gov",
+    "name": "Kevin Jensen",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1427&Session=2019"
+   }
+  ],
+  "17": [
+   {
+    "email": "sydney.davis@sdlegislature.gov",
+    "name": "Sydney Davis",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/3783/Detail"
+   }
+  ],
+  "18": [
+   {
+    "email": "lauren.nelson@sdlegislature.gov",
+    "name": "Lauren Nelson",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4695/Detail"
+   }
+  ],
+  "19": [
+   {
+    "email": "kyle.schoenfish@sdlegislature.gov",
+    "name": "Kyle Schoenfish",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/1851/Detail"
+   }
+  ],
+  "2": [
+   {
+    "email": "steve.kolbeck@sdlegislature.gov",
+    "name": "Steve Kolbeck",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4453/Detail"
+   }
+  ],
+  "20": [
+   {
+    "email": "paul.miskimins@sdlegislature.gov",
+    "name": "Paul Miskimins",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1632&Session=2019"
+   }
+  ],
+  "21": [
+   {
+    "email": "mykala.voita@sdlegislature.gov",
+    "name": "MyKala Voita",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4697/Detail"
+   }
+  ],
+  "22": [
+   {
+    "email": "brandon.wipf@sdlegislature.gov",
+    "name": "Brandon Wipf",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4837/Detail"
+   }
+  ],
+  "23": [
+   {
+    "email": "mark.lapka@sdlegislature.gov",
+    "name": "Mark Lapka",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4696/Detail"
+   }
+  ],
+  "24": [
+   {
+    "email": "jim.mehlhaff@sdlegislature.gov",
+    "name": "Jim Mehlhaff",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4460/Detail"
+   }
+  ],
+  "25": [
+   {
+    "email": "tom.pischke@sdlegislature.gov",
+    "name": "Tom Pischke",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1446&Session=2019"
+   }
+  ],
+  "26": [
+   {
+    "email": "tamara.grove@sdlegislature.gov",
+    "name": "Tamara Grove",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4716/Detail"
+   }
+  ],
+  "27": [
+   {
+    "email": "reddawn.foster@sdlegislature.gov",
+    "name": "Red Dawn Foster",
+    "party": "Democratic",
+    "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1605&Session=2019"
+   }
+  ],
+  "28": [
+   {
+    "email": "sam.marty@sdlegislature.gov",
+    "name": "Sam Marty",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1514&Session=2018s"
+   }
+  ],
+  "29": [
+   {
+    "email": "john.carley@sdlegislature.gov",
+    "name": "John Carley",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4692/Detail"
+   }
+  ],
+  "3": [
+   {
+    "email": "carl.perry@sdlegislature.gov",
+    "name": "Carl Perry",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1612&Session=2019"
+   }
+  ],
+  "30": [
+   {
+    "email": "amber.hulse@sdlegislature.gov",
+    "name": "Amber Hulse",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4701/Detail"
+   }
+  ],
+  "31": [
+   {
+    "email": "randy.deibert@sdlegislature.gov",
+    "name": "Randy Deibert",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4448/Detail"
+   }
+  ],
+  "32": [
+   {
+    "email": "helene.duhamel@sdlegislature.gov",
+    "name": "Helene Duhamel",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/1785/Detail"
+   }
+  ],
+  "33": [
+   {
+    "email": "curt.voight@sdlegislature.gov",
+    "name": "Curt Voight",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4702/Detail"
+   }
+  ],
+  "34": [
+   {
+    "email": "taffy.howard@sdlegislature.gov",
+    "name": "Taffy Howard",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1547&Session=2018s"
+   }
+  ],
+  "35": [
+   {
+    "email": "greg.blanc@sdlegislature.gov",
+    "name": "Greg Blanc",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4709/Detail"
+   }
+  ],
+  "4": [
+   {
+    "email": "stephanie.sauder@sdlegislature.gov",
+    "name": "Stephanie Sauder",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4455/Detail"
+   }
+  ],
+  "5": [
+   {
+    "email": "glen.vilhauer@sdlegislature.gov",
+    "name": "Glen Vilhauer",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4706/Detail"
+   }
+  ],
+  "6": [
+   {
+    "email": "ernie.otten@sdlegislature.gov",
+    "name": "Ernie Otten",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1479&Session=2018s"
+   }
+  ],
+  "7": [
+   {
+    "email": "tim.reed@sdlegislature.gov",
+    "name": "Tim Reed",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Legislators/MemberDetail.aspx?Member=1533&Session=2018s"
+   }
+  ],
+  "8": [
+   {
+    "email": "casey.crabtree@sdlegislature.gov",
+    "name": "Casey Crabtree",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/1881/Detail"
+   }
+  ],
+  "9": [
+   {
+    "email": "joy.hohn@sdlegislature.gov",
+    "name": "Joy Hohn",
+    "party": "Republican",
+    "url": "https://sdlegislature.gov/Legislators/Profile/4723/Detail"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

@@ -1,0 +1,945 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Melanie Stansbury",
+    "party": "Democrat",
+    "phone": "202-225-6316",
+    "url": "https://stansbury.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Gabriel (Gabe) Vasquez",
+    "party": "Democrat",
+    "phone": "202-225-2365",
+    "url": "https://vasquez.house.gov"
+   }
+  ],
+  "3": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Teresa Leger Fernandez",
+    "party": "Democrat",
+    "phone": "202-225-6190",
+    "url": "https://fernandez.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.heinrich.senate.gov/contact",
+   "email": null,
+   "name": "Martin Heinrich",
+   "party": "Democrat",
+   "phone": "202-224-5521",
+   "url": "https://www.heinrich.senate.gov"
+  },
+  {
+   "contactForm": "https://www.lujan.senate.gov/contact/",
+   "email": null,
+   "name": "Ben Luj\u00e1n",
+   "party": "Democrat",
+   "phone": "202-224-6621",
+   "url": "https://www.lujan.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "rod.montoya@nmlegis.gov",
+    "name": "Rod Montoya",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMONR"
+   }
+  ],
+  "10": [
+   {
+    "email": "andres.romero@nmlegis.gov",
+    "name": "Andr\u00e9s Romero",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HROMA"
+   }
+  ],
+  "11": [
+   {
+    "email": "javier.martinez@nmlegis.gov",
+    "name": "Javier Mart\u00ednez",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMARJ"
+   }
+  ],
+  "12": [
+   {
+    "email": "art.delacruz@nmlegis.gov",
+    "name": "Art De La Cruz",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HDELA"
+   }
+  ],
+  "13": [
+   {
+    "email": "pat.roybalcaballero@nmlegis.gov",
+    "name": "Pat Roybal Caballero",
+    "party": "Democratic",
+    "url": "https://www.linkedin.com/in/patricia-roybal-caballero-2007b135/"
+   }
+  ],
+  "14": [
+   {
+    "email": "miguel.garcia@nmlegis.gov",
+    "name": "Miguel Garc\u00eda",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HGAMP"
+   }
+  ],
+  "15": [
+   {
+    "email": "dayan.hochman-vigil@nmlegis.gov",
+    "name": "Day Hochman-Vigil",
+    "party": "Democratic",
+    "url": "https://www.linkedin.com/in/day-hochman-vigil-3536a036/"
+   }
+  ],
+  "16": [
+   {
+    "email": "yanira.gurrola@nmlegis.gov",
+    "name": "Yanira Gurrola",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HGURR"
+   }
+  ],
+  "17": [
+   {
+    "email": "cynthia.borrego@nmlegis.gov",
+    "name": "Cynthia Borrego",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HBORR"
+   }
+  ],
+  "18": [
+   {
+    "email": "marianna.anaya@nmlegis.gov",
+    "name": "Marianna Anaya",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HANMA"
+   }
+  ],
+  "19": [
+   {
+    "email": "janelle.anyanonu@nmlegis.gov",
+    "name": "Janelle Anyanonu",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HANYA"
+   }
+  ],
+  "2": [
+   {
+    "email": "mark.duncan@nmlegis.gov",
+    "name": "Mark Duncan",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HDUNC"
+   }
+  ],
+  "20": [
+   {
+    "email": "meredith.dixon@nmlegis.gov",
+    "name": "Meredith Dixon",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HDIXO"
+   }
+  ],
+  "21": [
+   {
+    "email": "debbie.sarinana@nmlegis.gov",
+    "name": "Debbie Sari\u00f1ana",
+    "party": "Democratic",
+    "url": "https://www.linkedin.com/in/debra-sarinana-05a362141/"
+   }
+  ],
+  "22": [
+   {
+    "email": "stefani.lord@nmlegis.gov",
+    "name": "Stefani Lord",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HLORD"
+   }
+  ],
+  "23": [
+   {
+    "email": "alan.martinez@nmlegis.gov",
+    "name": "Alan Martinez",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMAAL"
+   }
+  ],
+  "24": [
+   {
+    "email": "liz.thomson@nmlegis.gov",
+    "name": "Liz Thomson",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HTHOE"
+   }
+  ],
+  "25": [
+   {
+    "email": "cristina.parajon@nmlegis.gov",
+    "name": "Cristina Paraj\u00f3n",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HPARA"
+   }
+  ],
+  "26": [
+   {
+    "email": "eleanor.chavez@nmlegis.gov",
+    "name": "Eleanor Ch\u00e1vez",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HCHAL"
+   }
+  ],
+  "27": [
+   {
+    "email": "marian.matthews@nmlegis.gov",
+    "name": "Marian Matthews",
+    "party": "Democratic",
+    "url": "https://www.linkedin.com/in/marianmatthews/"
+   }
+  ],
+  "28": [
+   {
+    "email": "pamelya.herndon@nmlegis.gov",
+    "name": "Pamelya Herndon",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HHEPA"
+   }
+  ],
+  "29": [
+   {
+    "email": "joy.garratt@nmlegis.gov",
+    "name": "Joy Garratt",
+    "party": "Democratic",
+    "url": "https://www.linkedin.com/in/joygarratt/"
+   }
+  ],
+  "3": [
+   {
+    "email": "bill.hall@nmlegis.gov",
+    "name": "Bill Hall",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HHABI"
+   }
+  ],
+  "30": [
+   {
+    "email": "diane.torres-velasquez@nmlegis.gov",
+    "name": "Diane Torres-Vel\u00e1squez",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HTOLE"
+   }
+  ],
+  "31": [
+   {
+    "email": "nicole.chavez@nmlegis.gov",
+    "name": "Nicole Chavez",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HCHNI"
+   }
+  ],
+  "32": [
+   {
+    "email": "jenifer.jones@nmlegis.gov",
+    "name": "Jenifer Jones",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HJONJ"
+   }
+  ],
+  "33": [
+   {
+    "email": "micaela.cadena@nmlegis.gov",
+    "name": "Micaela Cadena",
+    "party": "Democratic",
+    "url": "https://www.linkedin.com/in/micaela-cadena-95541a183/"
+   }
+  ],
+  "34": [
+   {
+    "email": "raymundo.lara@nmlegis.gov",
+    "name": "Ray Lara",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HLARA"
+   }
+  ],
+  "35": [
+   {
+    "email": "angelica.rubio@nmlegis.gov",
+    "name": "Angelica Rubio",
+    "party": "Democratic",
+    "url": "https://www.linkedin.com/in/angelicarubio/"
+   }
+  ],
+  "36": [
+   {
+    "email": "nathan.small@nmlegis.gov",
+    "name": "Nathan Small",
+    "party": "Democratic",
+    "url": "https://www.linkedin.com/in/nathan-small-20685816/"
+   }
+  ],
+  "38": [
+   {
+    "email": "rebecca.dow@nmlegis.gov",
+    "name": "Rebecca Dow",
+    "party": "Republican",
+    "url": "https://www.linkedin.com/in/rebecca-dow-43670a15/"
+   }
+  ],
+  "39": [
+   {
+    "email": "luis.terrazas@nmlegis.gov",
+    "name": "Luis Terrazas",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HTERR"
+   }
+  ],
+  "4": [
+   {
+    "email": "joseph.hernandez@nmlegis.gov",
+    "name": "Joseph Hernandez",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HHEJO"
+   }
+  ],
+  "40": [
+   {
+    "email": "joseph.sanchez@nmlegis.gov",
+    "name": "Joseph Sanchez",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSAJO"
+   }
+  ],
+  "42": [
+   {
+    "email": "kristina.ortez@nmlegis.gov",
+    "name": "Kristina Ortez",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HORTE"
+   }
+  ],
+  "43": [
+   {
+    "email": "christine.chandler@nmlegis.gov",
+    "name": "Chris Chandler",
+    "party": "Democratic",
+    "url": "https://www.linkedin.com/in/christine-chandler-b567865a/"
+   }
+  ],
+  "44": [
+   {
+    "email": "kathleen.cates@nmlegis.gov",
+    "name": "Kathleen Cates",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HCATE"
+   }
+  ],
+  "45": [
+   {
+    "email": "linda.serrato@nmlegis.gov",
+    "name": "Linda Serrato",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSERR"
+   }
+  ],
+  "46": [
+   {
+    "email": "andrea@andrearomero.com",
+    "name": "Andrea Romero",
+    "party": "Democratic",
+    "url": "https://www.linkedin.com/in/andreadromero/"
+   }
+  ],
+  "47": [
+   {
+    "email": "reena.szczepanski@nmlegis.gov",
+    "name": "Reena Szczepanski",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSCZE"
+   }
+  ],
+  "48": [
+   {
+    "email": "tara.lujan@nmlegis.gov",
+    "name": "Tara Luj\u00e1n",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HLUTA"
+   }
+  ],
+  "49": [
+   {
+    "email": "gail@gailfornewmexico.com",
+    "name": "Gail Armstrong",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HARMG"
+   }
+  ],
+  "5": [
+   {
+    "email": "dwonda.johnson@nmlegis.gov",
+    "name": "Wonda Johnson",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HJOHD"
+   }
+  ],
+  "50": [
+   {
+    "email": "matthew.mcqueen@nmlegis.gov",
+    "name": "Matthew McQueen",
+    "party": "Democratic",
+    "url": "https://www.linkedin.com/in/matthew-mcqueen-86a8322/"
+   }
+  ],
+  "51": [
+   {
+    "email": "john.block@nmlegis.gov",
+    "name": "John Block",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HBLOC"
+   }
+  ],
+  "52": [
+   {
+    "email": "doreen.gallegos@nmlegis.gov",
+    "name": "Doreen Gallegos",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HGADO"
+   }
+  ],
+  "53": [
+   {
+    "email": "sarah.silva@nmlegis.gov",
+    "name": "Sarah Silva",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSISA"
+   }
+  ],
+  "54": [
+   {
+    "email": "jonathan.henry@nmlegis.gov",
+    "name": "Jon Henry",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HHENR"
+   }
+  ],
+  "55": [
+   {
+    "email": "c.brown.nm55@gmail.com",
+    "name": "Cathrynn Brown",
+    "party": "Republican",
+    "url": "https://www.linkedin.com/in/cathrynnbrown/"
+   }
+  ],
+  "56": [
+   {
+    "email": "harlan.vincent@nmlegis.gov",
+    "name": "Harlan Vincent",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HVINC"
+   }
+  ],
+  "57": [
+   {
+    "email": "catherine.cullen@nmlegis.gov",
+    "name": "Catherine Cullen",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HCUCA"
+   }
+  ],
+  "58": [
+   {
+    "email": "angelita.mejia@nmlegis.gov",
+    "name": "Angelita Mejia",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMEAN"
+   }
+  ],
+  "59": [
+   {
+    "email": "mark.murphy@nmlegis.gov",
+    "name": "Mark Murphy",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMURP"
+   }
+  ],
+  "6": [
+   {
+    "email": "martha.garcia@nmlegis.gov",
+    "name": "Martha Garcia",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/members/Legislator?SponCode=HGAMA"
+   }
+  ],
+  "60": [
+   {
+    "email": "joshua.hernandez@nmlegis.gov",
+    "name": "Josh Hernandez",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HHERN"
+   }
+  ],
+  "61": [
+   {
+    "email": "randall.pettigrew@nmlegis.gov",
+    "name": "Randy Pettigrew",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HPETT"
+   }
+  ],
+  "62": [
+   {
+    "email": "elaine.senacortez@nmlegis.gov",
+    "name": "Elaine Sena Cortez",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSEEL"
+   }
+  ],
+  "63": [
+   {
+    "email": "martin.zamora@nmlegis.gov",
+    "name": "Martin Zamora",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HZAMO"
+   }
+  ],
+  "64": [
+   {
+    "email": "andrea.reeb@nmlegis.gov",
+    "name": "Andi Reeb",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HREEB"
+   }
+  ],
+  "65": [
+   {
+    "email": "derrick.lente@nmlegis.gov",
+    "name": "Derrick Lente",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HLENT"
+   }
+  ],
+  "66": [
+   {
+    "email": "jimmy.mason@nmlegis.gov",
+    "name": "Jimmy Mason",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMASO"
+   }
+  ],
+  "67": [
+   {
+    "email": "jack.chatfield@nmlegis.gov",
+    "name": "Jack Chatfield",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HCHAT"
+   }
+  ],
+  "68": [
+   {
+    "email": "charlotte.little@nmlegis.gov",
+    "name": "Charlotte Little",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HLITC"
+   }
+  ],
+  "69": [
+   {
+    "email": "michelle.abeyta@nmlegis.gov",
+    "name": "Paulene Abeyta",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/members/Legislator?SponCode=HABMI"
+   }
+  ],
+  "7": [
+   {
+    "email": "tanya.mirabalmoya@nmlegis.gov",
+    "name": "Tanya Moya",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMIRA"
+   }
+  ],
+  "70": [
+   {
+    "email": "anita.gonzales@nmlegis.gov",
+    "name": "Anita Gonzales",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HGOAN"
+   }
+  ],
+  "8": [
+   {
+    "email": "brian.baca@nmlegis.gov",
+    "name": "Brian Baca",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HBACB"
+   }
+  ],
+  "9": [
+   {
+    "email": "patricia.lundstrom@nmlegis.gov",
+    "name": "Patty Lundstrom",
+    "party": "Democratic",
+    "url": "https://www.linkedin.com/in/patty-lundstrom-a47ba450/"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/nm.csv"
+ },
+ "state": "NM",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "bill@williamsharer.com",
+    "name": "Bill Sharer",
+    "party": "Republican",
+    "url": "https://www.linkedin.com/in/william-sharer-71248033/"
+   }
+  ],
+  "10": [
+   {
+    "email": "katy.duhigg@nmlegis.gov",
+    "name": "Katy Duhigg",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SDUHI"
+   }
+  ],
+  "11": [
+   {
+    "email": "linda.lopez@nmlegis.gov",
+    "name": "Linda L\u00f3pez",
+    "party": "Democratic",
+    "url": "https://www.linkedin.com/in/linda-lopez-018b9111/"
+   }
+  ],
+  "12": [
+   {
+    "email": "jay.block@nmlegis.gov",
+    "name": "Jay Block",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SBLOC"
+   }
+  ],
+  "13": [
+   {
+    "email": "debbie.o'malley@nmlegis.gov",
+    "name": "Debbie O'Malley",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SOMAL"
+   }
+  ],
+  "14": [
+   {
+    "email": "michael.padilla@nmlegis.gov",
+    "name": "Michael Padilla",
+    "party": "Democratic",
+    "url": "https://www.linkedin.com/in/michaelpadilla1/"
+   }
+  ],
+  "15": [
+   {
+    "email": "heather.berghmans@nmlegis.gov",
+    "name": "Heather Berghmans",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SBERG"
+   }
+  ],
+  "16": [
+   {
+    "email": "a.sedillolopez@nmlegis.gov",
+    "name": "Antoinette Sedillo Lopez",
+    "party": "Democratic",
+    "url": "https://www.linkedin.com/in/antoinette-sedillo-lopez-ab3a5014/"
+   }
+  ],
+  "17": [
+   {
+    "email": "mimi.stewart@nmlegis.gov",
+    "name": "Mimi Stewart",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SSTEW"
+   }
+  ],
+  "18": [
+   {
+    "email": "natalie.figueroa@nmlegis.gov",
+    "name": "Natalie Figueroa",
+    "party": "Democratic",
+    "url": "https://www.linkedin.com/in/natalie-figueroa-150a0670/"
+   }
+  ],
+  "19": [
+   {
+    "email": "anthony.thornton@nmlegis.gov",
+    "name": "Ant Thornton",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=STHOR"
+   }
+  ],
+  "2": [
+   {
+    "email": "steve.lanier@nmlegis.gov",
+    "name": "Steve Lanier",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SLANI"
+   }
+  ],
+  "20": [
+   {
+    "email": "martin.hickey@nmlegis.gov",
+    "name": "Martin Hickey",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SHICK"
+   }
+  ],
+  "21": [
+   {
+    "email": "nicole.tobiassen@nmlegis.gov",
+    "name": "Nicole Tobiassen",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=STOBI"
+   }
+  ],
+  "22": [
+   {
+    "email": "benny.shendo@nmlegis.gov",
+    "name": "Benny Shendo",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SSHEN"
+   }
+  ],
+  "23": [
+   {
+    "email": "harold.popejr@nmlegis.gov",
+    "name": "Harold Pope",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SPOPE"
+   }
+  ],
+  "24": [
+   {
+    "email": "linda.trujillo@nmlegis.gov",
+    "name": "Linda Trujillo",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HTRUL"
+   }
+  ],
+  "25": [
+   {
+    "email": "peter.wirth@nmlegis.gov",
+    "name": "Peter Wirth",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SWIRT"
+   }
+  ],
+  "26": [
+   {
+    "email": "antonio.maestas@nmlegis.gov",
+    "name": "Moe Maestas",
+    "party": "Democratic",
+    "url": "https://nmlegis.gov/Members/Legislator?SponCode=smaem"
+   }
+  ],
+  "27": [
+   {
+    "email": "pat.boone@nmlegis.gov",
+    "name": "Pat Boone",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SBOON"
+   }
+  ],
+  "28": [
+   {
+    "email": "gabriel.ramos@nmlegis.gov",
+    "name": "Gabriel Ramos",
+    "party": "Republican",
+    "url": "https://www.linkedin.com/in/gabriel-ramos-a5aa74109/"
+   }
+  ],
+  "29": [
+   {
+    "email": "jas4nm@gmail.com",
+    "name": "Joshua Sanchez",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SSANJ"
+   }
+  ],
+  "3": [
+   {
+    "email": "shannon.pinto@nmlegis.gov",
+    "name": "Shannon Pinto",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SPINS"
+   }
+  ],
+  "30": [
+   {
+    "email": "angel.charley@nmlegis.gov",
+    "name": "Angel Charley",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SCHAR"
+   }
+  ],
+  "31": [
+   {
+    "email": "joseph.cervantes@nmlegis.gov",
+    "name": "Joe Cervantes",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SCERV"
+   }
+  ],
+  "32": [
+   {
+    "email": "csecows@aol.com",
+    "name": "Candy Ezzell",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HEZZE"
+   }
+  ],
+  "33": [
+   {
+    "email": "rex.wilson@nmlegis.gov",
+    "name": "Rex Wilson",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SWIRE"
+   }
+  ],
+  "34": [
+   {
+    "email": "townsend@pvtn.net",
+    "name": "Jim Townsend",
+    "party": "Republican",
+    "url": "https://www.linkedin.com/in/jim-townsend-5897b633/"
+   }
+  ],
+  "35": [
+   {
+    "email": "crystal.diamond@nmlegis.gov",
+    "name": "Crystal Brantley",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SBRAC"
+   }
+  ],
+  "36": [
+   {
+    "email": "jeff.steinborn@nmlegis.gov",
+    "name": "Jeff Steinborn",
+    "party": "Democratic",
+    "url": "https://www.linkedin.com/in/jeff-steinborn-57879346/"
+   }
+  ],
+  "37": [
+   {
+    "email": "bill.soules@nmlegis.gov",
+    "name": "Bill Soules",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SSOUL"
+   }
+  ],
+  "38": [
+   {
+    "email": "carrie.hamblen@nmlegis.gov",
+    "name": "Carrie Hamblen",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SHAMB"
+   }
+  ],
+  "39": [
+   {
+    "email": "lstefanics@msn.com",
+    "name": "Liz Stefanics",
+    "party": "Democratic",
+    "url": "https://www.linkedin.com/in/liz-stefanics-140488151/"
+   }
+  ],
+  "4": [
+   {
+    "email": "george.munoz@nmlegis.gov",
+    "name": "George Mu\u00f1oz",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SMUNO"
+   }
+  ],
+  "40": [
+   {
+    "email": "craig.brandt@nmlegis.gov",
+    "name": "Craig Brandt",
+    "party": "Republican",
+    "url": "https://www.linkedin.com/in/craigbrandtnm/"
+   }
+  ],
+  "41": [
+   {
+    "email": "david@ramirezandsonsinc.com",
+    "name": "David Gallegos",
+    "party": "Republican",
+    "url": "https://www.linkedin.com/in/david-gallegos-02427756/"
+   }
+  ],
+  "42": [
+   {
+    "email": "larry.scott@nmlegis.gov",
+    "name": "Larry Scott",
+    "party": "Republican",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSCOT"
+   }
+  ],
+  "5": [
+   {
+    "email": "leo.jaramillo@nmlegis.gov",
+    "name": "Leo Jaramillo",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SJARA"
+   }
+  ],
+  "6": [
+   {
+    "email": "roberto.gonzales@nmlegis.gov",
+    "name": "Bobby Gonzales",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SGONZ"
+   }
+  ],
+  "7": [
+   {
+    "email": "pat.woods@nmlegis.gov",
+    "name": "Pat Woods",
+    "party": "Republican",
+    "url": "https://www.linkedin.com/in/pat-woods-abb44b46/"
+   }
+  ],
+  "8": [
+   {
+    "email": "pete.campos@nmlegis.gov",
+    "name": "Pete Campos",
+    "party": "Democratic",
+    "url": "https://petecampos.com"
+   }
+  ],
+  "9": [
+   {
+    "email": "cindy.nava@nmlegis.gov",
+    "name": "Cindy Nava",
+    "party": "Democratic",
+    "url": "https://www.nmlegis.gov/Members/Legislator?SponCode=SNACI"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

@@ -34,6 +34,12 @@ class HandleInertiaRequests extends Middleware
         // is no session, no user, and nothing to share.
         return [
             ...parent::share($request),
+            'flash' => [
+                'status' => fn () => $request->session()->get('status'),
+                // Set when somebody asks for a link at a domain that already has
+                // a chapter, so the page can send them straight to it.
+                'existing' => fn () => $request->session()->get('existing'),
+            ],
         ];
     }
 }

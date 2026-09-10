@@ -1,0 +1,602 @@
+[
+  {
+    "id": "vendor-001",
+    "angle": "vendor",
+    "subject": "A question about who actually holds the plate data",
+    "body": "Dear {{officialName}},\n\nPublic money paid for the automated plate readers near {{shortName}}, and that is the only part of them I can see clearly. The rest sits with a private company. Plates caught by the {{readersWithinMile}} readers within a mile of campus land on servers {{city}} does not own, and I cannot tell what happens to them there.\n\nThat is what worries me. A council votes on policies it can read. Nobody outside the company can read the code, or the logs showing who searched for what, and I am a student with no way in either.\n\nI would like the readers around campus taken down, and I hope none go up in their place. If that is further than you want to go, would you tell me whether {{city}} can check for itself what the company does with data gathered here? Thank you for reading."
+  },
+  {
+    "id": "vendor-002",
+    "angle": "vendor",
+    "subject": "What happens to the records when an agreement ends",
+    "body": "Dear {{officialName}},\n\nAgreements end, and I have not been able to work out what becomes of everything the plate readers near {{shortName}} have collected when this one does. The answer probably sits in a document most residents have never seen.\n\nA private company holds the archive. Deletion at the close of a term is a promise the public cannot inspect and, so far as I can tell, cannot confirm. {{city}} would be trusting the word of a firm whose product is the data itself. As a student here, that is the part I find hardest to accept on faith.\n\nMy hope is that the archive stops growing, which means the readers around campus coming down and none being added. If you would rather keep them, I would be grateful for your view on whether {{city}} can verify deletion without the company saying so."
+  },
+  {
+    "id": "vendor-003",
+    "angle": "vendor",
+    "subject": "Whether records law reaches a company's copy",
+    "body": "Dear {{officialName}},\n\nAsk {{city}} for plate reader records and you get whatever {{city}} happens to hold. Whether the same request reaches the copy on a private company's servers is a different question, and it is the one I have been unable to answer.\n\nPublic accountability was built for public filing cabinets. Move the cabinet into a contractor's data center and the ordinary tools bend, until the city may not possess the record it paid to create. That possibility unsettles me more than anything else about this program.\n\nWatching the streets around {{school}} should not become harder to examine because a company runs the watching. I would like the readers near campus removed and no new ones installed. If you see it differently, I would still be grateful to know, plainly, whether the company's copy is reachable by the public. I am a student, and I would welcome a reply."
+  },
+  {
+    "id": "vendor-004",
+    "angle": "vendor",
+    "subject": "Can {{city}} really audit a system it does not run",
+    "body": "Dear {{officialName}},\n\nAn audit is only as good as the access behind it, and that is what I keep getting stuck on. {{city}} pays for automated plate readers around {{shortName}}, yet the machines report to a private platform, and the records of their use are produced by the same party a review would be examining.\n\nI mean that as a description of the structure, not as an accusation about anyone. A contractor grading its own homework tends to produce a clean report. The council cannot see what was never shown to it, and a student like me can see even less.\n\nTaking the readers near campus out and declining new ones would retire the system that needs auditing in the first place. Would you tell me whether {{city}} holds a written right to inspect the company's systems, and whether it has ever been used?"
+  },
+  {
+    "id": "vendor-005",
+    "angle": "vendor",
+    "subject": "Terms that can shift after the council has voted",
+    "body": "Dear {{officialName}},\n\nSuppose {{city}} approved a plate reader deployment under one set of rules. The rules that actually govern the system afterward live in a private agreement and in software that updates on the company's schedule. What a council authorized in the spring may not describe what runs in the fall, and nobody has to break anything for that to happen.\n\nNo law changed. Nothing was put to a vote. A capability arrived in an update, or a default shifted, and the public hears about it later if at all. As a student living inside the coverage, that gap between the approval and the machine is what troubles me.\n\nI would like the readers near {{shortName}} taken down, with none installed after. If you would rather keep them, would you tell me whether {{city}} can hold the company to the exact configuration the council approved?"
+  },
+  {
+    "id": "vendor-006",
+    "angle": "vendor",
+    "subject": "Sharing that is set by a private platform",
+    "body": "Dear {{officialName}},\n\nPlate readers rarely stay local. A commercial platform that connects agencies turns sharing into a setting rather than a decision, and settings are changed by whoever administers the account.\n\nSo here is the question I cannot answer. When a camera near {{shortName}} records a plate, who outside {{city}} is able to search for it, and did anyone elected in {{state}} approve that list? My suspicion is that the answer lives in an administrative console rather than in any published policy, and that suspicion is what prompted this note.\n\nStudents and residents driving past campus never agreed to join a private network. I am one student asking you to support removing the readers around campus and adding no more. Even a short answer on who currently holds query access would mean a great deal to me."
+  },
+  {
+    "id": "vendor-007",
+    "angle": "vendor",
+    "subject": "Trade secret claims about cameras on public streets",
+    "body": "Dear {{officialName}},\n\nWhen residents ask how the plate reader system around {{shortName}} works, an answer that starts with the word proprietary does not settle much. Companies have real commercial interests. Those interests were never meant to decide what the public may know about cameras pointed at public streets.\n\nThe structure worries me more than any single refusal does. Once a public function is delivered as a product, the ordinary presumption of disclosure runs into a contract, and the contract usually wins.\n\nCampus and the blocks around it should not be governed by terms no student can read. I hope you will support taking the readers near {{school}} out of service and installing none going forward. Would you also tell me where you stand on whether commercial confidentiality should limit what {{city}} says about its own surveillance? I would be grateful for an answer."
+  },
+  {
+    "id": "vendor-008",
+    "angle": "vendor",
+    "subject": "Performance figures that come from the seller",
+    "body": "Dear {{officialName}},\n\nNearly everything {{city}} knows about how well its plate readers perform seems to arrive from the company selling them. That strikes me as a thin basis for renewing anything, since a vendor reports on its own product and picks which measures to publish.\n\nI am not suggesting anyone is lying. My worry is narrower: there is no independent record to check the company's record against, because the company holds the only record.\n\nWith {{readersWithinMile}} readers within a mile of {{shortName}}, every student here is the subject of a system whose value has never been shown to anyone outside a sales relationship. I would like them removed and no new ones approved. If you would rather keep the program running, would you tell me what evidence {{city}} has that did not come from the company itself?"
+  },
+  {
+    "id": "vendor-009",
+    "angle": "vendor",
+    "subject": "Who controls how long the plate records last",
+    "body": "Dear {{officialName}},\n\nRetention sounds like a technical footnote until you ask who holds the dial. If the plate reader system near {{shortName}} keeps records for a set period, that period is enforced by software {{city}} does not run, on hardware {{city}} does not own.\n\nPerhaps the agreement fixes it. Maybe it is a checkbox in an administrator panel. Either way the public cannot watch the clock, and a promise nobody can audit is really a promise about someone else's server. That is the thing I find hard to live with as a student here.\n\nI would rather {{city}} not be in this position at all, so I hope you will support taking the readers around campus down and adding none. Should the program continue, would you say publicly how retention is enforced and who is able to change it?"
+  },
+  {
+    "id": "vendor-010",
+    "angle": "vendor",
+    "subject": "Search logs kept by the company under review",
+    "body": "Dear {{officialName}},\n\nOversight of plate readers usually means reviewing search logs, so I have been thinking about where those logs live. The company operating the platform generates them and decides what an export looks like.\n\nAn auditor working from logs the vendor produced is auditing a summary. That might be fine for a parking app. For a system recording the movements of everyone near {{school}}, including students who never had a say, it feels thin.\n\nWhat I am asking is modest in wording and clear in substance. Please consider supporting removal of the readers around campus and adding no new ones. If you are not prepared to go that far, I would like to hear whether {{city}} can obtain raw access records on its own, and what happens if the company declines. I am a student, and I thank you for considering it."
+  },
+  {
+    "id": "vendor-011",
+    "angle": "vendor",
+    "subject": "A surveillance choice that arrived through purchasing",
+    "body": "Dear {{officialName}},\n\nMost decisions that shape daily life in {{city}} are made in public. This one does not seem to have been made that way at all. Cameras that read and log every passing plate arrived through a purchasing process, on the strength of a sales pitch, and the policy questions followed later if they came up.\n\nProcurement handles price and delivery well. Deciding whether a neighborhood should be continuously recorded is a different kind of question, and I am uneasy that it was answered this way.\n\nThe area around {{shortName}} carries {{readersWithinMile}} of these devices within a mile of the campus where I am a student. I hope you will move to remove them and authorize no additional ones. Whatever you decide, I would value your written view on whether a surveillance program belongs in a contract rather than an ordinance."
+  },
+  {
+    "id": "vendor-012",
+    "angle": "vendor",
+    "subject": "Renewal of the reader contract without a public vote",
+    "body": "Dear {{officialName}},\n\nContracts renew quietly. That is their nature, and it is why a program nobody has re-examined can outlive the reasoning that started it. The plate readers near {{shortName}} may well run for years without a single public vote on whether they should.\n\nA private agreement seems a poor container for a surveillance policy. Terms roll forward, staff turn over, and the original justification hardens into an assumption that no one has to defend.\n\nBefore anything renews, I would like the readers around campus removed and no new ones approved. If renewal is coming, would you consider bringing it to an open meeting, and would you tell me now how you expect to vote? I am one student with one letter, and I would be grateful for even a brief reply."
+  },
+  {
+    "id": "vendor-013",
+    "angle": "vendor",
+    "subject": "Free pilots and the dependence they quietly build",
+    "body": "Dear {{officialName}},\n\nFree pilots are the cheapest way to make a permanent decision. Equipment goes up, a department builds it into routine work, and by the time anyone weighs the merits the honest question has become whether to take something away.\n\nHow the readers around {{shortName}} began is not something I have managed to find out. What I can see is {{readersWithinMile}} of them within a mile of campus and no public record of a debate that put them there.\n\nDependence is not the same as consent, and that is the part that bothers me as a student here. I hope you will support removing the cameras near campus and installing none in future, and that you will treat any offer of expanded coverage as a council decision rather than a favor. Where do you stand?"
+  },
+  {
+    "id": "vendor-014",
+    "angle": "vendor",
+    "subject": "Getting the records back out of a platform",
+    "body": "Dear {{officialName}},\n\nAsk anyone who manages systems for a living what worries them about hosted software and you will hear the same thing, which is getting out. Data written into a company's platform is shaped by that platform, and an export can arrive as a file that means little without the software that produced it.\n\nFor the plate reader records around {{shortName}}, that has an accountability edge. If {{city}} cannot take its records elsewhere, the company is more than a supplier. It becomes the only route to evidence about its own system, which is what I find worrying.\n\nRemoving the readers near campus and forgoing new ones would end the dependency cleanly, and that is what I am asking for as a student here. If you prefer to keep them, would you tell me whether {{city}} holds an enforceable right to a complete and usable copy?"
+  },
+  {
+    "id": "vendor-015",
+    "angle": "vendor",
+    "subject": "Company staff with access to local plate records",
+    "body": "Dear {{officialName}},\n\nEvery hosted system has administrators, and administrators can see things. Whoever maintains the platform behind the plate readers near {{shortName}} has some level of access to what those cameras collect. That is ordinary for hosted software, and it is exactly why the terms matter so much here.\n\nWhat I have not been able to find is any public statement about which company personnel may view {{city}} data, or how {{city}} would learn if that access were misused.\n\nNo student around {{school}} signed up to have their movements sit in a commercial database. I hope you will back removing the readers on and near campus and adding none. Would you also be willing to say publicly what limits, if any, {{city}} has secured on access from the company's side? A short answer would help."
+  },
+  {
+    "id": "vendor-016",
+    "angle": "vendor",
+    "subject": "The chain of firms behind the reader platform",
+    "body": "Dear {{officialName}},\n\nNo modern platform is a single company. Hosting, storage, analysis, and support are often handed to other firms, each with its own terms and its own security practices. When {{city}} contracts with a plate reader vendor, it may be contracting with a chain it has never seen.\n\nThat chain matters here. Records from the {{readersWithinMile}} readers within a mile of {{shortName}} pass through whatever infrastructure the company chose, and the public has no view of those arrangements. As a student driving past those cameras, I find the invisibility of that chain genuinely troubling.\n\nMy preference is straightforward. Pull the readers around campus, and approve no new ones. If the program stays, would you ask for and publish the list of parties able to hold or process {{city}} plate data?"
+  },
+  {
+    "id": "vendor-017",
+    "angle": "vendor",
+    "subject": "Notice of a breach that happens somewhere else",
+    "body": "Dear {{officialName}},\n\nIf plate records collected around {{shortName}} were ever exposed, {{city}} would likely hear about it from the company. Timing and wording would be shaped by a firm managing its own liability, and the people whose movements sat in the file would be last in line.\n\nI am not predicting a breach. Any custodian can be breached, and that is rather the point. The difference here is that a resident harmed by it has no relationship at all with the party holding the data.\n\nA database that was never built cannot leak, which is why I hope you will support removing the plate readers near campus and installing no replacements. If you are not willing to go there, I would like to know what notification duties {{city}} has actually secured, and who enforces them. I am a student, and I would appreciate a reply."
+  },
+  {
+    "id": "vendor-018",
+    "angle": "vendor",
+    "subject": "Answering a resident without first calling the company",
+    "body": "Dear {{officialName}},\n\nHere is a test I would love to see run. Ask staff how often the plate readers near {{shortName}} were searched last month, and who ran those searches. If the answer requires a request to the company and a wait, then {{city}} does not operate this system so much as rent a view of it.\n\nBeing able to answer for a public function directly seems like the least a city should keep. Anything else puts a firm between residents and their government on a question about policing, which is what concerns me.\n\nI would like the cameras around campus removed and none added. If that is not where you are, would you tell me whether {{city}} can produce usage records on its own, and how long that takes? A student's question, but a fair one."
+  },
+  {
+    "id": "vendor-019",
+    "angle": "vendor",
+    "subject": "New capabilities arriving in a software update",
+    "body": "Dear {{officialName}},\n\nHardware on a pole looks static. The software behind it is not, and a plate reader network can gain functions between one council meeting and the next without anyone in {{city}} approving a thing.\n\nSo the authorization the council granted describes a moment in time. What the system can do today is set by a product roadmap, and roadmaps answer to customers and investors rather than to residents of {{state}}. That mismatch is what I keep turning over.\n\nNear {{shortName}}, {{readersWithinMile}} of these units sit within a mile of students who were never asked, and I am one student among them. I hope you will support removing them and installing no new ones. If you would rather keep the network, would you say whether {{city}} must approve new capabilities before they are switched on?"
+  },
+  {
+    "id": "vendor-020",
+    "angle": "vendor",
+    "subject": "Why a company dashboard is not real oversight",
+    "body": "Dear {{officialName}},\n\nA transparency page published by a surveillance company is marketing with a civic accent. The firm decides what appears there and when it updates, so residents get a window built by the party they are trying to watch.\n\nOversight I would trust comes from records the public can obtain and a reviewer the company cannot turn away. Around {{shortName}} I can find neither, and the cameras log plates all the same. As a student here, that asymmetry is the thing I find hardest to accept.\n\nWhat I am asking is that {{city}} remove the plate readers near campus and install no new ones. If you intend to keep them, would you tell me whether you consider a company run dashboard sufficient, and what independent reporting {{city}} could actually require instead?"
+  },
+  {
+    "id": "vendor-021",
+    "angle": "vendor",
+    "subject": "What happens if the company changes hands",
+    "body": "Dear {{officialName}},\n\nCompanies come and go. Whatever plate reader vendor {{city}} relies on today may not be the party holding the records in a few years, and the public would have no say in who inherits them. I think that question deserved an answer before the first camera went up near {{shortName}}.\n\nA municipal record room does not change owners. Commercial platforms can, and the terms travel with them. Residents whose plates were logged would learn of the change, if at all, from a notice they never asked to receive.\n\nThe way out is to stop collecting, so I hope you will support taking the readers around campus out of service and approving none in their place. Would you tell me whether {{city}} has any control over who ends up holding this data? I am a student and would value a reply."
+  },
+  {
+    "id": "vendor-022",
+    "angle": "vendor",
+    "subject": "Access decided in an account, not a chamber",
+    "body": "Dear {{officialName}},\n\nDecisions about who may search a police database used to belong to the agency that built it. On a shared commercial platform, some of those decisions become account administration, and the company sets the menu of what is even possible.\n\nI would like to know how much of that menu {{city}} actually controls for the readers near {{shortName}}. Can the council rule out a category of access the platform permits by default? Does anyone check? Not knowing is the part that worries me.\n\nUntil there are answers, the honest course seems to be to stop feeding the system, removing the plate readers around campus and adding none. As {{role}}, you could put this on an agenda, and I hope you will. I am a student here, and I would be grateful to know how you would vote."
+  },
+  {
+    "id": "vendor-023",
+    "angle": "vendor",
+    "subject": "Rules for plate readers belong in an ordinance",
+    "body": "Dear {{officialName}},\n\nRules that bind a government should be written where residents can find them. The rules governing the plate readers around {{shortName}} appear to live in an agreement with a private company, which means two parties can amend them and neither of those parties is the public.\n\nAn ordinance works differently. It gets argued about in the open, and it does not lapse when a sales relationship does.\n\nMy own preference is that no ordinance be needed here, because the cameras near campus come down and none replace them. If you would rather regulate than remove, would you consider moving the terms out of a contract and into law? Either way, a direct answer would mean a lot to a student who has been trying to read this program from the outside."
+  },
+  {
+    "id": "vendor-024",
+    "angle": "vendor",
+    "subject": "The hearing that never happened before installation",
+    "body": "Dear {{officialName}},\n\nBefore {{city}} adds a stop sign, somebody usually gets to complain about it. A private company began logging plates around {{shortName}} without any comparable moment that I can find in the public record, and looking for it is what led me to write.\n\nProcurement notices are not public comment. They are addressed to sellers rather than to the people who will be recorded. Whatever process produced these cameras was not built to hear from a student living inside the coverage.\n\nThe fair remedy, as I see it, is to undo it. I hope you will support removing the readers near campus and installing no new ones, and that you will treat any future proposal as a matter for a public hearing rather than a purchase order. Where do you stand?"
+  },
+  {
+    "id": "vendor-025",
+    "angle": "vendor",
+    "subject": "Who answers when the system reads a plate wrong",
+    "body": "Dear {{officialName}},\n\nAutomated systems misread sometimes. When a plate reader near {{shortName}} produces a bad match and somebody is stopped over it, the question I cannot resolve is who answers for the error.\n\nThe department will say it acted on information provided. What the agreement says about the company's responsibility is not something a resident can read, and the person in the middle has a contract with neither party. Responsibility spreads out exactly where it ought to concentrate, and that worries me.\n\nI would rather {{city}} not build that gap into its policing, so I am asking you to support removing the readers around campus and adding no new ones. If the program stays, could you tell me who {{city}} believes is accountable when a company's system returns a wrong result? I am a student here."
+  },
+  {
+    "id": "vendor-026",
+    "angle": "vendor",
+    "subject": "Evidence that lives on somebody else's servers",
+    "body": "Dear {{officialName}},\n\nChain of custody used to be something you could describe in a sentence. A plate read collected near {{shortName}} is written to storage the city does not run and retrieved through software the city cannot inspect.\n\nThat will be argued out somewhere eventually, and residents should not have to wait for it. A system producing evidence nobody in {{city}} can independently authenticate seems a weak foundation for whatever gets built on top of it. As a student who walks and drives through this coverage, I would rather the foundation not be there at all.\n\nRemoving the readers around campus and installing no replacements would spare everyone the argument. Would you support that? If not, I would like to hear how {{city}} verifies the integrity of a record it never held."
+  },
+  {
+    "id": "vendor-027",
+    "angle": "vendor",
+    "subject": "Confidentiality clauses and what city staff may say",
+    "body": "Dear {{officialName}},\n\nAsk a city employee a direct question about the plate reader system near {{shortName}} and the answer may be shaped by a confidentiality obligation rather than by policy. Whether that is true here I do not know, and not knowing is rather the point.\n\nA public servant should not need a company's permission to describe a program the public paid for. Where confidentiality terms exist, they seem to bind the wrong side of the relationship, and that is what unsettles me.\n\nWhat I am asking is that {{city}} take the readers around campus out and put no new ones up. If you prefer to keep them, would you find out and tell me whether any confidentiality obligation limits what staff can disclose about this system? I am a student, and a plain answer would help."
+  },
+  {
+    "id": "vendor-028",
+    "angle": "vendor",
+    "subject": "An inspection right that may never have been used",
+    "body": "Dear {{officialName}},\n\nRights that go unused are decorations. If {{city}} negotiated the ability to inspect the plate reader platform, I would like to know whether anyone has ever done it and what they found. Should the answers be nobody and nothing, then the protection exists on paper alone, which is what I suspect and would be glad to be wrong about.\n\nThis is not a hard thing to check. It is the sort of question a member of the governing body can put to staff and have answered inside a week.\n\nWhile you are asking, I hope you will consider the simpler course of removing the readers around {{shortName}} and authorizing none to replace them. Would you be willing to raise it with staff and share what comes back with the student who asked?"
+  },
+  {
+    "id": "vendor-029",
+    "angle": "vendor",
+    "subject": "Compliance reports written by the contractor itself",
+    "body": "Dear {{officialName}},\n\nWhen a contractor certifies its own compliance, the certificate measures that contractor's confidence rather than the underlying facts. I assume something like that governs the plate readers near {{shortName}}, and I would be glad to be corrected.\n\nSelf-reporting is fine where the stakes are low. Recording the movements of everyone near {{school}}, including a student like me who has never voted in {{city}}, is not low stakes. Verification ought to come from someone who does not lose a customer by reporting a problem.\n\nThe alternative I am asking for is removal, taking the cameras around campus down and installing none. If you would rather keep the program, would you tell me whether you consider self certification by the company sufficient oversight of a surveillance system? I would be grateful for your honest view."
+  },
+  {
+    "id": "vendor-030",
+    "angle": "vendor",
+    "subject": "Where the plate records physically end up",
+    "body": "Dear {{officialName}},\n\nWhere does a plate read taken near {{shortName}} actually end up? The cloud is a metaphor. Somewhere there is a building, in some jurisdiction, under some law, and I have found no way for a resident to learn which.\n\nI raise it because legal process follows location more often than people expect. A record created in {{state}} and stored elsewhere can be reachable by parties {{city}} would never have chosen, and out of reach of the people it describes.\n\nNone of that gets fixed by a better policy memo, which is why I hope you will support removing the plate readers around campus and adding no new ones. If you would rather keep them, could you tell me where {{city}} data is held and under whose law? I am a student trying to understand what I am part of."
+  },
+  {
+    "id": "vendor-031",
+    "angle": "vendor",
+    "subject": "Local plate data used to improve a product",
+    "body": "Dear {{officialName}},\n\nData has a second life. Beyond identifying a particular car, a stream of plate reads is raw material for tuning software, and the value of that tuning goes to whoever owns the platform.\n\nHere is my plain question about the readers near {{shortName}}. Does {{city}} know whether records collected here are used to develop or refine the company's products, and did anyone agree to that on behalf of the people driving past? {{readersWithinMile}} cameras within a mile of campus generate a great deal of raw material, and I am a student inside that mile.\n\nMy position is that the collection should end, so I hope you will back removing the readers around campus and installing no more. Should you disagree, I would still very much like your answer to the question above."
+  },
+  {
+    "id": "vendor-032",
+    "angle": "vendor",
+    "subject": "Leverage at renewal sits with the company",
+    "body": "Dear {{officialName}},\n\nOnce a department depends on a platform, the negotiation is effectively over. Renewal talks between a city and the firm holding its data are not talks between equals, whatever the paperwork says, because one side can walk away and the other cannot.\n\nThat imbalance reads to me as a governance problem before it is a budget problem. Terms {{city}} would refuse at the outset become acceptable when the alternative is losing access to years of collected records.\n\nThe moment to act is before the next cycle, so I hope you will support removing the plate readers around {{shortName}} and approving no new installations. Should you see it differently, I would like to know what {{city}} would actually have to do if it wanted to leave. I am a student here and would value a reply."
+  },
+  {
+    "id": "vendor-033",
+    "angle": "vendor",
+    "subject": "Recorded by a system a student cannot question",
+    "body": "Dear {{officialName}},\n\nMost students at {{school}} are not registered to vote in {{city}}, and none of us has any relationship with the company running the plate readers near campus. Two layers of distance sit between the recorded and anyone who could answer for the recording, and that distance is what brought me to write.\n\nYou are the first layer we can reach. A company answers to its customers. Councils answer to the public, and that difference is the only thing tying this system to anybody's consent.\n\nI hope you will use it, by moving to remove the plate readers around campus and to install no new ones. If you are not ready to go that far, would you tell me who at {{city}} is answerable for what this company does with the data of a student like me?"
+  },
+  {
+    "id": "vendor-034",
+    "angle": "vendor",
+    "subject": "The seller has an interest in more cameras",
+    "body": "Dear {{officialName}},\n\nThe company that sells plate readers has one obvious interest, and it is more plate readers. I do not say that as a criticism of anyone's character. It is what a commercial relationship does, and it is why the party proposing an expansion should not also be the party evaluating it.\n\nAround {{shortName}} there are already {{readersWithinMile}} of these devices within a mile. Any recommendation to add more will arrive with a case attached, prepared by someone who profits from the answer, and that is what makes me uneasy.\n\nI would like {{city}} to go the other way, taking the readers near campus out and approving none in their place. Would you consider requiring an assessment from someone with no stake in the outcome before any further installation? I am a student and would welcome your view."
+  },
+  {
+    "id": "vendor-035",
+    "angle": "vendor",
+    "subject": "Policing capability bought the way supplies are bought",
+    "body": "Dear {{officialName}},\n\nThere is a difference between buying equipment and adopting a policy, and plate readers blur it. What arrived near {{shortName}} looks like a purchase and behaves like a standing surveillance program that runs whether or not anyone is watching it.\n\nA purchase order carries no rules about use and no requirement to report back. Those things have to be added on purpose, by people answerable to voters rather than to a supplier, and I cannot tell that anyone did.\n\nRather than add them, I would ask you to end the program, removing the cameras around campus and authorizing none to replace them. Whichever way you lean, could you tell me what governing document, if any, controls how this system is used in {{city}}? A student's question, and one I have not managed to answer alone."
+  },
+  {
+    "id": "vendor-036",
+    "angle": "vendor",
+    "subject": "Where the risk in this arrangement actually falls",
+    "body": "Dear {{officialName}},\n\nRisk allocation is the least glamorous part of any agreement and often the most revealing. In an outsourced surveillance system, residents carry the privacy exposure while the company carries whatever its own terms leave it holding.\n\nThat second half is invisible to me, and I suspect to most of the council as well. Nobody outside the negotiation knows what {{city}} agreed to absorb on behalf of people who were never consulted, and I am one of those people.\n\nWhat I am asking is that the exposure be closed at its source, taking the plate readers around {{shortName}} out of service and installing no new ones. If that is not your position, would you tell me whether the council reviewed the risk terms before this system was approved? I am a student here and would be grateful for a reply."
+  },
+  {
+    "id": "vendor-037",
+    "angle": "vendor",
+    "subject": "How a student would ask about their own record",
+    "body": "Dear {{officialName}},\n\nSay a student wants to know whether their own plate has been searched in the system fed by cameras near {{shortName}}. Who do they ask? The city will point at a platform it does not run, and the company owes nothing to a person who is not its customer.\n\nA right with no addressee is not much of a right. That seems to me the practical result of putting a public record in private custody, and it applies to every driver on the roads around campus.\n\nI would rather the record not exist, so I hope you will support removing the readers near campus and adding none. If you cannot support that, could you tell me what process a resident actually has here? I would be grateful for a straight answer, even a short one."
+  },
+  {
+    "id": "vendor-038",
+    "angle": "vendor",
+    "subject": "Whether {{city}} could stop before the term ends",
+    "body": "Dear {{officialName}},\n\nCould {{city}} switch these cameras off tomorrow if it decided to? That ought to have a short answer, and I doubt it does. A commitment to a private company can outlast the political judgment that created it, which strikes me as a strange property for a surveillance program to have.\n\nElected bodies change their minds. The mechanisms that let them act on a change of mind should not depend on a clause nobody has read aloud in public.\n\nWhat I would like is the readers around {{shortName}} removed and no new ones installed. As a first step, would you find out and tell me what it would actually take for {{city}} to end this program? I am a student here, and I would be glad of any answer you can give."
+  },
+  {
+    "id": "vendor-039",
+    "angle": "vendor",
+    "subject": "Requests for our data that never reach {{city}}",
+    "body": "Dear {{officialName}},\n\nRequests for local plate data do not have to pass through {{city}} to be answered. When the records sit with a company, that company can receive legal process and inquiries the city never sees.\n\nWhether any of that has happened here I cannot say, and I suspect nobody can without asking. That is the whole of my worry in one sentence. A government unable to list who has received its residents' data is not really in control of it.\n\nThe remedy I am asking for is removal, taking the readers around {{shortName}} down and installing none in their place. If you would rather keep them, would you ask staff whether {{city}} is notified when the company receives a request for local records? I am a student here and would value knowing."
+  },
+  {
+    "id": "vendor-040",
+    "angle": "vendor",
+    "subject": "A question about the agreement behind the cameras",
+    "body": "Dear {{officialName}},\n\nI mean no discourtesy by asking this. Have you had the chance to read the agreement governing the plate readers around {{shortName}}, and could you describe what it says about data ownership?\n\nMost members of most councils would say no, because that is how procurement works. The document is technical, the vote is routine, and the surveillance policy of {{city}} can end up written by people nobody elected. That is what concerns me rather than any individual's reading habits.\n\nI am not asking for a study session. Removing the readers near campus and installing no new ones would settle the matter without anyone having to become an expert in contract law. Would you tell me whether you support that? I am a student here, and I would be grateful for a reply either way."
+  },
+  {
+    "id": "vendor-041",
+    "angle": "vendor",
+    "subject": "Public money and private control of the record",
+    "body": "Dear {{officialName}},\n\nTaxpayers in {{city}} paid for the plate readers near {{shortName}}. What they bought is less clear to me. Ownership of the cameras may sit in one place, ownership of the data in another, and the practical ability to use either may depend on continued payment to a company.\n\nThat is an unusual thing to buy with public funds. A fire truck stays a fire truck once the invoice is settled. Subscriptions simply stop.\n\nBefore any further spending, I would ask you to support removing the readers around campus and installing no new ones. If you want to keep the program, would you tell me plainly what {{city}} owns outright and what it merely rents? I am one student, with one letter, and I would still like to know the answer."
+  },
+  {
+    "id": "vendor-042",
+    "angle": "vendor",
+    "subject": "The word partner is carrying a lot of weight",
+    "body": "Dear {{officialName}},\n\nVendors like to be described as partners. Partnership implies shared purpose and shared accountability, and a supplier has neither. It has a contract and an interest in renewal.\n\nLanguage matters here because it shapes oversight. Partners get trusted; suppliers get checked, and the plate reader system around {{shortName}} seems to have been treated as the first sort of relationship when it needed the second. Nobody outside {{city}} government chose that framing, and residents live with the result.\n\nWhat I am asking is that {{city}} remove the readers near campus and install no more. Should the relationship continue instead, would you tell me what independent checks apply to it and who performs them? I am a student here, and I would rather hear your answer than the company's."
+  },
+  {
+    "id": "vendor-043",
+    "angle": "vendor",
+    "subject": "Confirming deletion on hardware nobody here controls",
+    "body": "Dear {{officialName}},\n\nDeleting a record from a database you control is a task. Confirming that a contractor deleted a record from a system you have never seen is an act of faith. Backups make it harder still, since a copy can outlast the original by a long way.\n\nFor the plate reads gathered around {{shortName}}, that gap has consequences. Any retention limit {{city}} believes it has is only as real as the verification behind it, and I can find no sign of independent verification at all.\n\nThe reliable way to limit a database is to stop filling it, so I hope you will support removing the readers near campus and approving none in future. Would you tell me how {{city}} confirms that expired records are truly gone? I am a student and would be glad of an answer."
+  },
+  {
+    "id": "vendor-044",
+    "angle": "vendor",
+    "subject": "One plate, many customers of a single platform",
+    "body": "Dear {{officialName}},\n\nOne company serving many jurisdictions ends up holding something no single jurisdiction authorized. Reads from {{city}} sit alongside reads from everywhere else, and the aggregate is a picture of movement across {{state}} and beyond that no council voted to create.\n\n{{readersInState}} of these cameras are deployed across {{state}}. Whatever each local approval said, the combined effect was assembled by a private firm following its own commercial logic, and that assembly is what worries me most.\n\nYour vote covers one piece of it, the piece around {{shortName}}. I hope you will use it to remove the plate readers near campus and to authorize no new ones. Speaking as a student here, would you also tell me whether you think aggregation of this kind should require any public approval at all?"
+  },
+  {
+    "id": "vendor-045",
+    "angle": "vendor",
+    "subject": "Reviewed only by the people who use and sell it",
+    "body": "Dear {{officialName}},\n\nTwo parties currently evaluate the plate reader system around {{shortName}}, the department that uses it and the company that sells it. Neither is disinterested, and both produce the material an outside reviewer would have to rely on.\n\nAn arrangement like that can run for years without anything surfacing, and nothing about it requires bad faith from anyone. People tend to find what they look for, and neither party is looking hard for reasons to stop.\n\nI am asking that {{city}} remove the readers near campus and install no new ones, which would end the need for review entirely. If you prefer oversight to removal, would you tell me who could conduct it who is neither a user nor a supplier of the system? A student would like to know."
+  },
+  {
+    "id": "vendor-046",
+    "angle": "vendor",
+    "subject": "What an agreement leaves out becomes permission",
+    "body": "Dear {{officialName}},\n\nContracts are usually read for what they say. Surveillance contracts worry me for what they leave out, because an unaddressed use tends to become an allowable one.\n\nIf the agreement covering the readers near {{shortName}} says nothing about a particular kind of sharing or analysis, then the default belongs to whoever operates the platform, and residents of {{city}} would have no notice and no remedy.\n\nA document I have never seen cannot be checked by me, and most of your constituents are in the same position. I hope you will support removing the plate readers around campus and installing none going forward. If you would rather revise terms than remove cameras, could you tell me who reviews those terms on the public's behalf? I am a student, and I would be grateful for a reply."
+  },
+  {
+    "id": "vendor-047",
+    "angle": "vendor",
+    "subject": "Boilerplate terms a city has little power to change",
+    "body": "Dear {{officialName}},\n\nSmall and mid sized governments rarely rewrite a vendor's paperwork. They sign something close to what they are handed, because the legal budget for arguing over a clause exceeds the value of winning it.\n\nSo the terms governing surveillance around {{shortName}} may well have been drafted entirely by the seller, for the seller. That is an ordinary commercial outcome and, to me, a poor basis for a civil liberties policy.\n\nRemoval avoids the whole problem, so I hope you will back taking the plate readers near campus out and adding no new ones. If you believe {{city}} negotiated meaningful protections, I would genuinely like to see which ones, and I would rather hear it from you than from the company. I am a student here, and I would be grateful for a reply."
+  },
+  {
+    "id": "vendor-048",
+    "angle": "vendor",
+    "subject": "Where a resident takes a complaint about this",
+    "body": "Dear {{officialName}},\n\nComplaints need somewhere to land. If a resident of {{city}} objects to how the plate reader system near {{shortName}} handled their information, the police department will point at a platform belonging to the company, and the company will point at its customer, the department.\n\nThat loop is the accountability structure. Nobody designed it on purpose, and it works about as well as you would expect for the person standing outside it. I am a student standing outside it, which is why I am writing.\n\nWhat I am asking is that the loop stop mattering, by removing the readers around campus and installing no more. Failing that, could you name the office in {{city}} that would actually take such a complaint and has the authority to resolve it?"
+  },
+  {
+    "id": "vendor-049",
+    "angle": "vendor",
+    "subject": "Coverage that deepens without ever reaching an agenda",
+    "body": "Dear {{officialName}},\n\nExpansion of a camera network does not always look like expansion. A pole gets added under an existing agreement, a neighboring agency joins a shared platform, and coverage around {{shortName}} deepens without a single item appearing on an agenda.\n\nGrowth managed by contract rather than by ordinance answers to a sales cycle. Residents see the result and never see the decision, which feels backwards to me for something this intrusive.\n\nI would like {{city}} to reverse course by removing the plate readers near campus and installing none. Whatever your view on removal, would you consider requiring a public vote before any additional reader goes up in {{city}}? I am a student here, and I would be grateful to know where you stand."
+  },
+  {
+    "id": "vendor-050",
+    "angle": "vendor",
+    "subject": "A camera network is unlike an ordinary service contract",
+    "body": "Dear {{officialName}},\n\nCities outsource plenty of things. Waste collection and payroll software do not raise the question at issue here, because neither builds a searchable history of where residents have been.\n\nOutsourcing works when the function is routine and the failure mode is inconvenience. Surveillance fails differently. A misuse in the system around {{shortName}} touches liberty rather than service quality, and that difference ought to change how much control {{city}} insists on keeping.\n\nSince the control does not appear to be there, I would rather the readers were not either. I hope you will support removing them from around campus and approving no new ones. Would you tell me whether you regard this contract as ordinary procurement? I am a student here, and your answer would help me understand how the decision was seen."
+  },
+  {
+    "id": "vendor-051",
+    "angle": "vendor",
+    "subject": "Easier to decline now than to unwind later",
+    "body": "Dear {{officialName}},\n\nUnwinding a hosted surveillance system is harder than declining one. Data has been copied, work has been built around it, and a company now holds a commercial interest in continuity. Every month the readers near {{shortName}} keep running, removal gets more expensive to argue for.\n\nThat is why I am writing now rather than later, and it is also why I am wary of any proposal to add cameras first and set rules afterward.\n\nMy request is the straightforward one. Remove the plate readers around campus, and install no new ones anywhere near it. Would you tell me whether you could support a pause on new installations while the question is examined? I am one student with one letter, and I would be grateful for even a brief answer."
+  },
+  {
+    "id": "vendor-052",
+    "angle": "vendor",
+    "subject": "A statewide picture assembled by a single firm",
+    "body": "Dear {{officialName}},\n\nNo agency in {{state}} set out to build a statewide movement database. {{readersInState}} plate readers are nonetheless deployed here, many of them reporting into commercial platforms that connect one jurisdiction to the next.\n\nThe result is a capability nobody voted for, assembled from many small local approvals. {{city}} contributed some of it, including the cameras around {{shortName}}, and a private operator supplies the connective tissue between the pieces. That quiet accumulation is what troubles me.\n\nYour authority covers the local part, and I hope you will use it to remove the readers near campus and add none. I would also like to know whether you think {{city}} should take part in any commercial network whose scope is set outside {{state}}. As a student here, I would welcome your view."
+  },
+  {
+    "id": "vendor-053",
+    "angle": "vendor",
+    "subject": "The seller writes the vocabulary of the report",
+    "body": "Dear {{officialName}},\n\nDefinitions decide outcomes. When a company reports how often its cameras helped, that company also decides what helped means and how a result gets attributed.\n\nNone of it can be challenged from outside, because the underlying records belong to the party writing the definition. A council reviewing the program around {{shortName}} is reviewing a story told in the storyteller's vocabulary, and as a student reading along from the outside I cannot check a word of it.\n\nRemoving the readers near campus and approving no more would end the exercise honestly, and that is what I hope you will support. If you would rather continue, would you ask that any future report rest on data {{city}} can examine independently, and let me know what you learn?"
+  },
+  {
+    "id": "vendor-054",
+    "angle": "vendor",
+    "subject": "Paying once for the cameras and again for answers",
+    "body": "Dear {{officialName}},\n\nResidents fund the plate reader system around {{shortName}} through the budget. Anyone who then tries to examine how that system is used may fund it a second time through the hours a records request consumes, only to be told the material sits with a contractor.\n\nAccess should not be the hardest part of a public program. Where a private party holds the underlying records, difficulty becomes the default, and nobody has to intend it for that to happen.\n\nWhat I am asking is that the readers near campus be removed and no new ones installed, which ends the problem rather than managing it. If you disagree, would you tell me what {{city}} can produce about this system without contacting the company? I am a student, and I have not got far on my own."
+  },
+  {
+    "id": "vendor-055",
+    "angle": "vendor",
+    "subject": "The real privacy policy here is a contract",
+    "body": "Dear {{officialName}},\n\nWhat protects a driver near {{shortName}} from misuse of plate data? So far as I can tell, a document written between {{city}} and a company. That document is the privacy policy, whatever else may be posted on a website.\n\nA policy the public can neither read nor enforce is not much protection. It binds two parties, and the person recorded is neither of them, which is the part I find difficult.\n\nWhat I would like is simpler than a rewrite. Remove the plate readers around campus, and install none in their place. If you would rather strengthen the terms instead, would you publish them in full and tell me what you would change? I am a student here, and I would be grateful for an answer either way."
+  },
+  {
+    "id": "vendor-056",
+    "angle": "vendor",
+    "subject": "An audit trail the public has no way to reach",
+    "body": "Dear {{officialName}},\n\nGovernment keeps records of its own conduct so that conduct can be reviewed later. That principle weakens when the record of official activity is generated and stored by a contractor, which is the position for every search run against plate data collected near {{shortName}}.\n\nThe activity is public. Its record is commercial. Between those two facts sits a gap that ordinary transparency law was never written to cover, and I would rather see the program end than see the gap papered over.\n\nI hope you will support removing the readers around campus and installing no new ones. Would you tell me whether {{city}} keeps its own independent record of who has searched this system? I am a student here and would be glad to know, even briefly."
+  },
+  {
+    "id": "vendor-057",
+    "angle": "vendor",
+    "subject": "Testing the claim that the city owns the data",
+    "body": "Dear {{officialName}},\n\nStaff will often say the city owns the data. I would like to see that claim tested, because ownership means little without possession and control. Can {{city}} take a full copy today without asking anyone, delete records on its own authority, and stop the company from using them?\n\nIf any part of the answer is no, then ownership is a word rather than a fact, and the plate reads collected around {{shortName}} are effectively in someone else's hands. That possibility is what prompted this letter.\n\nI am asking for removal of the readers near campus and no new installations. Should you want to keep them, would you put those questions to staff and share what comes back? I am a student, and I would be grateful to see the answer in writing."
+  },
+  {
+    "id": "vendor-058",
+    "angle": "vendor",
+    "subject": "Asking a company to delete your own record",
+    "body": "Dear {{officialName}},\n\nSuppose a resident wants their plate reads removed from the system fed by cameras near {{shortName}}. They would be asking a private company to alter a database it holds for a government client, at the request of a person who is party to neither relationship.\n\nI can find no mechanism that makes that work. The gap looks structural, appearing the moment a public record moves into private custody.\n\nRather than build a process for a system I do not think should exist, I am asking you to support removing the readers around campus and approving none in future. Would you tell me whether any deletion right exists for residents of {{city}} today? I am a student here, and I have not been able to find one."
+  },
+  {
+    "id": "vendor-059",
+    "angle": "vendor",
+    "subject": "Outsourcing thins the paper trail behind decisions",
+    "body": "Dear {{officialName}},\n\nWhen a government does something itself, it leaves memos and correspondence the public can eventually obtain. Hand the same function to a contractor and much of that trail becomes internal to a company, out of reach of any request.\n\nFor the plate readers near {{shortName}}, the practical effect is that the reasoning behind operational choices may simply be unavailable. Decisions get made about residents of {{city}} in a place where sunshine laws do not shine, and that is the part I keep worrying at.\n\nI would like the cameras around campus taken down and none installed in their place. If you are not there, could you tell me what documentation {{city}} keeps about how this system is configured and used? I am a student here, and I would value a reply."
+  },
+  {
+    "id": "vendor-060",
+    "angle": "vendor",
+    "subject": "Where the chain of accountability quietly stops",
+    "body": "Dear {{officialName}},\n\nAccountability follows a chain, and this one seems to break in a predictable place. Voters can hold you answerable. You can hold staff answerable. Staff can hold a company answerable only within the four corners of an agreement, and the public never sees where those corners are.\n\nSo an ordinary constituent asking about plate readers near {{shortName}} gets passed along that chain until it ends at a private document. Ending there does not feel like accountability to me.\n\nThe repair I am asking for is to remove the readers around campus and install no new ones. Would you say publicly whether you believe the current chain reaches all the way to the people being recorded? I am a student, and I am one of them."
+  },
+  {
+    "id": "vendor-061",
+    "angle": "vendor",
+    "subject": "Terms of service standing in for public rules",
+    "body": "Dear {{officialName}},\n\nCommercial terms are written to manage a business relationship. They are not written to protect people who never signed them, which describes everyone driving past the {{readersWithinMile}} cameras within a mile of {{shortName}}.\n\nPublic rules are made differently. They get argued about in the open, and they do not shift when a business model does.\n\nGoverning surveillance with the first kind of document while treating it as the second is the thing I would ask you to correct, by removing the plate readers around campus and installing no new ones. Would you tell me where you stand, and whether you think a private agreement is the right home for rules of this kind? I am a student here, and I would be grateful for a considered answer."
+  },
+  {
+    "id": "vendor-062",
+    "angle": "vendor",
+    "subject": "A policing database kept running by a business",
+    "body": "Dear {{officialName}},\n\nSet the marketing aside and what sits behind the cameras near {{shortName}} is a policing database maintained by a business. Officers query it. A company runs it and decides how it works.\n\nThat has consequences I doubt would be accepted elsewhere in law enforcement. Picture a records room whose lock was controlled by a supplier and whose contents could be reorganized without notice. Few people would sign off on that, yet the digital version arrived without a public argument, and as a student here I would like to understand why.\n\nWhat I am asking for is removal of the readers around campus and no new installations. Would you be willing to state a position on whether a core policing record should ever sit outside public custody?"
+  },
+  {
+    "id": "vendor-063",
+    "angle": "vendor",
+    "subject": "The company decides who counts as a user",
+    "body": "Dear {{officialName}},\n\nEligibility for access to a shared platform is a commercial decision before it is a policy one. Whoever sells the service defines the categories of customer, and those categories determine who can search records generated in {{city}}.\n\nSo a council that approves cameras may approve less than it thinks. The list of eventual users grows as the seller signs new business, and none of that growth passes through {{state}} or through you. That is what I find worrying.\n\nCameras near {{shortName}} feed exactly this kind of arrangement. I hope you will support taking them out and installing no replacements. If you would rather keep them running, would you find out and tell me what {{city}} can actually rule out? I am a student here and would be grateful to know."
+  },
+  {
+    "id": "vendor-064",
+    "angle": "vendor",
+    "subject": "What a records request to {{city}} would actually return",
+    "body": "Dear {{officialName}},\n\nI would like to know what a request to {{city}} for plate reader records actually produces. My guess is whatever the city can generate from a system it accesses rather than operates, which may be a report the company's software knows how to make and nothing more.\n\nThe shape of the answer is set by product design. Questions the software was never built to handle become questions the public cannot ask, and no official has to refuse anything for that to be true.\n\nThat seems a poor foundation for oversight of cameras around {{school}}. I hope you will support removing them and adding none. Would you also tell me whether {{city}} has ever tested what this system can disclose? As a student here, I would be grateful for a reply."
+  },
+  {
+    "id": "vendor-065",
+    "angle": "vendor",
+    "subject": "The only sunset here is a renewal date",
+    "body": "Dear {{officialName}},\n\nGood surveillance policy expires on purpose. What governs the readers around {{shortName}} appears to expire only when a business arrangement does, which means the program continues by default and ends only if somebody bothers.\n\nDefaults decide most things in government. A default favoring continued collection was chosen by whoever drafted the paperwork, and that was unlikely to be anyone representing the public.\n\nI would like the default reversed and the cameras near campus removed, with none installed afterward. Absent that, would you support attaching a real sunset that requires an affirmative public vote to continue? I am a student here, and I would be glad to know your thinking either way. Thank you for reading this far."
+  },
+  {
+    "id": "vendor-066",
+    "angle": "vendor",
+    "subject": "Support staff working inside live plate records",
+    "body": "Dear {{officialName}},\n\nSoftware breaks, and somebody at the company fixes it. Fixing usually means looking, and looking means an employee inside a system holding the movements of people around {{shortName}} who have no idea any of it is happening.\n\nNone of that is unusual for hosted software. It is unusual for a police record, and the ordinary expectations about who may handle sensitive material quietly stop applying once the material lives on a commercial platform.\n\nSo my request is that the collection stop, taking the readers near campus out of service and putting up no new ones. Would you ask staff what controls govern the company's access during support work, and tell me what you learn? I am a student here, and this is the part that keeps bothering me."
+  },
+  {
+    "id": "vendor-067",
+    "angle": "vendor",
+    "subject": "Analytics that no council ever actually approved",
+    "body": "Dear {{officialName}},\n\nA plate reader is a camera. The platform behind it is software, and software grows features, including pattern detection and alerting that nobody authorized when the cameras were bought.\n\nWhat the council approved was a purchase. The capability that exists today was shaped afterward by a company deciding what to build next, and residents around {{shortName}} live under the current version rather than the approved one. As a student inside that coverage, I would like to know which version I am actually living under.\n\nRemoving the readers near campus and installing none would close the gap for good, and that is what I am asking for. Should you prefer to keep the system, would you tell me whether {{city}} must approve each new feature before officers can use it?"
+  },
+  {
+    "id": "vendor-068",
+    "angle": "vendor",
+    "subject": "Exit costs quietly shaping a public safety choice",
+    "body": "Dear {{officialName}},\n\nStaying stops being a choice once leaving is expensive. A city that would have to rebuild its processes and lose access to stored records will find reasons to renew whatever the evidence shows.\n\nThat pressure never appears in a debate about effectiveness. It sits underneath the debate, and it grows with every month the readers near {{shortName}} keep collecting, which is why I am writing rather than waiting.\n\nBreaking the cycle now is cheaper than breaking it later. I hope you will support removing the plate readers around campus and approving no new ones. Would you tell me whether {{city}} has ever estimated what leaving this arrangement would involve? I am a student here, and I would be grateful for whatever you can find out."
+  },
+  {
+    "id": "vendor-069",
+    "angle": "vendor",
+    "subject": "A holder with reasons to keep everything longer",
+    "body": "Dear {{officialName}},\n\nThe party storing plate data has commercial reasons to store more of it and to keep it longer. Bigger datasets make better products and stronger renewals, and that incentive runs opposite to the public interest in collecting as little as possible.\n\nNothing about this requires anyone to break a rule. It simply means the entity holding the records around {{shortName}} is the wrong entity to be making judgment calls about retention, and that mismatch is what worries me.\n\n{{city}} could remove the question by removing the cameras, and I hope you will back taking the readers near campus out and installing none in future. If you disagree, would you say who currently decides what gets kept, and on what basis? I am a student here and would value your answer."
+  },
+  {
+    "id": "vendor-070",
+    "angle": "vendor",
+    "subject": "Protections that no resident is able to enforce",
+    "body": "Dear {{officialName}},\n\nEven a strong contractual protection has one weakness, which is that only the parties can enforce it. A resident of {{city}} harmed by misuse of plate data has no standing under an agreement between a government and a company, and no way to compel either of them to act.\n\nRights that depend on somebody else's willingness to sue are thin. That is the entire structure of protection standing between the cameras around {{shortName}} and the people they record, and I would rather not rely on it.\n\nI hope you will support removing the readers near campus and installing no new ones. Would you tell me what remedy, if any, an individual actually has today? I am a student here, and I have not been able to identify one."
+  },
+  {
+    "id": "vendor-071",
+    "angle": "vendor",
+    "subject": "Service commitments owed to the city, not to us",
+    "body": "Dear {{officialName}},\n\nObligations under a commercial agreement run to the customer. Whatever service commitments exist for the plate reader system near {{shortName}} were written for {{city}}, and residents are third parties to all of it.\n\nSo when something goes wrong, the remedy is a credit on an invoice or a conversation between account managers. People whose records were mishandled are not in that conversation and have no way to join it, which is what troubles me as a student living here.\n\nA structure like that does not get fixed by adding another clause. I hope you will support removing the plate readers around campus and adding no new ones. If you see it differently, would you explain what the company owes to the people it records? I would be grateful for your view."
+  },
+  {
+    "id": "vendor-072",
+    "angle": "vendor",
+    "subject": "Product defaults standing in for police procedure",
+    "body": "Dear {{officialName}},\n\nEvery configurable system ships with defaults, and defaults become practice. How long a record lasts and what a search requires can end up settled by a screen a company designed rather than by a policy {{city}} adopted.\n\nThat is how a supplier can write operational rules for a police department without anyone deciding to let it happen. I do not think anyone chose it, which is part of why it worries me.\n\nThe readers around {{shortName}} run on somebody's defaults. I would like them removed and no new ones installed. Failing that, would you ask which settings {{city}} has actually reviewed and approved, and tell me the answer? I am a student here, and I would be grateful for even a partial reply."
+  },
+  {
+    "id": "vendor-073",
+    "angle": "vendor",
+    "subject": "Several agencies, one platform, one campus edge",
+    "body": "Dear {{officialName}},\n\nCampus edges are jurisdictional seams. Around {{shortName}}, more than one agency may operate or reach plate readers, and a shared commercial platform is often what stitches them together.\n\nThat stitching is done by a company, under terms no single body approved. {{city}} controls part of the picture, another agency controls another part, and the operator sees all of it. As a student crossing those seams daily, I find that hard to sit with.\n\nYour piece is the one I am writing about. I hope you will support removing the plate readers {{city}} controls around campus and installing no new ones. Would you also tell me whether {{city}} knows which other agencies can see reads collected here, and whether it has any say in that?"
+  },
+  {
+    "id": "vendor-074",
+    "angle": "vendor",
+    "subject": "Questions a company has no duty to answer",
+    "body": "Dear {{officialName}},\n\nYou can require a department head to appear and answer questions. A company executive attends when it suits the relationship, and what you can compel is limited to whatever was agreed in advance.\n\nOversight without compulsion is a conversation. That may be adequate for a software license. For a system recording the movements of everyone near {{school}}, it seems plainly insufficient to me.\n\nWhat I am asking is that {{city}} remove the readers around campus and install no more. If you intend to keep them, would you consider requiring the company to testify in public before the next renewal, and tell me whether that is even possible? I am a student here, and I would be grateful for an honest answer."
+  },
+  {
+    "id": "vendor-075",
+    "angle": "vendor",
+    "subject": "A solicitation shaped around one product",
+    "body": "Dear {{officialName}},\n\nProcurement can look competitive from the outside while specifications mirror the capabilities of a product someone already had in mind. A bid like that confirms a decision rather than making one.\n\nWhether that happened here I cannot say, and I would not want to suggest otherwise. What I can say is that {{readersWithinMile}} of these cameras sit within a mile of {{shortName}} and that I have found no public deliberation about surveillance anywhere in the record.\n\nI hope you will support removing them and approving no new installations. If you would rather examine the process first, would you ask how this procurement was scoped and share the answer? I am a student here, and I would be glad to read whatever comes back, whichever way it points."
+  },
+  {
+    "id": "vendor-076",
+    "angle": "vendor",
+    "subject": "Local movement data treated as a corporate asset",
+    "body": "Dear {{officialName}},\n\nRecords have value, and value attracts interest. Plate reads collected around {{shortName}} are, from a company's point of view, an asset supporting a product and a valuation.\n\nGovernments do not think about their files that way, which is part of why public custody matters. A public archive is a cost to be managed. An asset is something to grow.\n\nI would rather {{city}} not be feeding a balance sheet with the movements of students and residents, and I say that as a student who passes those cameras most days. My hope is that you will support removing the readers near campus and installing none. Would you tell me whether {{city}} knows what commercial value is drawn from data collected here? Thank you for reading this."
+  },
+  {
+    "id": "vendor-077",
+    "angle": "vendor",
+    "subject": "Publishing the agreement before the next decision",
+    "body": "Dear {{officialName}},\n\nResidents cannot argue about a document they have never seen. Whatever governs the plate readers around {{shortName}} sits somewhere in {{city}} files, and putting it in front of the public before any further decision would cost very little.\n\nMy own view is that no amount of publication makes this program acceptable. Cameras logging everyone in order to find a few should not operate near {{school}} at all, and the ones there now should come down with none installed after.\n\nPublication would still be worth doing, because it lets a student like me check whether the protections people assume exist actually do. Would you ask for the agreement to be released, and would you tell me your position on removal? I would be grateful for both."
+  },
+  {
+    "id": "vendor-078",
+    "angle": "vendor",
+    "subject": "Officers trained on the system by its seller",
+    "body": "Dear {{officialName}},\n\nTraining shapes practice more than written policy does. When the company profiting from a system also teaches officers how to use it, the lesson tends to emphasize capability rather than restraint.\n\nI am not suggesting anything improper. Incentives simply point one way, and there is no counterweight unless {{city}} builds one deliberately.\n\nAround {{shortName}} the practical result is a set of habits formed by a curriculum written by a supplier and applied to students and residents who never saw it. I am a student here, and I hope you will support removing the plate readers near campus and adding no new ones. Would you tell me who trains {{city}} personnel on this system, and whether the council has reviewed that material?"
+  },
+  {
+    "id": "vendor-079",
+    "angle": "vendor",
+    "subject": "Owning the poles is not owning the program",
+    "body": "Dear {{officialName}},\n\n{{city}} may own the poles and even the cameras near {{shortName}}. Owning the program is a different matter, and the program is where accountability lives: the database, the search interface, the sharing settings, the logs.\n\nA council can point at physical assets and feel it has control. Control means being able to change how the thing behaves, and that authority appears to sit somewhere else entirely.\n\nRemoving the readers around campus and installing none in future would resolve the confusion, and that is what I hope you will support. Would you also tell me which parts of this system {{city}} can change on its own? I am a student here, and I would rather understand the answer than assume it."
+  },
+  {
+    "id": "vendor-080",
+    "angle": "vendor",
+    "subject": "An exit plan should come before an entry decision",
+    "body": "Dear {{officialName}},\n\nNobody signs up for a hosted system without asking how they would leave, at least not in a well run organization. What I cannot tell is whether that conversation ever happened before plate readers appeared around {{shortName}}.\n\nAn exit plan is a governance document. It states who holds the data and what proof of deletion looks like. Without one, {{city}} is committed indefinitely to whatever the platform becomes, and that open ended quality is what worries me.\n\nWhat I would prefer is not needing an exit plan at all, because the cameras near campus come down and none go up. Would you ask whether {{city}} has one, and tell me your position on removal? I am a student here, and I would be grateful for a reply."
+  },
+  {
+    "id": "vendor-081",
+    "angle": "vendor",
+    "subject": "Agencies with no connection to {{city}} searching reads",
+    "body": "Dear {{officialName}},\n\nA shared platform makes distance irrelevant. An agency with no connection to {{city}} can be one click away from a read taken near {{shortName}}, provided the operator of the network permits it and somebody has an account.\n\nWhether that describes the situation here is not something I can determine from outside, and I doubt many residents can. The permission structure belongs to a company, and the company answers to its customers.\n\nWhat I am asking is that {{city}} remove the plate readers around campus and install no new ones. If you would rather keep them, would you obtain and publish the list of agencies able to search reads collected in {{city}}? I am a student here, and knowing that list would matter to me."
+  },
+  {
+    "id": "vendor-082",
+    "angle": "vendor",
+    "subject": "What a change of supplier would mean for the records",
+    "body": "Dear {{officialName}},\n\nPicture {{city}} deciding to change suppliers tomorrow. Where would the existing plate reads go, and who would confirm the old holder no longer has them? Those questions have answers somewhere, and residents are not among the people who know them.\n\nA program whose continuity depends on one company's cooperation is a program the public does not really control. That stays true whether or not anyone ever switches, which is why it worries me now.\n\nI would rather see the readers around {{shortName}} removed and no new ones installed than watch this dependency deepen. Would you tell me whether {{city}} could move or recover its data without the current company's help? I am a student here, and I would be grateful for a straight answer."
+  },
+  {
+    "id": "vendor-083",
+    "angle": "vendor",
+    "subject": "Accuracy claims the public has no way to test",
+    "body": "Dear {{officialName}},\n\nHow well do these cameras read a plate? Any figure you have heard came from the company selling them, and nobody outside that company can reproduce the test.\n\nThat matters because errors do not fall evenly. A misread has consequences for whoever is on the receiving end, and the party that produced the accuracy claim bears none of them.\n\nCameras near {{shortName}} operate on assurances nobody local has verified, which is the part that unsettles me. I hope you will support removing them and installing no replacements. Would you tell me whether {{city}} holds any independent measure of how this system performs? I am a student here, and I would be glad to be shown that such a measure exists."
+  },
+  {
+    "id": "vendor-084",
+    "angle": "vendor",
+    "subject": "A company standing between a student and their record",
+    "body": "Dear {{officialName}},\n\nOrdinarily a person can find out what their government holds about them. Put a contractor in the middle and the proposition gets complicated, since the city may not hold the record and the company owes the person nothing.\n\nThat is the position of every student at {{school}} whose plate has passed one of the {{readersWithinMile}} readers within a mile of campus, mine included.\n\nWhat I am asking is that those readers come down and that no new ones go up around campus. Should you disagree, could you tell me how a student would go about seeing what this system holds about them? I would be grateful for an answer, even a short one, and I thank you for reading this."
+  },
+  {
+    "id": "vendor-085",
+    "angle": "vendor",
+    "subject": "A signature where a vote might have belonged",
+    "body": "Dear {{officialName}},\n\nSome decisions are administrative and some are political, and the line is not always where the paperwork puts it. Authorizing a private company to record the movements of everyone near {{shortName}} looks political to me, however it was processed.\n\nA staff signature is appropriate for buying vehicles. As an instrument for adopting a surveillance capability that will outlast several councils, it seems oddly slight.\n\nWhat I would like from you is a vote to remove the plate readers around campus and to install none in future. Whatever your position, would you tell me at what level this program was approved, and whether you think that was the right level? I am a student here, and I would be grateful for your candid view."
+  },
+  {
+    "id": "vendor-086",
+    "angle": "vendor",
+    "subject": "Every party protected except the people recorded",
+    "body": "Dear {{officialName}},\n\nCommercial relationships are built to absorb commercial risk. Every party to the agreement covering the readers near {{shortName}} has a way to protect itself, and the people in the database have nothing of the sort.\n\nThey did not negotiate, and nobody asked them. Exposure is a byproduct of an arrangement between two entities that will both survive any failure of it, and as a student in that database I find the imbalance hard to accept.\n\nWhat I am asking is that the exposure end, by removing the cameras around campus and installing none. If you would rather manage it, would you tell me what protection exists today for a resident of {{city}} harmed by this system? Thank you for taking the time to read this."
+  },
+  {
+    "id": "vendor-087",
+    "angle": "vendor",
+    "subject": "Even a list of camera locations is hard to get",
+    "body": "Dear {{officialName}},\n\nWhere the readers are is the least sensitive fact about them, and it is often the most closely held. Residents around {{shortName}} tend to piece placement together on their own rather than read it from a public list, and I have spent more time on that than a student should have to.\n\nSecrecy about placement usually traces back to the operator rather than to any local decision. A company with a commercial interest in the technology would rather not publish a map, and a city can inherit that preference without ever debating it.\n\nPublic equipment watching public streets should be publicly listed. Better still, the plate readers around campus should come down with none installed after. Would you support publishing a full list, and would you support removal?"
+  },
+  {
+    "id": "vendor-088",
+    "angle": "vendor",
+    "subject": "Government functions should not run on subscriptions",
+    "body": "Dear {{officialName}},\n\nSubscriptions are relationships of continuing dependence. Applied to email or accounting software, that is fine. For a system recording where residents drive, it puts a recurring invoice between the public and a public function.\n\nStop paying and the capability disappears, along with, possibly, the records. Keep paying and the terms are whatever the holder of the platform says they are at renewal.\n\nNeither branch looks like a good place for {{city}} to stand, and that is what prompted me to write. I hope you will support removing the plate readers around {{shortName}} and installing no new ones. Would you tell me which of those branches you believe {{city}} is on today? I am a student here, and I would be grateful for your reading of it."
+  },
+  {
+    "id": "vendor-089",
+    "angle": "vendor",
+    "subject": "Independent reporting before any renewal is considered",
+    "body": "Dear {{officialName}},\n\nRenewal decisions are the only real leverage a council has, and they come around rarely. Before the next one for the plate readers around {{shortName}}, I would ask you to seek something simple, which is a report about this system produced by someone other than the company selling it.\n\nWithout that, the council votes on the seller's account of the seller's product. Few people would accept the same arrangement in an audit of city finances, and the stakes here are not lower.\n\nMy actual preference is removal. Take the readers near campus out, and add none. If you will not go that far, would you at least commit publicly to independent reporting before any renewal? I am a student here, and I would be grateful either way."
+  },
+  {
+    "id": "vendor-090",
+    "angle": "vendor",
+    "subject": "Questions I have not been able to answer",
+    "body": "Dear {{officialName}},\n\nHere is what I have been unable to work out about the plate readers near {{shortName}}. Who holds the records, and on whose hardware? Can {{city}} inspect the system without the company's cooperation? Does public records law reach the copy the company keeps?\n\nEach of those has an answer. None of them is available to a student willing to spend an afternoon looking, which tells me something about how the program was set up.\n\nMy request does not depend on the answers. Remove the plate readers around campus, and install no new ones. If you would rather resolve the questions first, would you put them to staff and share what comes back? I would be grateful for that, and I thank you for reading."
+  },
+  {
+    "id": "vendor-091",
+    "angle": "vendor",
+    "subject": "A request for custody answers only you can get",
+    "body": "Dear {{officialName}},\n\nStaff answer questions from people in your position that they will not answer from mine, and that asymmetry is the reason for this note.\n\nThe plate readers around {{shortName}} run on infrastructure held by a private company. What I would like established on the record is who holds the data and whether {{city}} can audit the system without the company's help.\n\nMy own position is that the cameras should be removed from around campus and that none should replace them, which would make those questions academic. Would you ask them anyway, and tell me what you learn? I am one student writing on my own behalf, with no organization behind me, and I would be grateful for whatever you are able to find out."
+  },
+  {
+    "id": "vendor-092",
+    "angle": "vendor",
+    "subject": "Who holds the keys to this system",
+    "body": "Dear {{officialName}},\n\nA short question, since your staff are busy. For the plate readers near {{shortName}}, who can switch the system off, and who can read the whole database?\n\nIf either answer is a private company, then {{city}} hosts a surveillance program it does not command. That seems worth knowing before the next budget cycle, and worth explaining to the people being recorded, a student like me among them.\n\nI would like the readers around campus removed and no new ones installed, which is the cleanest answer to all of it. Would you tell me where you stand, and what you find out? Even a brief note would be more than I have managed to gather on my own, and I would appreciate it."
+  },
+  {
+    "id": "vendor-093",
+    "angle": "vendor",
+    "subject": "Depending on a service a company can withdraw",
+    "body": "Dear {{officialName}},\n\nAny hosted service can stop working, and the customer's remedy is contractual rather than practical. A police department that has built routine work around a plate reader platform is exposed to a business decision it does not control.\n\nThat exposure reads to me as an argument against depending on the system at all. A capability that can be withdrawn was never really a public capability.\n\nSo I am asking that {{city}} stop relying on it around {{shortName}}, removing the readers near campus and installing no new ones. Should you disagree, would you tell me what contingency {{city}} has if the platform became unavailable, and who judged that acceptable? I am a student here, and I would be grateful for your thinking on it."
+  },
+  {
+    "id": "vendor-094",
+    "angle": "vendor",
+    "subject": "A demonstration is not the same as deliberation",
+    "body": "Dear {{officialName}},\n\nSales presentations are persuasive by design. A demonstration shows a system finding the car you wanted found, and it never shows the archive of everyone else, because that part makes a poor demo.\n\nDecisions about surveillance taken shortly after a demonstration tend to reflect the demonstration. The questions that matter, about custody and about what happens at the end, do not fit in the room.\n\nAround {{shortName}}, {{readersWithinMile}} readers within a mile are the result, and I am a student living inside that mile. I hope you will support removing them and installing no new ones. Would you tell me what deliberation, if any, {{city}} held that was not shaped by the seller? I would be glad to be told there was more than I can find."
+  },
+  {
+    "id": "vendor-095",
+    "angle": "vendor",
+    "subject": "Recording people who are here only a few years",
+    "body": "Dear {{officialName}},\n\nMany of us around {{school}} are here for a short stretch of our lives. Our movements are recorded on the same terms as anyone else's and stored by a company with no obligation to us at all.\n\nThat combination is worth naming gently. A population with little political voice is entered into a private database, and the people in it have almost no way to ask the holder anything. As a student, that is the part I find genuinely worrying, and I raise it as a request to look again rather than as a grievance.\n\nI hope you will support removing the plate readers around campus and installing none in future. Would you tell me whether the position of the campus population figured into this at all?"
+  },
+  {
+    "id": "vendor-096",
+    "angle": "vendor",
+    "subject": "How a tool quietly became infrastructure",
+    "body": "Dear {{officialName}},\n\nA tool gets picked up and put down. Infrastructure runs continuously and shapes what everything around it assumes. Plate readers near {{shortName}} were probably sold as the first sort of thing and have become the second, with a private company as the operator.\n\nInfrastructure decisions deserve a level of deliberation this one does not appear to have had, including public hearings and a documented way to reverse course. I have looked for signs of either and come up short.\n\nWhat I am asking is that {{city}} treat removal as the correction, taking the readers near campus out and authorizing none to replace them. Would you tell me whether you consider this program infrastructure, and whether it has ever been reviewed as such? I am a student here and would value your view."
+  },
+  {
+    "id": "vendor-097",
+    "angle": "vendor",
+    "subject": "Terms that will bind councils not yet elected",
+    "body": "Dear {{officialName}},\n\nA long commitment made today constrains the people who will hold your seat later. That is normal for a building and questionable for a surveillance capability, because the political judgment behind it may not survive the term of the agreement.\n\nFuture members will inherit the cameras around {{shortName}} along with a relationship the company has every reason to continue. Their room to reconsider will be narrower than yours is now, and that narrowing is what concerns me.\n\nThe kindest thing to do for them may be to close it out. I hope you will support removing the plate readers near campus and approving no new ones. Would you tell me how long the current commitment runs and what ending it would require? I am a student here and would be grateful to know."
+  },
+  {
+    "id": "vendor-098",
+    "angle": "vendor",
+    "subject": "A written answer on custody before any renewal",
+    "body": "Dear {{officialName}},\n\nNothing in this note requires you to agree with me about surveillance. It asks only that {{city}} be able to say, in writing, who holds the plate data collected around {{shortName}} and under what conditions anyone else can reach it.\n\nIf that answer exists, publishing it costs nothing. Should it not exist, then a program running near {{school}} has been operating without anyone establishing the most basic fact about it, and that possibility is what worries me most.\n\nFor my part, I would like the readers around campus removed and no new ones installed. Would you seek a written custody answer before any renewal, and would you share it with the student who asked? I would be grateful, whatever the answer turns out to be."
+  },
+  {
+    "id": "vendor-099",
+    "angle": "vendor",
+    "subject": "What a genuine audit of this system would need",
+    "body": "Dear {{officialName}},\n\nAn audit worth the name would need access to raw logs rather than company summaries, and a reviewer the company cannot turn away. Anything less produces a document that reassures without verifying.\n\nMy guess is that {{city}} has neither, for the plate readers around {{shortName}} or for anything else on that platform. I would be pleased to be wrong, and I would much rather hear it from you than from a marketing page.\n\nThe simpler path is still removal, taking the cameras near campus out of service and installing none in their place. Would you tell me whether {{city}} holds the access a genuine audit would require? I am a student here, and I have asked around without getting close to an answer."
+  },
+  {
+    "id": "vendor-100",
+    "angle": "vendor",
+    "subject": "A public decision that ended up inside a contract",
+    "body": "Dear {{officialName}},\n\nStrip this issue down and one thing is left. A decision about how closely people in {{city}} are watched now lives inside a commercial arrangement, where the public can neither read the terms nor reach the records.\n\nEverything else follows from that. Whatever the merits of the technology, a function this consequential should not rest with a party answering to customers rather than to residents of {{state}}.\n\nMy request is the one I would make to any member of {{role}}, which is to remove the plate readers around {{shortName}} and install no new ones. Would you tell me your position, and whether you will raise the question of custody before the next vote? I am a student here, and I would be grateful for a reply of any length."
+  }
+]

@@ -1,0 +1,895 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Russ Fulcher",
+    "party": "Republican",
+    "phone": "202-225-6611",
+    "url": "https://fulcher.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Michael Simpson",
+    "party": "Republican",
+    "phone": "202-225-5531",
+    "url": "https://simpson.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.risch.senate.gov/public/index.cfm?p=Email",
+   "email": null,
+   "name": "James Risch",
+   "party": "Republican",
+   "phone": "202-224-2752",
+   "url": "https://www.risch.senate.gov"
+  },
+  {
+   "contactForm": "https://www.crapo.senate.gov/contact",
+   "email": null,
+   "name": "Michael Crapo",
+   "party": "Republican",
+   "phone": "202-224-6142",
+   "url": "https://www.crapo.senate.gov"
+  }
+ ],
+ "lower": {
+  "10A": [
+   {
+    "email": "mmoyle@house.idaho.gov",
+    "name": "Mike Moyle",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id43/"
+   }
+  ],
+  "10B": [
+   {
+    "email": "bskaug@house.idaho.gov",
+    "name": "Bruce Skaug",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id6708/"
+   }
+  ],
+  "11A": [
+   {
+    "email": "kmarmon@house.idaho.gov",
+    "name": "Kent Marmon",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2025/id9417/"
+   }
+  ],
+  "11B": [
+   {
+    "email": "lcayler@house.idaho.gov",
+    "name": "Lucas Cayler",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2025/id9418/"
+   }
+  ],
+  "12A": [
+   {
+    "email": "jcornilles@house.idaho.gov",
+    "name": "Jeff Cornilles",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id7802/"
+   }
+  ],
+  "12B": [
+   {
+    "email": "jcrane@house.idaho.gov",
+    "name": "Jaron Crane",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id7803/"
+   }
+  ],
+  "13A": [
+   {
+    "email": "bcrane@house.idaho.gov",
+    "name": "Brent Crane",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id21/"
+   }
+  ],
+  "13B": [
+   {
+    "email": "stanner@house.idaho.gov",
+    "name": "Steve Tanner",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2025/id9419/"
+   }
+  ],
+  "14A": [
+   {
+    "email": "thill@house.idaho.gov",
+    "name": "Ted Hill",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id7859/"
+   }
+  ],
+  "14B": [
+   {
+    "email": "jtanner@house.idaho.gov",
+    "name": "Josh Tanner",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id7860/"
+   }
+  ],
+  "15A": [
+   {
+    "email": "sberch@house.idaho.gov",
+    "name": "Steve Berch",
+    "party": "Democratic",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id5368/"
+   }
+  ],
+  "15B": [
+   {
+    "email": "dhealey@house.idaho.gov",
+    "name": "Dori Healey",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2024/id7861/"
+   }
+  ],
+  "16A": [
+   {
+    "email": "sgalaviz@house.idaho.gov",
+    "name": "So\u00f1ia Galaviz",
+    "party": "Democratic",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id7862/"
+   }
+  ],
+  "16B": [
+   {
+    "email": "ahendersonhaws@house.idaho.gov",
+    "name": "Annie Henderson Haws",
+    "party": "Democratic",
+    "url": "https://legislature.idaho.gov/legislators/membership/2026/id10055/"
+   }
+  ],
+  "17A": [
+   {
+    "email": "jgannon@house.idaho.gov",
+    "name": "John Gannon",
+    "party": "Democratic",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id2144/"
+   }
+  ],
+  "17B": [
+   {
+    "email": "megbert@house.idaho.gov",
+    "name": "Megan Egbert",
+    "party": "Democratic",
+    "url": "https://legislature.idaho.gov/legislators/membership/2024/id9195/"
+   }
+  ],
+  "18A": [
+   {
+    "email": "irubel@house.idaho.gov",
+    "name": "Ilana Rubel",
+    "party": "Democratic",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id2888/"
+   }
+  ],
+  "18B": [
+   {
+    "email": "bgreen@house.idaho.gov",
+    "name": "Brooke Green",
+    "party": "Democratic",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id5374/"
+   }
+  ],
+  "19A": [
+   {
+    "email": "mchurch@house.idaho.gov",
+    "name": "Monica Church",
+    "party": "Democratic",
+    "url": "https://legislature.idaho.gov/legislators/membership/2025/id9422/"
+   }
+  ],
+  "19B": [
+   {
+    "email": "cmathias@house.idaho.gov",
+    "name": "Chris Mathias",
+    "party": "Democratic",
+    "url": "https://legislature.idaho.gov/legislators/membership/2021/id6703/"
+   }
+  ],
+  "1A": [
+   {
+    "email": "msauter@house.idaho.gov",
+    "name": "Mark Sauter",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id7799/"
+   }
+  ],
+  "1B": [
+   {
+    "email": "crasor@house.idaho.gov",
+    "name": "Cornel Rasor",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2024/id9315/"
+   }
+  ],
+  "20A": [
+   {
+    "email": "jpalmer@house.idaho.gov",
+    "name": "Joe Palmer",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id749/"
+   }
+  ],
+  "20B": [
+   {
+    "email": "jholtzclaw@house.idaho.gov",
+    "name": "James Holtzclaw",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id2086/"
+   }
+  ],
+  "21A": [
+   {
+    "email": "jpetzke@house.idaho.gov",
+    "name": "James Petzke",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id7863/"
+   }
+  ],
+  "21B": [
+   {
+    "email": "jehlers@house.idaho.gov",
+    "name": "Jeff Ehlers",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id7805/"
+   }
+  ],
+  "22A": [
+   {
+    "email": "jvanderwoude@house.idaho.gov",
+    "name": "John Vander Woude",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id67/"
+   }
+  ],
+  "22B": [
+   {
+    "email": "jmonks@house.idaho.gov",
+    "name": "Jason Monks",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id2084/"
+   }
+  ],
+  "23A": [
+   {
+    "email": "cbruce@house.idaho.gov",
+    "name": "Chris Bruce",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2025/id9423/"
+   }
+  ],
+  "23B": [
+   {
+    "email": "sdygert@house.idaho.gov",
+    "name": "Shawn Dygert",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2025/id9424/"
+   }
+  ],
+  "24A": [
+   {
+    "email": "chostetler@house.idaho.gov",
+    "name": "Clint Hostetler",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2025/id9425/"
+   }
+  ],
+  "24B": [
+   {
+    "email": "smiller@house.idaho.gov",
+    "name": "Steve Miller",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/house/membershipSingle.cfm?ID=2134"
+   }
+  ],
+  "25A": [
+   {
+    "email": "dhall@house.idaho.gov",
+    "name": "Don Hall",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2026/id10355/"
+   }
+  ],
+  "25B": [
+   {
+    "email": "dleavitt@house.idaho.gov",
+    "name": "David Leavitt",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2025/id9426/"
+   }
+  ],
+  "26A": [
+   {
+    "email": "mpohanka@house.idaho.gov",
+    "name": "Mike Pohanka",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2025/id9427/"
+   }
+  ],
+  "26B": [
+   {
+    "email": "jnelsen@house.idaho.gov",
+    "name": "Jack Nelsen",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id7838/"
+   }
+  ],
+  "27A": [
+   {
+    "email": "dpickett@house.idaho.gov",
+    "name": "Doug Pickett",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id7810/"
+   }
+  ],
+  "27B": [
+   {
+    "email": "chandy@house.idaho.gov",
+    "name": "Clay Handy",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id7811/"
+   }
+  ],
+  "28A": [
+   {
+    "email": "rcheatum@house.idaho.gov",
+    "name": "Rick Cheatum",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id7812/"
+   }
+  ],
+  "28B": [
+   {
+    "email": "dgarner@house.idaho.gov",
+    "name": "Dan Garner",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id7813/"
+   }
+  ],
+  "29A": [
+   {
+    "email": "dmanwaring@house.idaho.gov",
+    "name": "Dustin Manwaring",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id4277/"
+   }
+  ],
+  "29B": [
+   {
+    "email": "tburgoyne@house.idaho.gov",
+    "name": "Tanya Burgoyne",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2025/id9428/"
+   }
+  ],
+  "2A": [
+   {
+    "email": "hscott@house.idaho.gov",
+    "name": "Heather Scott",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id3137/"
+   }
+  ],
+  "2B": [
+   {
+    "email": "dhawkins@house.idaho.gov",
+    "name": "Dale Hawkins",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id7855/"
+   }
+  ],
+  "30A": [
+   {
+    "email": "dcannon@house.idaho.gov",
+    "name": "David Cannon",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id6699/"
+   }
+  ],
+  "30B": [
+   {
+    "email": "bfuhriman@house.idaho.gov",
+    "name": "Ben Fuhriman",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2025/id9429/"
+   }
+  ],
+  "31A": [
+   {
+    "email": "jraymond@house.idaho.gov",
+    "name": "Jerald Raymond",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id5382/"
+   }
+  ],
+  "31B": [
+   {
+    "email": "rfurniss@house.idaho.gov",
+    "name": "Rod Furniss",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id5372/"
+   }
+  ],
+  "32A": [
+   {
+    "email": "smickelsen@house.idaho.gov",
+    "name": "Stephanie Mickelsen",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id7814/"
+   }
+  ],
+  "32B": [
+   {
+    "email": "ebingham@house.idaho.gov",
+    "name": "Erin Bingham",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2026/id10415/"
+   }
+  ],
+  "33A": [
+   {
+    "email": "behardt@house.idaho.gov",
+    "name": "Barbara Ehardt",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id4945/"
+   }
+  ],
+  "33B": [
+   {
+    "email": "merickson@house.idaho.gov",
+    "name": "Marco Erickson",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id6700/"
+   }
+  ],
+  "34A": [
+   {
+    "email": "jweber@house.idaho.gov",
+    "name": "Jon Weber",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id6709/"
+   }
+  ],
+  "34B": [
+   {
+    "email": "braybould@house.idaho.gov",
+    "name": "Britt Raybould",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id5381/"
+   }
+  ],
+  "35A": [
+   {
+    "email": "mveile@house.idaho.gov",
+    "name": "Mike Veile",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2026/id10155/"
+   }
+  ],
+  "35B": [
+   {
+    "email": "joshwheeler@house.idaho.gov",
+    "name": "Josh Wheeler",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id7839/"
+   }
+  ],
+  "3A": [
+   {
+    "email": "vbar@house.idaho.gov",
+    "name": "Vito Barbieri",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id1171/"
+   }
+  ],
+  "3B": [
+   {
+    "email": "jredman@house.idaho.gov",
+    "name": "Jordan Redman",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id7800/"
+   }
+  ],
+  "4A": [
+   {
+    "email": "jalfieri@house.idaho.gov",
+    "name": "Joe Alfieri",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id7857/"
+   }
+  ],
+  "4B": [
+   {
+    "email": "eprice@house.idaho.gov",
+    "name": "Elaine Price",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id7856/"
+   }
+  ],
+  "5A": [
+   {
+    "email": "rmendive@house.idaho.gov",
+    "name": "Ron Mendive",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2021/id2124/"
+   }
+  ],
+  "5B": [
+   {
+    "email": "twisniewski@house.idaho.gov",
+    "name": "Tony Wisniewski",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id5384/"
+   }
+  ],
+  "6A": [
+   {
+    "email": "lmccann@house.idaho.gov",
+    "name": "Lori McCann",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2021/id6955/"
+   }
+  ],
+  "6B": [
+   {
+    "email": "bmitchell@house.idaho.gov",
+    "name": "Brandon Mitchell",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id6704/"
+   }
+  ],
+  "7A": [
+   {
+    "email": "kharris@house.idaho.gov",
+    "name": "Kyle Harris",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2025/id9415/"
+   }
+  ],
+  "7B": [
+   {
+    "email": "cshepherd@house.idaho.gov",
+    "name": "Charlie Shepherd",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id6707/"
+   }
+  ],
+  "8A": [
+   {
+    "email": "rbeiswenger@house.idaho.gov",
+    "name": "Rob Beiswenger",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2025/id9416/"
+   }
+  ],
+  "8B": [
+   {
+    "email": "fthompson@house.idaho.gov",
+    "name": "Faye Thompson",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2025/id9420/"
+   }
+  ],
+  "9A": [
+   {
+    "email": "jshirts@house.idaho.gov",
+    "name": "John Shirts",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2025/id9421/"
+   }
+  ],
+  "9B": [
+   {
+    "email": "jboyle@house.idaho.gov",
+    "name": "Judy Boyle",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2024/id745/"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/id.csv"
+ },
+ "state": "ID",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "jwoodward@senate.idaho.gov",
+    "name": "Jim Woodward",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2021/id5347/"
+   }
+  ],
+  "10": [
+   {
+    "email": "tnichols@senate.idaho.gov",
+    "name": "Tammy Nichols",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id5380/"
+   }
+  ],
+  "11": [
+   {
+    "email": "cblaylock@senate.idaho.gov",
+    "name": "Camille Blaylock",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2025/id9400/"
+   }
+  ],
+  "12": [
+   {
+    "email": "badams@senate.idaho.gov",
+    "name": "Ben Adams",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id6685/"
+   }
+  ],
+  "13": [
+   {
+    "email": "blenney@senate.idaho.gov",
+    "name": "Brian Lenney",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id7778/"
+   }
+  ],
+  "14": [
+   {
+    "email": "sgrow@senate.idaho.gov",
+    "name": "Scott Grow",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id5126/"
+   }
+  ],
+  "15": [
+   {
+    "email": "cgalloway@senate.idaho.gov",
+    "name": "Codi Galloway",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2021/id6702/"
+   }
+  ],
+  "16": [
+   {
+    "email": "arabe@senate.idaho.gov",
+    "name": "Ali Rabe",
+    "party": "Democratic",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id6687/"
+   }
+  ],
+  "17": [
+   {
+    "email": "csemmelroth@senate.idaho.gov",
+    "name": "Carrie Semmelroth",
+    "party": "Democratic",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id7115/"
+   }
+  ],
+  "18": [
+   {
+    "email": "jwardengelking@senate.idaho.gov",
+    "name": "Janie Ward-Engelking",
+    "party": "Democratic",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id2091/"
+   }
+  ],
+  "19": [
+   {
+    "email": "mwintrow@senate.idaho.gov",
+    "name": "Melissa Wintrow",
+    "party": "Democratic",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id3139/"
+   }
+  ],
+  "2": [
+   {
+    "email": "phil.hart@senate.idaho.gov",
+    "name": "Phil Hart",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id26/"
+   }
+  ],
+  "20": [
+   {
+    "email": "jkeyser@senate.idaho.gov",
+    "name": "Josh Keyser",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2025/id9395/"
+   }
+  ],
+  "21": [
+   {
+    "email": "tbernt@senate.idaho.gov",
+    "name": "Treg Bernt",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id7797/"
+   }
+  ],
+  "22": [
+   {
+    "email": "ldenhartog@senate.idaho.gov",
+    "name": "Lori Den Hartog",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id3124/"
+   }
+  ],
+  "23": [
+   {
+    "email": "tlakey@senate.idaho.gov",
+    "name": "Todd Lakey",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id2132/"
+   }
+  ],
+  "24": [
+   {
+    "email": "gzuiderveld@senate.idaho.gov",
+    "name": "Glenneda Zuiderveld",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id7798/"
+   }
+  ],
+  "25": [
+   {
+    "email": "jkohl@senate.idaho.gov",
+    "name": "Josh Kohl",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2025/id9401/"
+   }
+  ],
+  "26": [
+   {
+    "email": "rtaylor@senate.idaho.gov",
+    "name": "Ron Taylor",
+    "party": "Democratic",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id7836/"
+   }
+  ],
+  "27": [
+   {
+    "email": "kanthon@senate.idaho.gov",
+    "name": "Kelly Anthon",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id3524/"
+   }
+  ],
+  "28": [
+   {
+    "email": "jguthrie@senate.idaho.gov",
+    "name": "Jim Guthrie",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id1179/"
+   }
+  ],
+  "29": [
+   {
+    "email": "jruchti@senate.idaho.gov",
+    "name": "James Ruchti",
+    "party": "Democratic",
+    "url": "https://legislature.idaho.gov/legislators/membership/2024/id52/"
+   }
+  ],
+  "3": [
+   {
+    "email": "dougo@senate.idaho.gov",
+    "name": "Doug Okuniewicz",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id6706/"
+   }
+  ],
+  "30": [
+   {
+    "email": "jvanorden@senate.idaho.gov",
+    "name": "Julie VanOrden",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/house/membershipSingle.cfm?ID=2129"
+   }
+  ],
+  "31": [
+   {
+    "email": "vburtenshaw@senate.idaho.gov",
+    "name": "Van Burtenshaw",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id3140/"
+   }
+  ],
+  "32": [
+   {
+    "email": "kcook@senate.idaho.gov",
+    "name": "Kevin Cook",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id6686/"
+   }
+  ],
+  "33": [
+   {
+    "email": "dlent@senate.idaho.gov",
+    "name": "Dave Lent",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id5345/"
+   }
+  ],
+  "34": [
+   {
+    "email": "dricks@senate.idaho.gov",
+    "name": "Doug Ricks",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id5383/"
+   }
+  ],
+  "35": [
+   {
+    "email": "mharris@senate.idaho.gov",
+    "name": "Mark Harris",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id3584/"
+   }
+  ],
+  "4": [
+   {
+    "email": "btoews@senate.idaho.gov",
+    "name": "Ben Toews",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id7795/"
+   }
+  ],
+  "5": [
+   {
+    "email": "cbjerke@senate.idaho.gov",
+    "name": "Carl Bjerke",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id7796/"
+   }
+  ],
+  "6": [
+   {
+    "email": "dforeman@senate.idaho.gov",
+    "name": "Dan Foreman",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id4269/"
+   }
+  ],
+  "7": [
+   {
+    "email": "ccarlson@senate.idaho.gov",
+    "name": "Cindy Carlson",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2023/id7776/"
+   }
+  ],
+  "8": [
+   {
+    "email": "czito@senate.idaho.gov",
+    "name": "Christy Zito",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2021/id4281/"
+   }
+  ],
+  "9": [
+   {
+    "email": "bshippy@senate.idaho.gov",
+    "name": "Brandon Shippy",
+    "party": "Republican",
+    "url": "https://legislature.idaho.gov/legislators/membership/2024/id9215/"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

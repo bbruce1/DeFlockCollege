@@ -1,0 +1,1837 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Nathaniel Moran",
+    "party": "Republican",
+    "phone": "202-225-3035",
+    "url": "https://moran.house.gov"
+   }
+  ],
+  "10": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Michael McCaul",
+    "party": "Republican",
+    "phone": "202-225-2401",
+    "url": "https://mccaul.house.gov"
+   }
+  ],
+  "11": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "August Pfluger",
+    "party": "Republican",
+    "phone": "202-225-3605",
+    "url": "https://pfluger.house.gov"
+   }
+  ],
+  "12": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Craig Goldman",
+    "party": "Republican",
+    "phone": "202-225-5071",
+    "url": "https://craiggoldman.house.gov"
+   }
+  ],
+  "13": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Ronny Jackson",
+    "party": "Republican",
+    "phone": "202-225-3706",
+    "url": "https://jackson.house.gov"
+   }
+  ],
+  "14": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Randy Weber",
+    "party": "Republican",
+    "phone": "202-225-2831",
+    "url": "https://weber.house.gov"
+   }
+  ],
+  "15": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "M\u00f3nica De La Cruz",
+    "party": "Republican",
+    "phone": "202-225-9901",
+    "url": "https://delacruz.house.gov"
+   }
+  ],
+  "16": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Veronica Escobar",
+    "party": "Democrat",
+    "phone": "202-225-4831",
+    "url": "https://escobar.house.gov"
+   }
+  ],
+  "17": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Pete Sessions",
+    "party": "Republican",
+    "phone": "202-225-6105",
+    "url": "https://sessions.house.gov"
+   }
+  ],
+  "18": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Christian Menefee",
+    "party": "Democrat",
+    "phone": "202-225-3816",
+    "url": "https://menefee.house.gov"
+   }
+  ],
+  "19": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Jodey Arrington",
+    "party": "Republican",
+    "phone": "202-225-4005",
+    "url": "https://arrington.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Dan Crenshaw",
+    "party": "Republican",
+    "phone": "202-225-6565",
+    "url": "https://crenshaw.house.gov"
+   }
+  ],
+  "20": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Joaquin Castro",
+    "party": "Democrat",
+    "phone": "202-225-3236",
+    "url": "https://castro.house.gov"
+   }
+  ],
+  "21": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Chip Roy",
+    "party": "Republican",
+    "phone": "202-225-4236",
+    "url": "https://roy.house.gov"
+   }
+  ],
+  "22": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Troy Nehls",
+    "party": "Republican",
+    "phone": "202-225-5951",
+    "url": "https://nehls.house.gov"
+   }
+  ],
+  "24": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Beth Van Duyne",
+    "party": "Republican",
+    "phone": "202-225-6605",
+    "url": "https://vanduyne.house.gov"
+   }
+  ],
+  "25": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Roger Williams",
+    "party": "Republican",
+    "phone": "202-225-9896",
+    "url": "https://williams.house.gov"
+   }
+  ],
+  "26": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Brandon Gill",
+    "party": "Republican",
+    "phone": "202-225-7772",
+    "url": "https://gill.house.gov"
+   }
+  ],
+  "27": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Michael Cloud",
+    "party": "Republican",
+    "phone": "202-225-7742",
+    "url": "https://cloud.house.gov"
+   }
+  ],
+  "28": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Henry Cuellar",
+    "party": "Democrat",
+    "phone": "202-225-1640",
+    "url": "https://cuellar.house.gov"
+   }
+  ],
+  "29": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Sylvia Garcia",
+    "party": "Democrat",
+    "phone": "202-225-1688",
+    "url": "https://sylviagarcia.house.gov"
+   }
+  ],
+  "3": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Keith Self",
+    "party": "Republican",
+    "phone": "202-225-4201",
+    "url": "https://keithself.house.gov"
+   }
+  ],
+  "30": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Jasmine Crockett",
+    "party": "Democrat",
+    "phone": "202-225-8885",
+    "url": "https://crockett.house.gov"
+   }
+  ],
+  "31": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "John Carter",
+    "party": "Republican",
+    "phone": "202-225-3864",
+    "url": "https://carter.house.gov"
+   }
+  ],
+  "32": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Julie Johnson",
+    "party": "Democrat",
+    "phone": "202-225-2231",
+    "url": "https://juliejohnson.house.gov"
+   }
+  ],
+  "33": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Marc Veasey",
+    "party": "Democrat",
+    "phone": "202-225-9897",
+    "url": "https://veasey.house.gov"
+   }
+  ],
+  "34": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Vicente Gonzalez",
+    "party": "Democrat",
+    "phone": "202-225-2531",
+    "url": "https://gonzalez.house.gov"
+   }
+  ],
+  "35": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Gregorio Casar",
+    "party": "Democrat",
+    "phone": "202-225-5645",
+    "url": "https://casar.house.gov"
+   }
+  ],
+  "36": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Brian Babin",
+    "party": "Republican",
+    "phone": "202-225-1555",
+    "url": "https://babin.house.gov"
+   }
+  ],
+  "37": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Lloyd Doggett",
+    "party": "Democrat",
+    "phone": "202-225-4865",
+    "url": "https://doggett.house.gov"
+   }
+  ],
+  "38": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Wesley Hunt",
+    "party": "Republican",
+    "phone": "202-225-5646",
+    "url": "https://hunt.house.gov"
+   }
+  ],
+  "4": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Patrick Fallon",
+    "party": "Republican",
+    "phone": "202-225-6673",
+    "url": "https://fallon.house.gov"
+   }
+  ],
+  "5": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Lance Gooden",
+    "party": "Republican",
+    "phone": "202-225-3484",
+    "url": "https://gooden.house.gov"
+   }
+  ],
+  "6": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Jake Ellzey",
+    "party": "Republican",
+    "phone": "202-225-2002",
+    "url": "https://ellzey.house.gov"
+   }
+  ],
+  "7": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Lizzie Fletcher",
+    "party": "Democrat",
+    "phone": "202-225-2571",
+    "url": "https://fletcher.house.gov"
+   }
+  ],
+  "8": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Morgan Luttrell",
+    "party": "Republican",
+    "phone": "202-225-4901",
+    "url": "https://luttrell.house.gov"
+   }
+  ],
+  "9": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Al Green",
+    "party": "Democrat",
+    "phone": "202-225-7508",
+    "url": "https://algreen.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.cornyn.senate.gov/contact",
+   "email": null,
+   "name": "John Cornyn",
+   "party": "Republican",
+   "phone": "202-224-2934",
+   "url": "https://www.cornyn.senate.gov"
+  },
+  {
+   "contactForm": "https://www.cruz.senate.gov/?p=form&id=16",
+   "email": null,
+   "name": "Ted Cruz",
+   "party": "Republican",
+   "phone": "202-224-5922",
+   "url": "https://www.cruz.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "gary.vandeaver@house.texas.gov",
+    "name": "Gary VanDeaver",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/2540"
+   }
+  ],
+  "10": [
+   {
+    "email": "brian.harrison@house.texas.gov",
+    "name": "Brian Harrison",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/4085"
+   }
+  ],
+  "100": [
+   {
+    "email": "venton.jones@house.texas.gov",
+    "name": "Venton Jones",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/4275"
+   }
+  ],
+  "101": [
+   {
+    "email": "chris.turner@house.texas.gov",
+    "name": "Chris Turner",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/4680"
+   }
+  ],
+  "102": [
+   {
+    "email": "ana-maria.ramos@house.texas.gov",
+    "name": "Ana-Maria Rodriguez Ramos",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/3735"
+   }
+  ],
+  "103": [
+   {
+    "email": "rafael.anchia@house.texas.gov",
+    "name": "Rafael Anch\u00eda",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/2150"
+   }
+  ],
+  "104": [
+   {
+    "email": "jessica.gonzalez@house.texas.gov",
+    "name": "Jessica Gonz\u00e1lez",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/3335"
+   }
+  ],
+  "105": [
+   {
+    "email": "terry.meza@house.texas.gov",
+    "name": "Terry Meza",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/3455"
+   }
+  ],
+  "106": [
+   {
+    "email": "jared.patterson@house.texas.gov",
+    "name": "Jared Patterson",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/3655"
+   }
+  ],
+  "107": [
+   {
+    "email": "linda.garcia@house.texas.gov",
+    "name": "Linda Garcia",
+    "party": "Democratic",
+    "url": "https://www.house.texas.gov/members/107"
+   }
+  ],
+  "108": [
+   {
+    "email": "morgan.meyer@house.texas.gov",
+    "name": "Morgan Meyer",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/3075"
+   }
+  ],
+  "109": [
+   {
+    "email": "aicha.davis@house.texas.gov",
+    "name": "Aicha Davis",
+    "party": "Democratic",
+    "url": "https://www.house.texas.gov/members/109"
+   }
+  ],
+  "11": [
+   {
+    "email": "joanne.shofner@house.texas.gov",
+    "name": "Joanne Shofner",
+    "party": "Republican",
+    "url": "https://www.house.texas.gov/members/11"
+   }
+  ],
+  "110": [
+   {
+    "email": "toni.rose@house.texas.gov",
+    "name": "Toni Rose",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/2555"
+   }
+  ],
+  "111": [
+   {
+    "email": "yvonne.davis@house.texas.gov",
+    "name": "Yvonne Davis",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/2625"
+   }
+  ],
+  "112": [
+   {
+    "email": "angie.button@house.texas.gov",
+    "name": "Angie Button",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/2510"
+   }
+  ],
+  "113": [
+   {
+    "email": "rhetta.bowers@house.texas.gov",
+    "name": "Rhetta Bowers",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/3565"
+   }
+  ],
+  "114": [
+   {
+    "email": "john.bryant@house.texas.gov",
+    "name": "John Bryant",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/4120"
+   }
+  ],
+  "115": [
+   {
+    "email": "cassandra.garciahernandez@house.texas.gov",
+    "name": "Cas Garcia Hernandez",
+    "party": "Democratic",
+    "url": "https://www.house.texas.gov/members/115"
+   }
+  ],
+  "116": [
+   {
+    "email": "trey.martinezfischer@house.texas.gov",
+    "name": "Trey Martinez Fischer",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/2835"
+   }
+  ],
+  "117": [
+   {
+    "email": "philip.cortez@house.texas.gov",
+    "name": "Philip Cortez",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/2365"
+   }
+  ],
+  "118": [
+   {
+    "email": "john.lujan@house.texas.gov",
+    "name": "John Lujan",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/3145"
+   }
+  ],
+  "119": [
+   {
+    "email": "elizabeth.campos@house.texas.gov",
+    "name": "Liz Campos",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/119"
+   }
+  ],
+  "12": [
+   {
+    "email": "trey.wharton@house.texas.gov",
+    "name": "Trey Wharton",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/4795"
+   }
+  ],
+  "120": [
+   {
+    "email": "barbara.gervin-hawkins@house.texas.gov",
+    "name": "Barbara Gervin-Hawkins",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/120"
+   }
+  ],
+  "121": [
+   {
+    "email": "marc.lahood@house.texas.gov",
+    "name": "Marc LaHood",
+    "party": "Republican",
+    "url": "https://www.house.texas.gov/members/121"
+   }
+  ],
+  "122": [
+   {
+    "email": "mark.dorazio@house.texas.gov",
+    "name": "Mark Dorazio",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/122"
+   }
+  ],
+  "123": [
+   {
+    "email": "diego.bernal@house.texas.gov",
+    "name": "Diego Bernal",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/3110"
+   }
+  ],
+  "124": [
+   {
+    "email": "josey.garcia@house.texas.gov",
+    "name": "Josey Garcia",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/124"
+   }
+  ],
+  "125": [
+   {
+    "email": "ray.lopez@house.texas.gov",
+    "name": "Ray Lopez",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/3915"
+   }
+  ],
+  "126": [
+   {
+    "email": "sam.harless@house.texas.gov",
+    "name": "Sam Harless",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/3775"
+   }
+  ],
+  "127": [
+   {
+    "email": "charles.cunningham@house.texas.gov",
+    "name": "Charles Cunningham",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/4130"
+   }
+  ],
+  "128": [
+   {
+    "email": "briscoe.cain@house.texas.gov",
+    "name": "Briscoe Cain",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/3265"
+   }
+  ],
+  "129": [
+   {
+    "email": "dennis.paul@house.texas.gov",
+    "name": "Dennis Paul",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/3090"
+   }
+  ],
+  "13": [
+   {
+    "email": "angelia.orr@house.texas.gov",
+    "name": "Angelia Orr",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/4340"
+   }
+  ],
+  "130": [
+   {
+    "email": "tom.oliverson@house.texas.gov",
+    "name": "Tom Oliverson",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/3535"
+   }
+  ],
+  "131": [
+   {
+    "email": "alma.allen@house.texas.gov",
+    "name": "Alma Allen",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/2100"
+   }
+  ],
+  "132": [
+   {
+    "email": "mike.schofield@house.texas.gov",
+    "name": "Mike Schofield",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/3095"
+   }
+  ],
+  "133": [
+   {
+    "email": "mano.deayala@house.texas.gov",
+    "name": "Mano DeAyala",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/4135"
+   }
+  ],
+  "134": [
+   {
+    "email": "ann.johnson@house.texas.gov",
+    "name": "Ann Johnson",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/134"
+   }
+  ],
+  "135": [
+   {
+    "email": "jon.rosenthal@house.texas.gov",
+    "name": "Jon Rosenthal",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/135"
+   }
+  ],
+  "136": [
+   {
+    "email": "john.bucy@house.texas.gov",
+    "name": "John Bucy",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/136"
+   }
+  ],
+  "137": [
+   {
+    "email": "gene.wu@house.texas.gov",
+    "name": "Gene Wu",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/2865"
+   }
+  ],
+  "138": [
+   {
+    "email": "lacey.hull@house.texas.gov",
+    "name": "Lacey Hull",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/3975"
+   }
+  ],
+  "139": [
+   {
+    "email": "charlene.wardjohnson@house.texas.gov",
+    "name": "Charlene Ward Johnson",
+    "party": "Democratic",
+    "url": "https://www.house.texas.gov/members/139"
+   }
+  ],
+  "14": [
+   {
+    "email": "paul.dyson@house.texas.gov",
+    "name": "Paul Dyson",
+    "party": "Republican",
+    "url": "https://www.house.texas.gov/members/14"
+   }
+  ],
+  "140": [
+   {
+    "email": "armando.walle@house.texas.gov",
+    "name": "Armando Walle",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/4930"
+   }
+  ],
+  "141": [
+   {
+    "email": "senfronia.thompson@house.texas.gov",
+    "name": "Senfronia Thompson",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/4630"
+   }
+  ],
+  "142": [
+   {
+    "email": "harold.dutton@house.texas.gov",
+    "name": "Harold Dutton",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/2650"
+   }
+  ],
+  "143": [
+   {
+    "email": "ana.hernandez@house.texas.gov",
+    "name": "Ana Hernandez",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/3155"
+   }
+  ],
+  "144": [
+   {
+    "email": "maryann.perez@house.texas.gov",
+    "name": "Mary Ann Perez",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/2535"
+   }
+  ],
+  "145": [
+   {
+    "email": "christina.morales@house.texas.gov",
+    "name": "Christina Morales",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/3910"
+   }
+  ],
+  "146": [
+   {
+    "email": "laurena.simmons@house.texas.gov",
+    "name": "Lauren Simmons",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/4765"
+   }
+  ],
+  "147": [
+   {
+    "email": "jolanda.jones@house.texas.gov",
+    "name": "Jo Jones",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/4105"
+   }
+  ],
+  "148": [
+   {
+    "email": "penny.moralesshaw@house.texas.gov",
+    "name": "Penny Morales Shaw",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/4035"
+   }
+  ],
+  "149": [
+   {
+    "email": "hubert.vo@house.texas.gov",
+    "name": "Hubert Vo",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/4900"
+   }
+  ],
+  "15": [
+   {
+    "email": "steve.toth@house.texas.gov",
+    "name": "Steve Toth",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/2825"
+   }
+  ],
+  "150": [
+   {
+    "email": "valoree.swanson@house.texas.gov",
+    "name": "Valoree Swanson",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/3425"
+   }
+  ],
+  "16": [
+   {
+    "email": "will.metcalf@house.texas.gov",
+    "name": "Will Metcalf",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/2900"
+   }
+  ],
+  "17": [
+   {
+    "email": "stan.gerdes@house.texas.gov",
+    "name": "Stan Gerdes",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/4195"
+   }
+  ],
+  "18": [
+   {
+    "email": "janis.holt@house.texas.gov",
+    "name": "Janis Holt",
+    "party": "Republican",
+    "url": "https://www.house.texas.gov/members/18"
+   }
+  ],
+  "19": [
+   {
+    "email": "ellen.troxclair@house.texas.gov",
+    "name": "Ellen Troxclair",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/19"
+   }
+  ],
+  "2": [
+   {
+    "email": "brent.money@house.texas.gov",
+    "name": "Brent Money",
+    "party": "Republican",
+    "url": "https://www.house.texas.gov/members/2"
+   }
+  ],
+  "20": [
+   {
+    "email": "terry.wilson@house.texas.gov",
+    "name": "Terry Wilson",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/3525"
+   }
+  ],
+  "21": [
+   {
+    "email": "dade.phelan@house.texas.gov",
+    "name": "Dade Phelan",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/2905"
+   }
+  ],
+  "22": [
+   {
+    "email": "christian.manuel@house.texas.gov",
+    "name": "Christian Manuel",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/4255"
+   }
+  ],
+  "23": [
+   {
+    "email": "terri.leo-wilson@house.texas.gov",
+    "name": "Terri Leo-Wilson",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/4290"
+   }
+  ],
+  "24": [
+   {
+    "email": "greg.bonnen@house.texas.gov",
+    "name": "Greg Bonnen",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/24"
+   }
+  ],
+  "25": [
+   {
+    "email": "cody.vasut@house.texas.gov",
+    "name": "Cody Vasut",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/4065"
+   }
+  ],
+  "26": [
+   {
+    "email": "matt.morgan@house.texas.gov",
+    "name": "Matt Morgan",
+    "party": "Republican",
+    "url": "https://www.house.texas.gov/members/26"
+   }
+  ],
+  "27": [
+   {
+    "email": "ron.reynolds@house.texas.gov",
+    "name": "Ron Reynolds",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/2040"
+   }
+  ],
+  "28": [
+   {
+    "email": "gary.gates@house.texas.gov",
+    "name": "Gary Gates",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/3920"
+   }
+  ],
+  "29": [
+   {
+    "email": "jeff.barry@house.texas.gov",
+    "name": "Jeff Barry",
+    "party": "Republican",
+    "url": "https://www.house.texas.gov/members/29"
+   }
+  ],
+  "3": [
+   {
+    "email": "cecil.bell@house.texas.gov",
+    "name": "Cecil Bell",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/2335"
+   }
+  ],
+  "30": [
+   {
+    "email": "aj.louderback@house.texas.gov",
+    "name": "A.J. Louderback",
+    "party": "Republican",
+    "url": "https://ajlouderback.com/"
+   }
+  ],
+  "31": [
+   {
+    "email": "ryan.guillen@house.texas.gov",
+    "name": "Ryan Guillen",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/3045"
+   }
+  ],
+  "32": [
+   {
+    "email": "todd.hunter@house.texas.gov",
+    "name": "Todd Hunter",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/3365"
+   }
+  ],
+  "33": [
+   {
+    "email": "katrina.pierson@house.texas.gov",
+    "name": "Katrina Pierson",
+    "party": "Republican",
+    "url": "https://www.house.texas.gov/members/33"
+   }
+  ],
+  "34": [
+   {
+    "email": "denise.villalobos@house.texas.gov",
+    "name": "Denise Villalobos",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/34"
+   }
+  ],
+  "35": [
+   {
+    "email": "oscar.longoria@house.texas.gov",
+    "name": "Oscar Longoria",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/2485"
+   }
+  ],
+  "36": [
+   {
+    "email": "sergio.munoz@house.texas.gov",
+    "name": "Sergio Mu\u00f1oz",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/2060"
+   }
+  ],
+  "37": [
+   {
+    "email": "janie.lopez@house.texas.gov",
+    "name": "Janie Lopez",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/37"
+   }
+  ],
+  "38": [
+   {
+    "email": "erin.gamez@house.texas.gov",
+    "name": "Erin G\u00e1mez",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/38"
+   }
+  ],
+  "39": [
+   {
+    "email": "mando.martinez@house.texas.gov",
+    "name": "Mando Martinez",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/3780"
+   }
+  ],
+  "4": [
+   {
+    "email": "keith.bell@house.texas.gov",
+    "name": "Keith Bell",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/3695"
+   }
+  ],
+  "40": [
+   {
+    "email": "terry.canales@house.texas.gov",
+    "name": "Terry Canales",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/2340"
+   }
+  ],
+  "41": [
+   {
+    "email": "bobby.guerra@house.texas.gov",
+    "name": "Bobby Guerra",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/2325"
+   }
+  ],
+  "42": [
+   {
+    "email": "richard.raymond@house.texas.gov",
+    "name": "Richard Raymond",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/4215"
+   }
+  ],
+  "43": [
+   {
+    "email": "jm.lozano@house.texas.gov",
+    "name": "J.M. Lozano",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/2065"
+   }
+  ],
+  "44": [
+   {
+    "email": "alan.schoolcraft@house.texas.gov",
+    "name": "Alan Schoolcraft",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/4745"
+   }
+  ],
+  "45": [
+   {
+    "email": "erin.zwiener@house.texas.gov",
+    "name": "Erin Zwiener",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/3710"
+   }
+  ],
+  "46": [
+   {
+    "email": "sheryl.cole@house.texas.gov",
+    "name": "Sheryl Cole",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/3625"
+   }
+  ],
+  "47": [
+   {
+    "email": "vikki.goodwin@house.texas.gov",
+    "name": "Vikki Goodwin",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/3820"
+   }
+  ],
+  "48": [
+   {
+    "email": "donna.howard@house.texas.gov",
+    "name": "Donna Howard",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/3310"
+   }
+  ],
+  "49": [
+   {
+    "email": "gina.hinojosa@house.texas.gov",
+    "name": "Gina Hinojosa",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/3210"
+   }
+  ],
+  "5": [
+   {
+    "email": "cole.hefner@house.texas.gov",
+    "name": "Cole Hefner",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/3505"
+   }
+  ],
+  "50": [
+   {
+    "email": "james.talarico@house.texas.gov",
+    "name": "James Talarico",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/3685"
+   }
+  ],
+  "51": [
+   {
+    "email": "lulu.flores@house.texas.gov",
+    "name": "Lulu Flores",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/4150"
+   }
+  ],
+  "52": [
+   {
+    "email": "caroline.harrisdavila@house.texas.gov",
+    "name": "Caroline Harris Davila",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/4205"
+   }
+  ],
+  "53": [
+   {
+    "email": "wes.virdell@house.texas.gov",
+    "name": "Wes Virdell",
+    "party": "Republican",
+    "url": "https://www.house.texas.gov/members/53"
+   }
+  ],
+  "54": [
+   {
+    "email": "brad.buckley@house.texas.gov",
+    "name": "Brad Buckley",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/54"
+   }
+  ],
+  "55": [
+   {
+    "email": "hillary.hickland@house.texas.gov",
+    "name": "Hillary Hickland",
+    "party": "Republican",
+    "url": "https://www.house.texas.gov/members/55"
+   }
+  ],
+  "56": [
+   {
+    "email": "pat.curry@house.texas.gov",
+    "name": "Pat Curry",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/4415"
+   }
+  ],
+  "57": [
+   {
+    "email": "richard.hayes@house.texas.gov",
+    "name": "Richard Hayes",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/4165"
+   }
+  ],
+  "58": [
+   {
+    "email": "helen.kerwin@house.texas.gov",
+    "name": "Helen Kerwin",
+    "party": "Republican",
+    "url": "https://www.house.texas.gov/members/58"
+   }
+  ],
+  "59": [
+   {
+    "email": "shelby.slawson@house.texas.gov",
+    "name": "Shelby Slawson",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/4055"
+   }
+  ],
+  "6": [
+   {
+    "email": "daniel.alders@house.texas.gov",
+    "name": "Daniel Alders",
+    "party": "Republican",
+    "url": "https://www.house.texas.gov/members/4395"
+   }
+  ],
+  "60": [
+   {
+    "email": "mike.olcott@house.texas.gov",
+    "name": "Mike Olcott",
+    "party": "Republican",
+    "url": "https://www.house.texas.gov/members/60"
+   }
+  ],
+  "61": [
+   {
+    "email": "keresa.richardson@house.texas.gov",
+    "name": "Keresa Richardson",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/61"
+   }
+  ],
+  "62": [
+   {
+    "email": "shelley.luther@house.texas.gov",
+    "name": "Shelley Luther",
+    "party": "Republican",
+    "url": "https://www.house.texas.gov/members/62"
+   }
+  ],
+  "63": [
+   {
+    "email": "ben.bumgarner@house.texas.gov",
+    "name": "Ben Bumgarner",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/63"
+   }
+  ],
+  "64": [
+   {
+    "email": "andy.hopper@house.texas.gov",
+    "name": "Andy Hopper",
+    "party": "Republican",
+    "url": "https://www.house.texas.gov/members/64"
+   }
+  ],
+  "65": [
+   {
+    "email": "mitch.little@house.texas.gov",
+    "name": "Mitch Little",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/4615"
+   }
+  ],
+  "66": [
+   {
+    "email": "matt.shaheen@house.texas.gov",
+    "name": "Matt Shaheen",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/66"
+   }
+  ],
+  "67": [
+   {
+    "email": "jeff.leach@house.texas.gov",
+    "name": "Jeff Leach",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/2475"
+   }
+  ],
+  "68": [
+   {
+    "email": "david.spiller@house.texas.gov",
+    "name": "David Spiller",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/4075"
+   }
+  ],
+  "69": [
+   {
+    "email": "james.frank@house.texas.gov",
+    "name": "James Frank",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/2385"
+   }
+  ],
+  "7": [
+   {
+    "email": "jay.dean@house.texas.gov",
+    "name": "Jay Dean",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/3515"
+   }
+  ],
+  "70": [
+   {
+    "email": "mihaela.plesa@house.texas.gov",
+    "name": "Mihaela Ple\u0219a",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/70"
+   }
+  ],
+  "71": [
+   {
+    "email": "stan.lambert@house.texas.gov",
+    "name": "Stan Lambert",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/3225"
+   }
+  ],
+  "72": [
+   {
+    "email": "drew.darby@house.texas.gov",
+    "name": "Drew Darby",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/2645"
+   }
+  ],
+  "73": [
+   {
+    "email": "carrie.isaac@house.texas.gov",
+    "name": "Carrie Isaac",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/73"
+   }
+  ],
+  "74": [
+   {
+    "email": "eddie.morales@house.texas.gov",
+    "name": "Eddie Morales",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/4000"
+   }
+  ],
+  "75": [
+   {
+    "email": "mary.gonzalez@house.texas.gov",
+    "name": "Mary Gonz\u00e1lez",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/2410"
+   }
+  ],
+  "76": [
+   {
+    "email": "suleman.lalani@house.texas.gov",
+    "name": "Suleman Lalani",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/4285"
+   }
+  ],
+  "77": [
+   {
+    "email": "vincent.perez@house.texas.gov",
+    "name": "Vince Perez",
+    "party": "Democratic",
+    "url": "https://www.house.texas.gov/members/77"
+   }
+  ],
+  "78": [
+   {
+    "email": "joe.moody@house.texas.gov",
+    "name": "Joe Moody",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/3850"
+   }
+  ],
+  "79": [
+   {
+    "email": "claudia.ordaz@house.texas.gov",
+    "name": "Claudia Ordaz",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/4015"
+   }
+  ],
+  "8": [
+   {
+    "email": "cody.harris@house.texas.gov",
+    "name": "Cody Harris",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/3580"
+   }
+  ],
+  "80": [
+   {
+    "email": "don.mclaughlin@house.texas.gov",
+    "name": "Don McLaughlin",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/4655"
+   }
+  ],
+  "81": [
+   {
+    "email": "brooks.landgraf@house.texas.gov",
+    "name": "Brooks Landgraf",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/3040"
+   }
+  ],
+  "82": [
+   {
+    "email": "tom.craddick@house.texas.gov",
+    "name": "Tom Craddick",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/2610"
+   }
+  ],
+  "83": [
+   {
+    "email": "dustin.burrows@house.texas.gov",
+    "name": "Dustin Burrows",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/3055"
+   }
+  ],
+  "84": [
+   {
+    "email": "carl.tepper@house.texas.gov",
+    "name": "Carl Tepper",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/4360"
+   }
+  ],
+  "85": [
+   {
+    "email": "stan.kitzman@house.texas.gov",
+    "name": "Stan Kitzman",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/4280"
+   }
+  ],
+  "86": [
+   {
+    "email": "john.smithee@house.texas.gov",
+    "name": "John Smithee",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/4530"
+   }
+  ],
+  "87": [
+   {
+    "email": "caroline.fairly@house.texas.gov",
+    "name": "Caroline Fairly",
+    "party": "Republican",
+    "url": "https://www.house.texas.gov/members/87"
+   }
+  ],
+  "88": [
+   {
+    "email": "ken.king@house.texas.gov",
+    "name": "Ken King",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/2455"
+   }
+  ],
+  "89": [
+   {
+    "email": "candy.noble@house.texas.gov",
+    "name": "Candy Noble",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/3740"
+   }
+  ],
+  "9": [
+   {
+    "email": "trent.ashby@house.texas.gov",
+    "name": "Trent Ashby",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/2330"
+   }
+  ],
+  "90": [
+   {
+    "email": "ramon.romero@house.texas.gov",
+    "name": "Ramon Romero",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/3060"
+   }
+  ],
+  "91": [
+   {
+    "email": "david.lowe@house.texas.gov",
+    "name": "David Lowe",
+    "party": "Republican",
+    "url": "https://www.house.texas.gov/members/91"
+   }
+  ],
+  "92": [
+   {
+    "email": "salman.bhojani@house.texas.gov",
+    "name": "Salman Bhojani",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/92"
+   }
+  ],
+  "94": [
+   {
+    "email": "tony.tinderholt@house.texas.gov",
+    "name": "Tony Tinderholt",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/3065"
+   }
+  ],
+  "95": [
+   {
+    "email": "nicole.collier@house.texas.gov",
+    "name": "Nicole Collier",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/95"
+   }
+  ],
+  "96": [
+   {
+    "email": "david.cook@house.texas.gov",
+    "name": "David Cook",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/3960"
+   }
+  ],
+  "97": [
+   {
+    "email": "john.mcqueeney@house.texas.gov",
+    "name": "John McQueeney",
+    "party": "Republican",
+    "url": "https://www.house.texas.gov/members/97"
+   }
+  ],
+  "98": [
+   {
+    "email": "giovanni.capriglione@house.texas.gov",
+    "name": "Giovanni Capriglione",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/98"
+   }
+  ],
+  "99": [
+   {
+    "email": "charlie.geren@house.texas.gov",
+    "name": "Charlie Geren",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/2945"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/tx.csv"
+ },
+ "state": "TX",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "bryan.hughes@senate.texas.gov",
+    "name": "Bryan Hughes",
+    "party": "Republican",
+    "url": "https://senate.texas.gov/member.php?d=1"
+   }
+  ],
+  "10": [
+   {
+    "email": "phil.king@senate.texas.gov",
+    "name": "Phil King",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/member-page/?district=61"
+   }
+  ],
+  "11": [
+   {
+    "email": "mayes.middleton@senate.texas.gov",
+    "name": "Mayes Middleton",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/member-page/?district=23"
+   }
+  ],
+  "12": [
+   {
+    "email": "tan.parker@senate.texas.gov",
+    "name": "Tan Parker",
+    "party": "Republican",
+    "url": "https://house.texas.gov/members/member-page/?district=63"
+   }
+  ],
+  "13": [
+   {
+    "email": "borris.miles@senate.texas.gov",
+    "name": "Borris Miles",
+    "party": "Democratic",
+    "url": "https://senate.texas.gov/member.php?d=13"
+   }
+  ],
+  "14": [
+   {
+    "email": "sarah.eckhardt@senate.texas.gov",
+    "name": "Sarah Eckhardt",
+    "party": "Democratic",
+    "url": "https://senate.texas.gov/member.php?d=14"
+   }
+  ],
+  "15": [
+   {
+    "email": "molly.cook@senate.texas.gov",
+    "name": "Molly Cook",
+    "party": "Democratic",
+    "url": "https://senate.texas.gov/member.php?d=15"
+   }
+  ],
+  "16": [
+   {
+    "email": "nathan.johnson@senate.texas.gov",
+    "name": "Nathan Johnson",
+    "party": "Democratic",
+    "url": "https://senate.texas.gov/member.php?d=16"
+   }
+  ],
+  "17": [
+   {
+    "email": "joan.huffman@senate.texas.gov",
+    "name": "Joan Huffman",
+    "party": "Republican",
+    "url": "https://senate.texas.gov/member.php?d=17"
+   }
+  ],
+  "18": [
+   {
+    "email": "lois.kolkhorst@senate.texas.gov",
+    "name": "Lois Kolkhorst",
+    "party": "Republican",
+    "url": "https://senate.texas.gov/member.php?d=18"
+   }
+  ],
+  "19": [
+   {
+    "email": "roland.gutierrez@senate.texas.gov",
+    "name": "Roland Gutierrez",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/member-page/?district=119"
+   }
+  ],
+  "2": [
+   {
+    "email": "bob.hall@senate.texas.gov",
+    "name": "Bob Hall",
+    "party": "Republican",
+    "url": "https://senate.texas.gov/member.php?d=2"
+   }
+  ],
+  "20": [
+   {
+    "email": "juan.hinojosa@senate.texas.gov",
+    "name": "Chuy Hinojosa",
+    "party": "Democratic",
+    "url": "https://senate.texas.gov/member.php?d=20"
+   }
+  ],
+  "21": [
+   {
+    "email": "judith.zaffirini@senate.texas.gov",
+    "name": "Judith Zaffirini",
+    "party": "Democratic",
+    "url": "https://senate.texas.gov/member.php?d=21"
+   }
+  ],
+  "23": [
+   {
+    "email": "royce.west@senate.texas.gov",
+    "name": "Royce West",
+    "party": "Democratic",
+    "url": "https://senate.texas.gov/member.php?d=23"
+   }
+  ],
+  "24": [
+   {
+    "email": "pete.flores@senate.texas.gov",
+    "name": "Pete Flores",
+    "party": "Republican",
+    "url": "https://senate.texas.gov/member.php?d=24"
+   }
+  ],
+  "25": [
+   {
+    "email": "donna.campbell@senate.texas.gov",
+    "name": "Donna Campbell",
+    "party": "Republican",
+    "url": "https://senate.texas.gov/member.php?d=25"
+   }
+  ],
+  "26": [
+   {
+    "email": "jose.menendez@senate.texas.gov",
+    "name": "Jos\u00e9 Men\u00e9ndez",
+    "party": "Democratic",
+    "url": "https://senate.texas.gov/member.php?d=26"
+   }
+  ],
+  "27": [
+   {
+    "email": "adam.hinojosa@senate.texas.gov",
+    "name": "Adam Hinojosa",
+    "party": "Republican",
+    "url": "https://senate.texas.gov/member.php?d=27"
+   }
+  ],
+  "28": [
+   {
+    "email": "charles.perry@senate.texas.gov",
+    "name": "Charles Perry",
+    "party": "Republican",
+    "url": "https://senate.texas.gov/member.php?d=28"
+   }
+  ],
+  "29": [
+   {
+    "email": "cesar.blanco@senate.texas.gov",
+    "name": "C\u00e9sar Blanco",
+    "party": "Democratic",
+    "url": "https://house.texas.gov/members/member-page/?district=76"
+   }
+  ],
+  "3": [
+   {
+    "email": "robert.nichols@senate.texas.gov",
+    "name": "Robert Nichols",
+    "party": "Republican",
+    "url": "https://senate.texas.gov/member.php?d=3"
+   }
+  ],
+  "30": [
+   {
+    "email": "brent.hagenbuch@senate.texas.gov",
+    "name": "Brent Hagenbuch",
+    "party": "Republican",
+    "url": "https://www.senate.texas.gov/member.php?d=30"
+   }
+  ],
+  "31": [
+   {
+    "email": "kevin.sparks@senate.texas.gov",
+    "name": "Kevin Sparks",
+    "party": "Republican",
+    "url": "https://senate.texas.gov/member.php?d=31"
+   }
+  ],
+  "4": [
+   {
+    "email": "brett.ligon@senate.texas.gov",
+    "name": "Brett Ligon",
+    "party": "Republican",
+    "url": "https://senate.texas.gov/member.php?d=4"
+   }
+  ],
+  "5": [
+   {
+    "email": "charles.schwertner@senate.texas.gov",
+    "name": "Charles Schwertner",
+    "party": "Republican",
+    "url": "https://senate.texas.gov/member.php?d=5"
+   }
+  ],
+  "6": [
+   {
+    "email": "carol.alvarado@senate.texas.gov",
+    "name": "Carol Alvarado",
+    "party": "Democratic",
+    "url": "https://senate.texas.gov/member.php?d=6"
+   }
+  ],
+  "7": [
+   {
+    "email": "paul.bettencourt@senate.texas.gov",
+    "name": "Paul Bettencourt",
+    "party": "Republican",
+    "url": "https://senate.texas.gov/member.php?d=7"
+   }
+  ],
+  "8": [
+   {
+    "email": "angela.paxton@senate.texas.gov",
+    "name": "Angela Paxton",
+    "party": "Republican",
+    "url": "https://senate.texas.gov/member.php?d=8"
+   }
+  ],
+  "9": [
+   {
+    "email": "taylor.rehmet@senate.texas.gov",
+    "name": "Taylor Rehmet",
+    "party": "Democratic",
+    "url": "https://senate.texas.gov/member.php?d=9"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

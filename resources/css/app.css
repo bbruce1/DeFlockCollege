@@ -80,7 +80,10 @@
 
   ::selection { background: var(--color-net); color: var(--color-void); }
 
-  :where(a, button, input, [tabindex]):focus-visible {
+  /* `select` and `textarea` belong here too: the create and edit forms both
+     use them, and leaving them out gave two controls in the same form a
+     different focus ring from every other one. */
+  :where(a, button, input, select, textarea, [tabindex]):focus-visible {
     outline: 2px solid var(--color-net);
     outline-offset: 3px;
   }
@@ -157,4 +160,125 @@
     );
     opacity: 0.45;
   }
+}
+
+/*
+ * Chapter buttons.
+ *
+ * One definition for every pressable thing on a chapter page. Inline styles
+ * cannot express hover, active, or focus, so these live here and take their
+ * colours from whichever skin is mounted above them.
+ *
+ * The press is a real downward move rather than a colour change, because on a
+ * page whose whole purpose is to get one thing clicked, the click should feel
+ * like it happened.
+ */
+.cbtn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.6rem;
+    padding: 0.9rem 1.5rem;
+    border: 1px solid transparent;
+    border-radius: var(--radius, 0);
+    font-family: var(--display);
+    font-weight: 700;
+    font-size: 0.98rem;
+    line-height: 1;
+    text-decoration: none;
+    cursor: pointer;
+    transition:
+        transform 120ms ease,
+        box-shadow 120ms ease,
+        border-color 120ms ease,
+        opacity 120ms ease;
+}
+
+.cbtn--primary {
+    background: var(--accent);
+    color: var(--accent-ink);
+    border-color: var(--accent);
+}
+
+.cbtn--quiet {
+    background: transparent;
+    color: var(--ink);
+    border-color: var(--line);
+}
+
+.cbtn--large {
+    padding: 1.05rem 1.9rem;
+    font-size: clamp(1rem, 2.6vw, 1.2rem);
+}
+
+.cbtn:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 6px 18px color-mix(in srgb, var(--accent) 30%, transparent);
+}
+
+.cbtn--quiet:hover {
+    border-color: var(--accent);
+}
+
+/* Pressed: settles below its resting position and loses its lift. */
+.cbtn:active {
+    transform: translateY(1px) scale(0.985);
+    box-shadow: none;
+}
+
+.cbtn:focus-visible {
+    outline: 3px solid var(--signal);
+    outline-offset: 3px;
+}
+
+
+
+@media (prefers-reduced-motion: reduce) {
+    .cbtn {
+        transition: none;
+    }
+
+    .cbtn:hover,
+    .cbtn:active {
+        transform: none;
+    }
+}
+
+/*
+ * The split hero's two columns.
+ *
+ * Below the width where each column still holds a readable measure they stack.
+ * Two 140px columns on a phone is not a split hero: the standfirst sets one or
+ * two words to a line and the call to action wraps to three.
+ */
+.hero-split {
+    display: grid;
+    grid-template-columns: minmax(0, 1.35fr) minmax(0, 1fr);
+    gap: clamp(1.5rem, 5vw, 3.5rem);
+    align-items: end;
+}
+
+@media (max-width: 44rem) {
+    .hero-split {
+        grid-template-columns: minmax(0, 1fr);
+        align-items: start;
+    }
+}
+
+/*
+ * In-page jumps glide rather than cut.
+ *
+ * Snapping to an anchor costs the reader the sense of having travelled, and on
+ * this page the jump from the hero to the emails is the one movement that
+ * matters: seeing the sections pass is what makes the page feel like one
+ * argument rather than a set of unrelated screens.
+ *
+ * Honoured only where motion is welcome. Vestibular disorders make a long
+ * animated scroll genuinely unpleasant, so a reader who has asked for less
+ * motion gets the instant jump instead.
+ */
+@media (prefers-reduced-motion: no-preference) {
+    html {
+        scroll-behavior: smooth;
+    }
 }

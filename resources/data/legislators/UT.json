@@ -1,0 +1,907 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Blake Moore",
+    "party": "Republican",
+    "phone": "202-225-0453",
+    "url": "https://blakemoore.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Celeste Maloy",
+    "party": "Republican",
+    "phone": "202-225-9730",
+    "url": "https://maloy.house.gov"
+   }
+  ],
+  "3": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Mike Kennedy",
+    "party": "Republican",
+    "phone": "202-225-7751",
+    "url": "https://mikekennedy.house.gov"
+   }
+  ],
+  "4": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Clarence Owens",
+    "party": "Republican",
+    "phone": "202-225-3011",
+    "url": "https://owens.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.lee.senate.gov/public/index.cfm/contact",
+   "email": null,
+   "name": "Mike Lee",
+   "party": "Republican",
+   "phone": "202-224-5444",
+   "url": "https://www.lee.senate.gov"
+  },
+  {
+   "contactForm": null,
+   "email": null,
+   "name": "John Curtis",
+   "party": "Republican",
+   "phone": "202-224-5251",
+   "url": "https://www.curtis.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "tpeterson@le.utah.gov",
+    "name": "Tom Peterson",
+    "party": "Republican",
+    "url": "https://house.utah.gov/rep/PETERT/"
+   }
+  ],
+  "10": [
+   {
+    "email": "jkoford@le.utah.gov",
+    "name": "Jill Koford",
+    "party": "Republican",
+    "url": "https://house.utleg.gov/rep/KOFORJ/"
+   }
+  ],
+  "11": [
+   {
+    "email": "khall@le.utah.gov",
+    "name": "Katy Hall",
+    "party": "Republican",
+    "url": "https://house.utah.gov/rep/HALLK/"
+   }
+  ],
+  "12": [
+   {
+    "email": "mikeschultz@le.utah.gov",
+    "name": "Mike Schultz",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1412688"
+   }
+  ],
+  "13": [
+   {
+    "email": "kpeterson@le.utah.gov",
+    "name": "Karen Peterson",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1415760"
+   }
+  ],
+  "14": [
+   {
+    "email": "karilisonbee@le.utah.gov",
+    "name": "Karianne Lisonbee",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1414516"
+   }
+  ],
+  "15": [
+   {
+    "email": "adefay@le.utah.gov",
+    "name": "Ariel Defay",
+    "party": "Republican",
+    "url": "https://house.utah.gov/rep/DEFAYA/"
+   }
+  ],
+  "16": [
+   {
+    "email": "tlee@le.utah.gov",
+    "name": "Trevor Lee",
+    "party": "Republican",
+    "url": "https://house.utah.gov/rep/LEETA/"
+   }
+  ],
+  "17": [
+   {
+    "email": "sbarlow@le.utah.gov",
+    "name": "Stewart Barlow",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1411299"
+   }
+  ],
+  "18": [
+   {
+    "email": "pcutler@le.utah.gov",
+    "name": "Paul Cutler",
+    "party": "Republican",
+    "url": "https://house.utah.gov/rep/CUTLEP/"
+   }
+  ],
+  "19": [
+   {
+    "email": "rayward@le.utah.gov",
+    "name": "Ray Ward",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1412633"
+   }
+  ],
+  "2": [
+   {
+    "email": "mpetersen@le.utah.gov",
+    "name": "Mike Petersen",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1415376"
+   }
+  ],
+  "20": [
+   {
+    "email": "mballard@le.utah.gov",
+    "name": "Melissa Ballard",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1415006"
+   }
+  ],
+  "21": [
+   {
+    "email": "shollins@le.utah.gov",
+    "name": "Sandra Hollins",
+    "party": "Democratic",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1412641"
+   }
+  ],
+  "22": [
+   {
+    "email": "jdprovost@le.utah.gov",
+    "name": "Jen Dailey-Provost",
+    "party": "Democratic",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1414811"
+   }
+  ],
+  "23": [
+   {
+    "email": "hnguyen@le.utah.gov",
+    "name": "Hoang Nguyen",
+    "party": "Democratic",
+    "url": "https://house.utleg.gov/rep/NGUYEH/"
+   }
+  ],
+  "24": [
+   {
+    "email": "gmiller@le.utah.gov",
+    "name": "Grant Miller",
+    "party": "Democratic",
+    "url": "https://house.utleg.gov/rep/MILLGR/"
+   }
+  ],
+  "25": [
+   {
+    "email": "angelaromero@le.utah.gov",
+    "name": "Angela Romero",
+    "party": "Democratic",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1411502"
+   }
+  ],
+  "26": [
+   {
+    "email": "mmacpherson@le.utah.gov",
+    "name": "Matt MacPherson",
+    "party": "Republican",
+    "url": "https://house.utah.gov/rep/MACPHM/"
+   }
+  ],
+  "27": [
+   {
+    "email": "aloubet@le.utah.gov",
+    "name": "Anthony Loubet",
+    "party": "Republican",
+    "url": "https://house.utah.gov/rep/LOUBEA/"
+   }
+  ],
+  "28": [
+   {
+    "email": "npeck@le.utah.gov",
+    "name": "Nicholeen Peck",
+    "party": "Republican",
+    "url": "https://house.utleg.gov/rep/PECKNI/"
+   }
+  ],
+  "29": [
+   {
+    "email": "bbolinder@le.utah.gov",
+    "name": "Bridger Bolinder",
+    "party": "Republican",
+    "url": "https://house.utah.gov/rep/BOLINB/"
+   }
+  ],
+  "3": [
+   {
+    "email": "jthompson@le.utah.gov",
+    "name": "Jason Thompson",
+    "party": "Republican",
+    "url": "https://house.utleg.gov/rep/THOMJA/"
+   }
+  ],
+  "30": [
+   {
+    "email": "jfitisemanu@le.utah.gov",
+    "name": "Jake Fitisemanu",
+    "party": "Democratic",
+    "url": "https://house.utleg.gov/rep/FITISJ/"
+   }
+  ],
+  "31": [
+   {
+    "email": "vmauga@le.utah.gov",
+    "name": "Verona Mauga",
+    "party": "Democratic",
+    "url": "https://house.utleg.gov/rep/MAUGAV/"
+   }
+  ],
+  "32": [
+   {
+    "email": "shayes@le.utah.gov",
+    "name": "Sahara Hayes",
+    "party": "Democratic",
+    "url": "https://house.utah.gov/rep/HAYESS/"
+   }
+  ],
+  "33": [
+   {
+    "email": "dougowens@le.utah.gov",
+    "name": "Doug Owens",
+    "party": "Democratic",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1415426"
+   }
+  ],
+  "34": [
+   {
+    "email": "csmoss@le.utah.gov",
+    "name": "Carol Moss",
+    "party": "Democratic",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1248"
+   }
+  ],
+  "35": [
+   {
+    "email": "rdominguez@le.utah.gov",
+    "name": "Rosalba Dominguez",
+    "party": "Democratic",
+    "url": "https://house.utleg.gov/rep/DOMINR/"
+   }
+  ],
+  "36": [
+   {
+    "email": "jdunnigan@le.utah.gov",
+    "name": "Jim Dunnigan",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1389"
+   }
+  ],
+  "37": [
+   {
+    "email": "amatthews@le.utah.gov",
+    "name": "Ashlee Matthews",
+    "party": "Democratic",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1415432"
+   }
+  ],
+  "38": [
+   {
+    "email": "cacton@le.utah.gov",
+    "name": "Cheryl Acton",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1414828"
+   }
+  ],
+  "39": [
+   {
+    "email": "kivory@le.utah.gov",
+    "name": "Ken Ivory",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1409302"
+   }
+  ],
+  "4": [
+   {
+    "email": "tauxier@le.utah.gov",
+    "name": "Tiara Auxier",
+    "party": "Republican",
+    "url": "https://house.utleg.gov/rep/AUXIET/"
+   }
+  ],
+  "40": [
+   {
+    "email": "astoddard@le.utah.gov",
+    "name": "Andrew Stoddard",
+    "party": "Democratic",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1415014"
+   }
+  ],
+  "41": [
+   {
+    "email": "jarthur@le.utah.gov",
+    "name": "John Arthur",
+    "party": "Democratic",
+    "url": "https://house.utleg.gov/rep/ARTHUJ/"
+   }
+  ],
+  "42": [
+   {
+    "email": "cokerlund@le.utah.gov",
+    "name": "Clint Okerlund",
+    "party": "Republican",
+    "url": "https://house.utleg.gov/rep/OKERLC/"
+   }
+  ],
+  "43": [
+   {
+    "email": "seliason@le.utah.gov",
+    "name": "Steve Eliason",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1409528"
+   }
+  ],
+  "44": [
+   {
+    "email": "jteuscher@le.utah.gov",
+    "name": "Jordan Teuscher",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1415423"
+   }
+  ],
+  "45": [
+   {
+    "email": "tmiller@le.utah.gov",
+    "name": "Tracy Miller",
+    "party": "Republican",
+    "url": "https://house.utleg.gov/rep/MILLET/"
+   }
+  ],
+  "46": [
+   {
+    "email": "croberts@le.utah.gov",
+    "name": "Cal Roberts",
+    "party": "Republican",
+    "url": "https://house.utleg.gov/rep/ROBERC/"
+   }
+  ],
+  "47": [
+   {
+    "email": "mstrong@le.utah.gov",
+    "name": "Mark Strong",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1415024"
+   }
+  ],
+  "48": [
+   {
+    "email": "dfiefa@le.utah.gov",
+    "name": "Doug Fiefia",
+    "party": "Republican",
+    "url": "https://house.utleg.gov/rep/FIEFID/"
+   }
+  ],
+  "49": [
+   {
+    "email": "cpierucci@le.utah.gov",
+    "name": "Candice Pierucci",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1415318"
+   }
+  ],
+  "5": [
+   {
+    "email": "csnider@le.utah.gov",
+    "name": "Casey Snider",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1414881"
+   }
+  ],
+  "50": [
+   {
+    "email": "sgricius@le.utah.gov",
+    "name": "Stephanie Gricius",
+    "party": "Republican",
+    "url": "https://house.utah.gov/rep/GRICIS/"
+   }
+  ],
+  "51": [
+   {
+    "email": "lhansen@le.utah.gov",
+    "name": "Leah Hansen",
+    "party": "Republican",
+    "url": "https://house.utleg.gov/rep/LHANSEN/"
+   }
+  ],
+  "52": [
+   {
+    "email": "corymaloy@le.utah.gov",
+    "name": "Cory Maloy",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1414486"
+   }
+  ],
+  "53": [
+   {
+    "email": "kchristofferson@le.utah.gov",
+    "name": "Kay Christofferson",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1411621"
+   }
+  ],
+  "54": [
+   {
+    "email": "kchevrier@le.utah.gov",
+    "name": "Kristen Chevrier",
+    "party": "Republican",
+    "url": "https://house.utleg.gov/rep/CHEVRK/"
+   }
+  ],
+  "55": [
+   {
+    "email": "jhawkins@le.utah.gov",
+    "name": "Jon Hawkins",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1414969"
+   }
+  ],
+  "56": [
+   {
+    "email": "vpeterson@le.utah.gov",
+    "name": "Val Peterson",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1409531"
+   }
+  ],
+  "57": [
+   {
+    "email": "nabbott@le.utah.gov",
+    "name": "Nelson Abbott",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1415393"
+   }
+  ],
+  "58": [
+   {
+    "email": "dshallenberger@le.utah.gov",
+    "name": "Dave Shallenberger",
+    "party": "Republican",
+    "url": "https://house.utleg.gov/rep/SHALLD/"
+   }
+  ],
+  "59": [
+   {
+    "email": "mkohler@le.utah.gov",
+    "name": "Mike Kohler",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1415490"
+   }
+  ],
+  "6": [
+   {
+    "email": "rbishop@le.utah.gov",
+    "name": "Rob Bishop",
+    "party": "Republican",
+    "url": "https://house.utleg.gov/rep/BISHORW/"
+   }
+  ],
+  "60": [
+   {
+    "email": "gpace@le.utah.gov",
+    "name": "Grant Pace",
+    "party": "Republican",
+    "url": "https://house.utleg.gov/rep/PACEG/"
+   }
+  ],
+  "61": [
+   {
+    "email": "lshepherd@le.utah.gov",
+    "name": "Lisa Shepherd",
+    "party": "Republican",
+    "url": "https://house.utleg.gov/rep/SHEPHL/"
+   }
+  ],
+  "62": [
+   {
+    "email": "normthurston@le.utah.gov",
+    "name": "Norm Thurston",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1412615"
+   }
+  ],
+  "63": [
+   {
+    "email": "swhyte@le.utah.gov",
+    "name": "Stephen Whyte",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1415754"
+   }
+  ],
+  "64": [
+   {
+    "email": "jlarson@le.utah.gov",
+    "name": "Jackie Larson",
+    "party": "Republican",
+    "url": "https://house.utleg.gov/rep/LARSOJ/"
+   }
+  ],
+  "65": [
+   {
+    "email": "dwelton@le.utah.gov",
+    "name": "Doug Welton",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1415458"
+   }
+  ],
+  "66": [
+   {
+    "email": "tshelley@le.utah.gov",
+    "name": "Troy Shelley",
+    "party": "Republican",
+    "url": "https://house.utleg.gov/rep/SHELLT/"
+   }
+  ],
+  "67": [
+   {
+    "email": "christinewatkins@le.utah.gov",
+    "name": "Christine Watkins",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/2078"
+   }
+  ],
+  "68": [
+   {
+    "email": "scottchew@le.utah.gov",
+    "name": "Scott Chew",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1412742"
+   }
+  ],
+  "69": [
+   {
+    "email": "lmonson@le.utah.gov",
+    "name": "Logan Monson",
+    "party": "Republican",
+    "url": "https://house.utleg.gov/rep/MONSOL/"
+   }
+  ],
+  "7": [
+   {
+    "email": "ryanwilcox@le.utah.gov",
+    "name": "Ryan Wilcox",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1415472"
+   }
+  ],
+  "70": [
+   {
+    "email": "carlalbrecht@le.utah.gov",
+    "name": "Carl Albrecht",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1414402"
+   }
+  ],
+  "71": [
+   {
+    "email": "rshipp@le.utah.gov",
+    "name": "Rex Shipp",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1414994"
+   }
+  ],
+  "72": [
+   {
+    "email": "jelison@le.utah.gov",
+    "name": "Joseph Elison",
+    "party": "Republican",
+    "url": "https://house.utah.gov/rep/ELISOJ/"
+   }
+  ],
+  "73": [
+   {
+    "email": "cjack@le.utah.gov",
+    "name": "Colin Jack",
+    "party": "Republican",
+    "url": "https://house.utah.gov/rep/JACKC/"
+   }
+  ],
+  "74": [
+   {
+    "email": "nwalter@le.utah.gov",
+    "name": "Neil Walter",
+    "party": "Republican",
+    "url": "https://house.utah.gov/rep/WALTER/"
+   }
+  ],
+  "75": [
+   {
+    "email": "wbrooks@le.utah.gov",
+    "name": "Walt Brooks",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1414382"
+   }
+  ],
+  "8": [
+   {
+    "email": "jkyle@le.utah.gov",
+    "name": "Jason Kyle",
+    "party": "Republican",
+    "url": "https://house.utah.gov/rep/KYLEJB/"
+   }
+  ],
+  "9": [
+   {
+    "email": "jsawyer@le.utah.gov",
+    "name": "Jake Sawyer",
+    "party": "Republican",
+    "url": "https://house.utleg.gov/rep/SAWYEJ/"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/ut.csv"
+ },
+ "state": "UT",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "ssandall@le.utah.gov",
+    "name": "Scott Sandall",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1412644"
+   }
+  ],
+  "10": [
+   {
+    "email": "lescamilla@le.utah.gov",
+    "name": "Luz Escamilla",
+    "party": "Democratic",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1875"
+   }
+  ],
+  "11": [
+   {
+    "email": "ebuss@le.utah.gov",
+    "name": "Emily Buss",
+    "party": "Forward",
+    "url": "https://senate.utah.gov/sen/BUSSEM/"
+   }
+  ],
+  "12": [
+   {
+    "email": "kkwan@le.utah.gov",
+    "name": "Karen Kwan",
+    "party": "Democratic",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1412727"
+   }
+  ],
+  "13": [
+   {
+    "email": "nblouin@le.utah.gov",
+    "name": "Nate Blouin",
+    "party": "Democratic",
+    "url": "https://le.utah.gov/asp/billsintro/SenResults.asp?Listbox2=BLOUIN"
+   }
+  ],
+  "14": [
+   {
+    "email": "spitcher@le.utah.gov",
+    "name": "Stephanie Pitcher",
+    "party": "Democratic",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1414982"
+   }
+  ],
+  "15": [
+   {
+    "email": "kriebe@le.utah.gov",
+    "name": "Kathleen Riebe",
+    "party": "Democratic",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1414459"
+   }
+  ],
+  "16": [
+   {
+    "email": "wharper@le.utah.gov",
+    "name": "Wayne Harper",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1070"
+   }
+  ],
+  "17": [
+   {
+    "email": "lfillmore@le.utah.gov",
+    "name": "Lincoln Fillmore",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1413349"
+   }
+  ],
+  "18": [
+   {
+    "email": "dmccay@le.utah.gov",
+    "name": "Dan McCay",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1411368"
+   }
+  ],
+  "19": [
+   {
+    "email": "kcullimore@le.utah.gov",
+    "name": "Kirk Cullimore",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1415051"
+   }
+  ],
+  "2": [
+   {
+    "email": "cwilson@le.utah.gov",
+    "name": "Chris Wilson",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1415396"
+   }
+  ],
+  "20": [
+   {
+    "email": "rwinterton@le.utah.gov",
+    "name": "Ron Winterton",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1414932"
+   }
+  ],
+  "21": [
+   {
+    "email": "bbrammer@le.utah.gov",
+    "name": "Brady Brammer",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1415048"
+   }
+  ],
+  "22": [
+   {
+    "email": "hbalderree@le.utah.gov",
+    "name": "Heidi Balderree",
+    "party": "Republican",
+    "url": "https://le.utah.gov/asp/billsintro/SenResults.asp?Listbox2=BALDEH"
+   }
+  ],
+  "23": [
+   {
+    "email": "keithgrover@le.utah.gov",
+    "name": "Keith Grover",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1913"
+   }
+  ],
+  "24": [
+   {
+    "email": "kstratton@le.utah.gov",
+    "name": "Keven Stratton",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1413031"
+   }
+  ],
+  "25": [
+   {
+    "email": "mmckell@le.utah.gov",
+    "name": "Mike McKell",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1411332"
+   }
+  ],
+  "26": [
+   {
+    "email": "dhinkins@le.utah.gov",
+    "name": "David Hinkins",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/2095"
+   }
+  ],
+  "27": [
+   {
+    "email": "derrinowens@le.utah.gov",
+    "name": "Derrin Owens",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1414375"
+   }
+  ],
+  "28": [
+   {
+    "email": "evickers@le.utah.gov",
+    "name": "Evan Vickers",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/2085"
+   }
+  ],
+  "29": [
+   {
+    "email": "dipson@le.utah.gov",
+    "name": "Don Ipson",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/2052"
+   }
+  ],
+  "3": [
+   {
+    "email": "jjohnson@le.utah.gov",
+    "name": "John Johnson",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1415473"
+   }
+  ],
+  "4": [
+   {
+    "email": "cmusselman@le.utah.gov",
+    "name": "Cal Musselman",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1415056"
+   }
+  ],
+  "5": [
+   {
+    "email": "amillner@le.utah.gov",
+    "name": "Ann Millner",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1412594"
+   }
+  ],
+  "6": [
+   {
+    "email": "jwstevenson@le.utah.gov",
+    "name": "Jerry Stevenson",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1409402"
+   }
+  ],
+  "7": [
+   {
+    "email": "jsadams@le.utah.gov",
+    "name": "Stuart Adams",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1408736"
+   }
+  ],
+  "8": [
+   {
+    "email": "tweiler@le.utah.gov",
+    "name": "Todd Weiler",
+    "party": "Republican",
+    "url": "https://disclosures.utah.gov/Search/PublicSearch/FolderDetails/1411361"
+   }
+  ],
+  "9": [
+   {
+    "email": "jplumb@le.utah.gov",
+    "name": "Jen Plumb",
+    "party": "Democratic",
+    "url": "https://le.utah.gov/asp/billsintro/SenResults.asp?Listbox2=PLUMBJ"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

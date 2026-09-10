@@ -1,0 +1,1257 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Robert Wittman",
+    "party": "Republican",
+    "phone": "202-225-4261",
+    "url": "https://wittman.house.gov"
+   }
+  ],
+  "10": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Suhas Subramanyam",
+    "party": "Democrat",
+    "phone": "202-225-5136",
+    "url": "https://subramanyam.house.gov"
+   }
+  ],
+  "11": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "James Walkinshaw",
+    "party": "Democrat",
+    "phone": "202-225-1492",
+    "url": "https://walkinshaw.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Jennifer Kiggans",
+    "party": "Republican",
+    "phone": "202-225-4215",
+    "url": "https://kiggans.house.gov"
+   }
+  ],
+  "3": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Robert Scott",
+    "party": "Democrat",
+    "phone": "202-225-8351",
+    "url": "https://bobbyscott.house.gov"
+   }
+  ],
+  "4": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Jennifer McClellan",
+    "party": "Democrat",
+    "phone": "202-225-6365",
+    "url": "https://mcclellan.house.gov"
+   }
+  ],
+  "5": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "John McGuire",
+    "party": "Republican",
+    "phone": "202-225-4711",
+    "url": "https://mcguire.house.gov"
+   }
+  ],
+  "6": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Ben Cline",
+    "party": "Republican",
+    "phone": "202-225-5431",
+    "url": "https://cline.house.gov"
+   }
+  ],
+  "7": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Eugene Vindman",
+    "party": "Democrat",
+    "phone": "202-225-2815",
+    "url": "https://vindman.house.gov"
+   }
+  ],
+  "8": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Donald Beyer",
+    "party": "Democrat",
+    "phone": "202-225-4376",
+    "url": "https://beyer.house.gov"
+   }
+  ],
+  "9": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "H. Griffith",
+    "party": "Republican",
+    "phone": "202-225-3861",
+    "url": "https://morgangriffith.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.warner.senate.gov/public/index.cfm?p=Contact",
+   "email": null,
+   "name": "Mark Warner",
+   "party": "Democrat",
+   "phone": "202-224-2023",
+   "url": "https://www.warner.senate.gov"
+  },
+  {
+   "contactForm": "https://www.kaine.senate.gov/contact",
+   "email": null,
+   "name": "Timothy Kaine",
+   "party": "Democrat",
+   "phone": "202-224-4024",
+   "url": "https://www.kaine.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "delphope@house.virginia.gov",
+    "name": "Patrick Hope",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0219"
+   }
+  ],
+  "10": [
+   {
+    "email": "deldhelmer@house.virginia.gov",
+    "name": "Dan Helmer",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0317"
+   }
+  ],
+  "100": [
+   {
+    "email": "delrbloxom@house.virginia.gov",
+    "name": "Rob Bloxom",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0267"
+   }
+  ],
+  "11": [
+   {
+    "email": "delgbulova@house.virginia.gov",
+    "name": "Gretchen Bulova",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0403"
+   }
+  ],
+  "12": [
+   {
+    "email": "delhseibold@house.virginia.gov",
+    "name": "Holly Seibold",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0351"
+   }
+  ],
+  "13": [
+   {
+    "email": "delmsimon@house.virginia.gov",
+    "name": "Marcus Simon",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0264"
+   }
+  ],
+  "14": [
+   {
+    "email": "delvwatts@house.virginia.gov",
+    "name": "Vivian Watts",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0108"
+   }
+  ],
+  "15": [
+   {
+    "email": "delljcohen@house.virginia.gov",
+    "name": "Laura Jane Cohen",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0355"
+   }
+  ],
+  "16": [
+   {
+    "email": "delpkrizek@house.virginia.gov",
+    "name": "Paul Krizek",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0281"
+   }
+  ],
+  "17": [
+   {
+    "email": "delgmcguire@house.virginia.gov",
+    "name": "Garrett McGuire",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0405"
+   }
+  ],
+  "18": [
+   {
+    "email": "delktran@house.virginia.gov",
+    "name": "Kathy Tran",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0305"
+   }
+  ],
+  "19": [
+   {
+    "email": "delrhenson@house.virginia.gov",
+    "name": "J.R. Henson",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0365"
+   }
+  ],
+  "2": [
+   {
+    "email": "delamcclure@house.virginia.gov",
+    "name": "Adele McClure",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0375"
+   }
+  ],
+  "21": [
+   {
+    "email": "deljthomas@house.virginia.gov",
+    "name": "Josh Thomas",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0382"
+   }
+  ],
+  "22": [
+   {
+    "email": "deleguzman@house.virginia.gov",
+    "name": "Liz Guzm\u00e1n",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0297"
+   }
+  ],
+  "23": [
+   {
+    "email": "delmfranklin@house.virginia.gov",
+    "name": "Margaret Franklin",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0404"
+   }
+  ],
+  "24": [
+   {
+    "email": "delltorian@house.virginia.gov",
+    "name": "Luke Torian",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0227"
+   }
+  ],
+  "25": [
+   {
+    "email": "delbsewell@house.virginia.gov",
+    "name": "Briana Sewell",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0343"
+   }
+  ],
+  "26": [
+   {
+    "email": "deljsingh@house.virginia.gov",
+    "name": "J.J. Singh",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0385"
+   }
+  ],
+  "27": [
+   {
+    "email": "delareaser@house.virginia.gov",
+    "name": "Atoosa Reaser",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0380"
+   }
+  ],
+  "28": [
+   {
+    "email": "deldreid@house.virginia.gov",
+    "name": "David Reid",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0301"
+   }
+  ],
+  "29": [
+   {
+    "email": "delmmartinez@house.virginia.gov",
+    "name": "Marty Martinez",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0374"
+   }
+  ],
+  "3": [
+   {
+    "email": "delalopez@house.virginia.gov",
+    "name": "Alfonso Lopez",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0239"
+   }
+  ],
+  "30": [
+   {
+    "email": "deljmcauliff@house.virginia.gov",
+    "name": "John McAuliff",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0395"
+   }
+  ],
+  "31": [
+   {
+    "email": "deldoates@house.virginia.gov",
+    "name": "Delores Oates",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0377"
+   }
+  ],
+  "32": [
+   {
+    "email": "delbwiley@house.virginia.gov",
+    "name": "Bill Wiley",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0329"
+   }
+  ],
+  "33": [
+   {
+    "email": "deljpence@house.virginia.gov",
+    "name": "Justin Pence",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0398"
+   }
+  ],
+  "34": [
+   {
+    "email": "deltwilt@house.virginia.gov",
+    "name": "Tony Wilt",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0231"
+   }
+  ],
+  "35": [
+   {
+    "email": "delcrunion@house.virginia.gov",
+    "name": "Chris Runion",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0321"
+   }
+  ],
+  "36": [
+   {
+    "email": "delemclaughlin@house.virginia.gov",
+    "name": "Ellen McLaughlin",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0350"
+   }
+  ],
+  "37": [
+   {
+    "email": "deltaustin@house.virginia.gov",
+    "name": "Terry Austin",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0253"
+   }
+  ],
+  "38": [
+   {
+    "email": "delsrasoul@house.virginia.gov",
+    "name": "Sam Rasoul",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0266"
+   }
+  ],
+  "39": [
+   {
+    "email": "delwdavis@house.virginia.gov",
+    "name": "Will Davis",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0357"
+   }
+  ],
+  "4": [
+   {
+    "email": "delcherring@house.virginia.gov",
+    "name": "Charniele Herring",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0208"
+   }
+  ],
+  "40": [
+   {
+    "email": "deljmcnamara@house.virginia.gov",
+    "name": "Joe McNamara",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0308"
+   }
+  ],
+  "41": [
+   {
+    "email": "dellfranklin@house.virginia.gov",
+    "name": "Lily Franklin",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0393"
+   }
+  ],
+  "42": [
+   {
+    "email": "deljballard@house.virginia.gov",
+    "name": "Jason Ballard",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0333"
+   }
+  ],
+  "43": [
+   {
+    "email": "deljmorefield@house.virginia.gov",
+    "name": "Will Morefield",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0224"
+   }
+  ],
+  "44": [
+   {
+    "email": "delioquinn@house.virginia.gov",
+    "name": "Israel O'Quinn",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0242"
+   }
+  ],
+  "45": [
+   {
+    "email": "deltkilgore@house.virginia.gov",
+    "name": "Terry Kilgore",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0056"
+   }
+  ],
+  "46": [
+   {
+    "email": "delmcornett@house.virginia.gov",
+    "name": "Mitchell Cornett",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0390"
+   }
+  ],
+  "47": [
+   {
+    "email": "delwwilliams@house.virginia.gov",
+    "name": "Wren Williams",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0348"
+   }
+  ],
+  "48": [
+   {
+    "email": "delephillips@house.virginia.gov",
+    "name": "Eric Phillips",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0384"
+   }
+  ],
+  "49": [
+   {
+    "email": "delmwhittle@house.virginia.gov",
+    "name": "Madison Whittle",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0401"
+   }
+  ],
+  "5": [
+   {
+    "email": "delkmcpike@house.virginia.gov",
+    "name": "Kirk McPike",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0406"
+   }
+  ],
+  "50": [
+   {
+    "email": "deltwright@house.virginia.gov",
+    "name": "Tommy Wright",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0136"
+   }
+  ],
+  "51": [
+   {
+    "email": "delezehr@house.virginia.gov",
+    "name": "Eric Zehr",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0383"
+   }
+  ],
+  "52": [
+   {
+    "email": "delwwalker@house.virginia.gov",
+    "name": "Wendell Walker",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0325"
+   }
+  ],
+  "53": [
+   {
+    "email": "deltgriffin@house.virginia.gov",
+    "name": "Tim Griffin",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0364"
+   }
+  ],
+  "54": [
+   {
+    "email": "delkcallsen@house.virginia.gov",
+    "name": "Katrina Callsen",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0354"
+   }
+  ],
+  "55": [
+   {
+    "email": "delalaufer@house.virginia.gov",
+    "name": "Amy Laufer",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0371"
+   }
+  ],
+  "56": [
+   {
+    "email": "deltgarrett@house.virginia.gov",
+    "name": "Tom Garrett",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0362"
+   }
+  ],
+  "57": [
+   {
+    "email": "delmnivar@house.virginia.gov",
+    "name": "May Nivar",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0397"
+   }
+  ],
+  "58": [
+   {
+    "email": "delrwillett@house.virginia.gov",
+    "name": "Rod Willett",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0327"
+   }
+  ],
+  "59": [
+   {
+    "email": "delbfowler@house.virginia.gov",
+    "name": "Buddy Fowler",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0259"
+   }
+  ],
+  "6": [
+   {
+    "email": "delrsullivan@house.virginia.gov",
+    "name": "Rip Sullivan",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0269"
+   }
+  ],
+  "60": [
+   {
+    "email": "delswyatt@house.virginia.gov",
+    "name": "Scott Wyatt",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0328"
+   }
+  ],
+  "61": [
+   {
+    "email": "delmwebert@house.virginia.gov",
+    "name": "Mike Webert",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0247"
+   }
+  ],
+  "62": [
+   {
+    "email": "delkhamilton@house.virginia.gov",
+    "name": "Karen Hamilton",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0394"
+   }
+  ],
+  "63": [
+   {
+    "email": "delpscott@house.virginia.gov",
+    "name": "Phil Scott",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0342"
+   }
+  ],
+  "64": [
+   {
+    "email": "delscarroll@house.virginia.gov",
+    "name": "Stacey Carroll",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0388"
+   }
+  ],
+  "65": [
+   {
+    "email": "deljcole@house.virginia.gov",
+    "name": "Josh Cole",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0314"
+   }
+  ],
+  "66": [
+   {
+    "email": "delncole@house.virginia.gov",
+    "name": "Nicole Cole",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0389"
+   }
+  ],
+  "67": [
+   {
+    "email": "delhkent@house.virginia.gov",
+    "name": "Hillary Pugh Kent",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0369"
+   }
+  ],
+  "68": [
+   {
+    "email": "delkhodges@house.virginia.gov",
+    "name": "Keith Hodges",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0238"
+   }
+  ],
+  "69": [
+   {
+    "email": "delmdowney@house.virginia.gov",
+    "name": "Mark Downey",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0392"
+   }
+  ],
+  "7": [
+   {
+    "email": "delkkeys-gamarra@house.virginia.gov",
+    "name": "Karen Keys-Gamarra",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0370"
+   }
+  ],
+  "70": [
+   {
+    "email": "delssimonds@house.virginia.gov",
+    "name": "Shelly Simonds",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0323"
+   }
+  ],
+  "71": [
+   {
+    "email": "deljanderson@house.virginia.gov",
+    "name": "Jessica Anderson",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0386"
+   }
+  ],
+  "72": [
+   {
+    "email": "dellware@house.virginia.gov",
+    "name": "Lee Ware",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0124"
+   }
+  ],
+  "73": [
+   {
+    "email": "dellmehta@house.virginia.gov",
+    "name": "Leslie Mehta",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0396"
+   }
+  ],
+  "74": [
+   {
+    "email": "delmcherry@house.virginia.gov",
+    "name": "Mike Cherry",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0335"
+   }
+  ],
+  "75": [
+   {
+    "email": "delldougherty@house.virginia.gov",
+    "name": "Lindsey Dougherty",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0391"
+   }
+  ],
+  "76": [
+   {
+    "email": "deldgardner@house.virginia.gov",
+    "name": "Debra Gardner",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0361"
+   }
+  ],
+  "77": [
+   {
+    "email": "delcschmidt@house.virginia.gov",
+    "name": "Charlie Schmidt",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0402"
+   }
+  ],
+  "78": [
+   {
+    "email": "delbcarr@house.virginia.gov",
+    "name": "Betsy Carr",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0212"
+   }
+  ],
+  "79": [
+   {
+    "email": "delrcousins@house.virginia.gov",
+    "name": "Rae Cousins",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0356"
+   }
+  ],
+  "8": [
+   {
+    "email": "delishin@house.virginia.gov",
+    "name": "Irene Shin",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0344"
+   }
+  ],
+  "80": [
+   {
+    "email": "deldleverebolling@house.virginia.gov",
+    "name": "Destiny LeVere Bolling",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0372"
+   }
+  ],
+  "81": [
+   {
+    "email": "deldmcquinn@house.virginia.gov",
+    "name": "Delores McQuinn",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0207"
+   }
+  ],
+  "82": [
+   {
+    "email": "delkpopeadams@house.virginia.gov",
+    "name": "Kim Adams",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0399"
+   }
+  ],
+  "83": [
+   {
+    "email": "delowachsmann@house.virginia.gov",
+    "name": "Otto Wachsmann",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0347"
+   }
+  ],
+  "84": [
+   {
+    "email": "delnclark@house.virginia.gov",
+    "name": "Nadarius Clark",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0336"
+   }
+  ],
+  "85": [
+   {
+    "email": "delmprice@house.virginia.gov",
+    "name": "Cia Price",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0284"
+   }
+  ],
+  "86": [
+   {
+    "email": "delvthornton@house.virginia.gov",
+    "name": "Virgil Thornton",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0400"
+   }
+  ],
+  "87": [
+   {
+    "email": "deljward@house.virginia.gov",
+    "name": "Jeion Ward",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0173"
+   }
+  ],
+  "88": [
+   {
+    "email": "deldscott@house.virginia.gov",
+    "name": "Don Scott",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0322"
+   }
+  ],
+  "89": [
+   {
+    "email": "delkcarnegie@house.virginia.gov",
+    "name": "Kacey Carnegie",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0387"
+   }
+  ],
+  "9": [
+   {
+    "email": "delkdelaney@house.virginia.gov",
+    "name": "Karrie Delaney",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0294"
+   }
+  ],
+  "90": [
+   {
+    "email": "deljleftwich@house.virginia.gov",
+    "name": "Jay Leftwich",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0262"
+   }
+  ],
+  "91": [
+   {
+    "email": "delchayes@house.virginia.gov",
+    "name": "Cliff Hayes",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0285"
+   }
+  ],
+  "92": [
+   {
+    "email": "delbanthony@house.virginia.gov",
+    "name": "Bonita Anthony",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0353"
+   }
+  ],
+  "93": [
+   {
+    "email": "deljglass@house.virginia.gov",
+    "name": "Jackie Glass",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0349"
+   }
+  ],
+  "94": [
+   {
+    "email": "delphernandez@house.virginia.gov",
+    "name": "Phil Hernandez",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0366"
+   }
+  ],
+  "95": [
+   {
+    "email": "delaaskew@house.virginia.gov",
+    "name": "Alex Askew",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0311"
+   }
+  ],
+  "96": [
+   {
+    "email": "delkconvirs-fowler@house.virginia.gov",
+    "name": "Kelly Fowler",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0295"
+   }
+  ],
+  "97": [
+   {
+    "email": "delmfeggans@house.virginia.gov",
+    "name": "Michael Feggans",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0360"
+   }
+  ],
+  "98": [
+   {
+    "email": "delarice@house.virginia.gov",
+    "name": "Andrew Rice",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0407"
+   }
+  ],
+  "99": [
+   {
+    "email": "delaftata@house.virginia.gov",
+    "name": "Anne Ferrell Tata",
+    "party": "Republican",
+    "url": "https://house.vga.virginia.gov/members/H0345"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/va.csv"
+ },
+ "state": "VA",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "senatorfrench@senate.virginia.gov",
+    "name": "Timmy French",
+    "party": "Republican",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S121"
+   }
+  ],
+  "10": [
+   {
+    "email": "senatorcifers@senate.virginia.gov",
+    "name": "Luther Cifers",
+    "party": "Republican",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S132"
+   }
+  ],
+  "11": [
+   {
+    "email": "senatordeeds@senate.virginia.gov",
+    "name": "Creigh Deeds",
+    "party": "Democratic",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S62"
+   }
+  ],
+  "12": [
+   {
+    "email": "senatorsturtevant@senate.virginia.gov",
+    "name": "Glen Sturtevant",
+    "party": "Republican",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S99"
+   }
+  ],
+  "13": [
+   {
+    "email": "senatoraird@senate.virginia.gov",
+    "name": "Lashrecse Aird",
+    "party": "Democratic",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S115"
+   }
+  ],
+  "14": [
+   {
+    "email": "lbagby@senate.virginia.gov",
+    "name": "Lamont Bagby",
+    "party": "Democratic",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S114"
+   }
+  ],
+  "15": [
+   {
+    "email": "senatorjones@senate.virginia.gov",
+    "name": "Mike Jones",
+    "party": "Democratic",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S134"
+   }
+  ],
+  "16": [
+   {
+    "email": "senatorvanvalkenburg@senate.virginia.gov",
+    "name": "Schuyler VanValkenburg",
+    "party": "Democratic",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S129"
+   }
+  ],
+  "17": [
+   {
+    "email": "senatorjordan@senate.virginia.gov",
+    "name": "Emily Jordan",
+    "party": "Republican",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S116"
+   }
+  ],
+  "18": [
+   {
+    "email": "senatorlucas@senate.virginia.gov",
+    "name": "Louise Lucas",
+    "party": "Democratic",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S19"
+   }
+  ],
+  "19": [
+   {
+    "email": "senatorcraig@senate.virginia.gov",
+    "name": "Christie Craig",
+    "party": "Republican",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S118"
+   }
+  ],
+  "2": [
+   {
+    "email": "senatorobenshain@senate.virginia.gov",
+    "name": "Mark Obenshain",
+    "party": "Republican",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S68"
+   }
+  ],
+  "20": [
+   {
+    "email": "senatordesteph@senate.virginia.gov",
+    "name": "Bill DeSteph",
+    "party": "Republican",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S96"
+   }
+  ],
+  "21": [
+   {
+    "email": "senatorwilliamsgraves@senate.virginia.gov",
+    "name": "Angelia Graves",
+    "party": "Democratic",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S130"
+   }
+  ],
+  "22": [
+   {
+    "email": "district07@senate.virginia.gov",
+    "name": "Aaron Rouse",
+    "party": "Democratic",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S113"
+   }
+  ],
+  "23": [
+   {
+    "email": "senatorlocke@senate.virginia.gov",
+    "name": "Mamie Locke",
+    "party": "Democratic",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S67"
+   }
+  ],
+  "24": [
+   {
+    "email": "senatordiggs@senate.virginia.gov",
+    "name": "Danny Diggs",
+    "party": "Republican",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S119"
+   }
+  ],
+  "25": [
+   {
+    "email": "senatorstuart@senate.virginia.gov",
+    "name": "Richard Stuart",
+    "party": "Republican",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S78"
+   }
+  ],
+  "26": [
+   {
+    "email": "senatormcdougle@senate.virginia.gov",
+    "name": "Ryan McDougle",
+    "party": "Republican",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S69"
+   }
+  ],
+  "27": [
+   {
+    "email": "senatordurant@senate.virginia.gov",
+    "name": "Tara Durant",
+    "party": "Republican",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S120"
+   }
+  ],
+  "28": [
+   {
+    "email": "senatorreeves@senate.virginia.gov",
+    "name": "Bryce Reeves",
+    "party": "Republican",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S88"
+   }
+  ],
+  "29": [
+   {
+    "email": "senatormcpike@senate.virginia.gov",
+    "name": "Jeremy McPike",
+    "party": "Democratic",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S98"
+   }
+  ],
+  "3": [
+   {
+    "email": "senatorhead@senate.virginia.gov",
+    "name": "Chris Head",
+    "party": "Republican",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S122"
+   }
+  ],
+  "30": [
+   {
+    "email": "senatorroem@senate.virginia.gov",
+    "name": "Danica Roem",
+    "party": "Democratic",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S126"
+   }
+  ],
+  "31": [
+   {
+    "email": "senatorperry@senate.virginia.gov",
+    "name": "Russet Perry",
+    "party": "Democratic",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S125"
+   }
+  ],
+  "32": [
+   {
+    "email": "senatorsrinivasan@senate.virginia.gov",
+    "name": "Kannan Srinivasan",
+    "party": "Democratic",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S133"
+   }
+  ],
+  "33": [
+   {
+    "email": "senatorcarrollfoy@senate.virginia.gov",
+    "name": "Jennifer Carroll Foy",
+    "party": "Democratic",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S117"
+   }
+  ],
+  "34": [
+   {
+    "email": "senatorsurovell@senate.virginia.gov",
+    "name": "Scott Surovell",
+    "party": "Democratic",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S100"
+   }
+  ],
+  "35": [
+   {
+    "email": "senatormarsden@senate.virginia.gov",
+    "name": "Dave Marsden",
+    "party": "Democratic",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S80"
+   }
+  ],
+  "36": [
+   {
+    "email": "senatorpekarsky@senate.virginia.gov",
+    "name": "Stella Pekarsky",
+    "party": "Democratic",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S124"
+   }
+  ],
+  "37": [
+   {
+    "email": "senatorsalim@senate.virginia.gov",
+    "name": "Saddam Salim",
+    "party": "Democratic",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S127"
+   }
+  ],
+  "38": [
+   {
+    "email": "senatorboysko@senate.virginia.gov",
+    "name": "Jennifer Boysko",
+    "party": "Democratic",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S106"
+   }
+  ],
+  "39": [
+   {
+    "email": "senatorbennett-parker@senate.virginia.gov",
+    "name": "Elizabeth Bennett-Parker",
+    "party": "Democratic",
+    "url": "https://house.vga.virginia.gov/members/H0334"
+   }
+  ],
+  "4": [
+   {
+    "email": "senatorsuetterlein@senate.virginia.gov",
+    "name": "David Suetterlein",
+    "party": "Republican",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S101"
+   }
+  ],
+  "40": [
+   {
+    "email": "senatorfavola@senate.virginia.gov",
+    "name": "Barbara Favola",
+    "party": "Democratic",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S86"
+   }
+  ],
+  "5": [
+   {
+    "email": "senatorhackworth@senate.virginia.gov",
+    "name": "Travis Hackworth",
+    "party": "Republican",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S112"
+   }
+  ],
+  "6": [
+   {
+    "email": "senatorpillion@senate.virginia.gov",
+    "name": "Todd Pillion",
+    "party": "Republican",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S111"
+   }
+  ],
+  "7": [
+   {
+    "email": "senatorstanley@senate.virginia.gov",
+    "name": "Bill Stanley",
+    "party": "Republican",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S82"
+   }
+  ],
+  "8": [
+   {
+    "email": "senatorpeake@senate.virginia.gov",
+    "name": "Mark Peake",
+    "party": "Republican",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S105"
+   }
+  ],
+  "9": [
+   {
+    "email": "senatormulchi@senate.virginia.gov",
+    "name": "Tammy Mulchi",
+    "party": "Republican",
+    "url": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S131"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

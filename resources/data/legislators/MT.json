@@ -1,0 +1,1255 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Ryan Zinke",
+    "party": "Republican",
+    "phone": "202-225-5628",
+    "url": "https://zinke.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Troy Downing",
+    "party": "Republican",
+    "phone": "202-225-3211",
+    "url": "https://downing.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.daines.senate.gov/connect/email-steve",
+   "email": null,
+   "name": "Steve Daines",
+   "party": "Republican",
+   "phone": "202-224-2651",
+   "url": "https://www.daines.senate.gov"
+  },
+  {
+   "contactForm": null,
+   "email": null,
+   "name": "Tim Sheehy",
+   "party": "Republican",
+   "phone": "202-224-2644",
+   "url": "https://www.sheehy.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "neil.duram@legmt.gov",
+    "name": "Neil Duram",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/5060"
+   }
+  ],
+  "10": [
+   {
+    "email": "terry.falk@legmt.gov",
+    "name": "Terry Falk",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/7626"
+   }
+  ],
+  "100": [
+   {
+    "email": "sj.howell@legmt.gov",
+    "name": "S.J. Howell",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/7630"
+   }
+  ],
+  "11": [
+   {
+    "email": "ed.byrne@legmt.gov",
+    "name": "Ed Byrne",
+    "party": "Republican",
+    "url": "https://legislators.legmt.gov/#/legislator/226"
+   }
+  ],
+  "12": [
+   {
+    "email": "tracy.sharp@legmt.gov",
+    "name": "Tracy Sharp",
+    "party": "Republican",
+    "url": "https://legislators.legmt.gov/#/legislator/225"
+   }
+  ],
+  "13": [
+   {
+    "email": "linda.reksten@legmt.gov",
+    "name": "Linda Reksten",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/6894"
+   }
+  ],
+  "14": [
+   {
+    "email": "paul.fielder@legmt.gov",
+    "name": "Paul Fielder",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/6895"
+   }
+  ],
+  "15": [
+   {
+    "email": "thedis.crowe@legmt.gov",
+    "name": "Thedis Crowe",
+    "party": "Democratic",
+    "url": "https://legislators.legmt.gov/#/legislator/185"
+   }
+  ],
+  "16": [
+   {
+    "email": "tyson.runningwolf@legmt.gov",
+    "name": "Tyson Running Wolf",
+    "party": "Democratic",
+    "url": "https://archive.legmt.gov/legislator-information/roster/individual/7583"
+   }
+  ],
+  "17": [
+   {
+    "email": "zack.wirth@legmt.gov",
+    "name": "Zack Wirth",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/7654"
+   }
+  ],
+  "18": [
+   {
+    "email": "llew.jones@legmt.gov",
+    "name": "Llew Jones",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/5076"
+   }
+  ],
+  "19": [
+   {
+    "email": "jane.weber@legmt.gov",
+    "name": "Jane Weber",
+    "party": "Democratic",
+    "url": "https://legislators.legmt.gov/#/legislator/231"
+   }
+  ],
+  "2": [
+   {
+    "email": "tom.millett@legmt.gov",
+    "name": "Tom Millett",
+    "party": "Republican",
+    "url": "https://legislators.legmt.gov/#/legislator/241"
+   }
+  ],
+  "20": [
+   {
+    "email": "melissa.nikolakakos@legmt.gov",
+    "name": "Melissa Nikolakakos",
+    "party": "Republican",
+    "url": "https://legislators.legmt.gov/#/legislator/180"
+   }
+  ],
+  "21": [
+   {
+    "email": "ed.buttrey@legmt.gov",
+    "name": "Ed Buttrey",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/5079"
+   }
+  ],
+  "22": [
+   {
+    "email": "george.nikolakakos@legmt.gov",
+    "name": "George Nikolakakos",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/7639"
+   }
+  ],
+  "23": [
+   {
+    "email": "eric.tilleman@legmt.gov",
+    "name": "Eric Tilleman",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/7819"
+   }
+  ],
+  "24": [
+   {
+    "email": "steve.fitzpatrick@legmt.gov",
+    "name": "Steve Fitzpatrick",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/4723"
+   }
+  ],
+  "25": [
+   {
+    "email": "steven.gist@legmt.gov",
+    "name": "Steve Gist",
+    "party": "Republican",
+    "url": "https://archive.legmt.gov/legislator-information/roster/individual/7518"
+   }
+  ],
+  "26": [
+   {
+    "email": "russel.miner@legmt.gov",
+    "name": "Russ Miner",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/7637"
+   }
+  ],
+  "27": [
+   {
+    "email": "paul.tuss@legmt.gov",
+    "name": "Paul Tuss",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/7647"
+   }
+  ],
+  "28": [
+   {
+    "email": "eric.albus@legmt.gov",
+    "name": "Eric Albus",
+    "party": "Republican",
+    "url": "https://legislators.legmt.gov/#/legislator/186"
+   }
+  ],
+  "29": [
+   {
+    "email": "valerie.moore@legmt.gov",
+    "name": "Valerie Moore",
+    "party": "Republican",
+    "url": "https://legislators.legmt.gov/#/legislator/156"
+   }
+  ],
+  "3": [
+   {
+    "email": "debo.powers@legmt.gov",
+    "name": "Debo Powers",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/6334"
+   }
+  ],
+  "30": [
+   {
+    "email": "morgan.thiel@legmt.gov",
+    "name": "Morgan Thiel",
+    "party": "Republican",
+    "url": "https://legislators.legmt.gov/#/legislator/157"
+   }
+  ],
+  "31": [
+   {
+    "email": "frank.smith@legmt.gov",
+    "name": "Frank Smith",
+    "party": "Democratic",
+    "url": "https://archive.legmt.gov/legislator-information/roster/individual/7591"
+   }
+  ],
+  "32": [
+   {
+    "email": "michael.fox@legmt.gov",
+    "name": "Mike Fox",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/6817"
+   }
+  ],
+  "33": [
+   {
+    "email": "brandon.ler@legmt.gov",
+    "name": "Brandon Ler",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/6842"
+   }
+  ],
+  "34": [
+   {
+    "email": "jerry.schillinger@legmt.gov",
+    "name": "Jerry Schillinger",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/6907"
+   }
+  ],
+  "35": [
+   {
+    "email": "gary.parry@legmt.gov",
+    "name": "Gary Parry",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/7641"
+   }
+  ],
+  "36": [
+   {
+    "email": "greg.kmetz@legmt.gov",
+    "name": "Greg Kmetz",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/7633"
+   }
+  ],
+  "37": [
+   {
+    "email": "shane.klakken@legmt.gov",
+    "name": "Shane Klakken",
+    "party": "Republican",
+    "url": "https://legislators.legmt.gov/#/legislator/183"
+   }
+  ],
+  "38": [
+   {
+    "email": "greg.oblander@legmt.gov",
+    "name": "Greg Oblander",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/7640"
+   }
+  ],
+  "39": [
+   {
+    "email": "kerri.seekins-crowe@legmt.gov",
+    "name": "Kerri Seekins-Crowe",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/6909"
+   }
+  ],
+  "4": [
+   {
+    "email": "lyn.bennett@legmt.gov",
+    "name": "Lyn Bennett",
+    "party": "Republican",
+    "url": "https://legislators.legmt.gov/#/legislator/230"
+   }
+  ],
+  "40": [
+   {
+    "email": "mike.vinton@legmt.gov",
+    "name": "Mike Vinton",
+    "party": "Republican",
+    "url": "https://legislators.legmt.gov/#/legislator/181"
+   }
+  ],
+  "41": [
+   {
+    "email": "jade.sooktis@legmt.gov",
+    "name": "Jade Sooktis",
+    "party": "Democratic",
+    "url": "https://legislators.legmt.gov/#/legislator/233"
+   }
+  ],
+  "42": [
+   {
+    "email": "sidney.fitzpatrick@legmt.gov",
+    "name": "Chip Fitzpatrick",
+    "party": "Democratic",
+    "url": "https://legislators.legmt.gov/#/legislator/237"
+   }
+  ],
+  "43": [
+   {
+    "email": "larry.brewster@legmt.gov",
+    "name": "Larry Brewster",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/6336"
+   }
+  ],
+  "44": [
+   {
+    "email": "katie.zolnikov@legmt.gov",
+    "name": "Katie Zolnikov",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/6337"
+   }
+  ],
+  "45": [
+   {
+    "email": "denise.baum@legmt.gov",
+    "name": "Denise Baum",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/7619"
+   }
+  ],
+  "46": [
+   {
+    "email": "denise.joy@legmt.gov",
+    "name": "Denise Joy",
+    "party": "Democratic",
+    "url": "https://legislators.legmt.gov/#/legislator/304"
+   }
+  ],
+  "47": [
+   {
+    "email": "james.reavis@legmt.gov",
+    "name": "James Reavis",
+    "party": "Democratic",
+    "url": "https://legislators.legmt.gov/#/legislator/175"
+   }
+  ],
+  "48": [
+   {
+    "email": "curtis.schomer@legmt.gov",
+    "name": "Curtis Schomer",
+    "party": "Republican",
+    "url": "https://legislators.legmt.gov/#/legislator/232"
+   }
+  ],
+  "49": [
+   {
+    "email": "sherry.essmann@legmt.gov",
+    "name": "Sherry Essmann",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/7499"
+   }
+  ],
+  "5": [
+   {
+    "email": "braxton.mitchell@legmt.gov",
+    "name": "Braxton Mitchell",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/6890"
+   }
+  ],
+  "50": [
+   {
+    "email": "anthony.nicastro@legmt.gov",
+    "name": "Anthony Nicastro",
+    "party": "Republican",
+    "url": "https://legislators.legmt.gov/#/legislator/200"
+   }
+  ],
+  "51": [
+   {
+    "email": "jodee.etchart@legmt.gov",
+    "name": "Jodee Etchart",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/7625"
+   }
+  ],
+  "52": [
+   {
+    "email": "stacy.zinn@legmt.gov",
+    "name": "Stacy Zinn",
+    "party": "Republican",
+    "url": "https://legislators.legmt.gov/#/legislator/1840"
+   }
+  ],
+  "53": [
+   {
+    "email": "nelly.nicol@legmt.gov",
+    "name": "Nelly Nicol",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/7638"
+   }
+  ],
+  "54": [
+   {
+    "email": "lee.deming@legmt.gov",
+    "name": "Lee Deming",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/7623"
+   }
+  ],
+  "55": [
+   {
+    "email": "brad.barker@legmt.gov",
+    "name": "Brad Barker",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/7618"
+   }
+  ],
+  "56": [
+   {
+    "email": "fiona.nave@legmt.gov",
+    "name": "Fiona Nave",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/6850"
+   }
+  ],
+  "57": [
+   {
+    "email": "scott.rosenzweig@legmt.gov",
+    "name": "Scott Rosenzweig",
+    "party": "Democratic",
+    "url": "https://legislators.legmt.gov/#/legislator/293"
+   }
+  ],
+  "58": [
+   {
+    "email": "jamie.isaly@legmt.gov",
+    "name": "Jamie Isaly",
+    "party": "Democratic",
+    "url": "https://legislators.legmt.gov/#/legislator/178"
+   }
+  ],
+  "59": [
+   {
+    "email": "katie.firethunder@legmt.gov",
+    "name": "Katie Fire Thunder",
+    "party": "Democratic",
+    "url": "https://legislators.legmt.gov/#/legislator/1841"
+   }
+  ],
+  "6": [
+   {
+    "email": "amy.regier@legmt.gov",
+    "name": "Amy Regier",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/6891"
+   }
+  ],
+  "60": [
+   {
+    "email": "alanah.griffith@legmt.gov",
+    "name": "Alanah Griffith",
+    "party": "Democratic",
+    "url": "https://legislators.legmt.gov/#/legislator/234"
+   }
+  ],
+  "61": [
+   {
+    "email": "becky.edwards@legmt.gov",
+    "name": "Becky Edwards",
+    "party": "Democratic",
+    "url": "https://legislators.legmt.gov/#/legislator/177"
+   }
+  ],
+  "62": [
+   {
+    "email": "joshua.seckinger@legmt.gov",
+    "name": "Josh Seckinger",
+    "party": "Democratic",
+    "url": "https://legislators.legmt.gov/#/legislator/197"
+   }
+  ],
+  "63": [
+   {
+    "email": "peter.strand@legmt.gov",
+    "name": "Peter Strand",
+    "party": "Democratic",
+    "url": "https://legislators.legmt.gov/#/legislator/184"
+   }
+  ],
+  "64": [
+   {
+    "email": "kelly.kortum@legmt.gov",
+    "name": "Kelly Kortum",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/6864"
+   }
+  ],
+  "65": [
+   {
+    "email": "brian.close@legmt.gov",
+    "name": "Brian Close",
+    "party": "Democratic",
+    "url": "https://legislators.legmt.gov/#/legislator/201"
+   }
+  ],
+  "66": [
+   {
+    "email": "eric.matthews@legmt.gov",
+    "name": "Eric Matthews",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/7636"
+   }
+  ],
+  "67": [
+   {
+    "email": "jedediah.hinkle@legmt.gov",
+    "name": "Jedediah Hinkle",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/4706"
+   }
+  ],
+  "68": [
+   {
+    "email": "caleb.hinkle@legmt.gov",
+    "name": "Caleb Hinkle",
+    "party": "Republican",
+    "url": "https://archive.legmt.gov/legislator-information/roster/individual/7530"
+   }
+  ],
+  "69": [
+   {
+    "email": "kenneth.walsh@legmt.gov",
+    "name": "Ken Walsh",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/6921"
+   }
+  ],
+  "7": [
+   {
+    "email": "courtenay.sprunger@legmt.gov",
+    "name": "Courtenay Sprunger",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/7646"
+   }
+  ],
+  "70": [
+   {
+    "email": "shannon.maness@legmt.gov",
+    "name": "Shannon Maness",
+    "party": "Republican",
+    "url": "https://legislators.legmt.gov/#/legislator/158"
+   }
+  ],
+  "71": [
+   {
+    "email": "scott.demarois@legmt.gov",
+    "name": "Scott DeMarois",
+    "party": "Democratic",
+    "url": "https://legislators.legmt.gov/#/legislator/163"
+   }
+  ],
+  "72": [
+   {
+    "email": "donavon.hawk@legmt.gov",
+    "name": "Donavon Hawk",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/6867"
+   }
+  ],
+  "73": [
+   {
+    "email": "jennifer.lynch@legmt.gov",
+    "name": "Jennifer Lynch",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/7634"
+   }
+  ],
+  "74": [
+   {
+    "email": "marc.lee@legmt.gov",
+    "name": "Marc Lee",
+    "party": "Democratic",
+    "url": "https://legislators.legmt.gov/#/legislator/179"
+   }
+  ],
+  "75": [
+   {
+    "email": "mark.reinschmidt@legmt.gov",
+    "name": "Mark Reinschmidt",
+    "party": "Republican",
+    "url": "https://legislators.legmt.gov/#/legislator/1829"
+   }
+  ],
+  "76": [
+   {
+    "email": "john.fitzpatrick@legmt.gov",
+    "name": "John Fitzpatrick",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/7627"
+   }
+  ],
+  "77": [
+   {
+    "email": "jane.gillette@legmt.gov",
+    "name": "Jane Gillette",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/6918"
+   }
+  ],
+  "78": [
+   {
+    "email": "randyn.gregg@legmt.gov",
+    "name": "Randyn Gregg",
+    "party": "Republican",
+    "url": "https://legislators.legmt.gov/#/legislator/227"
+   }
+  ],
+  "79": [
+   {
+    "email": "luke.muszkiewicz@legmt.gov",
+    "name": "Luke Muszkiewicz",
+    "party": "Democratic",
+    "url": "https://legislators.legmt.gov/#/legislator/176"
+   }
+  ],
+  "8": [
+   {
+    "email": "lukas.schubert@legmt.gov",
+    "name": "Lukas Schubert",
+    "party": "Republican",
+    "url": "https://legislators.legmt.gov/#/legislator/174"
+   }
+  ],
+  "80": [
+   {
+    "email": "melissa.romano@legmt.gov",
+    "name": "Melissa Romano",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/7642"
+   }
+  ],
+  "81": [
+   {
+    "email": "mary.caferro@legmt.gov",
+    "name": "Mary Caferro",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/5140"
+   }
+  ],
+  "82": [
+   {
+    "email": "pete.elverum@legmt.gov",
+    "name": "Pete Elverum",
+    "party": "Democratic",
+    "url": "https://legislators.legmt.gov/#/legislator/223"
+   }
+  ],
+  "83": [
+   {
+    "email": "jill.cohenour@legmt.gov",
+    "name": "Jill Cohenour",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/4703"
+   }
+  ],
+  "84": [
+   {
+    "email": "julie.darling@legmt.gov",
+    "name": "Julie Darling",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/5129"
+   }
+  ],
+  "85": [
+   {
+    "email": "kathy.love@legmt.gov",
+    "name": "Kathy Love",
+    "party": "Republican",
+    "url": "https://legislators.legmt.gov/#/legislator/199"
+   }
+  ],
+  "86": [
+   {
+    "email": "david.bedey@legmt.gov",
+    "name": "Dave Bedey",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/5145"
+   }
+  ],
+  "87": [
+   {
+    "email": "terry.nelson@legmt.gov",
+    "name": "Terry Nelson",
+    "party": "Republican",
+    "url": "https://legislators.legmt.gov/#/legislator/307"
+   }
+  ],
+  "88": [
+   {
+    "email": "greg.overstreet@legmt.gov",
+    "name": "Greg Overstreet",
+    "party": "Republican",
+    "url": "https://legislators.legmt.gov/#/legislator/202"
+   }
+  ],
+  "89": [
+   {
+    "email": "mark.thane@legmt.gov",
+    "name": "Mark Thane",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/6880"
+   }
+  ],
+  "9": [
+   {
+    "email": "steven.kelly@legmt.gov",
+    "name": "Steve Kelly",
+    "party": "Republican",
+    "url": "https://legislators.legmt.gov/#/legislator/182"
+   }
+  ],
+  "90": [
+   {
+    "email": "curtis.cochran@legmt.gov",
+    "name": "Curt Cochran",
+    "party": "Republican",
+    "url": "https://legislators.legmt.gov/#/legislator/159"
+   }
+  ],
+  "91": [
+   {
+    "email": "shelly.fyant@legmt.gov",
+    "name": "Shelly Fyant",
+    "party": "Democratic",
+    "url": "https://legislators.legmt.gov/#/legislator/228"
+   }
+  ],
+  "92": [
+   {
+    "email": "connie.keogh@legmt.gov",
+    "name": "Connie Keogh",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/5150"
+   }
+  ],
+  "93": [
+   {
+    "email": "katie.sullivan@legmt.gov",
+    "name": "Katie Sullivan",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/5148"
+   }
+  ],
+  "94": [
+   {
+    "email": "marilyn.marler@legmt.gov",
+    "name": "Marilyn Marler",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/5149"
+   }
+  ],
+  "95": [
+   {
+    "email": "zooey.zephyr@legmt.gov",
+    "name": "Zooey Zephyr",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/7651"
+   }
+  ],
+  "96": [
+   {
+    "email": "bob.carter@legmt.gov",
+    "name": "Bob Carter",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/7622"
+   }
+  ],
+  "97": [
+   {
+    "email": "melody.cunningham@legmt.gov",
+    "name": "Melody Cunningham",
+    "party": "Democratic",
+    "url": "https://legislators.legmt.gov/#/legislator/240"
+   }
+  ],
+  "98": [
+   {
+    "email": "jonathan.karlen@legmt.gov",
+    "name": "Jonathan Karlen",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/7631"
+   }
+  ],
+  "99": [
+   {
+    "email": "tom.france@legmt.gov",
+    "name": "Tom France",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/6877"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/mt.csv"
+ },
+ "state": "MT",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "mike.cuffe@legmt.gov",
+    "name": "Mike Cuffe",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/5034"
+   }
+  ],
+  "10": [
+   {
+    "email": "jeremy.trebas@legmt.gov",
+    "name": "Jeremy Trebas",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/4847"
+   }
+  ],
+  "11": [
+   {
+    "email": "daniel.emrich@legmt.gov",
+    "name": "Daniel Emrich",
+    "party": "Republican",
+    "url": "https://archive.legmt.gov/legislator-information/roster/individual/7624"
+   }
+  ],
+  "12": [
+   {
+    "email": "wendy.mckamey@legmt.gov",
+    "name": "Wendy McKamey",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/4762"
+   }
+  ],
+  "13": [
+   {
+    "email": "josh.kassmier@legmt.gov",
+    "name": "Josh Kassmier",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/5086"
+   }
+  ],
+  "14": [
+   {
+    "email": "russ.tempel@legmt.gov",
+    "name": "Russel Tempel",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/4848"
+   }
+  ],
+  "15": [
+   {
+    "email": "gregg.hunter@legmt.gov",
+    "name": "Gregg Hunter",
+    "party": "Republican",
+    "url": "https://legislators.legmt.gov/#/legislator/154"
+   }
+  ],
+  "16": [
+   {
+    "email": "jonathan.windyboy@legmt.gov",
+    "name": "Jonathan Windy Boy",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/4774"
+   }
+  ],
+  "17": [
+   {
+    "email": "bobby.phalen@legmt.gov",
+    "name": "Bob Phalen",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/6843"
+   }
+  ],
+  "18": [
+   {
+    "email": "kenneth.bogner@legmt.gov",
+    "name": "Ken Bogner",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/5043"
+   }
+  ],
+  "19": [
+   {
+    "email": "barry.usher@legmt.gov",
+    "name": "Barry Usher",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/4782"
+   }
+  ],
+  "2": [
+   {
+    "email": "dave.fern@legmt.gov",
+    "name": "Dave Fern",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/4748"
+   }
+  ],
+  "20": [
+   {
+    "email": "sue.vinton@legmt.gov",
+    "name": "Sue Vinton",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/4798"
+   }
+  ],
+  "21": [
+   {
+    "email": "gayle.lammers@legmt.gov",
+    "name": "Gayle Lammers",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/7810"
+   }
+  ],
+  "22": [
+   {
+    "email": "daniel.zolnikov@legmt.gov",
+    "name": "Daniel Zolnikov",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/7652"
+   }
+  ],
+  "23": [
+   {
+    "email": "emma.kc@legmt.gov",
+    "name": "Emma Kerr-Carpenter",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/5007"
+   }
+  ],
+  "24": [
+   {
+    "email": "mike.yakawich@legmt.gov",
+    "name": "Mike Yakawich",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/7650"
+   }
+  ],
+  "25": [
+   {
+    "email": "dennis.lenz@legmt.gov",
+    "name": "Dennis Lenz",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/4795"
+   }
+  ],
+  "26": [
+   {
+    "email": "tom.mcgillvray@legmt.gov",
+    "name": "Tom McGillvray",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/css/Sessions/62nd/leg_info.asp?HouseID=0&SessionID=105&LAWSID=3851"
+   }
+  ],
+  "27": [
+   {
+    "email": "vince.ricci@legmt.gov",
+    "name": "Vince Ricci",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/4797"
+   }
+  ],
+  "28": [
+   {
+    "email": "forrest.mandeville@legmt.gov",
+    "name": "Forrest Mandeville",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/7635"
+   }
+  ],
+  "29": [
+   {
+    "email": "john.esp@legmt.gov",
+    "name": "John Esp",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/5049"
+   }
+  ],
+  "3": [
+   {
+    "email": "carl.glimm@legmt.gov",
+    "name": "Carl Glimm",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/4749"
+   }
+  ],
+  "30": [
+   {
+    "email": "cora.neumann@legmt.gov",
+    "name": "Cora Neumann",
+    "party": "Democratic",
+    "url": "https://legislators.legmt.gov/#/legislator/229"
+   }
+  ],
+  "31": [
+   {
+    "email": "pat.flowers@legmt.gov",
+    "name": "Pat Flowers",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/5050"
+   }
+  ],
+  "32": [
+   {
+    "email": "denise.hayman@legmt.gov",
+    "name": "Denise Hayman",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/4808"
+   }
+  ],
+  "33": [
+   {
+    "email": "christopher.pope@legmt.gov",
+    "name": "Chris Pope",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/css/Sessions/64th/leg_info.asp?HouseID=0&SessionID=109&LAWSID=16520"
+   }
+  ],
+  "34": [
+   {
+    "email": "shelley.vance@legmt.gov",
+    "name": "Shelley Vance",
+    "party": "Republican",
+    "url": "https://archive.legmt.gov/legislator-information/roster/individual/7648"
+   }
+  ],
+  "35": [
+   {
+    "email": "tony.tezak@legmt.gov",
+    "name": "Tony Tezak",
+    "party": "Republican",
+    "url": "https://legislators.legmt.gov/#/legislator/1606"
+   }
+  ],
+  "36": [
+   {
+    "email": "sara.novak@legmt.gov",
+    "name": "Sara Novak",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/6868"
+   }
+  ],
+  "37": [
+   {
+    "email": "derek.harvey@legmt.gov",
+    "name": "Derek Harvey",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/5133"
+   }
+  ],
+  "38": [
+   {
+    "email": "becky.beard@legmt.gov",
+    "name": "Becky Beard",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/7472"
+   }
+  ],
+  "39": [
+   {
+    "email": "wylie.galt@legmt.gov",
+    "name": "Wylie Galt",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/4772"
+   }
+  ],
+  "4": [
+   {
+    "email": "john.fuller@legmt.gov",
+    "name": "John Fuller",
+    "party": "Republican",
+    "url": "https://archive.legmt.gov/legislator-information/roster/individual/7513"
+   }
+  ],
+  "40": [
+   {
+    "email": "laura.smith@legmt.gov",
+    "name": "Laura Smith",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/7644"
+   }
+  ],
+  "41": [
+   {
+    "email": "janet.ellis@legmt.gov",
+    "name": "Janet Ellis",
+    "party": "Democratic",
+    "url": "https://archive.legmt.gov/legislator-information/roster/individual/7495"
+   }
+  ],
+  "42": [
+   {
+    "email": "maryann.dunwell@legmt.gov",
+    "name": "Mary Ann Dunwell",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/4826"
+   }
+  ],
+  "43": [
+   {
+    "email": "jason.ellsworth@legmt.gov",
+    "name": "Jason Ellsworth",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/5055"
+   }
+  ],
+  "44": [
+   {
+    "email": "theresa.manzella@legmt.gov",
+    "name": "Theresa Manzella",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/4827"
+   }
+  ],
+  "45": [
+   {
+    "email": "denley.loge@legmt.gov",
+    "name": "Denley Loge",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/4757"
+   }
+  ],
+  "46": [
+   {
+    "email": "jacinda.morigeau@legmt.gov",
+    "name": "Jacinda Morigeau",
+    "party": "Democratic",
+    "url": "https://legislators.legmt.gov/#/legislator/239"
+   }
+  ],
+  "47": [
+   {
+    "email": "ellie.boldman@legmt.gov",
+    "name": "Ellie Boldman",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/6886"
+   }
+  ],
+  "48": [
+   {
+    "email": "andrea.olsen@legmt.gov",
+    "name": "Andrea Olsen",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/4842"
+   }
+  ],
+  "49": [
+   {
+    "email": "willis.curdy@legmt.gov",
+    "name": "Willis Curdy",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/4840"
+   }
+  ],
+  "5": [
+   {
+    "email": "matt.regier@legmt.gov",
+    "name": "Matt Regier",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/4747"
+   }
+  ],
+  "50": [
+   {
+    "email": "shane.morigeau@legmt.gov",
+    "name": "Shane Morigeau",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/4837"
+   }
+  ],
+  "6": [
+   {
+    "email": "mark.noland@legmt.gov",
+    "name": "Mark Noland",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/4753"
+   }
+  ],
+  "7": [
+   {
+    "email": "greg.hertz@legmt.gov",
+    "name": "Greg Hertz",
+    "party": "Republican",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/4755"
+   }
+  ],
+  "8": [
+   {
+    "email": "susan.webber@legmt.gov",
+    "name": "Susan Webber",
+    "party": "Democratic",
+    "url": "https://leg.mt.gov/legislator-information/roster/individual/5037"
+   }
+  ],
+  "9": [
+   {
+    "email": "bruce.gillespie@legmt.gov",
+    "name": "Butch Gillespie",
+    "party": "Republican",
+    "url": "https://archive.legmt.gov/legislator-information/roster/individual/7516"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

@@ -28,9 +28,19 @@ final readonly class Slug
         'static', 'assets', 'cdn', 'img', 'images', 'media', 'files', 'download',
         'app', 'dev', 'staging', 'test', 'preview', 'beta', 'demo', 'docs', 'blog',
         'help', 'support', 'status', 'about', 'legal', 'privacy', 'terms', 'press',
+        'contact',
         'chapters', 'chapter', 'start', 'new', 'create', 'edit', 'verify', 'claim',
         'map', 'maps', 'sitemap', 'robots', 'feed', 'rss', 'schools', 'school',
         'login', 'signin', 'signup', 'account', 'auth', 'oauth', 'deflock', 'storage',
+        // Paths the application itself answers. A chapter claiming one of these
+        // would shadow a real endpoint.
+        'districts', 'places', 'handle-check', 'coverage', 'verify', 'email',
+        // Registered by packages rather than by this application, and just as
+        // capable of being shadowed.
+        'sanctum',
+        'unlock', 'acknowledge', 'welcome', 'recover-key', 'lock',
+        // Registered by the framework's health check in bootstrap/app.php.
+        'up',
     ];
 
     private function __construct(public string $value) {}

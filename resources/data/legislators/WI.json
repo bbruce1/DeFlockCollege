@@ -1,0 +1,1171 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Bryan Steil",
+    "party": "Republican",
+    "phone": "202-225-3031",
+    "url": "https://steil.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Mark Pocan",
+    "party": "Democrat",
+    "phone": "202-225-2906",
+    "url": "https://pocan.house.gov"
+   }
+  ],
+  "3": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Derrick Van Orden",
+    "party": "Republican",
+    "phone": "202-225-5506",
+    "url": "https://vanorden.house.gov"
+   }
+  ],
+  "4": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Gwen Moore",
+    "party": "Democrat",
+    "phone": "202-225-4572",
+    "url": "https://gwenmoore.house.gov"
+   }
+  ],
+  "5": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Scott Fitzgerald",
+    "party": "Republican",
+    "phone": "202-225-5101",
+    "url": "https://fitzgerald.house.gov"
+   }
+  ],
+  "6": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Glenn Grothman",
+    "party": "Republican",
+    "phone": "202-225-2476",
+    "url": "https://grothman.house.gov"
+   }
+  ],
+  "7": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Thomas Tiffany",
+    "party": "Republican",
+    "phone": "202-225-3365",
+    "url": "https://tiffany.house.gov"
+   }
+  ],
+  "8": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Tony Wied",
+    "party": "Republican",
+    "phone": "202-225-5665",
+    "url": "https://wied.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.baldwin.senate.gov/feedback",
+   "email": null,
+   "name": "Tammy Baldwin",
+   "party": "Democrat",
+   "phone": "202-224-5653",
+   "url": "https://www.baldwin.senate.gov"
+  },
+  {
+   "contactForm": "https://www.ronjohnson.senate.gov/public/index.cfm/email-the-senator",
+   "email": null,
+   "name": "Ron Johnson",
+   "party": "Republican",
+   "phone": "202-224-5323",
+   "url": "https://www.ronjohnson.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "rep.kitchens@legis.wisconsin.gov",
+    "name": "Joel Kitchens",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1572"
+   }
+  ],
+  "10": [
+   {
+    "email": "rep.madison@legis.wisconsin.gov",
+    "name": "Darrin Madison",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2536"
+   }
+  ],
+  "11": [
+   {
+    "email": "rep.taylor@legis.wisconsin.gov",
+    "name": "Sequanna Taylor",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2880"
+   }
+  ],
+  "12": [
+   {
+    "email": "rep.goodwin@legis.wisconsin.gov",
+    "name": "Russell Goodwin",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2906"
+   }
+  ],
+  "13": [
+   {
+    "email": "rep.vining@legis.wisconsin.gov",
+    "name": "Robyn Vining",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2019/legislators/assembly/1945"
+   }
+  ],
+  "14": [
+   {
+    "email": "rep.tenorio@legis.wisconsin.gov",
+    "name": "Angelito Tenorio",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2881"
+   }
+  ],
+  "15": [
+   {
+    "email": "rep.neylon@legis.wisconsin.gov",
+    "name": "Adam Neylon",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1592"
+   }
+  ],
+  "16": [
+   {
+    "email": "rep.haywood@legis.wisconsin.gov",
+    "name": "Kalan Haywood",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2019/legislators/assembly/1929"
+   }
+  ],
+  "17": [
+   {
+    "email": "rep.mooreomokunde@legis.wisconsin.gov",
+    "name": "Supreme Moore Omokunde",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2021/legislators/assembly/2265"
+   }
+  ],
+  "18": [
+   {
+    "email": "rep.arney@legis.wisconsin.gov",
+    "name": "Margaret Arney",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2882"
+   }
+  ],
+  "19": [
+   {
+    "email": "rep.clancy@legis.wisconsin.gov",
+    "name": "Ryan Clancy",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2538"
+   }
+  ],
+  "2": [
+   {
+    "email": "rep.sortwell@legis.wisconsin.gov",
+    "name": "Shae Sortwell",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2019/legislators/assembly/1932"
+   }
+  ],
+  "20": [
+   {
+    "email": "rep.sinicki@legis.wisconsin.gov",
+    "name": "Christine Sinicki",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1610"
+   }
+  ],
+  "21": [
+   {
+    "email": "rep.rodriguez@legis.wisconsin.gov",
+    "name": "Jessie Rodriguez",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1604"
+   }
+  ],
+  "22": [
+   {
+    "email": "rep.melotik@legis.wisconsin.gov",
+    "name": "Paul Melotik",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2690"
+   }
+  ],
+  "23": [
+   {
+    "email": "rep.andraca@legis.wisconsin.gov",
+    "name": "Deb Andraca",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2021/legislators/assembly/2266"
+   }
+  ],
+  "24": [
+   {
+    "email": "rep.knodl@legis.wisconsin.gov",
+    "name": "Dan Knodl",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1574"
+   }
+  ],
+  "25": [
+   {
+    "email": "rep.tittl@legis.wisconsin.gov",
+    "name": "Paul Tittl",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1622"
+   }
+  ],
+  "26": [
+   {
+    "email": "rep.sheehan@legis.wisconsin.gov",
+    "name": "Joe Sheehan",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2883"
+   }
+  ],
+  "27": [
+   {
+    "email": "rep.brill@legis.wisconsin.gov",
+    "name": "Lindee Brill",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2884"
+   }
+  ],
+  "28": [
+   {
+    "email": "rep.kreibich@legis.wisconsin.gov",
+    "name": "Rob Kreibich",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2885"
+   }
+  ],
+  "29": [
+   {
+    "email": "rep.pronschinske@legis.wisconsin.gov",
+    "name": "Treig Pronschinske",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1642"
+   }
+  ],
+  "3": [
+   {
+    "email": "rep.tusler@legis.wisconsin.gov",
+    "name": "Ron Tusler",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1632"
+   }
+  ],
+  "30": [
+   {
+    "email": "rep.zimmerman@legis.wisconsin.gov",
+    "name": "Shannon Zimmerman",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1636"
+   }
+  ],
+  "31": [
+   {
+    "email": "rep.august@legis.wisconsin.gov",
+    "name": "Tyler August",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1534"
+   }
+  ],
+  "32": [
+   {
+    "email": "rep.nedweski@legis.wisconsin.gov",
+    "name": "Amanda Nedweski",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2551"
+   }
+  ],
+  "33": [
+   {
+    "email": "rep.vos@legis.wisconsin.gov",
+    "name": "Robin Vos",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1626"
+   }
+  ],
+  "34": [
+   {
+    "email": "rep.swearingen@legis.wisconsin.gov",
+    "name": "Rob Swearingen",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1618"
+   }
+  ],
+  "35": [
+   {
+    "email": "rep.callahan@legis.wisconsin.gov",
+    "name": "Calvin Callahan",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2021/legislators/assembly/2260"
+   }
+  ],
+  "36": [
+   {
+    "email": "rep.mursau@legis.wisconsin.gov",
+    "name": "Jeff Mursau",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1589"
+   }
+  ],
+  "37": [
+   {
+    "email": "rep.born@legis.wisconsin.gov",
+    "name": "Mark Born",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1541"
+   }
+  ],
+  "38": [
+   {
+    "email": "rep.penterman@legis.wisconsin.gov",
+    "name": "Will Penterman",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2021/legislators/assembly/2398"
+   }
+  ],
+  "39": [
+   {
+    "email": "rep.dallman@legis.wisconsin.gov",
+    "name": "Alex Dallman",
+    "party": "Republican",
+    "url": "https://alexdallman.com/"
+   }
+  ],
+  "4": [
+   {
+    "email": "rep.steffen@legis.wisconsin.gov",
+    "name": "David Steffen",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1614"
+   }
+  ],
+  "40": [
+   {
+    "email": "rep.desanto@legis.wisconsin.gov",
+    "name": "Karen DeSanto",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2886"
+   }
+  ],
+  "41": [
+   {
+    "email": "rep.kurtz@legis.wisconsin.gov",
+    "name": "Tony Kurtz",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2019/legislators/assembly/1935"
+   }
+  ],
+  "42": [
+   {
+    "email": "rep.mccarville@legis.wisconsin.gov",
+    "name": "Maureen McCarville",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2887"
+   }
+  ],
+  "43": [
+   {
+    "email": "rep.brown@legis.wisconsin.gov",
+    "name": "Brienne Brown",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2888"
+   }
+  ],
+  "44": [
+   {
+    "email": "rep.roe@legis.wisconsin.gov",
+    "name": "Ann Roe",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2889"
+   }
+  ],
+  "45": [
+   {
+    "email": "rep.canderson@legis.wisconsin.gov",
+    "name": "Clint Anderson",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2559"
+   }
+  ],
+  "46": [
+   {
+    "email": "rep.fitzgerald@legis.wisconsin.gov",
+    "name": "Joan Fitzgerald",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2890"
+   }
+  ],
+  "47": [
+   {
+    "email": "rep.udell@legis.wisconsin.gov",
+    "name": "Randy Udell",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2891"
+   }
+  ],
+  "48": [
+   {
+    "email": "rep.hysell@legis.wisconsin.gov",
+    "name": "Andrew Hysell",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2892"
+   }
+  ],
+  "49": [
+   {
+    "email": "rep.tranel@legis.wisconsin.gov",
+    "name": "Travis Tranel",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1623"
+   }
+  ],
+  "5": [
+   {
+    "email": "rep.goeben@legis.wisconsin.gov",
+    "name": "Joy Goeben",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2542"
+   }
+  ],
+  "50": [
+   {
+    "email": "rep.jacobson@legis.wisconsin.gov",
+    "name": "Jenna Jacobson",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2545"
+   }
+  ],
+  "51": [
+   {
+    "email": "rep.novak@legis.wisconsin.gov",
+    "name": "Todd Novak",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1593"
+   }
+  ],
+  "52": [
+   {
+    "email": "rep.snodgrass@legis.wisconsin.gov",
+    "name": "Lee Snodgrass",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2021/legislators/assembly/2267"
+   }
+  ],
+  "53": [
+   {
+    "email": "rep.kaufert@legis.wisconsin.gov",
+    "name": "Dean Kaufert",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2852"
+   }
+  ],
+  "54": [
+   {
+    "email": "rep.palmeri@legis.wisconsin.gov",
+    "name": "Lori Palmeri",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2547"
+   }
+  ],
+  "55": [
+   {
+    "email": "rep.gustafson@legis.wisconsin.gov",
+    "name": "Gus Gustafson",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2550"
+   }
+  ],
+  "56": [
+   {
+    "email": "rep.murphy@legis.wisconsin.gov",
+    "name": "Dave Murphy",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1588"
+   }
+  ],
+  "57": [
+   {
+    "email": "rep.petersen@legis.wisconsin.gov",
+    "name": "Kevin Petersen",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1598"
+   }
+  ],
+  "58": [
+   {
+    "email": "rep.gundrum@legis.wisconsin.gov",
+    "name": "Rick Gundrum",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1780"
+   }
+  ],
+  "59": [
+   {
+    "email": "rep.rob.brooks@legis.wisconsin.gov",
+    "name": "Rob Brooks",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1545"
+   }
+  ],
+  "6": [
+   {
+    "email": "rep.behnke@legis.wisconsin.gov",
+    "name": "Elijah Behnke",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2021/legislators/assembly/2396"
+   }
+  ],
+  "60": [
+   {
+    "email": "rep.o'connor@legis.wisconsin.gov",
+    "name": "Jerry O'Connor",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2549"
+   }
+  ],
+  "61": [
+   {
+    "email": "rep.donovan@legis.wisconsin.gov",
+    "name": "Bob Donovan",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2555"
+   }
+  ],
+  "62": [
+   {
+    "email": "rep.cruz@legis.wisconsin.gov",
+    "name": "Angelina Cruz",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2893"
+   }
+  ],
+  "63": [
+   {
+    "email": "rep.wittke@legis.wisconsin.gov",
+    "name": "Bob Wittke",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2019/legislators/assembly/1936"
+   }
+  ],
+  "64": [
+   {
+    "email": "rep.mcguire@legis.wisconsin.gov",
+    "name": "Tip McGuire",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2019/legislators/assembly/2075"
+   }
+  ],
+  "65": [
+   {
+    "email": "rep.desmidt@legis.wisconsin.gov",
+    "name": "Ben DeSmidt",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2894"
+   }
+  ],
+  "66": [
+   {
+    "email": "rep.neubauer@legis.wisconsin.gov",
+    "name": "Greta Neubauer",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1782"
+   }
+  ],
+  "67": [
+   {
+    "email": "rep.armstrong@legis.wisconsin.gov",
+    "name": "Dave Armstrong",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2021/legislators/assembly/2268"
+   }
+  ],
+  "68": [
+   {
+    "email": "rep.summerfield@legis.wisconsin.gov",
+    "name": "Rob Summerfield",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1639"
+   }
+  ],
+  "69": [
+   {
+    "email": "rep.hurd@legis.wisconsin.gov",
+    "name": "Karen Hurd",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2552"
+   }
+  ],
+  "7": [
+   {
+    "email": "rep.kirsch@legis.wisconsin.gov",
+    "name": "Karen Kirsch",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2878"
+   }
+  ],
+  "70": [
+   {
+    "email": "rep.vandermeer@legis.wisconsin.gov",
+    "name": "Nancy VanderMeer",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1624"
+   }
+  ],
+  "71": [
+   {
+    "email": "rep.miresse@legis.wisconsin.gov",
+    "name": "Vinnie Miresse",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2895"
+   }
+  ],
+  "72": [
+   {
+    "email": "rep.krug@legis.wisconsin.gov",
+    "name": "Scott Krug",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1579"
+   }
+  ],
+  "73": [
+   {
+    "email": "rep.stroud@legis.wisconsin.gov",
+    "name": "Angela Stroud",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2896"
+   }
+  ],
+  "74": [
+   {
+    "email": "rep.green@legis.wisconsin.gov",
+    "name": "Chanz Green",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2558"
+   }
+  ],
+  "75": [
+   {
+    "email": "rep.tucker@legis.wisconsin.gov",
+    "name": "Duke Tucker",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2897"
+   }
+  ],
+  "76": [
+   {
+    "email": "rep.hong@legis.wisconsin.gov",
+    "name": "Francesca Hong",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2021/legislators/assembly/2261"
+   }
+  ],
+  "77": [
+   {
+    "email": "rep.mayadev@legis.wisconsin.gov",
+    "name": "Renuka Mayadev",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2898"
+   }
+  ],
+  "78": [
+   {
+    "email": "rep.stubbs@legis.wisconsin.gov",
+    "name": "Shelia Stubbs",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2019/legislators/assembly/1931"
+   }
+  ],
+  "79": [
+   {
+    "email": "rep.subeck@legis.wisconsin.gov",
+    "name": "Lisa Subeck",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1617"
+   }
+  ],
+  "8": [
+   {
+    "email": "rep.ortiz-velez@legis.wisconsin.gov",
+    "name": "Sylvia Ortiz-Velez",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2021/legislators/assembly/2262"
+   }
+  ],
+  "80": [
+   {
+    "email": "rep.bare@legis.wisconsin.gov",
+    "name": "Mike Bare",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2554"
+   }
+  ],
+  "81": [
+   {
+    "email": "rep.joers@legis.wisconsin.gov",
+    "name": "Alex Joers",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2553"
+   }
+  ],
+  "82": [
+   {
+    "email": "rep.allen@legis.wisconsin.gov",
+    "name": "Scott Allen",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1533"
+   }
+  ],
+  "83": [
+   {
+    "email": "rep.maxey@legis.wisconsin.gov",
+    "name": "Dave Maxey",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2537"
+   }
+  ],
+  "84": [
+   {
+    "email": "rep.wichgers@legis.wisconsin.gov",
+    "name": "Chuck Wichgers",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1640"
+   }
+  ],
+  "85": [
+   {
+    "email": "rep.snyder@legis.wisconsin.gov",
+    "name": "Pat Snyder",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1641"
+   }
+  ],
+  "86": [
+   {
+    "email": "rep.spiros@legis.wisconsin.gov",
+    "name": "John Spiros",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1612"
+   }
+  ],
+  "87": [
+   {
+    "email": "rep.brent.jacobson@legis.wisconsin.gov",
+    "name": "Brent Jacobson",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2899"
+   }
+  ],
+  "88": [
+   {
+    "email": "rep.franklin@legis.wisconsin.gov",
+    "name": "Ben Franklin",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2900"
+   }
+  ],
+  "89": [
+   {
+    "email": "rep.spaude@legis.wisconsin.gov",
+    "name": "Ryan Spaude",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2901"
+   }
+  ],
+  "9": [
+   {
+    "email": "rep.prado@legis.wisconsin.gov",
+    "name": "Priscilla Prado",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2879"
+   }
+  ],
+  "90": [
+   {
+    "email": "rep.riverawagner@legis.wisconsin.gov",
+    "name": "Amaad Rivera-Wagner",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2902"
+   }
+  ],
+  "91": [
+   {
+    "email": "rep.emerson@legis.wisconsin.gov",
+    "name": "Jodi Emerson",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2019/legislators/assembly/1939"
+   }
+  ],
+  "92": [
+   {
+    "email": "rep.moses@legis.wisconsin.gov",
+    "name": "Clint Moses",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2021/legislators/assembly/2253"
+   }
+  ],
+  "93": [
+   {
+    "email": "rep.phelps@legis.wisconsin.gov",
+    "name": "Christian Phelps",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2903"
+   }
+  ],
+  "94": [
+   {
+    "email": "rep.doyle@legis.wisconsin.gov",
+    "name": "Steve Doyle",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1551"
+   }
+  ],
+  "95": [
+   {
+    "email": "rep.billings@legis.wisconsin.gov",
+    "name": "Jill Billings",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1540"
+   }
+  ],
+  "96": [
+   {
+    "email": "rep.johnson@legis.wisconsin.gov",
+    "name": "Tara Johnson",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2904"
+   }
+  ],
+  "97": [
+   {
+    "email": "rep.duchow@legis.wisconsin.gov",
+    "name": "Cindi Duchow",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1552"
+   }
+  ],
+  "98": [
+   {
+    "email": "rep.piwowarczyk@legis.wisconsin.gov",
+    "name": "Jim Piwowarczyk",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2905"
+   }
+  ],
+  "99": [
+   {
+    "email": "rep.dittrich@legis.wisconsin.gov",
+    "name": "Barbara Dittrich",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2019/legislators/assembly/1934"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/wi.csv"
+ },
+ "state": "WI",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "sen.jacque@legis.wisconsin.gov",
+    "name": "Andr\u00e9 Jacque",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2019/legislators/senate/1941"
+   }
+  ],
+  "10": [
+   {
+    "email": "sen.stafsholt@legis.wisconsin.gov",
+    "name": "Rob Stafsholt",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1635"
+   }
+  ],
+  "11": [
+   {
+    "email": "sen.nass@legis.wisconsin.gov",
+    "name": "Steve Nass",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/senate/1519"
+   }
+  ],
+  "12": [
+   {
+    "email": "rep.felzkowski@legis.wisconsin.gov",
+    "name": "Mary Felzkowski",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1549"
+   }
+  ],
+  "13": [
+   {
+    "email": "sen.jagler@legis.wisconsin.gov",
+    "name": "John Jagler",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1564"
+   }
+  ],
+  "14": [
+   {
+    "email": "sen.keyeski@legis.wisconsin.gov",
+    "name": "Sarah Keyeski",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/senate/2840"
+   }
+  ],
+  "15": [
+   {
+    "email": "sen.spreitzer@legis.wisconsin.gov",
+    "name": "Mark Spreitzer",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1613"
+   }
+  ],
+  "16": [
+   {
+    "email": "sen.ratcliff@legis.wisconsin.gov",
+    "name": "Melissa Ratcliff",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2546"
+   }
+  ],
+  "17": [
+   {
+    "email": "sen.marklein@legis.wi.gov",
+    "name": "Howard Marklein",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/senate/1516"
+   }
+  ],
+  "18": [
+   {
+    "email": "sen.dassler-alfheim@legis.wisconsin.gov",
+    "name": "Kristin Dassler-Alfheim",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/senate/2841"
+   }
+  ],
+  "19": [
+   {
+    "email": "sen.cabral-guevara@legis.wisconsin.gov",
+    "name": "Rachael Cabral-Guevara",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2021/legislators/assembly/2254"
+   }
+  ],
+  "2": [
+   {
+    "email": "sen.wimberger@legis.wisconsin.gov",
+    "name": "Eric Wimberger",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2021/legislators/senate/2246"
+   }
+  ],
+  "20": [
+   {
+    "email": "sen.feyen@legis.wi.gov",
+    "name": "Dan Feyen",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/senate/1644"
+   }
+  ],
+  "21": [
+   {
+    "email": "sen.wanggaard@legis.wisconsin.gov",
+    "name": "Van Wanggaard",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/senate/1531"
+   }
+  ],
+  "22": [
+   {
+    "email": "sen.wirch@legis.wisconsin.gov",
+    "name": "Bob Wirch",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/senate/1532"
+   }
+  ],
+  "23": [
+   {
+    "email": "sen.james@legis.wisconsin.gov",
+    "name": "Jesse James",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2019/legislators/assembly/1937"
+   }
+  ],
+  "24": [
+   {
+    "email": "sen.testin@legis.wisconsin.gov",
+    "name": "Patrick Testin",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/senate/1645"
+   }
+  ],
+  "25": [
+   {
+    "email": "sen.quinn@legis.wisconsin.gov",
+    "name": "Romaine Quinn",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1601"
+   }
+  ],
+  "26": [
+   {
+    "email": "sen.roys@legis.wisconsin.gov",
+    "name": "Kelda Roys",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2021/legislators/senate/2252"
+   }
+  ],
+  "27": [
+   {
+    "email": "sen.hesselbein@legis.wisconsin.gov",
+    "name": "Dianne Hesselbein",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1559"
+   }
+  ],
+  "28": [
+   {
+    "email": "sen.bradley@legis.wisconsin.gov",
+    "name": "Julian Bradley",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2021/legislators/senate/2245"
+   }
+  ],
+  "29": [
+   {
+    "email": "sen.tomczyk@legis.wisconsin.gov",
+    "name": "Cory Tomczyk",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2023/legislators/senate/2567"
+   }
+  ],
+  "3": [
+   {
+    "email": "sen.carpenter@legis.wisconsin.gov",
+    "name": "Tim Carpenter",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/senate/1501"
+   }
+  ],
+  "30": [
+   {
+    "email": "sen.wall@legis.wisconsin.gov",
+    "name": "Jamie Wall",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/senate/2842"
+   }
+  ],
+  "31": [
+   {
+    "email": "sen.smith@legis.wisconsin.gov",
+    "name": "Jeff Smith",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2019/legislators/senate/1944"
+   }
+  ],
+  "32": [
+   {
+    "email": "sen.pfaff@legis.wisconsin.gov",
+    "name": "Brad Pfaff",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2021/legislators/senate/2247"
+   }
+  ],
+  "33": [
+   {
+    "email": "sen.kapenga@legis.wisconsin.gov",
+    "name": "Chris Kapenga",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/senate/1510"
+   }
+  ],
+  "4": [
+   {
+    "email": "sen.drake@legis.wisconsin.gov",
+    "name": "Dora Drake",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2021/legislators/assembly/2263"
+   }
+  ],
+  "5": [
+   {
+    "email": "sen.hutton@legis.wisconsin.gov",
+    "name": "Rob Hutton",
+    "party": "Republican",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/assembly/1562"
+   }
+  ],
+  "6": [
+   {
+    "email": "sen.johnson@legis.wisconsin.gov",
+    "name": "LaTonya Johnson",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/senate/1643"
+   }
+  ],
+  "7": [
+   {
+    "email": "sen.larson@legis.wisconsin.gov",
+    "name": "Chris Larson",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2017/legislators/senate/1511"
+   }
+  ],
+  "8": [
+   {
+    "email": "sen.habushsinykin@legis.wisconsin.gov",
+    "name": "Jodi Habush Sinykin",
+    "party": "Democratic",
+    "url": "https://docs.legis.wisconsin.gov/2025/legislators/senate/2839"
+   }
+  ],
+  "9": [
+   {
+    "email": "sen.lemahieu@legis.wisconsin.gov",
+    "name": "Devin LeMahieu",
+    "party": "Republican",
+    "url": "https://devinforsenate.com/"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

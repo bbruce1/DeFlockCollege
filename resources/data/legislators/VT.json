@@ -1,0 +1,1375 @@
+{
+ "federalHouse": {
+  "0": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Becca Balint",
+    "party": "Democrat",
+    "phone": "202-225-4115",
+    "url": "https://balint.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.sanders.senate.gov/contact/",
+   "email": null,
+   "name": "Bernard Sanders",
+   "party": "Independent",
+   "phone": "202-224-5141",
+   "url": "https://www.sanders.senate.gov"
+  },
+  {
+   "contactForm": "https://www.welch.senate.gov/email-peter/",
+   "email": null,
+   "name": "Peter Welch",
+   "party": "Democrat",
+   "phone": "202-224-4242",
+   "url": "https://www.welch.senate.gov"
+  }
+ ],
+ "lower": {
+  "Addison-1": [
+   {
+    "email": "asheldon@leg.state.vt.us",
+    "name": "Amy Sheldon",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/ADD-1.pdf"
+   },
+   {
+    "email": "rscheu@leg.state.vt.us",
+    "name": "Robin Scheu",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/ADD-1.pdf"
+   }
+  ],
+  "Addison-2": [
+   {
+    "email": "pconlon@leg.state.vt.us",
+    "name": "Peter Conlon",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Addison-2.pdf"
+   }
+  ],
+  "Addison-3": [
+   {
+    "email": "mbirong@leg.state.vt.us",
+    "name": "Matt Birong",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/ADD-3.pdf"
+   },
+   {
+    "email": "rnorth@leg.state.vt.us",
+    "name": "Rob North",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2026/40396"
+   }
+  ],
+  "Addison-4": [
+   {
+    "email": "holson@leg.state.vt.us",
+    "name": "Herb Olson",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/people/single/2026/40397"
+   },
+   {
+    "email": "mcordes@leg.state.vt.us",
+    "name": "Mari Cordes",
+    "party": "Democratic/Progressive",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/ADD-4.pdf"
+   }
+  ],
+  "Addison-5": [
+   {
+    "email": "jmcgill@leg.state.vt.us",
+    "name": "Jubilee McGill",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Addison-5.pdf"
+   }
+  ],
+  "Addison-Rutland": [
+   {
+    "email": "jcasey@leg.state.vt.us",
+    "name": "Jim Casey",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2026/40398"
+   }
+  ],
+  "Bennington-1": [
+   {
+    "email": "jcooper@leg.state.vt.us",
+    "name": "Jonathan Cooper",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/people/single/2026/40399"
+   }
+  ],
+  "Bennington-2": [
+   {
+    "email": "tcorcoran@leg.state.vt.us",
+    "name": "Timothy Corcoran",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Bennington-2.pdf"
+   },
+   {
+    "email": "wgreer@leg.state.vt.us",
+    "name": "Will Greer",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/people/single/2026/40400"
+   }
+  ],
+  "Bennington-3": [
+   {
+    "email": "ddurfee@leg.state.vt.us",
+    "name": "David Durfee",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Bennington-3.pdf"
+   }
+  ],
+  "Bennington-4": [
+   {
+    "email": "kjames@leg.state.vt.us",
+    "name": "Kathleen James",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/BEN-4.pdf"
+   },
+   {
+    "email": "rhunter@leg.state.vt.us",
+    "name": "Rob Hunter",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/people/single/2026/40401"
+   }
+  ],
+  "Bennington-5": [
+   {
+    "email": "mmorrissey@leg.state.vt.us",
+    "name": "Mary Morrissey",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Bennington-5.pdf"
+   },
+   {
+    "email": "mnigro@leg.state.vt.us",
+    "name": "Michael Nigro",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/BEN-2-2.pdf"
+   }
+  ],
+  "Bennington-Rutland": [
+   {
+    "email": "spinsonault@leg.state.vt.us",
+    "name": "Sandy Pinsonault",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2026/40402"
+   }
+  ],
+  "Caledonia-1": [
+   {
+    "email": "dpowers@leg.state.vt.us",
+    "name": "Debbie Powers",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2026/40403"
+   }
+  ],
+  "Caledonia-2": [
+   {
+    "email": "msouthworth@leg.state.vt.us",
+    "name": "Mike Southworth",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2026/40404"
+   }
+  ],
+  "Caledonia-3": [
+   {
+    "email": "bquimby@leg.state.vt.us",
+    "name": "Beth Quimby",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2024/39966"
+   },
+   {
+    "email": "mfeltus@leg.state.vt.us",
+    "name": "Marty Feltus",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2022/20375"
+   }
+  ],
+  "Caledonia-Essex": [
+   {
+    "email": "ddolgin@leg.state.vt.us",
+    "name": "Debbie Dolgin",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2026/40405"
+   },
+   {
+    "email": "scampbell@leg.state.vt.us",
+    "name": "Scott Campbell",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Caledonia-Essex.pdf"
+   }
+  ],
+  "Caledonia-Washington": [
+   {
+    "email": "gburtt@leg.state.vt.us",
+    "name": "Greg Burtt",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2026/40406"
+   }
+  ],
+  "Chittenden-1": [
+   {
+    "email": "jbrown@leg.state.vt.us",
+    "name": "Jana Brown",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Chittenden-1.pdf"
+   }
+  ],
+  "Chittenden-10": [
+   {
+    "email": "knugent@leg.state.vt.us",
+    "name": "Kate Nugent",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Chittenden-10.pdf"
+   }
+  ],
+  "Chittenden-11": [
+   {
+    "email": "bminier@leg.state.vt.us",
+    "name": "Brian Minier",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Chittenden-11.pdf"
+   }
+  ],
+  "Chittenden-12": [
+   {
+    "email": "mlalonde@leg.state.vt.us",
+    "name": "Martin LaLonde",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Chittenden-12.pdf"
+   }
+  ],
+  "Chittenden-13": [
+   {
+    "email": "bkleppner@leg.state.vt.us",
+    "name": "Bram Kleppner",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/people/single/2026/40409"
+   },
+   {
+    "email": "tbluemle@leg.state.vt.us",
+    "name": "Tiff Bluemle",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Chittenden-13.pdf"
+   }
+  ],
+  "Chittenden-14": [
+   {
+    "email": "brachelson@leg.state.vt.us",
+    "name": "Barbara Rachelson",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Chittenden-14.pdf"
+   },
+   {
+    "email": "mstone@leg.state.vt.us",
+    "name": "Mary-Katherine Stone",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Chittenden-14.pdf"
+   }
+  ],
+  "Chittenden-15": [
+   {
+    "email": "bcina@leg.state.vt.us",
+    "name": "Brian Cina",
+    "party": "Democratic/Progressive",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/CHI-6-4.pdf"
+   },
+   {
+    "email": "theadrick@leg.state.vt.us",
+    "name": "Troy Headrick",
+    "party": "Independent",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Chittenden-15.pdf"
+   }
+  ],
+  "Chittenden-16": [
+   {
+    "email": "jkrowinski@leg.state.vt.us",
+    "name": "Jill Krowinski",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/CHI-6-3.pdf"
+   },
+   {
+    "email": "klogan@leg.state.vt.us",
+    "name": "Kate Logan",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Chittenden-16.pdf"
+   }
+  ],
+  "Chittenden-17": [
+   {
+    "email": "aduke@leg.state.vt.us",
+    "name": "Abbey Duke",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/people/single/2024/40324"
+   }
+  ],
+  "Chittenden-18": [
+   {
+    "email": "code@leg.state.vt.us",
+    "name": "Carol Ode",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Chittenden-18.pdf"
+   },
+   {
+    "email": "rhooper@leg.state.vt.us",
+    "name": "Bob Hooper",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/CHI-6-1.pdf"
+   }
+  ],
+  "Chittenden-19": [
+   {
+    "email": "saustin@leg.state.vt.us",
+    "name": "Sarita Austin",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Chittenden-19.pdf"
+   },
+   {
+    "email": "wcritchlow@leg.state.vt.us",
+    "name": "Wendy Critchlow",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/people/single/2026/40410"
+   }
+  ],
+  "Chittenden-2": [
+   {
+    "email": "aarsenault@leg.state.vt.us",
+    "name": "Angela Arsenault",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Chittenden-19.pdf"
+   },
+   {
+    "email": "ebrady@leg.state.vt.us",
+    "name": "Erin Brady",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Chittenden-2.pdf"
+   }
+  ],
+  "Chittenden-20": [
+   {
+    "email": "dbishop@leg.state.vt.us",
+    "name": "Doug Bishop",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/people/single/2026/40411"
+   },
+   {
+    "email": "gpezzo@leg.state.vt.us",
+    "name": "Gayle Pezzo",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/people/single/2026/40412"
+   }
+  ],
+  "Chittenden-21": [
+   {
+    "email": "ctomlinson@leg.state.vt.us",
+    "name": "Chloe Tomlinson",
+    "party": "Democratic/Progressive",
+    "url": "https://legislature.vermont.gov/people/single/2026/40413"
+   },
+   {
+    "email": "dberbeco@leg.state.vt.us",
+    "name": "Daisy Berbeco",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Chittenden-21.pdf"
+   }
+  ],
+  "Chittenden-22": [
+   {
+    "email": "kndolan@leg.state.vt.us",
+    "name": "Karen Dolan",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Chittenden-22.pdf"
+   },
+   {
+    "email": "lhoughton@leg.state.vt.us",
+    "name": "Lori Houghton",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Chittenden-22.pdf"
+   }
+  ],
+  "Chittenden-23": [
+   {
+    "email": "ldodge@leg.state.vt.us",
+    "name": "Leonora Dodge",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Chittenden-23.pdf"
+   },
+   {
+    "email": "rgarofano@leg.state.vt.us",
+    "name": "Rey Garofano",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Chittenden-23.pdf"
+   }
+  ],
+  "Chittenden-24": [
+   {
+    "email": "ablack@leg.state.vt.us",
+    "name": "Alyssa Black",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Chittenden-24.pdf"
+   }
+  ],
+  "Chittenden-25": [
+   {
+    "email": "bsteady@leg.state.vt.us",
+    "name": "Brenda Steady",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2026/40414"
+   }
+  ],
+  "Chittenden-3": [
+   {
+    "email": "egraning@leg.state.vt.us",
+    "name": "Edye Graning",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Chittenden-3.pdf"
+   },
+   {
+    "email": "tsquirrell@leg.state.vt.us",
+    "name": "Trevor Squirrell",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/CHI-3.pdf"
+   }
+  ],
+  "Chittenden-4": [
+   {
+    "email": "ppouech@leg.state.vt.us",
+    "name": "Phil Pouech",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Chittenden-4.pdf"
+   }
+  ],
+  "Chittenden-5": [
+   {
+    "email": "cevans@leg.state.vt.us",
+    "name": "Chea Evans",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Chittenden-5.pdf"
+   }
+  ],
+  "Chittenden-6": [
+   {
+    "email": "klalley@leg.state.vt.us",
+    "name": "Kate Lalley",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Chittenden-6.pdf"
+   }
+  ],
+  "Chittenden-7": [
+   {
+    "email": "ssweeney@leg.state.vt.us",
+    "name": "Shawn Sweeney",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/people/single/2026/40407"
+   }
+  ],
+  "Chittenden-8": [
+   {
+    "email": "bburkhardt@leg.state.vt.us",
+    "name": "Bridget Burkhardt",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/people/single/2026/40408"
+   }
+  ],
+  "Chittenden-9": [
+   {
+    "email": "ekrasnow@leg.state.vt.us",
+    "name": "Emilie Krasnow",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Chittenden-9.pdf"
+   }
+  ],
+  "Chittenden-Franklin": [
+   {
+    "email": "amicklus@leg.state.vt.us",
+    "name": "Tony Micklus",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2026/40415"
+   },
+   {
+    "email": "cataylor@leg.state.vt.us",
+    "name": "Chris Taylor",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Chittenden-Franklin.pdf"
+   }
+  ],
+  "Essex-Caledonia": [
+   {
+    "email": "jkascenska@leg.state.vt.us",
+    "name": "John Kascenska",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/CAL-4.pdf"
+   }
+  ],
+  "Essex-Orleans": [
+   {
+    "email": "llabor@leg.state.vt.us",
+    "name": "Larry Labor",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Essex-Orleans.pdf"
+   }
+  ],
+  "Franklin-1": [
+   {
+    "email": "abartley@leg.state.vt.us",
+    "name": "Ashley Bartley",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Franklin-1.pdf"
+   },
+   {
+    "email": "cbranagan@leg.state.vt.us",
+    "name": "Carolyn Branagan",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2018.1/27151"
+   }
+  ],
+  "Franklin-2": [
+   {
+    "email": "edickinson@leg.state.vt.us",
+    "name": "Lynn Dickinson",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Franklin-2.pdf"
+   }
+  ],
+  "Franklin-3": [
+   {
+    "email": "jluneau@leg.state.vt.us",
+    "name": "Joe Luneau",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2026/40416"
+   }
+  ],
+  "Franklin-4": [
+   {
+    "email": "mwalker@leg.state.vt.us",
+    "name": "Matt Walker",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Franklin-4.pdf"
+   },
+   {
+    "email": "toliver@leg.state.vt.us",
+    "name": "Tom Oliver",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Franklin-4.pdf"
+   }
+  ],
+  "Franklin-5": [
+   {
+    "email": "lhango@leg.state.vt.us",
+    "name": "Lisa Hango",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/FRA-5.pdf"
+   },
+   {
+    "email": "wlaroche@leg.state.vt.us",
+    "name": "Wayne Laroche",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Franklin-5.pdf"
+   }
+  ],
+  "Franklin-6": [
+   {
+    "email": "jgregoire@leg.state.vt.us",
+    "name": "James Gregoire",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Franklin-6.pdf"
+   }
+  ],
+  "Franklin-7": [
+   {
+    "email": "ademar@leg.state.vt.us",
+    "name": "Penny Demar",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Franklin-7.pdf"
+   }
+  ],
+  "Franklin-8": [
+   {
+    "email": "ctoof@leg.state.vt.us",
+    "name": "Casey Toof",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Franklin-8.pdf"
+   }
+  ],
+  "Grand Isle-Chittenden": [
+   {
+    "email": "lmorgan@leg.state.vt.us",
+    "name": "Leland Morgan",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/GI-CHI.pdf"
+   },
+   {
+    "email": "mmorgan@leg.state.vt.us",
+    "name": "Mike Morgan",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2024/34693"
+   }
+  ],
+  "Lamoille-1": [
+   {
+    "email": "jlipsky@leg.state.vt.us",
+    "name": "Jed Lipsky",
+    "party": "Independent",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Lamoille-1.pdf"
+   }
+  ],
+  "Lamoille-2": [
+   {
+    "email": "dnoyes@leg.state.vt.us",
+    "name": "Dan Noyes",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/LAM-2.pdf"
+   },
+   {
+    "email": "rbailey@leg.state.vt.us",
+    "name": "Richard Bailey",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2026/40417"
+   }
+  ],
+  "Lamoille-3": [
+   {
+    "email": "lboyden@leg.state.vt.us",
+    "name": "Lucy Boyden",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Lamoille-3.pdf"
+   }
+  ],
+  "Lamoille-Washington": [
+   {
+    "email": "dyacovone@leg.state.vt.us",
+    "name": "Dave Yacovone",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/people/single/2022/27172"
+   },
+   {
+    "email": "slamont@leg.state.vt.us",
+    "name": "Saudia Lamont",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Lamoille-Washington.pdf"
+   }
+  ],
+  "Orange-1": [
+   {
+    "email": "mtagliavia@leg.state.vt.us",
+    "name": "Mike Tagliavia",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2026/40418"
+   }
+  ],
+  "Orange-2": [
+   {
+    "email": "mpriestley@leg.state.vt.us",
+    "name": "Monique Priestley",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Orange-2.pdf"
+   }
+  ],
+  "Orange-3": [
+   {
+    "email": "jdobrovich@leg.state.vt.us",
+    "name": "Josh Dobrovich",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2026/40419"
+   }
+  ],
+  "Orange-Caledonia": [
+   {
+    "email": "jparsons@leg.state.vt.us",
+    "name": "Joseph Parsons",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Orange-Caledonia.pdf"
+   }
+  ],
+  "Orange-Washington-Addison": [
+   {
+    "email": "lsatcowitz@leg.state.vt.us",
+    "name": "Larry Satcowitz",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Orange-Washington-Addison.pdf"
+   },
+   {
+    "email": "jhooper@leg.state.vt.us",
+    "name": "Jay Hooper",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Orange-Washington-Addison.pdf"
+   }
+  ],
+  "Orleans-1": [
+   {
+    "email": "rnelson@leg.state.vt.us",
+    "name": "Richard Nelson",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2026/40420"
+   }
+  ],
+  "Orleans-2": [
+   {
+    "email": "wpage@leg.state.vt.us",
+    "name": "Woody Page",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Orleans-2.pdf"
+   }
+  ],
+  "Orleans-3": [
+   {
+    "email": "kwells@leg.state.vt.us",
+    "name": "Ken Wells",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2026/40421"
+   }
+  ],
+  "Orleans-4": [
+   {
+    "email": "lharple@leg.state.vt.us",
+    "name": "Leanne Harple",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/people/single/2026/40422"
+   }
+  ],
+  "Orleans-Lamoille": [
+   {
+    "email": "mhigley@leg.state.vt.us",
+    "name": "Mark Higley",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Orleans-Lamoille.pdf"
+   },
+   {
+    "email": "mmarcotte@leg.state.vt.us",
+    "name": "Michael Marcotte",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/ORL-2.pdf"
+   }
+  ],
+  "Rutland-1": [
+   {
+    "email": "pmccoy@leg.state.vt.us",
+    "name": "Pattie McCoy",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Rutland-1.pdf"
+   }
+  ],
+  "Rutland-10": [
+   {
+    "email": "wcanfield@leg.state.vt.us",
+    "name": "Bill Canfield",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Rutland-10.pdf"
+   }
+  ],
+  "Rutland-11": [
+   {
+    "email": "jharrison@leg.state.vt.us",
+    "name": "Jim Harrison",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Rutland-11.pdf"
+   }
+  ],
+  "Rutland-2": [
+   {
+    "email": "dbosch@leg.state.vt.us",
+    "name": "Dave Bosch",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2026/40423"
+   },
+   {
+    "email": "tburditt@leg.state.vt.us",
+    "name": "Tom Burditt",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/RUT-2.pdf"
+   }
+  ],
+  "Rutland-3": [
+   {
+    "email": "zharvey@leg.state.vt.us",
+    "name": "Zak Harvey",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2026/40459"
+   }
+  ],
+  "Rutland-4": [
+   {
+    "email": "chowland@leg.state.vt.us",
+    "name": "Christopher Howland",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2026/40425"
+   }
+  ],
+  "Rutland-5": [
+   {
+    "email": "emaguire@leg.state.vt.us",
+    "name": "Eric Maguire",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Rutland-5.pdf"
+   }
+  ],
+  "Rutland-6": [
+   {
+    "email": "mhoward@leg.state.vt.us",
+    "name": "Mary Howard",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Rutland-6.pdf"
+   }
+  ],
+  "Rutland-7": [
+   {
+    "email": "ckeyser@leg.state.vt.us",
+    "name": "Chris Keyser",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2026/40426"
+   }
+  ],
+  "Rutland-8": [
+   {
+    "email": "amalay@leg.state.vt.us",
+    "name": "Alicia Malay",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2026/40427"
+   }
+  ],
+  "Rutland-9": [
+   {
+    "email": "tnielsen@leg.state.vt.us",
+    "name": "Todd Nielsen",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2026/40428"
+   }
+  ],
+  "Rutland-Bennington": [
+   {
+    "email": "cpritchard@leg.state.vt.us",
+    "name": "Chris Pritchard",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2026/40429"
+   }
+  ],
+  "Rutland-Windsor": [
+   {
+    "email": "kwinter@leg.state.vt.us",
+    "name": "Kevin Winter",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2026/40430"
+   }
+  ],
+  "Washington-1": [
+   {
+    "email": "adonahue@leg.state.vt.us",
+    "name": "Anne Donahue",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Washington-1.pdf"
+   },
+   {
+    "email": "kgoslant@leg.state.vt.us",
+    "name": "Kenneth Goslant",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/WAS-1.pdf"
+   }
+  ],
+  "Washington-2": [
+   {
+    "email": "cwhite@leg.state.vt.us",
+    "name": "Candice White",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/people/single/2026/40431"
+   },
+   {
+    "email": "dtorre@leg.state.vt.us",
+    "name": "Dara Torre",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Washington-2.pdf"
+   }
+  ],
+  "Washington-3": [
+   {
+    "email": "mboutin@leg.state.vt.us",
+    "name": "Michael Boutin",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2026/40432"
+   },
+   {
+    "email": "ewaszazak@leg.state.vt.us",
+    "name": "Teddy Waszazak",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/people/single/2026/40433"
+   }
+  ],
+  "Washington-4": [
+   {
+    "email": "ccasey@leg.state.vt.us",
+    "name": "Conor Casey",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Washington-4.pdf"
+   },
+   {
+    "email": "kmccann@leg.state.vt.us",
+    "name": "Kate McCann",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Washington-4.pdf"
+   }
+  ],
+  "Washington-5": [
+   {
+    "email": "echapin@leg.state.vt.us",
+    "name": "Ela Chapin",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Washington-5.pdf"
+   }
+  ],
+  "Washington-6": [
+   {
+    "email": "mmihaly@leg.state.vt.us",
+    "name": "Marc Mihaly",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Washington-6.pdf"
+   }
+  ],
+  "Washington-Chittenden": [
+   {
+    "email": "twood@leg.state.vt.us",
+    "name": "Theresa Wood",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/WAS-CHI.pdf"
+   },
+   {
+    "email": "tstevens@leg.state.vt.us",
+    "name": "Tom Stevens",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/WAS-CHI.pdf"
+   }
+  ],
+  "Washington-Orange": [
+   {
+    "email": "fmcfaun@leg.state.vt.us",
+    "name": "Topper McFaun",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/WAS-2.pdf"
+   },
+   {
+    "email": "ggalfetti@leg.state.vt.us",
+    "name": "Gina Galfetti",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Washington-Orange.pdf"
+   }
+  ],
+  "Windham-1": [
+   {
+    "email": "zeastes@leg.state.vt.us",
+    "name": "Zon Eastes",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/people/single/2026/40434"
+   }
+  ],
+  "Windham-2": [
+   {
+    "email": "lsibilia@leg.state.vt.us",
+    "name": "Laura Sibilia",
+    "party": "Independent",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Windham-2.pdf"
+   }
+  ],
+  "Windham-3": [
+   {
+    "email": "lgoldman@leg.state.vt.us",
+    "name": "Leslie Goldman",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Windham-3.pdf"
+   },
+   {
+    "email": "mboslun@leg.state.vt.us",
+    "name": "Michelle Bos-Lun",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Windham-3.pdf"
+   }
+  ],
+  "Windham-4": [
+   {
+    "email": "mmrowicki@leg.state.vt.us",
+    "name": "Mike Mrowicki",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Windham-4.pdf"
+   }
+  ],
+  "Windham-5": [
+   {
+    "email": "elong@leg.state.vt.us",
+    "name": "Emily Long",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Windham-5.pdf"
+   }
+  ],
+  "Windham-6": [
+   {
+    "email": "ecarris-duncan@leg.state.vt.us",
+    "name": "Emily Carris-Duncan",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/people/single/2026/40435"
+   }
+  ],
+  "Windham-7": [
+   {
+    "email": "ekornheiser@leg.state.vt.us",
+    "name": "Emilie Kornheiser",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Windham-7.pdf"
+   }
+  ],
+  "Windham-8": [
+   {
+    "email": "mburke@leg.state.vt.us",
+    "name": "Mollie Burke",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Windham-8.pdf"
+   }
+  ],
+  "Windham-9": [
+   {
+    "email": "igoodnow@leg.state.vt.us",
+    "name": "Ian Goodnow",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/people/single/2026/40436"
+   }
+  ],
+  "Windham-Windsor-Bennington": [
+   {
+    "email": "cmorrow@leg.state.vt.us",
+    "name": "Chris Morrow",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/people/single/2026/40437"
+   }
+  ],
+  "Windsor-1": [
+   {
+    "email": "eburrows@leg.state.vt.us",
+    "name": "Elizabeth Burrows",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Windsor-1.pdf"
+   },
+   {
+    "email": "jbartholomew@leg.state.vt.us",
+    "name": "John Bartholomew",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Windsor-1.pdf"
+   }
+  ],
+  "Windsor-2": [
+   {
+    "email": "vlcoffin@leg.state.vt.us",
+    "name": "V.L. Coffin",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2026/40438"
+   }
+  ],
+  "Windsor-3": [
+   {
+    "email": "aemmons@leg.state.vt.us",
+    "name": "Alice Emmons",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Windsor-3.pdf"
+   },
+   {
+    "email": "kmorris2@leg.state.vt.us",
+    "name": "Kristi Morris",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/WDR-3-2.pdf"
+   }
+  ],
+  "Windsor-4": [
+   {
+    "email": "hsurprenant@leg.state.vt.us",
+    "name": "Heather Surprenant",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Windsor-4.pdf"
+   }
+  ],
+  "Windsor-5": [
+   {
+    "email": "ckimbell@leg.state.vt.us",
+    "name": "Charlie Kimbell",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/people/single/2022/27184"
+   }
+  ],
+  "Windsor-6": [
+   {
+    "email": "ecole@leg.state.vt.us",
+    "name": "Esme Cole",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Windsor-6.pdf"
+   },
+   {
+    "email": "kchristie@leg.state.vt.us",
+    "name": "Kevin Christie",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/WDR-4-2.pdf"
+   }
+  ],
+  "Windsor-Addison": [
+   {
+    "email": "kwhite@leg.state.vt.us",
+    "name": "Kirk White",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Windsor-Addison.pdf"
+   }
+  ],
+  "Windsor-Orange-1": [
+   {
+    "email": "jobrien@leg.state.vt.us",
+    "name": "John O'Brien",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Windsor-Orange-1.pdf"
+   }
+  ],
+  "Windsor-Orange-2": [
+   {
+    "email": "jmasland@leg.state.vt.us",
+    "name": "Jim Masland",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/WDR-ORA-2.pdf"
+   },
+   {
+    "email": "rholcombe@leg.state.vt.us",
+    "name": "Rebecca Holcombe",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Windsor-Orange-2.pdf"
+   }
+  ],
+  "Windsor-Windham": [
+   {
+    "email": "tcharlton@leg.state.vt.us",
+    "name": "Tom Charlton",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2026/40439"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/vt.csv"
+ },
+ "state": "VT",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "Addison": [
+   {
+    "email": "rhardy@leg.state.vt.us",
+    "name": "Ruth Hardy",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/ADDDIST.pdf"
+   },
+   {
+    "email": "sheffernan@leg.state.vt.us",
+    "name": "Steven Heffernan",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2026/40387"
+   }
+  ],
+  "Bennington": [
+   {
+    "email": "rplunkett@leg.state.vt.us",
+    "name": "Rob Plunkett",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/people/single/2026/40389"
+   },
+   {
+    "email": "sbongartz@leg.state.vt.us",
+    "name": "Seth Bongartz",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Bennington-4.pdf"
+   }
+  ],
+  "Caledonia": [
+   {
+    "email": "sbeck@leg.state.vt.us",
+    "name": "Scott Beck",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/CAL-3.pdf"
+   }
+  ],
+  "Chittenden Central": [
+   {
+    "email": "mgulick@leg.state.vt.us",
+    "name": "Martine Gulick",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/people/single/2024/37408"
+   },
+   {
+    "email": "pbaruth@leg.state.vt.us",
+    "name": "Phil Baruth",
+    "party": "Democratic/Progressive",
+    "url": "https://legislature.vermont.gov/people/single/2024/15791"
+   },
+   {
+    "email": "tvyhovsky@leg.state.vt.us",
+    "name": "Tanya Vyhovsky",
+    "party": "Democratic/Progressive",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/CHI-8-1.pdf"
+   }
+  ],
+  "Chittenden North": [
+   {
+    "email": "cmattos@leg.state.vt.us",
+    "name": "Chris Mattos",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/CHI-10.pdf"
+   }
+  ],
+  "Chittenden Southeast": [
+   {
+    "email": "kramhinsdale@leg.state.vt.us",
+    "name": "Kesha Ram Hinsdale",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/people/single/2024/34727"
+   },
+   {
+    "email": "tchittenden@leg.state.vt.us",
+    "name": "Thomas Chittenden",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/CHIDIST.pdf"
+   },
+   {
+    "email": "vlyons@leg.state.vt.us",
+    "name": "Ginny Lyons",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/CHIDIST.pdf"
+   }
+  ],
+  "Essex": [
+   {
+    "email": "ringalls@leg.state.vt.us",
+    "name": "Russ Ingalls",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/Senate/Essex.pdf"
+   }
+  ],
+  "Franklin": [
+   {
+    "email": "rbrock@leg.state.vt.us",
+    "name": "Randy Brock",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/FRADIST.pdf"
+   },
+   {
+    "email": "rnorris@leg.state.vt.us",
+    "name": "Bob Norris",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/FRA-4.pdf"
+   }
+  ],
+  "Grand Isle": [
+   {
+    "email": "pbrennan@leg.state.vt.us",
+    "name": "Patrick Brennan",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/CHI-9-2.pdf"
+   }
+  ],
+  "Lamoille": [
+   {
+    "email": "rawestman@gmail.com",
+    "name": "Richard Westman",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/Senate/Lamoille.pdf"
+   }
+  ],
+  "Orange": [
+   {
+    "email": "lhart@leg.state.vt.us",
+    "name": "Larry Hart",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2026/40393"
+   }
+  ],
+  "Orleans": [
+   {
+    "email": "sdouglass@leg.state.vt.us",
+    "name": "Sam Douglass",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/people/single/2026/40394"
+   }
+  ],
+  "Rutland": [
+   {
+    "email": "bcollamore@leg.state.vt.us",
+    "name": "Brian Collamore",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/RUTDIST.pdf"
+   },
+   {
+    "email": "dweeks@leg.state.vt.us",
+    "name": "Dave Weeks",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/Senate/Rutland.pdf"
+   },
+   {
+    "email": "tkwilliams@leg.state.vt.us",
+    "name": "Terry Williams",
+    "party": "Republican",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/Senate/Rutland.pdf"
+   }
+  ],
+  "Washington": [
+   {
+    "email": "aperchlik@leg.state.vt.us",
+    "name": "Andrew Perchlik",
+    "party": "Democratic/Progressive",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/WASDIST.pdf"
+   },
+   {
+    "email": "acummings@leg.state.vt.us",
+    "name": "Ann Cummings",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/WASDIST.pdf"
+   },
+   {
+    "email": "awatson@leg.state.vt.us",
+    "name": "Anne Watson",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/Senate/Washington.pdf"
+   }
+  ],
+  "Windham": [
+   {
+    "email": "nhashim@leg.state.vt.us",
+    "name": "Nader Hashim",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/people/single/2020/30973"
+   },
+   {
+    "email": "wharrison@leg.state.vt.us",
+    "name": "Wendy Harrison",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/Senate/Windham.pdf"
+   }
+  ],
+  "Windsor": [
+   {
+    "email": "aclarkson@leg.state.vt.us",
+    "name": "Alison Clarkson",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/2022/Senate/Windsor.pdf"
+   },
+   {
+    "email": "jmajor@leg.state.vt.us",
+    "name": "Joe Major",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/people/single/2026/40395"
+   },
+   {
+    "email": "rwhite@leg.state.vt.us",
+    "name": "Becca White",
+    "party": "Democratic",
+    "url": "https://legislature.vermont.gov/Documents/SmallMaps/WDR-4-2.pdf"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

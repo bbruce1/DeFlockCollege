@@ -24,8 +24,10 @@ export default function Index({ chapters }: { chapters: Chapter[] }) {
                                 </a>
                                 <span className="annot">
                                     {chapter.status === 'live'
-                                        ? `${chapter.map.readersWithinMile} within a mile`
-                                        : 'no readers mapped'}
+                                        ? `${chapter.survey.readersWithinMile} within a mile`
+                                        : chapter.status === 'empty'
+                                          ? 'no readers mapped'
+                                          : 'not surveyed yet'}
                                 </span>
                             </li>
                         ))}

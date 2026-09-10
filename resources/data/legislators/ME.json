@@ -1,0 +1,1559 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Chellie Pingree",
+    "party": "Democrat",
+    "phone": "202-225-6116",
+    "url": "https://pingree.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Jared Golden",
+    "party": "Democrat",
+    "phone": "202-225-6306",
+    "url": "https://golden.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.collins.senate.gov/contact",
+   "email": null,
+   "name": "Susan Collins",
+   "party": "Republican",
+   "phone": "202-224-2523",
+   "url": "https://www.collins.senate.gov"
+  },
+  {
+   "contactForm": "https://www.king.senate.gov/contact",
+   "email": null,
+   "name": "Angus King",
+   "party": "Independent",
+   "phone": "202-224-5344",
+   "url": "https://www.king.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "lucien.daigle@legislature.maine.gov",
+    "name": "Lucien Daigle",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/memberprofiles/Details/3106"
+   }
+  ],
+  "10": [
+   {
+    "email": "william.tuell@legislature.maine.gov",
+    "name": "Will Tuell",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/49"
+   }
+  ],
+  "100": [
+   {
+    "email": "daniel.ankeles@legislature.maine.gov",
+    "name": "Dan Ankeles",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1495"
+   }
+  ],
+  "101": [
+   {
+    "email": "poppy.arford@legislature.maine.gov",
+    "name": "Poppy Arford",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1421"
+   }
+  ],
+  "102": [
+   {
+    "email": "melanie.sachs@legislature.maine.gov",
+    "name": "Melanie Sachs",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1420"
+   }
+  ],
+  "103": [
+   {
+    "email": "arthur.bell@legislature.maine.gov",
+    "name": "Art Bell",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1419"
+   }
+  ],
+  "104": [
+   {
+    "email": "amy.arata@legislature.maine.gov",
+    "name": "Amy Arata",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1356"
+   }
+  ],
+  "105": [
+   {
+    "email": "anne.graham@legislature.maine.gov",
+    "name": "Annie Graham",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/259"
+   }
+  ],
+  "106": [
+   {
+    "email": "barbara.bagshaw@legislature.maine.gov",
+    "name": "Barbara Bagshaw",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1473"
+   }
+  ],
+  "107": [
+   {
+    "email": "mark.cooper@legislature.maine.gov",
+    "name": "Mark Cooper",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3132"
+   }
+  ],
+  "108": [
+   {
+    "email": "parnell.terry@legislature.maine.gov",
+    "name": "Parnell Terry",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3133"
+   }
+  ],
+  "109": [
+   {
+    "email": "eleanor.sato@legislature.maine.gov",
+    "name": "Ellie Sato",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3134"
+   }
+  ],
+  "11": [
+   {
+    "email": "tiffany.strout@legislature.maine.gov",
+    "name": "Tiffany Strout",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1459"
+   }
+  ],
+  "110": [
+   {
+    "email": "christina.mitchell@legislature.maine.gov",
+    "name": "Christina Mitchell",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3135"
+   }
+  ],
+  "111": [
+   {
+    "email": "amy.kuhn@legislature.maine.gov",
+    "name": "Amy Kuhn",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1474"
+   }
+  ],
+  "112": [
+   {
+    "email": "ed.crockett@legislature.maine.gov",
+    "name": "Ed Crockett",
+    "party": "Independent",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1351"
+   }
+  ],
+  "113": [
+   {
+    "email": "grayson.lookner@legislature.maine.gov",
+    "name": "Grayson Lookner",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1416"
+   }
+  ],
+  "114": [
+   {
+    "email": "dylan.pugh@legislature.maine.gov",
+    "name": "Dylan Pugh",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3136"
+   }
+  ],
+  "115": [
+   {
+    "email": "michael.brennan@legislature.maine.gov",
+    "name": "Michael Brennan",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1350"
+   }
+  ],
+  "116": [
+   {
+    "email": "sam.zager@legislature.maine.gov",
+    "name": "Sam Zager",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1418"
+   }
+  ],
+  "117": [
+   {
+    "email": "matt.moonen@legislature.maine.gov",
+    "name": "Matt Moonen",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/118"
+   }
+  ],
+  "118": [
+   {
+    "email": "yusuf.yusuf@legislature.maine.gov",
+    "name": "Yusuf Yusuf",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3137"
+   }
+  ],
+  "119": [
+   {
+    "email": "charles.skold@legislature.maine.gov",
+    "name": "Charles Skold",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1475"
+   }
+  ],
+  "12": [
+   {
+    "email": "william.faulkingham@legislature.maine.gov",
+    "name": "Billy Bob Faulkingham",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1379"
+   }
+  ],
+  "120": [
+   {
+    "email": "deqa.dhalac@legislature.maine.gov",
+    "name": "Deqa Dhalac",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1476"
+   }
+  ],
+  "121": [
+   {
+    "email": "christopher.kessler@legislature.maine.gov",
+    "name": "Christopher Kessler",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1384"
+   }
+  ],
+  "122": [
+   {
+    "email": "matthew.beck@legislature.maine.gov",
+    "name": "Matt Beck",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1509"
+   }
+  ],
+  "123": [
+   {
+    "email": "michelle.boyer@legislature.maine.gov",
+    "name": "Michelle Boyer",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3138"
+   }
+  ],
+  "124": [
+   {
+    "email": "sophia.warren@legislature.maine.gov",
+    "name": "Sophie Warren",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1413"
+   }
+  ],
+  "125": [
+   {
+    "email": "kelly.murphy@legislature.maine.gov",
+    "name": "Kelly Murphy",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1477"
+   }
+  ],
+  "126": [
+   {
+    "email": "andrew.gattine@legislature.maine.gov",
+    "name": "Drew Gattine",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/68"
+   }
+  ],
+  "127": [
+   {
+    "email": "morgan.rielly@legislature.maine.gov",
+    "name": "Morgan Rielly",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1414"
+   }
+  ],
+  "128": [
+   {
+    "email": "suzanne.salisbury@legislature.maine.gov",
+    "name": "Sue Salisbury",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1415"
+   }
+  ],
+  "129": [
+   {
+    "email": "marshall.archer@legislature.maine.gov",
+    "name": "Marshall Archer",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3139"
+   }
+  ],
+  "13": [
+   {
+    "email": "russell.white@legislature.maine.gov",
+    "name": "Russ White",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3108"
+   }
+  ],
+  "130": [
+   {
+    "email": "lynn.copeland@legislature.maine.gov",
+    "name": "Lynn Copeland",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1410"
+   }
+  ],
+  "131": [
+   {
+    "email": "lori.gramlich@legislature.maine.gov",
+    "name": "Lori Gramlich",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1342"
+   }
+  ],
+  "132": [
+   {
+    "email": "ryan.fecteau@legislature.maine.gov",
+    "name": "Ryan Fecteau",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/63"
+   }
+  ],
+  "133": [
+   {
+    "email": "marc.malon@legislature.maine.gov",
+    "name": "Marc Malon",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1478"
+   }
+  ],
+  "134": [
+   {
+    "email": "traci.gere@legislature.maine.gov",
+    "name": "Traci Gere",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1408"
+   }
+  ],
+  "135": [
+   {
+    "email": "daniel.sayre@legislature.maine.gov",
+    "name": "Dan Sayre",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1479"
+   }
+  ],
+  "136": [
+   {
+    "email": "john.eder@legislature.maine.gov",
+    "name": "John Eder",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/490"
+   }
+  ],
+  "137": [
+   {
+    "email": "nathan.carlow@legislature.maine.gov",
+    "name": "Nathan Carlow",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1411"
+   }
+  ],
+  "138": [
+   {
+    "email": "mark.blier@legislature.maine.gov",
+    "name": "Mark Blier",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1344"
+   }
+  ],
+  "139": [
+   {
+    "email": "david.woodsome@legislature.maine.gov",
+    "name": "Woody Woodsome",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/District-33"
+   }
+  ],
+  "14": [
+   {
+    "email": "gary.friedmann@legislature.maine.gov",
+    "name": "Gary Friedmann",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3109"
+   }
+  ],
+  "140": [
+   {
+    "email": "wayne.parry@legislature.maine.gov",
+    "name": "Wayne Parry",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/124"
+   }
+  ],
+  "141": [
+   {
+    "email": "lucas.lanigan@legislature.maine.gov",
+    "name": "Lucas Lanigan",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1481"
+   }
+  ],
+  "142": [
+   {
+    "email": "anne-marie.mastraccio@legislature.maine.gov",
+    "name": "Anne-Marie Mastraccio",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/111"
+   }
+  ],
+  "143": [
+   {
+    "email": "ann.fredericks@legislature.maine.gov",
+    "name": "Ann Fredericks",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1468"
+   }
+  ],
+  "144": [
+   {
+    "email": "jeffrey.adams@legislature.maine.gov",
+    "name": "Jeff Adams",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1469"
+   }
+  ],
+  "145": [
+   {
+    "email": "robert.foley@legislature.maine.gov",
+    "name": "Bob Foley",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/64"
+   }
+  ],
+  "146": [
+   {
+    "email": "gerry.runte@legislature.maine.gov",
+    "name": "Gerry Runte",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1470"
+   }
+  ],
+  "147": [
+   {
+    "email": "holly.sargent@legislature.maine.gov",
+    "name": "Holly Sargent",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1471"
+   }
+  ],
+  "148": [
+   {
+    "email": "thomas.lavigne@legislature.maine.gov",
+    "name": "Thomas Lavigne",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1472"
+   }
+  ],
+  "149": [
+   {
+    "email": "tiffany.roberts@legislature.maine.gov",
+    "name": "Tiffany Roberts",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1385"
+   }
+  ],
+  "15": [
+   {
+    "email": "holly.eaton@legislature.maine.gov",
+    "name": "Holly Eaton",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1461"
+   }
+  ],
+  "150": [
+   {
+    "email": "michele.meyer@legislature.maine.gov",
+    "name": "Michele Meyer",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1337"
+   }
+  ],
+  "151": [
+   {
+    "email": "kristi.mathieson@legislature.maine.gov",
+    "name": "Kristi Mathieson",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1406"
+   }
+  ],
+  "16": [
+   {
+    "email": "nina.milliken@legislature.maine.gov",
+    "name": "Nina Milliken",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1462"
+   }
+  ],
+  "17": [
+   {
+    "email": "steven.bishop@legislature.maine.gov",
+    "name": "Steve Bishop",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/memberprofiles/Details/3110"
+   }
+  ],
+  "18": [
+   {
+    "email": "mathew.mcintyre@legislature.maine.gov",
+    "name": "Mathew McIntyre",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3111"
+   }
+  ],
+  "19": [
+   {
+    "email": "richard.campbell@legislature.maine.gov",
+    "name": "Dick Campbell",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/21"
+   }
+  ],
+  "2": [
+   {
+    "email": "roger.albert@legislature.maine.gov",
+    "name": "Roger Albert",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1454"
+   }
+  ],
+  "20": [
+   {
+    "email": "dani.o'halloran@legislature.maine.gov",
+    "name": "Dani O'Halloran",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3112"
+   }
+  ],
+  "21": [
+   {
+    "email": "ambureen.rana@legislature.maine.gov",
+    "name": "Ambureen Rana",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1464"
+   }
+  ],
+  "22": [
+   {
+    "email": "laura.supica@legislature.maine.gov",
+    "name": "Laura Supica",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1438"
+   }
+  ],
+  "23": [
+   {
+    "email": "amy.roeder@legislature.maine.gov",
+    "name": "Amy Roeder",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1437"
+   }
+  ],
+  "24": [
+   {
+    "email": "sean.faircloth@legislature.maine.gov",
+    "name": "Sean Faircloth",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/430"
+   }
+  ],
+  "25": [
+   {
+    "email": "laurie.osher@legislature.maine.gov",
+    "name": "Laurie Osher",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1436"
+   }
+  ],
+  "26": [
+   {
+    "email": "james.dill@legislature.maine.gov",
+    "name": "Jim Dill",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/District-5"
+   }
+  ],
+  "27": [
+   {
+    "email": "gary.drinkwater@legislature.maine.gov",
+    "name": "Gary Drinkwater",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1376"
+   }
+  ],
+  "28": [
+   {
+    "email": "irene.gifford@legislature.maine.gov",
+    "name": "Irene Gifford",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1465"
+   }
+  ],
+  "29": [
+   {
+    "email": "nancy.theriault@legislature.maine.gov",
+    "name": "Nancy Theriault",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/MemberProfiles/Details/3142"
+   }
+  ],
+  "3": [
+   {
+    "email": "mark.babin@legislature.maine.gov",
+    "name": "Mark Babin",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1455"
+   }
+  ],
+  "30": [
+   {
+    "email": "james.white@legislature.maine.gov",
+    "name": "Jim White",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1466"
+   }
+  ],
+  "31": [
+   {
+    "email": "chad.perkins@legislature.maine.gov",
+    "name": "Chad Perkins",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1467"
+   }
+  ],
+  "32": [
+   {
+    "email": "steven.foster@legislature.maine.gov",
+    "name": "Steven Foster",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1370"
+   }
+  ],
+  "33": [
+   {
+    "email": "kenneth.fredette@legislature.maine.gov",
+    "name": "Ken Fredette",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/65"
+   }
+  ],
+  "34": [
+   {
+    "email": "abigail.griffin@legislature.maine.gov",
+    "name": "Abigail Griffin",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1369"
+   }
+  ],
+  "35": [
+   {
+    "email": "jim.thorne@legislature.maine.gov",
+    "name": "Jim Thorne",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1431"
+   }
+  ],
+  "36": [
+   {
+    "email": "kimberly.haggan@legislature.maine.gov",
+    "name": "Kim Haggan",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3113"
+   }
+  ],
+  "37": [
+   {
+    "email": "reagan.paul@legislature.maine.gov",
+    "name": "Reagan Paul",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1496"
+   }
+  ],
+  "38": [
+   {
+    "email": "benjamin.hymes@legislature.maine.gov",
+    "name": "Ben Hymes",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1497"
+   }
+  ],
+  "39": [
+   {
+    "email": "jan.dodge@legislature.maine.gov",
+    "name": "Jan Dodge",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1366"
+   }
+  ],
+  "4": [
+   {
+    "email": "timothy.guerrette@legislature.maine.gov",
+    "name": "Timmy Guerrette",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1456"
+   }
+  ],
+  "40": [
+   {
+    "email": "michael.ray@legislature.maine.gov",
+    "name": "Mike Ray",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3114"
+   }
+  ],
+  "41": [
+   {
+    "email": "vicki.doudera@legislature.maine.gov",
+    "name": "Vicki Doudera",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1365"
+   }
+  ],
+  "42": [
+   {
+    "email": "valli.geiger@legislature.maine.gov",
+    "name": "Valli Geiger",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1430"
+   }
+  ],
+  "43": [
+   {
+    "email": "ann.matlack@legislature.maine.gov",
+    "name": "Ann Matlack",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1364"
+   }
+  ],
+  "44": [
+   {
+    "email": "bill.pluecker@legislature.maine.gov",
+    "name": "Bill Pluecker",
+    "party": "Independent",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1383"
+   }
+  ],
+  "45": [
+   {
+    "email": "abden.simmons@legislature.maine.gov",
+    "name": "Abden Simmons",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/144"
+   }
+  ],
+  "46": [
+   {
+    "email": "lydia.crafts@legislature.maine.gov",
+    "name": "Lydia Crafts",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1429"
+   }
+  ],
+  "47": [
+   {
+    "email": "wayne.farrin@legislature.maine.gov",
+    "name": "Wayne Farrin",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3115"
+   }
+  ],
+  "48": [
+   {
+    "email": "holly.stover@legislature.maine.gov",
+    "name": "Holly Stover",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1363"
+   }
+  ],
+  "49": [
+   {
+    "email": "allison.hepler@legislature.maine.gov",
+    "name": "Allison Hepler",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1353"
+   }
+  ],
+  "5": [
+   {
+    "email": "joseph.underwood@legislature.maine.gov",
+    "name": "Joseph Underwood",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1444"
+   }
+  ],
+  "50": [
+   {
+    "email": "david.sinclair@legislature.maine.gov",
+    "name": "David Sinclair",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1508"
+   }
+  ],
+  "51": [
+   {
+    "email": "rafael.macias@legislature.maine.gov",
+    "name": "Rafael Macias",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3116"
+   }
+  ],
+  "52": [
+   {
+    "email": "sally.cluchey@legislature.maine.gov",
+    "name": "Sally Cluchey",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1501"
+   }
+  ],
+  "53": [
+   {
+    "email": "michael.lemelin@legislature.maine.gov",
+    "name": "Michael Lemelin",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1428"
+   }
+  ],
+  "54": [
+   {
+    "email": "karen.montell@legislature.maine.gov",
+    "name": "Karen Montell",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1502"
+   }
+  ],
+  "55": [
+   {
+    "email": "daniel.shagoury@legislature.maine.gov",
+    "name": "Dan Shagoury",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1503"
+   }
+  ],
+  "56": [
+   {
+    "email": "randall.greenwood@legislature.maine.gov",
+    "name": "Randall Greenwood",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/208"
+   }
+  ],
+  "57": [
+   {
+    "email": "tavis.hasenfus@legislature.maine.gov",
+    "name": "Tavis Hasenfus",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1427"
+   }
+  ],
+  "58": [
+   {
+    "email": "sharon.frost@legislature.maine.gov",
+    "name": "Sharon Frost",
+    "party": "Independent",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3117"
+   }
+  ],
+  "59": [
+   {
+    "email": "david.rollins@legislature.maine.gov",
+    "name": "Dave Rollins",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3118"
+   }
+  ],
+  "6": [
+   {
+    "email": "donald.ardell@legislature.maine.gov",
+    "name": "Donald Ardell",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1457"
+   }
+  ],
+  "60": [
+   {
+    "email": "william.bridgeo@legislature.maine.gov",
+    "name": "Bill Bridgeo",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1504"
+   }
+  ],
+  "61": [
+   {
+    "email": "alicia.collins@legislature.maine.gov",
+    "name": "Alicia Collins",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3119"
+   }
+  ],
+  "62": [
+   {
+    "email": "katrina.smith@legislature.maine.gov",
+    "name": "Katrina Smith",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1505"
+   }
+  ],
+  "63": [
+   {
+    "email": "paul.flynn@legislature.maine.gov",
+    "name": "Paul Flynn",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3120"
+   }
+  ],
+  "64": [
+   {
+    "email": "flavia.debrito@legislature.maine.gov",
+    "name": "Flavia DeBrito",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3121"
+   }
+  ],
+  "65": [
+   {
+    "email": "cassie.julia@legislature.maine.gov",
+    "name": "Cassie Julia",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3122"
+   }
+  ],
+  "66": [
+   {
+    "email": "robert.nutting@legislature.maine.gov",
+    "name": "Bob Nutting",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/218"
+   }
+  ],
+  "67": [
+   {
+    "email": "shelley.rudnicki@legislature.maine.gov",
+    "name": "Shelley Rudnicki",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1371"
+   }
+  ],
+  "68": [
+   {
+    "email": "amanda.collamore@legislature.maine.gov",
+    "name": "Amanda Collamore",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1432"
+   }
+  ],
+  "69": [
+   {
+    "email": "dean.cray@legislature.maine.gov",
+    "name": "Dean Cray",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/249"
+   }
+  ],
+  "7": [
+   {
+    "email": "gregory.swallow@legislature.maine.gov",
+    "name": "Gregg Swallow",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1381"
+   }
+  ],
+  "70": [
+   {
+    "email": "jennifer.poirier@legislature.maine.gov",
+    "name": "Jennifer Poirier",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1433"
+   }
+  ],
+  "71": [
+   {
+    "email": "jack.ducharme@legislature.maine.gov",
+    "name": "Jack Ducharme",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1434"
+   }
+  ],
+  "72": [
+   {
+    "email": "elizabeth.caruso@legislature.maine.gov",
+    "name": "Liz Caruso",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3123"
+   }
+  ],
+  "73": [
+   {
+    "email": "michael.soboleski@legislature.maine.gov",
+    "name": "Mike Soboleski",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1482"
+   }
+  ],
+  "74": [
+   {
+    "email": "randall.hall@legislature.maine.gov",
+    "name": "Randy Hall",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1375"
+   }
+  ],
+  "75": [
+   {
+    "email": "stephan.bunker@legislature.maine.gov",
+    "name": "Steve Bunker",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3124"
+   }
+  ],
+  "76": [
+   {
+    "email": "sheila.lyman@legislature.maine.gov",
+    "name": "Sheila Lyman",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1424"
+   }
+  ],
+  "77": [
+   {
+    "email": "tammy.schmersal-burgess@legislature.maine.gov",
+    "name": "Tammy Schmersal-Burgess",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1483"
+   }
+  ],
+  "78": [
+   {
+    "email": "rachel.henderson@legislature.maine.gov",
+    "name": "Rachel Henderson",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1484"
+   }
+  ],
+  "79": [
+   {
+    "email": "michael.lance@legislature.maine.gov",
+    "name": "Mike Lance",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3125"
+   }
+  ],
+  "8": [
+   {
+    "email": "tracy.quint@legislature.maine.gov",
+    "name": "Tracy Quint",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1443"
+   }
+  ],
+  "80": [
+   {
+    "email": "caldwell.jackson@legislature.maine.gov",
+    "name": "Caldwell Jackson",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1485"
+   }
+  ],
+  "81": [
+   {
+    "email": "peter.wood@legislature.maine.gov",
+    "name": "Peter Wood",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3126"
+   }
+  ],
+  "82": [
+   {
+    "email": "nathan.wadsworth@legislature.maine.gov",
+    "name": "Nate Wadsworth",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/46"
+   }
+  ],
+  "83": [
+   {
+    "email": "marygrace.cimino@legislature.maine.gov",
+    "name": "Marygrace Cimino",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3127"
+   }
+  ],
+  "84": [
+   {
+    "email": "mark.walker@legislature.maine.gov",
+    "name": "Mark Walker",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1487"
+   }
+  ],
+  "85": [
+   {
+    "email": "kimberly.pomerleau@legislature.maine.gov",
+    "name": "Kim Pomerleau",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1488"
+   }
+  ],
+  "86": [
+   {
+    "email": "rolf.olsen@legislature.maine.gov",
+    "name": "Rolf Olsen",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3128"
+   }
+  ],
+  "87": [
+   {
+    "email": "david.boyer@legislature.maine.gov",
+    "name": "David Boyer",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1489"
+   }
+  ],
+  "88": [
+   {
+    "email": "quentin.chapman@legislature.maine.gov",
+    "name": "Quentin Chapman",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3129"
+   }
+  ],
+  "89": [
+   {
+    "email": "adam.lee@legislature.maine.gov",
+    "name": "Adam Lee",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1491"
+   }
+  ],
+  "9": [
+   {
+    "email": "arthur.mingo@legislature.maine.gov",
+    "name": "Artie Mingo",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3107"
+   }
+  ],
+  "90": [
+   {
+    "email": "laurel.libby@legislature.maine.gov",
+    "name": "Laurel Libby",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1423"
+   }
+  ],
+  "91": [
+   {
+    "email": "joshua.morris@legislature.maine.gov",
+    "name": "Josh Morris",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1359"
+   }
+  ],
+  "92": [
+   {
+    "email": "stephen.wood@legislature.maine.gov",
+    "name": "Steve Wood",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/40"
+   }
+  ],
+  "93": [
+   {
+    "email": "julia.mccabe@legislature.maine.gov",
+    "name": "Julie McCabe",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3130"
+   }
+  ],
+  "94": [
+   {
+    "email": "scott.harriman@legislature.maine.gov",
+    "name": "Scott Harriman",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/MemberProfiles/Details/3141"
+   }
+  ],
+  "95": [
+   {
+    "email": "mana.abdi@legislature.maine.gov",
+    "name": "Mana Abdi",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1492"
+   }
+  ],
+  "96": [
+   {
+    "email": "michel.lajoie@legislature.maine.gov",
+    "name": "Mike Lajoie",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/212"
+   }
+  ],
+  "97": [
+   {
+    "email": "richard.mason@legislature.maine.gov",
+    "name": "Rick Mason",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/158"
+   }
+  ],
+  "98": [
+   {
+    "email": "kilton.webb@legislature.maine.gov",
+    "name": "Kilton Webb",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3131"
+   }
+  ],
+  "99": [
+   {
+    "email": "cheryl.golek@legislature.maine.gov",
+    "name": "Cheryl Golek",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1494"
+   }
+  ],
+  "Houlton Band of Maliseet Indians": [
+   {
+    "email": "brian.reynolds@legislature.maine.gov",
+    "name": "Brian Reynolds",
+    "party": "Independent",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3140"
+   }
+  ],
+  "Passamaquoddy Tribe": [
+   {
+    "email": "aaron.dana@legislature.maine.gov",
+    "name": "Aaron Dana",
+    "party": "Independent",
+    "url": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1507"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/me.csv"
+ },
+ "state": "ME",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "susan.bernard@legislature.maine.gov",
+    "name": "Sue Bernard",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/DIstrict1"
+   }
+  ],
+  "10": [
+   {
+    "email": "david.haggan@legislature.maine.gov",
+    "name": "David Haggan",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/District10"
+   }
+  ],
+  "11": [
+   {
+    "email": "chip.curry@legislature.maine.gov",
+    "name": "Chip Curry",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/District-11"
+   }
+  ],
+  "12": [
+   {
+    "email": "anne.beebe-center@legislature.maine.gov",
+    "name": "Pinny Beebe-Center",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/District12"
+   }
+  ],
+  "13": [
+   {
+    "email": "cameron.reny@legislature.maine.gov",
+    "name": "Cameron Reny",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/District13"
+   }
+  ],
+  "14": [
+   {
+    "email": "craig.hickman@legislature.maine.gov",
+    "name": "Craig Hickman",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/District-14"
+   }
+  ],
+  "15": [
+   {
+    "email": "dick.bradstreet@legislature.maine.gov",
+    "name": "Dick Bradstreet",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/District15"
+   }
+  ],
+  "16": [
+   {
+    "email": "scott.cyrway@legislature.maine.gov",
+    "name": "Scott Cyrway",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/District-16"
+   }
+  ],
+  "17": [
+   {
+    "email": "jeffrey.timberlake@legislature.maine.gov",
+    "name": "Jeff Timberlake",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/District-22"
+   }
+  ],
+  "18": [
+   {
+    "email": "richard.bennett@legislature.maine.gov",
+    "name": "Rick Bennett",
+    "party": "Independent",
+    "url": "https://legislature.maine.gov/District-19"
+   }
+  ],
+  "19": [
+   {
+    "email": "joseph.martin@legislature.maine.gov",
+    "name": "Joe Martin",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/District19"
+   }
+  ],
+  "2": [
+   {
+    "email": "trey.stewart@legislature.maine.gov",
+    "name": "Trey Stewart",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/District-2"
+   }
+  ],
+  "20": [
+   {
+    "email": "bruce.bickford@legislature.maine.gov",
+    "name": "Bruce Bickford",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/District20"
+   }
+  ],
+  "21": [
+   {
+    "email": "margaret.rotundo@legislature.maine.gov",
+    "name": "Peggy Rotundo",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/District21"
+   }
+  ],
+  "22": [
+   {
+    "email": "james.libby@legislature.maine.gov",
+    "name": "Jim Libby",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/District22"
+   }
+  ],
+  "23": [
+   {
+    "email": "mattie.daughtry@legislature.maine.gov",
+    "name": "Mattie Daughtry",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/District-24"
+   }
+  ],
+  "24": [
+   {
+    "email": "denise.tepler@legislature.maine.gov",
+    "name": "Denise Tepler",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/District24"
+   }
+  ],
+  "25": [
+   {
+    "email": "teresa.pierce@legislature.maine.gov",
+    "name": "Teresa Pierce",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/District25"
+   }
+  ],
+  "26": [
+   {
+    "email": "timothy.nangle@legislature.maine.gov",
+    "name": "Tim Nangle",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/District26"
+   }
+  ],
+  "27": [
+   {
+    "email": "jill.duson@legislature.maine.gov",
+    "name": "Jill Duson",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/District27"
+   }
+  ],
+  "28": [
+   {
+    "email": "rachel.talbotross@legislature.maine.gov",
+    "name": "Rachel Talbot Ross",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/District28"
+   }
+  ],
+  "29": [
+   {
+    "email": "anne.carney@legislature.maine.gov",
+    "name": "Anne Carney",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/District-29"
+   }
+  ],
+  "3": [
+   {
+    "email": "brad.farrin@legislature.maine.gov",
+    "name": "Brad Farrin",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/District-3"
+   }
+  ],
+  "30": [
+   {
+    "email": "stacy.brenner@legislature.maine.gov",
+    "name": "Stacy Brenner",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/District-30"
+   }
+  ],
+  "31": [
+   {
+    "email": "donna.bailey@legislature.maine.gov",
+    "name": "Donna Bailey",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/District-31"
+   }
+  ],
+  "32": [
+   {
+    "email": "henry.ingwersen@legislature.maine.gov",
+    "name": "Henry Ingwersen",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/District32"
+   }
+  ],
+  "33": [
+   {
+    "email": "matthew.harrington@legislature.maine.gov",
+    "name": "Matt Harrington",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/District33"
+   }
+  ],
+  "34": [
+   {
+    "email": "joe.rafferty@legislature.maine.gov",
+    "name": "Joe Rafferty",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/District-34"
+   }
+  ],
+  "35": [
+   {
+    "email": "mark.lawrence@legislature.maine.gov",
+    "name": "Mark Lawrence",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/District-35"
+   }
+  ],
+  "4": [
+   {
+    "email": "stacey.guerin@legislature.maine.gov",
+    "name": "Stacey Guerin",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/District-10"
+   }
+  ],
+  "5": [
+   {
+    "email": "russell.black@legislature.maine.gov",
+    "name": "Russell Black",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/District-17"
+   }
+  ],
+  "6": [
+   {
+    "email": "marianne.moore@legislature.maine.gov",
+    "name": "Marianne Moore",
+    "party": "Republican",
+    "url": "https://legislature.maine.gov/District-6"
+   }
+  ],
+  "7": [
+   {
+    "email": "nicole.grohoski@legislature.maine.gov",
+    "name": "Nicole Grohoski",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/district-7"
+   }
+  ],
+  "8": [
+   {
+    "email": "mike.tipping@legislature.maine.gov",
+    "name": "Mike Tipping",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/District8"
+   }
+  ],
+  "9": [
+   {
+    "email": "joe.baldacci@legislature.maine.gov",
+    "name": "Joe Baldacci",
+    "party": "Democratic",
+    "url": "https://legislature.maine.gov/District-9"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

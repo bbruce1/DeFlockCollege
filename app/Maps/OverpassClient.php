@@ -12,8 +12,8 @@ use RuntimeException;
  * The only server-initiated network call in the application.
  *
  * The endpoint is a constant: a user can never influence the host. The only
- * user-supplied input that reaches a query is a BoundingBox, which has already
- * been range-checked and area-capped by its constructor.
+ * * user-supplied input that reaches a query is a campus point, which has already
+ * been range-checked by its constructor.
  *
  * Overpass is a free community service with a small number of slots. Being rate
  * limited is our fault rather than theirs, so this backs off rather than
@@ -34,9 +34,17 @@ final class OverpassClient
     /** @var callable(string): void */
     private $logger;
 
-    public function __construct(?callable $logger = null)
+    private readonly int $backoffBaseMs;
+
+    /**
+     * @param  int|null  $backoffBaseMs  Overrides the wait between retries.
+     *                                   Only a test exercising the failure path
+     *                                   has reason to shorten it.
+     */
+    public function __construct(?callable $logger = null, ?int $backoffBaseMs = null)
     {
         $this->logger = $logger ?? static fn (string $line) => null;
+        $this->backoffBaseMs = $backoffBaseMs ?? self::BACKOFF_BASE_MS;
     }
 
     /**
@@ -80,9 +88,11 @@ final class OverpassClient
                 break;
             }
 
-            $delayMs = self::BACKOFF_BASE_MS * (2 ** ($attempt - 1));
-            ($this->logger)("Overpass busy ({$lastError}); waiting ".($delayMs / 1000)."s");
-            usleep($delayMs * 1000);
+            $delayMs = $this->backoffBaseMs * (2 ** ($attempt - 1));
+            if ($delayMs > 0) {
+                ($this->logger)("Overpass busy ({$lastError}); waiting ".($delayMs / 1000)."s");
+                usleep($delayMs * 1000);
+            }
         }
 
         throw new RuntimeException(

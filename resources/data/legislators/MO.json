@@ -1,0 +1,1643 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Wesley Bell",
+    "party": "Democrat",
+    "phone": "202-225-2406",
+    "url": "https://bell.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Ann Wagner",
+    "party": "Republican",
+    "phone": "202-225-1621",
+    "url": "https://wagner.house.gov"
+   }
+  ],
+  "3": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Robert Onder",
+    "party": "Republican",
+    "phone": "202-225-2956",
+    "url": "https://onder.house.gov"
+   }
+  ],
+  "4": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Mark Alford",
+    "party": "Republican",
+    "phone": "202-225-2876",
+    "url": "https://alford.house.gov"
+   }
+  ],
+  "5": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Emanuel Cleaver",
+    "party": "Democrat",
+    "phone": "202-225-4535",
+    "url": "https://cleaver.house.gov"
+   }
+  ],
+  "6": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Sam Graves",
+    "party": "Republican",
+    "phone": "202-225-7041",
+    "url": "https://graves.house.gov"
+   }
+  ],
+  "7": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Eric Burlison",
+    "party": "Republican",
+    "phone": "202-225-6536",
+    "url": "https://burlison.house.gov"
+   }
+  ],
+  "8": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Jason Smith",
+    "party": "Republican",
+    "phone": "202-225-4404",
+    "url": "https://jasonsmith.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.hawley.senate.gov/contact-senator-hawley",
+   "email": null,
+   "name": "Joshua Hawley",
+   "party": "Republican",
+   "phone": "202-224-6154",
+   "url": "https://www.hawley.senate.gov"
+  },
+  {
+   "contactForm": "https://www.schmitt.senate.gov/contact/",
+   "email": null,
+   "name": "Eric Schmitt",
+   "party": "Republican",
+   "phone": "202-224-5721",
+   "url": "https://www.schmitt.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "jeff.farnan@house.mo.gov",
+    "name": "Jeff Farnan",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=1"
+   }
+  ],
+  "10": [
+   {
+    "email": "bill.falkner@house.mo.gov",
+    "name": "Bill Falkner",
+    "party": "Republican",
+    "url": "https://house.mo.gov/memberdetails.aspx?district=010"
+   }
+  ],
+  "100": [
+   {
+    "email": "philip.oehlerking@house.mo.gov",
+    "name": "Philip Oehlerking",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=100"
+   }
+  ],
+  "101": [
+   {
+    "email": "ben.keathley@house.mo.gov",
+    "name": "Ben Keathley",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=101"
+   }
+  ],
+  "102": [
+   {
+    "email": "richard.west@house.mo.gov",
+    "name": "Richard West",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=102"
+   }
+  ],
+  "103": [
+   {
+    "email": "dave.hinman@house.mo.gov",
+    "name": "Dave Hinman",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?\\district=103"
+   }
+  ],
+  "104": [
+   {
+    "email": "terri.violet@house.mo.gov",
+    "name": "Terri Violet",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=104"
+   }
+  ],
+  "105": [
+   {
+    "email": "colin.wellenkamp@house.mo.gov",
+    "name": "Colin Wellenkamp",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=105"
+   }
+  ],
+  "106": [
+   {
+    "email": "travis.wilson@house.mo.gov",
+    "name": "Travis Wilson",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=106"
+   }
+  ],
+  "107": [
+   {
+    "email": "mark.matthiesen@house.mo.gov",
+    "name": "Mark Matthiesen",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=107"
+   }
+  ],
+  "108": [
+   {
+    "email": "mike.costlow@house.mo.gov",
+    "name": "Mike Costlow",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=108"
+   }
+  ],
+  "109": [
+   {
+    "email": "john.simmons@house.mo.gov",
+    "name": "John Simmons",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=109"
+   }
+  ],
+  "11": [
+   {
+    "email": "brenda.shields@house.mo.gov",
+    "name": "Brenda Shields",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=011"
+   }
+  ],
+  "111": [
+   {
+    "email": "cecelie.williams@house.mo.gov",
+    "name": "Cecelie Williams",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=111"
+   }
+  ],
+  "112": [
+   {
+    "email": "renee.reuter@house.mo.gov",
+    "name": "Renee Reuter",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=112"
+   }
+  ],
+  "113": [
+   {
+    "email": "phil.amato@house.mo.gov",
+    "name": "Phil Amato",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=113"
+   }
+  ],
+  "115": [
+   {
+    "email": "william.lucas@house.mo.gov",
+    "name": "Bill Lucas",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?&district=115"
+   }
+  ],
+  "116": [
+   {
+    "email": "dale.wright@house.mo.gov",
+    "name": "Dale Wright",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=116"
+   }
+  ],
+  "117": [
+   {
+    "email": "becky.laubinger@house.mo.gov",
+    "name": "Becky Laubinger",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?&district=117"
+   }
+  ],
+  "118": [
+   {
+    "email": "mike.mcgirl@house.mo.gov",
+    "name": "Mike McGirl",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=118"
+   }
+  ],
+  "119": [
+   {
+    "email": "brad.banderman@house.mo.gov",
+    "name": "Brad Banderman",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=119"
+   }
+  ],
+  "12": [
+   {
+    "email": "michael.jones@house.mo.gov",
+    "name": "Mike Jones",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?&district=012"
+   }
+  ],
+  "120": [
+   {
+    "email": "john.hewkin@house.mo.gov",
+    "name": "John Hewkin",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=120"
+   }
+  ],
+  "121": [
+   {
+    "email": "bill.hardwick@house.mo.gov",
+    "name": "Bill Hardwick",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=121"
+   }
+  ],
+  "122": [
+   {
+    "email": "tara.peters@house.mo.gov",
+    "name": "Tara Peters",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=122"
+   }
+  ],
+  "123": [
+   {
+    "email": "jeff.vernetti@house.mo.gov",
+    "name": "Jeff Vernetti",
+    "party": "Republican",
+    "url": "https://house.mo.gov/memberdetails.aspx?district=123"
+   }
+  ],
+  "124": [
+   {
+    "email": "don.mayhew@house.mo.gov",
+    "name": "Don Mayhew",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=124"
+   }
+  ],
+  "125": [
+   {
+    "email": "dane.diehl@house.mo.gov",
+    "name": "Dane Diehl",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=125"
+   }
+  ],
+  "126": [
+   {
+    "email": "jim.kalberloh@house.mo.gov",
+    "name": "Jim Kalberloh",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=126"
+   }
+  ],
+  "127": [
+   {
+    "email": "ann.kelley@house.mo.gov",
+    "name": "Ann Kelley",
+    "party": "Republican",
+    "url": "https://house.mo.gov/memberdetails.aspx?district=127"
+   }
+  ],
+  "128": [
+   {
+    "email": "christopher.warwick@house.mo.gov",
+    "name": "Chris Warwick",
+    "party": "Republican",
+    "url": "https://house.mo.gov/memberdetails.aspx?district=128"
+   }
+  ],
+  "129": [
+   {
+    "email": "john.black@house.mo.gov",
+    "name": "John Black",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=129"
+   }
+  ],
+  "13": [
+   {
+    "email": "sean.pouche@house.mo.gov",
+    "name": "Sean Pouche",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=013"
+   }
+  ],
+  "130": [
+   {
+    "email": "bishop.davidson@house.mo.gov",
+    "name": "Bishop Davidson",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=130"
+   }
+  ],
+  "131": [
+   {
+    "email": "bill.owen@house.mo.gov",
+    "name": "Bill Owen",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=131"
+   }
+  ],
+  "132": [
+   {
+    "email": "jeremy.dean@house.mo.gov",
+    "name": "Jeremy Dean",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=132"
+   }
+  ],
+  "133": [
+   {
+    "email": "melanie.stinnett@house.mo.gov",
+    "name": "Melanie Stinnett",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=133"
+   }
+  ],
+  "134": [
+   {
+    "email": "alex.riley@house.mo.gov",
+    "name": "Alex Riley",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=134"
+   }
+  ],
+  "135": [
+   {
+    "email": "betsy.fogle@house.mo.gov",
+    "name": "Betsy Fogle",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/memberdetails.aspx?district=135"
+   }
+  ],
+  "136": [
+   {
+    "email": "stephanie.hein@house.mo.gov",
+    "name": "Stephanie Hein",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=136"
+   }
+  ],
+  "137": [
+   {
+    "email": "darin.chappell@house.mo.gov",
+    "name": "Darin Chappell",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=137"
+   }
+  ],
+  "138": [
+   {
+    "email": "burt.whaley@house.mo.gov",
+    "name": "Burt Whaley",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=138"
+   }
+  ],
+  "139": [
+   {
+    "email": "bob.titus@house.mo.gov",
+    "name": "Bob Titus",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=139"
+   }
+  ],
+  "14": [
+   {
+    "email": "ashley.aune@house.mo.gov",
+    "name": "Ashley Aune",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=014"
+   }
+  ],
+  "140": [
+   {
+    "email": "jamieray.gragg@house.mo.gov",
+    "name": "Jamie Ray Gragg",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=140"
+   }
+  ],
+  "141": [
+   {
+    "email": "melissa.schmidt@house.mo.gov",
+    "name": "Melissa Schmidt",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=141"
+   }
+  ],
+  "142": [
+   {
+    "email": "jeff.knight@house.mo.gov",
+    "name": "Jeff Knight",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=142"
+   }
+  ],
+  "143": [
+   {
+    "email": "bennie.cook@house.mo.gov",
+    "name": "Bennie Cook",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=143"
+   }
+  ],
+  "144": [
+   {
+    "email": "tony.harbison@house.mo.gov",
+    "name": "Tony Harbison",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?&district=144"
+   }
+  ],
+  "145": [
+   {
+    "email": "bryant.wolfin@house.mo.gov",
+    "name": "Bryant Wolfin",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=145"
+   }
+  ],
+  "146": [
+   {
+    "email": "barry.hovis@house.mo.gov",
+    "name": "Barry Hovis",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=146"
+   }
+  ],
+  "147": [
+   {
+    "email": "john.voss@house.mo.gov",
+    "name": "John Voss",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=147"
+   }
+  ],
+  "148": [
+   {
+    "email": "david.dolan@house.mo.gov",
+    "name": "David Dolan",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=148"
+   }
+  ],
+  "15": [
+   {
+    "email": "ken.jamison@house.mo.gov",
+    "name": "Ken Jamison",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?&district=015"
+   }
+  ],
+  "150": [
+   {
+    "email": "cameron.parker@house.mo.gov",
+    "name": "Cameron Parker",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=150"
+   }
+  ],
+  "151": [
+   {
+    "email": "steve.jordan@house.mo.gov",
+    "name": "Steve Jordan",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?&district=151"
+   }
+  ],
+  "152": [
+   {
+    "email": "hardy.billington@house.mo.gov",
+    "name": "Hardy Billington",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=152"
+   }
+  ],
+  "153": [
+   {
+    "email": "keith.elliot@house.mo.gov",
+    "name": "Keith Elliott",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=153"
+   }
+  ],
+  "154": [
+   {
+    "email": "lisa.durnell@house.mo.gov",
+    "name": "Lisa Durnell",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?&district=154"
+   }
+  ],
+  "155": [
+   {
+    "email": "matthew.overcast@house.mo.gov",
+    "name": "Matthew Overcast",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=155"
+   }
+  ],
+  "156": [
+   {
+    "email": "brian.seitz@house.mo.gov",
+    "name": "Brian Seitz",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=156"
+   }
+  ],
+  "157": [
+   {
+    "email": "mitch.boggs@house.mo.gov",
+    "name": "Mitch Boggs",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=157"
+   }
+  ],
+  "158": [
+   {
+    "email": "scott.cupps@house.mo.gov",
+    "name": "Scott Cupps",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=158"
+   }
+  ],
+  "159": [
+   {
+    "email": "dirk.deaton@house.mo.gov",
+    "name": "Dirk Deaton",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=159"
+   }
+  ],
+  "16": [
+   {
+    "email": "chris.brown@house.mo.gov",
+    "name": "Chris Brown",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=016"
+   }
+  ],
+  "161": [
+   {
+    "email": "lane.roberts@house.mo.gov",
+    "name": "Lane Roberts",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=161"
+   }
+  ],
+  "162": [
+   {
+    "email": "bob.bromley@house.mo.gov",
+    "name": "Bob Bromley",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=162"
+   }
+  ],
+  "163": [
+   {
+    "email": "cathyjo.loy@house.mo.gov",
+    "name": "Cathy Loy",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=163"
+   }
+  ],
+  "17": [
+   {
+    "email": "bill.allen@house.mo.gov",
+    "name": "Bill Allen",
+    "party": "Republican",
+    "url": "https://house.mo.gov/memberdetails.aspx?district=017"
+   }
+  ],
+  "18": [
+   {
+    "email": "eric.woods@house.mo.gov",
+    "name": "Eric Woods",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=018"
+   }
+  ],
+  "19": [
+   {
+    "email": "wick.thomas@house.mo.gov",
+    "name": "Wick Thomas",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=019"
+   }
+  ],
+  "2": [
+   {
+    "email": "mazzie.christensen@house.mo.gov",
+    "name": "Mazzie Christensen",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=002"
+   }
+  ],
+  "20": [
+   {
+    "email": "mike.steinmeyer@house.mo.gov",
+    "name": "Mike Steinmeyer",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=020"
+   }
+  ],
+  "21": [
+   {
+    "email": "will.jobe@house.mo.gov",
+    "name": "Will Jobe",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=021"
+   }
+  ],
+  "22": [
+   {
+    "email": "yolanda.young@house.mo.gov",
+    "name": "Yolanda Young",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=022"
+   }
+  ],
+  "23": [
+   {
+    "email": "michael.johnson@house.mo.gov",
+    "name": "Michael Johnson",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=023"
+   }
+  ],
+  "24": [
+   {
+    "email": "emily.weber@house.mo.gov",
+    "name": "Emily Weber",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=024"
+   }
+  ],
+  "25": [
+   {
+    "email": "pattie.mansur@house.mo.gov",
+    "name": "Pattie Mansur",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=025"
+   }
+  ],
+  "26": [
+   {
+    "email": "tiffany.price@house.mo.gov",
+    "name": "Tiffany Price",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?&district=026"
+   }
+  ],
+  "27": [
+   {
+    "email": "melissa.douglas@house.mo.gov",
+    "name": "Melissa Douglas",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?&district=027"
+   }
+  ],
+  "28": [
+   {
+    "email": "donna.barnes@house.mo.gov",
+    "name": "Donna Barnes",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=028"
+   }
+  ],
+  "29": [
+   {
+    "email": "aaron.crossley@house.mo.gov",
+    "name": "Aaron Crossley",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=29"
+   }
+  ],
+  "3": [
+   {
+    "email": "danny.busick@house.mo.gov",
+    "name": "Danny Busick",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=003"
+   }
+  ],
+  "30": [
+   {
+    "email": "jonathan.patterson@house.mo.gov",
+    "name": "Jon Patterson",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=030"
+   }
+  ],
+  "31": [
+   {
+    "email": "william.fowler@house.mo.gov",
+    "name": "Ron Fowler",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?&district=031"
+   }
+  ],
+  "32": [
+   {
+    "email": "jeff.coleman@house.mo.gov",
+    "name": "Jeff Coleman",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=32"
+   }
+  ],
+  "33": [
+   {
+    "email": "carolyn.caton@house.mo.gov",
+    "name": "Carolyn Caton",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=033"
+   }
+  ],
+  "34": [
+   {
+    "email": "kemp.strickler@house.mo.gov",
+    "name": "Kemp Strickler",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=034"
+   }
+  ],
+  "35": [
+   {
+    "email": "keri.ingle@house.mo.gov",
+    "name": "Keri Ingle",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=35"
+   }
+  ],
+  "36": [
+   {
+    "email": "anthony.ealy@house.mo.gov",
+    "name": "Anthony Ealy",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=36"
+   }
+  ],
+  "37": [
+   {
+    "email": "mark.sharp@house.mo.gov",
+    "name": "Mark Sharp",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=37"
+   }
+  ],
+  "38": [
+   {
+    "email": "martin.jacobs@house.mo.gov",
+    "name": "Marty Jacobs",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?&district=038"
+   }
+  ],
+  "39": [
+   {
+    "email": "mark.meirath@house.mo.gov",
+    "name": "Mark Meirath",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?&district=039"
+   }
+  ],
+  "4": [
+   {
+    "email": "greg.sharpe@house.mo.gov",
+    "name": "Greg Sharpe",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=004"
+   }
+  ],
+  "40": [
+   {
+    "email": "chad.perkins@house.mo.gov",
+    "name": "Chad Perkins",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?&district=40"
+   }
+  ],
+  "41": [
+   {
+    "email": "doyle.justus@house.mo.gov",
+    "name": "Doyle Justus",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=41"
+   }
+  ],
+  "42": [
+   {
+    "email": "jeff.myers@house.mo.gov",
+    "name": "Jeff Myers",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=42"
+   }
+  ],
+  "43": [
+   {
+    "email": "kent.haden@house.mo.gov",
+    "name": "Kent Haden",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=43"
+   }
+  ],
+  "44": [
+   {
+    "email": "john.martin@house.mo.gov",
+    "name": "John Martin",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?&district=044"
+   }
+  ],
+  "45": [
+   {
+    "email": "kathy.steinhoff@house.mo.gov",
+    "name": "Kathy Steinhoff",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=045"
+   }
+  ],
+  "46": [
+   {
+    "email": "david.smith@house.mo.gov",
+    "name": "David Smith",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=046"
+   }
+  ],
+  "47": [
+   {
+    "email": "adrian.plank@house.mo.gov",
+    "name": "Adrian Plank",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=047"
+   }
+  ],
+  "48": [
+   {
+    "email": "tim.taylor@house.mo.gov",
+    "name": "Tim Taylor",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=048"
+   }
+  ],
+  "49": [
+   {
+    "email": "jim.schulte@house.mo.gov",
+    "name": "Jim Schulte",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=049"
+   }
+  ],
+  "5": [
+   {
+    "email": "louis.riggs@house.mo.gov",
+    "name": "Louis Riggs",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=005"
+   }
+  ],
+  "50": [
+   {
+    "email": "gregg.bush@house.mo.gov",
+    "name": "Gregg Bush",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=050"
+   }
+  ],
+  "51": [
+   {
+    "email": "mark.nolte@house.mo.gov",
+    "name": "Mark Nolte",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?&district=051"
+   }
+  ],
+  "52": [
+   {
+    "email": "bradley.pollitt@house.mo.gov",
+    "name": "Brad Pollitt",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=052"
+   }
+  ],
+  "53": [
+   {
+    "email": "terry.thompson@house.mo.gov",
+    "name": "Terry Thompson",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=053"
+   }
+  ],
+  "54": [
+   {
+    "email": "brandon.phelps@house.mo.gov",
+    "name": "Brandon Phelps",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=054"
+   }
+  ],
+  "55": [
+   {
+    "email": "bill.irwin@house.mo.gov",
+    "name": "Bill Irwin",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=055"
+   }
+  ],
+  "56": [
+   {
+    "email": "michael.davis@house.mo.gov",
+    "name": "Michael Davis",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=056"
+   }
+  ],
+  "57": [
+   {
+    "email": "rodger.reedy@house.mo.gov",
+    "name": "Rodger Reedy",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=057"
+   }
+  ],
+  "58": [
+   {
+    "email": "willard.haley@house.mo.gov",
+    "name": "Willard Haley",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=058"
+   }
+  ],
+  "59": [
+   {
+    "email": "rudy.veit@house.mo.gov",
+    "name": "Rudy Veit",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=059"
+   }
+  ],
+  "6": [
+   {
+    "email": "ed.lewis@house.mo.gov",
+    "name": "Ed Lewis",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=006"
+   }
+  ],
+  "60": [
+   {
+    "email": "dave.griffith@house.mo.gov",
+    "name": "Dave Griffith",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=060"
+   }
+  ],
+  "61": [
+   {
+    "email": "bruce.sassmann@house.mo.gov",
+    "name": "Bruce Sassmann",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=061"
+   }
+  ],
+  "62": [
+   {
+    "email": "sherri.gallick@house.mo.gov",
+    "name": "Sherri Gallick",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=062"
+   }
+  ],
+  "63": [
+   {
+    "email": "tricia.byrnes@house.mo.gov",
+    "name": "Tricia Byrnes",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=063"
+   }
+  ],
+  "64": [
+   {
+    "email": "deanna.self@house.mo.gov",
+    "name": "Deanna Self",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?&district=064"
+   }
+  ],
+  "65": [
+   {
+    "email": "wendy.hausman@house.mo.gov",
+    "name": "Wendy Hausman",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=065"
+   }
+  ],
+  "66": [
+   {
+    "email": "marlene.terry@house.mo.gov",
+    "name": "Marlene Terry",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=066"
+   }
+  ],
+  "67": [
+   {
+    "email": "latondra.rush@house.mo.gov",
+    "name": "Tonya Rush",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?&district=067"
+   }
+  ],
+  "68": [
+   {
+    "email": "kem.smith@house.mo.gov",
+    "name": "Kem Smith",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=068"
+   }
+  ],
+  "69": [
+   {
+    "email": "scott.miller@house.mo.gov",
+    "name": "Scott Miller",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=069"
+   }
+  ],
+  "7": [
+   {
+    "email": "peggy.mcgaugh@house.mo.gov",
+    "name": "Peggy McGaugh",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=007"
+   }
+  ],
+  "70": [
+   {
+    "email": "stephanie.boykin@house.mo.gov",
+    "name": "Stephanie Boykin",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=070"
+   }
+  ],
+  "71": [
+   {
+    "email": "ladonna.appelbaum@house.mo.gov",
+    "name": "LaDonna Appelbaum",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=071"
+   }
+  ],
+  "72": [
+   {
+    "email": "doug.clemens@house.mo.gov",
+    "name": "Doug Clemens",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=072"
+   }
+  ],
+  "73": [
+   {
+    "email": "raychel.proudie@house.mo.gov",
+    "name": "Raychel Proudie",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=073"
+   }
+  ],
+  "74": [
+   {
+    "email": "marla.smith@house.mo.gov",
+    "name": "Marla Smith",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?&district=074"
+   }
+  ],
+  "75": [
+   {
+    "email": "chanel.mosley@house.mo.gov",
+    "name": "Chanel Mosley",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?&district=075"
+   }
+  ],
+  "76": [
+   {
+    "email": "marlon.anderson@house.mo.gov",
+    "name": "Marlon Anderson",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=076"
+   }
+  ],
+  "77": [
+   {
+    "email": "kimberlyann.collins@house.mo.gov",
+    "name": "Kimberly-Ann Collins",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=077"
+   }
+  ],
+  "78": [
+   {
+    "email": "marty.murray@house.mo.gov",
+    "name": "Marty Murray",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=078"
+   }
+  ],
+  "79": [
+   {
+    "email": "lakeysha.bosley@house.mo.gov",
+    "name": "LaKeySha Bosley",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=079"
+   }
+  ],
+  "8": [
+   {
+    "email": "josh.hurlbert@house.mo.gov",
+    "name": "Josh Hurlbert",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=008"
+   }
+  ],
+  "80": [
+   {
+    "email": "elizabeth.fuchs@house.mo.gov",
+    "name": "Lilly Fuchs",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=080"
+   }
+  ],
+  "81": [
+   {
+    "email": "steve.butz@house.mo.gov",
+    "name": "Steve Butz",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=081"
+   }
+  ],
+  "82": [
+   {
+    "email": "nick.kimble@house.mo.gov",
+    "name": "Nick Kimble",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=082"
+   }
+  ],
+  "83": [
+   {
+    "email": "ray.reed@house.mo.gov",
+    "name": "Ray Reed",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=083"
+   }
+  ],
+  "84": [
+   {
+    "email": "del.taylor@house.mo.gov",
+    "name": "Del Taylor",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=084"
+   }
+  ],
+  "85": [
+   {
+    "email": "yolonda.fountainhend@house.mo.gov",
+    "name": "Yolonda Fountain-Henderson",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=085"
+   }
+  ],
+  "86": [
+   {
+    "email": "jeffrey.hales@house.mo.gov",
+    "name": "Jeff Hales",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?&district=086"
+   }
+  ],
+  "87": [
+   {
+    "email": "connie.steinmetz@house.mo.gov",
+    "name": "Connie Steinmetz",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=087"
+   }
+  ],
+  "88": [
+   {
+    "email": "holly.jones@house.mo.gov",
+    "name": "Holly Jones",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=088"
+   }
+  ],
+  "89": [
+   {
+    "email": "george.hruza@house.mo.gov",
+    "name": "George Hruza",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=089"
+   }
+  ],
+  "9": [
+   {
+    "email": "dean.vanschoiack@house.mo.gov",
+    "name": "Dean VanSchoiack",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=9"
+   }
+  ],
+  "90": [
+   {
+    "email": "mark.boyko@house.mo.gov",
+    "name": "Mark Boyko",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=090"
+   }
+  ],
+  "91": [
+   {
+    "email": "jo.doll@house.mo.gov",
+    "name": "Jo Doll",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=091"
+   }
+  ],
+  "92": [
+   {
+    "email": "michael.burton@house.mo.gov",
+    "name": "Michael Burton",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=092"
+   }
+  ],
+  "93": [
+   {
+    "email": "bridget.walshmoore@house.mo.gov",
+    "name": "Bridget Moore",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=093"
+   }
+  ],
+  "94": [
+   {
+    "email": "jim.murphy@house.mo.gov",
+    "name": "Jim Murphy",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=094"
+   }
+  ],
+  "96": [
+   {
+    "email": "brad.christ@house.mo.gov",
+    "name": "Brad Christ",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=096"
+   }
+  ],
+  "97": [
+   {
+    "email": "david.casteel@house.mo.gov",
+    "name": "David Casteel",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=097"
+   }
+  ],
+  "98": [
+   {
+    "email": "jaclyn.zimmermann@house.mo.gov",
+    "name": "Jaclyn Zimmermann",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=098"
+   }
+  ],
+  "99": [
+   {
+    "email": "ian.mackey@house.mo.gov",
+    "name": "Ian Mackey",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=099"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/mo.csv"
+ },
+ "state": "MO",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "doug.beck@senate.mo.gov",
+    "name": "Doug Beck",
+    "party": "Democratic",
+    "url": "https://www.house.mo.gov/MemberDetails.aspx?district=92"
+   }
+  ],
+  "11": [
+   {
+    "email": "joe.nicola@senate.mo.gov",
+    "name": "Joe Nicola",
+    "party": "Republican",
+    "url": "https://senatorjoenicola.com/"
+   }
+  ],
+  "12": [
+   {
+    "email": "rusty.black@senate.mo.gov",
+    "name": "Rusty Black",
+    "party": "Republican",
+    "url": "https://www.senate.mo.gov/Senators/Member/12"
+   }
+  ],
+  "13": [
+   {
+    "email": "angela.mosley@senate.mo.gov",
+    "name": "Angela Mosley",
+    "party": "Democratic",
+    "url": "https://www.senate.mo.gov/mem13"
+   }
+  ],
+  "14": [
+   {
+    "email": "brian.williams@senate.mo.gov",
+    "name": "Brian Williams",
+    "party": "Democratic",
+    "url": "https://www.senate.mo.gov/mem14"
+   }
+  ],
+  "15": [
+   {
+    "email": "david.gregory@senate.mo.gov",
+    "name": "David Gregory",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=096"
+   }
+  ],
+  "16": [
+   {
+    "email": "justin.brown@senate.mo.gov",
+    "name": "Justin Brown",
+    "party": "Republican",
+    "url": "https://www.senate.mo.gov/mem16"
+   }
+  ],
+  "17": [
+   {
+    "email": "maggie.nurrenbern@senate.mo.gov",
+    "name": "Maggie Nurrenbern",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=015"
+   }
+  ],
+  "18": [
+   {
+    "email": "cindy.olaughlin@senate.mo.gov",
+    "name": "Cindy O'Laughlin",
+    "party": "Republican",
+    "url": "https://www.senate.mo.gov/mem18"
+   }
+  ],
+  "19": [
+   {
+    "email": "stephen.webber@senate.mo.gov",
+    "name": "Stephen Webber",
+    "party": "Democratic",
+    "url": "https://senate.mo.gov/Senators/Member/19"
+   }
+  ],
+  "2": [
+   {
+    "email": "nick.schroer@senate.mo.gov",
+    "name": "Nick Schroer",
+    "party": "Republican",
+    "url": "https://www.senate.mo.gov/Senators/Member/02"
+   }
+  ],
+  "20": [
+   {
+    "email": "curtis.trent@senate.mo.gov",
+    "name": "Curtis Trent",
+    "party": "Republican",
+    "url": "https://www.senate.mo.gov/Senators/Member/20"
+   }
+  ],
+  "21": [
+   {
+    "email": "kurtis.gregory@senate.mo.gov",
+    "name": "Kurtis Gregory",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=051"
+   }
+  ],
+  "22": [
+   {
+    "email": "maryelizabeth.coleman@senate.mo.gov",
+    "name": "Mary Elizabeth Coleman",
+    "party": "Republican",
+    "url": "https://www.senate.mo.gov/Senators/Member/22"
+   }
+  ],
+  "23": [
+   {
+    "email": "adam.schnelting@senate.mo.gov",
+    "name": "Adam Schnelting",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=069"
+   }
+  ],
+  "24": [
+   {
+    "email": "tracy.mccreery@senate.mo.gov",
+    "name": "Tracy McCreery",
+    "party": "Democratic",
+    "url": "https://www.senate.mo.gov/Senators/Member/24"
+   }
+  ],
+  "25": [
+   {
+    "email": "jason.bean@senate.mo.gov",
+    "name": "Jason Bean",
+    "party": "Republican",
+    "url": "https://www.senate.mo.gov/mem25"
+   }
+  ],
+  "26": [
+   {
+    "email": "ben.brown@senate.mo.gov",
+    "name": "Ben Brown",
+    "party": "Republican",
+    "url": "https://www.senate.mo.gov/Senators/Member/26"
+   }
+  ],
+  "27": [
+   {
+    "email": "jamie.burger@senate.mo.gov",
+    "name": "Jamie Burger",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=148"
+   }
+  ],
+  "28": [
+   {
+    "email": "sandy.crawford@senate.mo.gov",
+    "name": "Sandy Crawford",
+    "party": "Republican",
+    "url": "https://www.senate.mo.gov/mem28"
+   }
+  ],
+  "29": [
+   {
+    "email": "mike.moon@senate.mo.gov",
+    "name": "Mike Moon",
+    "party": "Republican",
+    "url": "https://www.house.mo.gov/MemberDetails.aspx?district=157"
+   }
+  ],
+  "3": [
+   {
+    "email": "mike.henderson@senate.mo.gov",
+    "name": "Mike Henderson",
+    "party": "Republican",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=117"
+   }
+  ],
+  "30": [
+   {
+    "email": "lincoln.hough@senate.mo.gov",
+    "name": "Lincoln Hough",
+    "party": "Republican",
+    "url": "https://www.senate.mo.gov/mem30"
+   }
+  ],
+  "31": [
+   {
+    "email": "rick.brattin@senate.mo.gov",
+    "name": "Rick Brattin",
+    "party": "Republican",
+    "url": "https://www.house.mo.gov/MemberDetails.aspx?district=55"
+   }
+  ],
+  "32": [
+   {
+    "email": "jill.carter@senate.mo.gov",
+    "name": "Jill Carter",
+    "party": "Republican",
+    "url": "https://www.senate.mo.gov/Senators/Member/32/"
+   }
+  ],
+  "33": [
+   {
+    "email": "brad.hudson@senate.mo.gov",
+    "name": "Brad Hudson",
+    "party": "Republican",
+    "url": "https://house.mo.gov/memberdetails.aspx?district=138"
+   }
+  ],
+  "34": [
+   {
+    "email": "tony.luetkemeyer@senate.mo.gov",
+    "name": "Tony Luetkemeyer",
+    "party": "Republican",
+    "url": "https://www.senate.mo.gov/mem34"
+   }
+  ],
+  "4": [
+   {
+    "email": "karla.may@senate.mo.gov",
+    "name": "Karla May",
+    "party": "Democratic",
+    "url": "https://www.senate.mo.gov/mem04"
+   }
+  ],
+  "5": [
+   {
+    "email": "steven.roberts@senate.mo.gov",
+    "name": "Steve Roberts",
+    "party": "Democratic",
+    "url": "https://www.senate.mo.gov/mem05"
+   }
+  ],
+  "6": [
+   {
+    "email": "mike.bernskoetter@senate.mo.gov",
+    "name": "Mike Bernskoetter",
+    "party": "Republican",
+    "url": "https://www.senate.mo.gov/mem06"
+   }
+  ],
+  "7": [
+   {
+    "email": "patty.lewis@senate.mo.gov",
+    "name": "Patty Lewis",
+    "party": "Democratic",
+    "url": "https://house.mo.gov/MemberDetails.aspx?district=025"
+   }
+  ],
+  "8": [
+   {
+    "email": "mike.cierpiot@senate.mo.gov",
+    "name": "Mike Cierpiot",
+    "party": "Republican",
+    "url": "https://www.senate.mo.gov/mem08"
+   }
+  ],
+  "9": [
+   {
+    "email": "barbara.washington@senate.mo.gov",
+    "name": "Barbara Washington",
+    "party": "Democratic",
+    "url": "https://www.house.mo.gov/MemberDetails.aspx?district=23"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

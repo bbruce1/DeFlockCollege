@@ -1,0 +1,1225 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Barry Moore",
+    "party": "Republican",
+    "phone": "202-225-2901",
+    "url": "https://barrymoore.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Shomari Figures",
+    "party": "Democrat",
+    "phone": "202-225-4931",
+    "url": "https://figures.house.gov"
+   }
+  ],
+  "3": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Mike Rogers",
+    "party": "Republican",
+    "phone": "202-225-3261",
+    "url": "https://mikerogers.house.gov"
+   }
+  ],
+  "4": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Robert Aderholt",
+    "party": "Republican",
+    "phone": "202-225-4876",
+    "url": "https://aderholt.house.gov"
+   }
+  ],
+  "5": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Dale Strong",
+    "party": "Republican",
+    "phone": "202-225-4801",
+    "url": "https://strong.house.gov"
+   }
+  ],
+  "6": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Gary Palmer",
+    "party": "Republican",
+    "phone": "202-225-4921",
+    "url": "https://palmer.house.gov"
+   }
+  ],
+  "7": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Terri Sewell",
+    "party": "Democrat",
+    "phone": "202-225-2665",
+    "url": "https://sewell.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.tuberville.senate.gov/contact/contact-form/",
+   "email": null,
+   "name": "Tommy Tuberville",
+   "party": "Republican",
+   "phone": "202-224-4124",
+   "url": "https://www.tuberville.senate.gov"
+  },
+  {
+   "contactForm": "https://www.britt.senate.gov/contact/",
+   "email": null,
+   "name": "Katie Britt",
+   "party": "Republican",
+   "phone": "202-224-5744",
+   "url": "https://www.britt.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "phillip.pettus@alhouse.gov",
+    "name": "Phillip Pettus",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "10": [
+   {
+    "email": "marilyn.lands@alhouse.gov",
+    "name": "Marilyn Lands",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=lands"
+   }
+  ],
+  "100": [
+   {
+    "email": "mark.shirey@alhouse.gov",
+    "name": "Mark Shirey",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "101": [
+   {
+    "email": "chris.pringle@alhouse.gov",
+    "name": "Chris Pringle",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "102": [
+   {
+    "email": "shane.stringer@alhouse.gov",
+    "name": "Shane Stringer",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "103": [
+   {
+    "email": "drummondbarbara@comcast.net",
+    "name": "Barbara Drummond",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "104": [
+   {
+    "email": "margie.wilcox@alhouse.gov",
+    "name": "Margie Wilcox",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "105": [
+   {
+    "email": "chip.brown@alhouse.gov",
+    "name": "Chip Brown",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "11": [
+   {
+    "email": "heathallbright@gmail.com",
+    "name": "Heath Allbright",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Allbright"
+   }
+  ],
+  "12": [
+   {
+    "email": "cindy.myrex@alhouse.gov",
+    "name": "Cindy Myrex",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=myrex"
+   }
+  ],
+  "13": [
+   {
+    "email": "greg.barnes@alhouse.gov",
+    "name": "Greg Barnes",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=barnes"
+   }
+  ],
+  "14": [
+   {
+    "email": "wadsworth.tim654321@gmail.com",
+    "name": "Tim Wadsworth",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "15": [
+   {
+    "email": "leigh.hulsey@alhouse.gov",
+    "name": "Leigh Hulsey",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "16": [
+   {
+    "email": "bryan.brinyark@alhouse.gov",
+    "name": "Bryan Brinyark",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=brinyark"
+   }
+  ],
+  "17": [
+   {
+    "email": "tracy.estes@alhouse.gov",
+    "name": "Tracy Estes",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "18": [
+   {
+    "email": "jamie.kiel@alhouse.gov",
+    "name": "Jamie Kiel",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "19": [
+   {
+    "email": "annihall19@gmail.com",
+    "name": "Laura Hall",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "2": [
+   {
+    "email": "ben.harrison@alhouse.gov",
+    "name": "Ben Harrison",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "20": [
+   {
+    "email": "jamesoliverlomax@gmail.com",
+    "name": "James Lomax",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "21": [
+   {
+    "email": "rex.reynolds@alhouse.gov",
+    "name": "Rex Reynolds",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "22": [
+   {
+    "email": "ritchie.whorton@alhouse.gov",
+    "name": "Ritchie Whorton",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "23": [
+   {
+    "email": "kirklandmike75@gmail.com",
+    "name": "Mike Kirkland",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "24": [
+   {
+    "email": "nathaniel.ledbetter@alhouse.gov",
+    "name": "Nathaniel Ledbetter",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "25": [
+   {
+    "email": "reprigsbydistrict25@gmail.com",
+    "name": "Phillip Rigsby",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "26": [
+   {
+    "email": "brock.colvin@alhouse.gov",
+    "name": "Brock Colvin",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "27": [
+   {
+    "email": "jeana.ross@alhouse.gov",
+    "name": "Jeana Ross",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=Ross"
+   }
+  ],
+  "28": [
+   {
+    "email": "mack.butler@alhouse.gov",
+    "name": "Mack Butler",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "29": [
+   {
+    "email": "mark.gidley@alhouse.gov",
+    "name": "Mark Gidley",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "3": [
+   {
+    "email": "kerryucpa@me.com",
+    "name": "Bubba Underwood",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "30": [
+   {
+    "email": "craig.lipscomb@alhouse.gov",
+    "name": "Craig Lipscomb",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "31": [
+   {
+    "email": "troy.stubbs@hotmail.com",
+    "name": "Troy Stubbs",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "32": [
+   {
+    "email": "barbara.boyd@alhouse.gov",
+    "name": "Barbara Boyd",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "33": [
+   {
+    "email": "ben.robbins@alhouse.gov",
+    "name": "Ben Robbins",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "34": [
+   {
+    "email": "david.standridge@alhouse.gov",
+    "name": "David Standridge",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "35": [
+   {
+    "email": "repstevehurst98@gmail.com",
+    "name": "Steve Hurst",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "36": [
+   {
+    "email": "strep36@gmail.com",
+    "name": "Randy Wood",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "37": [
+   {
+    "email": "rsfincher77@gmail.com",
+    "name": "Bob Fincher",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "38": [
+   {
+    "email": "kristin.nelson@alhouse.gov",
+    "name": "Kristin Nelson",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=nelson"
+   }
+  ],
+  "39": [
+   {
+    "email": "ginny.shaver@alhouse.gov",
+    "name": "Ginny Shaver",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "4": [
+   {
+    "email": "parker.moore@alhouse.gov",
+    "name": "Parker Moore",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "40": [
+   {
+    "email": "chadrobertsond40@gmail.com",
+    "name": "Chad Robertson",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "41": [
+   {
+    "email": "corley.ellis@alhouse.gov",
+    "name": "Corley Ellis",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "42": [
+   {
+    "email": "ivan.smith@alhouse.gov",
+    "name": "Van Smith",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "43": [
+   {
+    "email": "arnold.mooney@alhouse.gov",
+    "name": "Arnold Mooney",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "44": [
+   {
+    "email": "dannygarrett44@gmail.com",
+    "name": "Danny Garrett",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "45": [
+   {
+    "email": "susan.dubose@alhouse.gov",
+    "name": "Susan DuBose",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "46": [
+   {
+    "email": "david@davidfaulkneral46.com",
+    "name": "David Faulkner",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "47": [
+   {
+    "email": "mike.shaw@alabama47.com",
+    "name": "Mike Shaw",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "48": [
+   {
+    "email": "jwcarns@gmail.com",
+    "name": "Jim Carns",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "49": [
+   {
+    "email": "russell.bedsole@alhouse.gov",
+    "name": "Russell Bedsole",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "5": [
+   {
+    "email": "danny.crawford@alhouse.gov",
+    "name": "Danny Crawford",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "50": [
+   {
+    "email": "jim.hill@alhouse.gov",
+    "name": "Jim Hill",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "51": [
+   {
+    "email": "allen.treadaway@alhouse.gov",
+    "name": "Allen Treadaway",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "52": [
+   {
+    "email": "kelvin.datcher@alhouse.gov",
+    "name": "Kelvin Datcher",
+    "party": "Democratic",
+    "url": null
+   }
+  ],
+  "53": [
+   {
+    "email": "anthony.daniels@alhouse.gov",
+    "name": "Anthony Daniels",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "54": [
+   {
+    "email": "reprafferty@gmail.com",
+    "name": "Neil Rafferty",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "55": [
+   {
+    "email": "hendrixfor55@gmail.com",
+    "name": "Travis Hendrix",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "56": [
+   {
+    "email": "ojtillman@gmail.com",
+    "name": "Ontario Tillman",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "57": [
+   {
+    "email": "sellersfor57@yahoo.com",
+    "name": "Patrick Sellers",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "58": [
+   {
+    "email": "rolanda.hollis@alhouse.gov",
+    "name": "Rolanda Hollis",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "59": [
+   {
+    "email": "mamoor48@bellsouth.net",
+    "name": "Mary Moore",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "6": [
+   {
+    "email": "andy.whitt@alhouse.gov",
+    "name": "Andy Whitt",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "60": [
+   {
+    "email": "juandalynn.givan@alhouse.gov",
+    "name": "Juandalynn Givan",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "61": [
+   {
+    "email": "ronaldbolton1@gmail.com",
+    "name": "Ron Bolton",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "62": [
+   {
+    "email": "lambbama@gmail.com",
+    "name": "Bill Lamb",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "63": [
+   {
+    "email": "norman.crow@alhouse.gov",
+    "name": "Norman Crow",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members?tab=1&search=crow"
+   }
+  ],
+  "64": [
+   {
+    "email": "donnagivens55@gmail.com",
+    "name": "Donna Givens",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "65": [
+   {
+    "email": "brett.easterbrook@yahoo.com",
+    "name": "Brett Easterbrook",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "66": [
+   {
+    "email": "staterep@co.escambia.al.us",
+    "name": "Alan Baker",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "67": [
+   {
+    "email": "chestnut4house@gmail.com",
+    "name": "Prince Chestnut",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "68": [
+   {
+    "email": "jthomase68@gmail.com",
+    "name": "Thomas Jackson",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "69": [
+   {
+    "email": "kelvinj73@gmail.com",
+    "name": "Kelvin Lawrence",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "7": [
+   {
+    "email": "yarbrough4house@gmail.com",
+    "name": "Ernie Yarbrough",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "70": [
+   {
+    "email": "cengland1@hotmail.com",
+    "name": "Chris England",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "71": [
+   {
+    "email": "artis.mccampbell@alhouse.gov",
+    "name": "A.J. McCampbell",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "72": [
+   {
+    "email": "cltravis620@charter.net",
+    "name": "Curtis Travis",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "73": [
+   {
+    "email": "kenneth.paschal@alhouse.gov",
+    "name": "Kenneth Paschal",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "74": [
+   {
+    "email": "phillip.ensler@gmail.com",
+    "name": "Phillip Ensler",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "75": [
+   {
+    "email": "reedingram75@gmail.com",
+    "name": "Reed Ingram",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "76": [
+   {
+    "email": "patrice.mcclammy@alhouse.gov",
+    "name": "Penni McClammy",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "77": [
+   {
+    "email": "tashina.morris@alhouse.gov",
+    "name": "TaShina Morris",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "78": [
+   {
+    "email": "ken.hassell@alhouse.gov",
+    "name": "Kenyatt\u00e9 Hassell",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "79": [
+   {
+    "email": "joe.lovvorn@alhouse.gov",
+    "name": "Joe Lovvorn",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "8": [
+   {
+    "email": "terri@terricollins.org",
+    "name": "Terri Collins",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "80": [
+   {
+    "email": "chris.blackshear@alhouse.gov",
+    "name": "Chris Blackshear",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "81": [
+   {
+    "email": "ed.oliver@alhouse.gov",
+    "name": "Ed Oliver",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "82": [
+   {
+    "email": "pebblinwarren@gmail.com",
+    "name": "Pebblin Warren",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "83": [
+   {
+    "email": "jeremy.gray@alhouse.gov",
+    "name": "Jeremy Gray",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "84": [
+   {
+    "email": "berry.forte@alhouse.gov",
+    "name": "Berry Forte",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "85": [
+   {
+    "email": "rrehm46@gmail.com",
+    "name": "Rick Rehm",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "86": [
+   {
+    "email": "pleed86@gmail.com",
+    "name": "Paul Lee",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "87": [
+   {
+    "email": "jeffs@fnbhartford.com",
+    "name": "Jeff Sorrells",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "88": [
+   {
+    "email": "jerry.starnes@alhouse.gov",
+    "name": "Jerry Starnes",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "89": [
+   {
+    "email": "marcusforhouse@gmail.com",
+    "name": "Marcus Paramore",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "9": [
+   {
+    "email": "scott.stadthagen@alhouse.gov",
+    "name": "Scott Stadthagen",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "90": [
+   {
+    "email": "repcsells@gmail.com",
+    "name": "Chris Sells",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "91": [
+   {
+    "email": "rhett.marques@alhouse.gov",
+    "name": "Rhett Marques",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "92": [
+   {
+    "email": "matthew.hammett@alhouse.gov",
+    "name": "Matthew Hammett",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "93": [
+   {
+    "email": "steve.clouse@alhouse.org",
+    "name": "Steve Clouse",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "94": [
+   {
+    "email": "jennifer.fidler@alhouse.gov",
+    "name": "Jennifer Fidler",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "95": [
+   {
+    "email": "frances.holk-jones@alhouse.gov",
+    "name": "Frances Holk-Jones",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "96": [
+   {
+    "email": "mattsimpsonal96@gmail.com",
+    "name": "Matt Simpson",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "97": [
+   {
+    "email": "adline.clarke@alhouse.gov",
+    "name": "Adline Clarke",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "98": [
+   {
+    "email": "napoleon.bracy@alhouse.org",
+    "name": "Napoleon Bracy",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "99": [
+   {
+    "email": "sam.jones@alhouse.gov",
+    "name": "Sam Jones",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/al.csv"
+ },
+ "state": "AL",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "tim.melson@alsenate.gov",
+    "name": "Tim Melson",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "10": [
+   {
+    "email": "andrew.jones@alsenate.gov",
+    "name": "Andrew Jones",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "11": [
+   {
+    "email": "lance.bell@alsenate.gov",
+    "name": "Lance Bell",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "12": [
+   {
+    "email": "keith.kelley@alsenate.gov",
+    "name": "Keith Kelley",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "13": [
+   {
+    "email": "randyprice.sd13@gmail.com",
+    "name": "Randy Price",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "14": [
+   {
+    "email": "april.weaver@alsenate.gov",
+    "name": "April Weaver",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "15": [
+   {
+    "email": "dan.roberts@alsenate.gov",
+    "name": "Dan Roberts",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "16": [
+   {
+    "email": "jabo.waggoner@alsenate.gov",
+    "name": "Jabo Waggoner",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "17": [
+   {
+    "email": "shay.sd17@gmail.com",
+    "name": "Shay Shelnutt",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "18": [
+   {
+    "email": "rodger.smitherman@alsenate.gov",
+    "name": "Rodger Smitherman",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "19": [
+   {
+    "email": "merika.coleman@alsenate.gov",
+    "name": "Merika Coleman",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "2": [
+   {
+    "email": "tom.butler@alsenate.gov",
+    "name": "Tom Butler",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "20": [
+   {
+    "email": "lcolemanmadison926@yahoo.com",
+    "name": "Linda Coleman-Madison",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "21": [
+   {
+    "email": "gerald.allen@alsenate.gov",
+    "name": "Gerald Allen",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "22": [
+   {
+    "email": "greg.albritton@alsenate.gov",
+    "name": "Greg Albritton",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "23": [
+   {
+    "email": "robert.stewart@alsenate.gov",
+    "name": "Rob Stewart",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "24": [
+   {
+    "email": "bsingle362@gmail.com",
+    "name": "Bobby Singleton",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "25": [
+   {
+    "email": "will.barfoot@alsenate.gov",
+    "name": "Will Barfoot",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "26": [
+   {
+    "email": "kirk.hatcher@alsenate.gov",
+    "name": "Kirk Hatcher",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "27": [
+   {
+    "email": "jay.hovey@alsenate.gov",
+    "name": "Jay Hovey",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "28": [
+   {
+    "email": "billy.beasley@alsenate.gov",
+    "name": "Billy Beasley",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "29": [
+   {
+    "email": "donnie.chesteen@alsenate.gov",
+    "name": "Donnie Chesteen",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "3": [
+   {
+    "email": "arthur.orr@alsenate.gov",
+    "name": "Arthur Orr",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "30": [
+   {
+    "email": "clyde.chambliss@alsenate.gov",
+    "name": "Clyde Chambliss",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "31": [
+   {
+    "email": "josh.carnley@alsenate.gov",
+    "name": "Josh Carnley",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "32": [
+   {
+    "email": "chris.elliott@alsenate.gov",
+    "name": "Chris Elliott",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "33": [
+   {
+    "email": "vivian.figures@alsenate.gov",
+    "name": "Vivian Figures",
+    "party": "Democratic",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "34": [
+   {
+    "email": "jackwilliams55@icloud.com",
+    "name": "Jack Williams",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "35": [
+   {
+    "email": "d.r.sessions@att.net",
+    "name": "David Sessions",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "4": [
+   {
+    "email": "garlan.gudger@alsenate.gov",
+    "name": "Garlan Gudger",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "5": [
+   {
+    "email": "matt.woods@alsenate.gov",
+    "name": "Matt Woods",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ],
+  "6": [
+   {
+    "email": "larry.stutts@alsenate.gov",
+    "name": "Larry Stutts",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "7": [
+   {
+    "email": "sam.givhan@alsenate.gov",
+    "name": "Sam Givhan",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "8": [
+   {
+    "email": "steve.livingston@alsenate.gov",
+    "name": "Steve Livingston",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/senate-leaders-members"
+   }
+  ],
+  "9": [
+   {
+    "email": "wes.kitchens@alsenate.gov",
+    "name": "Wes Kitchens",
+    "party": "Republican",
+    "url": "https://alison.legislature.state.al.us/house-leaders-members"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

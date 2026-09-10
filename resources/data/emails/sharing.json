@@ -1,0 +1,602 @@
+[
+  {
+    "id": "sharing-001",
+    "angle": "sharing",
+    "subject": "Wondering who else can search the plate data",
+    "body": "Dear {{officialName}},\n\nThe part of a plate reader system I find hardest to stop thinking about is not the camera. It is the list of people who can run a search against everything the camera has collected, and that list gets far less public discussion than the hardware does.\n\nSo my question is narrow, and I ask it as a student at {{school}} rather than as anyone with expertise. Which outside agencies, if any, can query the readers operating around campus, and who decides when that list changes? I would be grateful to have the answer in writing.\n\nWhile that is being looked into, I hope you will support taking down the readers already placed around campus and adding none in their place. A search capability {{city}} cannot fully list is one I do not see how it can govern.\n\nThank you for reading this. I would like to know where you stand."
+  },
+  {
+    "id": "sharing-002",
+    "angle": "sharing",
+    "subject": "Worried a local deletion rule stops at the city line",
+    "body": "Dear {{officialName}},\n\nRetention rules are the reassurance residents usually get when plate readers come up. Scans are held briefly and then deleted, so the worry is treated as settled. That reasoning holds while the records sit on one server under {{city}} control, and I cannot see how it holds after that.\n\nOnce a copy leaves for an outside system, whose deletion clock applies? If a partner or a supplier keeps its own version, a local limit describes local storage and not much more. I would like to know whether outside copies are allowed under the current arrangement, and who checks that they are erased.\n\nNot collecting seems to me the cleaner answer. I am a student here, and I am asking you to support taking down the readers ringing {{shortName}} and approving no additional units.\n\nIf there is something in this I have misread, I would honestly like to hear it."
+  },
+  {
+    "id": "sharing-003",
+    "angle": "sharing",
+    "subject": "Uneasy about what the supplier may keep from our scans",
+    "body": "Dear {{officialName}},\n\nContracts for surveillance equipment often say more about ownership than any public briefing does, and that is the part I find myself worrying about. I would like to read the specific language from the current agreement covering who owns the scans captured near {{school}} and what rights the supplier keeps over them.\n\nTwo points would matter most to me. Whether the company may hold its own copy of the records, and whether any permission it has ends on the day the contract does.\n\nA clause in an appendix can quietly outlive every policy {{role}} adopts. Rather than untangle that, I would rather {{city}} removed the readers already installed around campus and declined to add more. I am a student, not a lawyer, so I may be weighing the risk wrong.\n\nWould you tell me whether you could support that, and whether the contract language can be released?"
+  },
+  {
+    "id": "sharing-004",
+    "angle": "sharing",
+    "subject": "Asking whether search logs are open to residents",
+    "body": "Dear {{officialName}},\n\nSuppose someone in {{city}} wants to know whether anyone has run a search on their license plate. Is there a way to ask, and would the answer include searches made by users outside this jurisdiction? I have not found either answer, and the gap is what worries me.\n\nMost of the accountability case for these systems rests on audit logs. Those logs only reassure me if somebody outside the operating agency can read them, and if they capture queries made from other places rather than only local ones.\n\nI would rather nobody had to rely on that machinery. Taking down the readers around {{shortName}} and adding none would remove the question, and that is what I am asking you to support as a student here.\n\nCould you tell me whether such a request is possible today, and where you stand on removal?"
+  },
+  {
+    "id": "sharing-005",
+    "angle": "sharing",
+    "subject": "A rule here and a search somewhere else",
+    "body": "Dear {{officialName}},\n\nA rule adopted here applies to people here. That is its limit, and it is where my worry starts. If plate data gathered around {{school}} can be searched by an agency in another state, then the rules {{role}} writes are not the rules governing the search. The distant agency's own policy is, and nobody in {{city}} had any say in it.\n\nI would like to know whether outside querying is possible under the present setup, and what recourse a resident has if a distant user misuses a record that started here.\n\nBecause I doubt either question has a comfortable answer, the course that makes sense to me is to stop generating the records. I hope you will support removing the readers near campus and approving no new ones.\n\nI am one student sending one letter, and I would be grateful for a reply telling me your position."
+  },
+  {
+    "id": "sharing-006",
+    "angle": "sharing",
+    "subject": "Hoping sharing terms end up in adopted law",
+    "body": "Dear {{officialName}},\n\nWhat a city can undo easily, it tends to change quietly. Sharing arrangements for plate reader data usually live in contracts and administrative settings rather than in adopted law, which means they can be widened without a public vote. That is the part that unsettles me.\n\nIf {{city}} intends to keep any of this equipment, I would like to see the list of who may search the data written into an ordinance, with a public process attached to every change. My preference is simpler than that. I would rather the readers placed around {{shortName}} came down and none went up, so there is no data to argue over.\n\nSpeaking only as a student here, would you support putting that question on an agenda, and would you say publicly whether you favor removal?"
+  },
+  {
+    "id": "sharing-007",
+    "angle": "sharing",
+    "subject": "Curious who reviews searches against the campus area readers",
+    "body": "Dear {{officialName}},\n\nEvery search of a plate database is made by a person with a reason, and the only way anyone outside the room learns what that reason was is through review. So I would like to know who performs that review for the system operating near {{school}}, and whether the reviewer sees searches started by outside users as well as local ones.\n\nIf outside queries are logged somewhere else, or logged by whoever ran them, then I struggle to see what {{city}} is actually overseeing. That is what concerns me, more than any particular search.\n\nI would rather the question did not need asking. I am a student here, and I hope you will support removing the readers around campus and installing none in future.\n\nCould you write back with your view on removal, even briefly?"
+  },
+  {
+    "id": "sharing-008",
+    "angle": "sharing",
+    "subject": "A worry about reciprocal access near campus",
+    "body": "Dear {{officialName}},\n\nMutual arrangements between agencies tend to start small and expand by default. One department gets access, and after a while nobody can produce a full list of who is searching what or on whose authority. I have seen that pattern described often enough to be wary of it here.\n\nBefore {{city}} goes further with plate readers, I would like to know whether any reciprocal access exists for the units near {{shortName}}, and whether it can widen without a vote. It would help if residents could read the governing terms themselves.\n\nMy own view, as a student at {{school}}, is that the equipment should go. I hope you will support taking the readers down and committing to no further installations near campus.\n\nWhat is your position, and could you point me to the governing document?"
+  },
+  {
+    "id": "sharing-009",
+    "angle": "sharing",
+    "subject": "Deletion promises and copies already gone elsewhere",
+    "body": "Dear {{officialName}},\n\nDeletion is easy to promise and hard to deliver once data has moved. If a record captured near {{school}} has been passed to another system, can {{city}} actually cause that copy to be erased, or only its own? I suspect the second, and that suspicion is what I keep turning over.\n\nEvery scan becomes a permanent thing the moment it is copied, which seems to me a reason for {{role}} to think harder about collecting them at all.\n\nI am a student here, without any standing beyond that, and I am asking you to support removal of the plate readers around campus and a commitment against new ones. Fewer records mean fewer copies nobody can recall.\n\nIf you see this differently, I would like to understand why. Thank you for your time."
+  },
+  {
+    "id": "sharing-010",
+    "angle": "sharing",
+    "subject": "Hoping an ordinance can close the sharing question",
+    "body": "Dear {{officialName}},\n\nAn ordinance is the only instrument here that a future administrator cannot quietly revise. Settings change and staff turn over, but adopted law needs a public vote to move, which is why I keep coming back to it.\n\nIf plate readers remain anywhere in {{city}}, I would like to see a clear bar on transferring their data to any outside party, with penalties behind it. Better still, I would like the readers now standing around {{shortName}} taken down and a rule adopted against installing more.\n\nThere are {{readersWithinMile}} of these devices within a mile of campus already. As a student who lives with that, I find it a lot of collection to leave governed by a contract nobody voted on.\n\nWould you sponsor or support such a measure? I would be glad of an answer either way."
+  },
+  {
+    "id": "sharing-011",
+    "angle": "sharing",
+    "subject": "What happens to records already sent if the contract ends",
+    "body": "Dear {{officialName}},\n\nSay {{city}} decides in a year or two that plate readers were a mistake and cancels the contract. Everything collected by then has already gone wherever the system sends it. Cancellation stops the flow, and I cannot see how it retrieves what left.\n\nSo I would like to know what the current agreement says about records already transferred at termination, and whether any outside holder is obliged to delete them. My fear is that nobody can answer, which would be its own kind of answer.\n\nThat is the strongest reason I have for acting now rather than later. I am a student at {{shortName}}, and I hope you will support taking the readers down around campus and approving no replacements.\n\nCould you tell me your position before any further step is taken?"
+  },
+  {
+    "id": "sharing-012",
+    "angle": "sharing",
+    "subject": "Students from out of state and where their scans go",
+    "body": "Dear {{officialName}},\n\nA large share of the people driving near {{school}} are not from {{state}} and will not stay after graduating. Their plates are read all the same, and whatever is done with those records follows them home. I am a student myself, so this is not an abstract worry for me.\n\nIt raises a question I would like answered publicly. Can agencies outside {{state}} search the data collected around campus, and does {{city}} learn when they do? Residents can at least write to their own officials. Someone querying from far away answers to nobody here.\n\nI hope you will support removing the readers near campus and adding none. Collecting less is the only control I can see that does not depend on somebody else's good behavior.\n\nPlease tell me where you stand."
+  },
+  {
+    "id": "sharing-013",
+    "angle": "sharing",
+    "subject": "Wondering who currently receives this plate data",
+    "body": "Dear {{officialName}},\n\nMy request is short. I would like the current list of entities able to receive or search plate reader data collected in {{city}}, with a note of who approved each addition.\n\nIf that list cannot be produced, the reason would tell me a great deal. Either it does not exist, which worries me on governance grounds, or it exists and is not being shared with the people whose vehicles are in the database.\n\nWhat troubles me underneath all of it is the collection itself. Around {{shortName}} there are {{readersWithinMile}} readers within a mile, and {{readersInState}} across {{state}}. As a student here, I am asking you to support taking down the ones near campus and approving no new installations.\n\nWould you answer the records question and tell me your position on removal?"
+  },
+  {
+    "id": "sharing-014",
+    "angle": "sharing",
+    "subject": "Software defaults may be deciding who sees our plates",
+    "body": "Dear {{officialName}},\n\nSoftware defaults are policy that nobody voted for. When a system arrives configured to share with other users of the same platform, sharing becomes the baseline and restraint becomes something a person has to remember to switch on. That strikes me as a strange way to settle a public question.\n\nI would like to know how the readers near {{school}} are configured today, and whether {{role}} has ever looked at that choice. Both answers seem to me to belong in public.\n\nA configuration can be changed back without anyone noticing, so I am not only asking for a settings audit. I would rather the readers around campus were removed and no more installed. That is a decision which stays decided.\n\nI am a student here, and I would be grateful for your view."
+  },
+  {
+    "id": "sharing-015",
+    "angle": "sharing",
+    "subject": "Does the company keep a copy of our scans",
+    "body": "Dear {{officialName}},\n\nPlate data is valuable to the company that collects it, not only to the agency paying for the cameras. That thought sits with me whenever the contract covering {{school}} comes up.\n\nCould you tell me whether the supplier keeps a copy of the scans, and whether it may use them for anything beyond delivering the service {{city}} bought? A yes to either would mean the city has been paying to build somebody else's asset, and I would find that hard to accept.\n\nMy preference is that the readers simply come down and none be added, which settles the ownership question without a negotiation. I am a student here and I know that is a large ask.\n\nWhat is your position, and would you ask for the contract terms in writing?"
+  },
+  {
+    "id": "sharing-016",
+    "angle": "sharing",
+    "subject": "Whether federal users can search records collected here",
+    "body": "Dear {{officialName}},\n\nData collected under local authority does not always stay under local authority. Whether that happens here is a factual question I cannot settle from outside, and it is one I would expect {{role}} to be able to answer for anyone who asks.\n\nCan federal users search the plate records generated around {{shortName}}? If so, through what process, and is a log of those searches available to the public? Where no such access exists, I would like to know whether the bar is written into the contract or is simply how things are done today.\n\nEither way my ask is the same. As a student at {{school}}, I hope you will support taking the readers down around campus and approving no new ones, so the answer does not turn on who holds office.\n\nA written reply would mean a lot."
+  },
+  {
+    "id": "sharing-017",
+    "angle": "sharing",
+    "subject": "Private operators drawing on publicly funded scans",
+    "body": "Dear {{officialName}},\n\nNot every operator of a plate reader is a government body. Property managers and private security firms run them too, and some platforms let public and private users draw on the same pool of scans. Whether that describes the equipment near {{school}}, I cannot tell, and being unable to tell is most of my concern.\n\nPublic money quietly stocking a database that private parties can search would bother me a great deal, and I think it would bother a lot of people here.\n\nThe way to be sure is to stop. I am a student at {{shortName}}, and I hope you will support removing the readers around campus and approving none in future.\n\nWhere do you come down on this? I would rather hear a disagreement than nothing."
+  },
+  {
+    "id": "sharing-018",
+    "angle": "sharing",
+    "subject": "A system residents cannot watch back",
+    "body": "Dear {{officialName}},\n\nHere is the test I apply to any surveillance system, and this one does not pass it easily. Can the person being watched find out about it afterward? For the plate readers around {{school}}, is there a way for a resident to ask for the record of searches run on their own vehicle, including searches by users outside {{city}}?\n\nMost people would guess no. If that guess is wrong, the process deserves to be much better publicized. If it is right, then residents are watched by something they have no means of watching back, and that is what unsettles me.\n\nI am a student here, and the response I am asking you to back is removal, together with a commitment to install no further readers near campus.\n\nWould you reply with your position?"
+  },
+  {
+    "id": "sharing-019",
+    "angle": "sharing",
+    "subject": "Cameras in many towns adding up to a travel history",
+    "body": "Dear {{officialName}},\n\nOne camera records a car passing a point. A network across {{state}} records where a car goes. The difference between those two things is sharing, and at the local level it seems to get the least attention of anything in this debate.\n\nWith {{readersInState}} readers statewide, the pooled picture is detailed even where each jurisdiction thinks of its own contribution as modest. {{city}} controls only its contribution, which is why withholding it looks to me like the responsible move.\n\nI am a student at {{shortName}}, and I am asking you to support removing the readers around campus and adding no new ones.\n\nWould you tell me how you expect to vote if this comes before you? I would rather know than guess."
+  },
+  {
+    "id": "sharing-020",
+    "angle": "sharing",
+    "subject": "Changes to the sharing list slipping past a vote",
+    "body": "Dear {{officialName}},\n\nDecisions that expand surveillance rarely arrive as decisions. They arrive as an administrative update, or a partner quietly added to a list. Nobody votes, and the public hears about it late or never. That pattern worries me more than any single camera does.\n\nIf the readers near {{school}} stay in place, I would want every addition to the list of who can search their output to require a public vote of {{role}}. My honest preference is that they not stay in place. I would like them removed, with no new installations approved near campus.\n\nCould you tell me whether such changes currently come before you, and where you stand on removal? I am a student here and would be glad of a plain answer."
+  },
+  {
+    "id": "sharing-021",
+    "angle": "sharing",
+    "subject": "Looking for any written agreement covering plate data access",
+    "body": "Dear {{officialName}},\n\nTake this as a question and a request together. I would like copies of any agreement or platform term that governs who may access plate reader data collected in {{city}}, and I would like to know which office holds them.\n\nIf no such document exists, that is the answer, and it is not one I would find comfortable. Access with no written basis is access nobody ever has to defend.\n\nOn the underlying policy, my view is that the readers near {{shortName}} should come down and none should replace them. {{readersWithinMile}} within a mile of one campus feels to me like more collection than this city needs. I am a student here, so that is one person's view rather than a poll.\n\nCould you confirm what documents exist and tell me your own position?"
+  },
+  {
+    "id": "sharing-022",
+    "angle": "sharing",
+    "subject": "What local control means once a record is copied",
+    "body": "Dear {{officialName}},\n\nThe phrase local control comes up often in these discussions, and I find myself wondering what it means once a record has been copied somewhere else. Control over a camera is not the same as control over a database.\n\nFor the readers around {{school}}, I would like to know whether {{city}} keeps the technical ability to revoke another party's access, or whether revocation only stops future queries and leaves earlier copies where they are.\n\nThat distinction seems to me to decide the whole question, and I do not expect the honest answer to be reassuring. I am a student at {{shortName}}, and I hope you will support removing the readers near campus and installing no new ones.\n\nA short written reply with your position would be welcome, and I would read a disagreement carefully."
+  },
+  {
+    "id": "sharing-023",
+    "angle": "sharing",
+    "subject": "Granting access is easy and withdrawing it is not",
+    "body": "Dear {{officialName}},\n\nGranting access is a single decision. Withdrawing it is an administrative project somebody has to want to finish. That asymmetry is why I think sharing arrangements end up permanent in practice even when they look temporary on paper.\n\nDoes {{city}} have a documented procedure for ending an outside party's access to plate data, and has it ever been used? Without a tested procedure, any assurance about limits stays theoretical, and theory is thin protection.\n\nI would rather this rested on something firmer. As a student at {{shortName}}, I am asking you to support the removal of the readers around campus and a commitment to add none.\n\nWould you tell me where you stand? If there is an argument for keeping them that I have not understood, I would like to hear it."
+  },
+  {
+    "id": "sharing-024",
+    "angle": "sharing",
+    "subject": "Every added partner is another place this could leak",
+    "body": "Dear {{officialName}},\n\nSecurity here is not only about how well {{city}} protects its own systems. Once plate records are shared, they are as safe as the least careful party holding them, and that party may be one nobody here has ever evaluated. That is the version of this that keeps my attention.\n\nSo how many outside holders are there, and does {{city}} require any security standard of them? I ask without assuming an answer, since as far as I can tell the information is not public.\n\nA database that does not exist cannot leak, which is the practical case I would make as a student at {{school}} for taking the readers near campus out of service and approving no new ones.\n\nCould you reply with your view on removal?"
+  },
+  {
+    "id": "sharing-025",
+    "angle": "sharing",
+    "subject": "Pooled scans still point at particular people",
+    "body": "Dear {{officialName}},\n\nWhen sharing gets defended, the word I usually hear is aggregate, as though pooling records across jurisdictions blurred them. My reading is that pooling does the opposite. A single sighting says little. A sequence of sightings from several towns describes somebody's week.\n\nWhat I would like to know is whether any data leaving {{city}} is stripped of anything at all, and who verifies that. A plate number is an identifier, so there is not much left to strip.\n\nThe cleaner course seems to me to be not feeding the pool. I am a student at {{shortName}} and I am asking you to support removing the readers around campus and approving no additional ones.\n\nPlease let me know your position, and tell me if you read the aggregation point differently."
+  },
+  {
+    "id": "sharing-026",
+    "angle": "sharing",
+    "subject": "Whether sharing was explained when this was approved",
+    "body": "Dear {{officialName}},\n\nProcurement discussions tend to settle on price and coverage. The question of who else ends up with the data gets less attention, and that imbalance is what I find myself thinking about.\n\nWhen the plate readers near {{school}} were authorized, was {{role}} told which outside parties would be able to search the records? If that briefing happened, I would like to read it. If it did not, then the approving body signed off without knowing one of the system's more important properties, which is a worrying thought either way.\n\nBoth possibilities point the same direction for me. I am a student here, and I hope you will support removal of the campus area readers and a bar on new ones.\n\nI would welcome a direct answer, however short."
+  },
+  {
+    "id": "sharing-027",
+    "angle": "sharing",
+    "subject": "Many of the people scanned here cannot vote here",
+    "body": "Dear {{officialName}},\n\nMuch of the traffic around {{school}} belongs to people who live in {{city}} for a few years at most. They are scanned like everyone else, and they have the least ability to raise questions about where those scans end up. I am a student, so I am describing my own position as much as anyone's.\n\nThat imbalance seems to me a reason for caution rather than a shrug. Could you tell me whether records from the campus area are made available to agencies outside this city, and whether anyone keeps track of how often that happens?\n\nMy ask holds whatever the answer is. I would like the readers taken down and none added.\n\nWould you state your position for the record? I would be grateful."
+  },
+  {
+    "id": "sharing-028",
+    "angle": "sharing",
+    "subject": "Records made here answering to rules made elsewhere",
+    "body": "Dear {{officialName}},\n\nA record made under the authority of {{city}} ought to stay answerable to {{city}}. Once it is copied into a system governed elsewhere, the rules that apply to it are rules nobody here debated. That bothers me more than the cameras themselves do.\n\nI would like to know whether the plate readers near {{school}} feed any system outside this jurisdiction, and if they do, which body reviewed the arrangement. A plain answer would help me more than a general assurance about safeguards.\n\nWhatever it turns out to be, fewer records still looks like the safer policy. As a student at {{shortName}}, I hope you will support removing the readers around campus and installing no further ones.\n\nCould you tell me your position on that?"
+  },
+  {
+    "id": "sharing-029",
+    "angle": "sharing",
+    "subject": "Questions I would like settled before any new readers",
+    "body": "Dear {{officialName}},\n\nBefore another reader goes up anywhere in {{city}}, a couple of things would ease my mind if they were on the public record. Which outside parties can search what is already collected, and can that list be widened by staff without a vote?\n\nNeither question needs a study or a consultant. Both should be answerable from documents the city already holds, and if they are not, I would count that as worth knowing in itself.\n\nI am not asking for a pause while answers are gathered. What I am asking, as a student at {{shortName}}, is that the readers near campus be removed and that no new ones be approved.\n\nWould you tell me whether you could support that? A short reply is plenty."
+  },
+  {
+    "id": "sharing-030",
+    "angle": "sharing",
+    "subject": "Wondering who audits the outside users of this system",
+    "body": "Dear {{officialName}},\n\nOversight of a plate reader system usually means someone inside the operating agency checking that its own staff behaved. Outside users fall outside that check by definition, since the local agency has no authority over them, and that gap is the thing I cannot talk myself out of worrying about.\n\nSo who audits the searches run by parties beyond {{city}}, and does any report on them come back to {{role}}? Without that loop, accountable use reads to me as an intention rather than a mechanism.\n\nI am a student at {{school}}, and I hope you will support taking the readers near campus out of service and approving no new installations.\n\nWhat is your view? If you think the loop exists, I would genuinely like to see it."
+  },
+  {
+    "id": "sharing-031",
+    "angle": "sharing",
+    "subject": "The clause about selling on what these cameras collect",
+    "body": "Dear {{officialName}},\n\nOne clause in a technology contract can matter more than the whole public argument around it. The clause I am asking about covers whether the company operating the readers near {{shortName}} may sell or otherwise transfer the scan records it holds.\n\nIf no such clause exists, the absence is what would worry me. Silence in a contract tends to be read in favor of whoever wrote it.\n\nI would rather {{city}} did not have to depend on contract interpretation at all. Speaking as a student here, I would like the readers around campus removed and none approved to replace them.\n\nCould you tell me whether you would support that, and whether the contract can be published? If you have read it and think I am worrying over nothing, that would be useful to hear too."
+  },
+  {
+    "id": "sharing-032",
+    "angle": "sharing",
+    "subject": "How far the data from these cameras actually travels",
+    "body": "Dear {{officialName}},\n\nA plate reader bought to help with local problems stops being a local tool the moment its output is searchable from elsewhere. The camera stays where it was installed. Its database does not, and that is the part I keep getting stuck on.\n\nHow far does the data from the units near {{school}} travel, and who decided that it should? I have looked and cannot find a public document that answers either half, which is why I am writing rather than reading.\n\nGiven that, removing the readers near campus and installing no more seems to me the responsible position. Collection nobody can explain is hard to justify continuing.\n\nI am a student here with no special standing, and I would appreciate hearing where you stand."
+  },
+  {
+    "id": "sharing-033",
+    "angle": "sharing",
+    "subject": "What worries me is the search with no judge involved",
+    "body": "Dear {{officialName}},\n\nWhen people picture surveillance data being used, they tend to picture a court order. My understanding is that the more common route is quieter. One agency queries another agency's system directly, with no judge involved and no notice to anyone.\n\nDoes that describe how outside users reach the plate readers around {{shortName}}, or is some legal process required each time? The answer would change how much weight I could give to assurances about proper use.\n\nRather than argue the details, I am asking you as a student at {{school}} to support removal of the campus area readers and a commitment against new ones.\n\nCould you write back with your position? If my understanding of the process is out of date, I would welcome the correction."
+  },
+  {
+    "id": "sharing-034",
+    "angle": "sharing",
+    "subject": "Hoping someone will ask the supplier a direct question",
+    "body": "Dear {{officialName}},\n\nI would like someone to put a direct question to the supplier and place the answer in the public file. What does the company do with the scan records collected in {{city}}, and does it hold any right to keep them after the contract lapses?\n\nStaff may say the data belongs to the city. My worry is that this is often true of the account and less often true of every copy, and the difference lives in language most of us never see.\n\nThere is a simpler way through it. I am a student at {{school}}, and I am asking you to support removing the readers near campus and approving no additional installations.\n\nWould you tell me where you stand, and whether you would ask the question?"
+  },
+  {
+    "id": "sharing-035",
+    "angle": "sharing",
+    "subject": "Access lists that get longer without anyone noticing",
+    "body": "Dear {{officialName}},\n\nAccess lists have a way of getting longer. Each addition looks small next to the last one, so none of them seems worth a public discussion, and none of them gets one. That slow drift is what concerns me here.\n\nFor the plate readers around {{shortName}}, is there a record of every party granted search access since the system began operating? I would rather see that history than a snapshot of today.\n\nThe alternative is to stop the growth at its source. As a student at {{school}}, I am asking you to back removal of the campus area readers and to decline any new ones.\n\nI would be glad to hear your position, and glad to hear the counterargument if you have one."
+  },
+  {
+    "id": "sharing-036",
+    "angle": "sharing",
+    "subject": "Is the list of agencies with access a public record",
+    "body": "Dear {{officialName}},\n\nIs the list of agencies able to query {{city}} plate data a public record? That question has a legal answer, and I would like to hear it from somebody with the standing to give one.\n\nMy expectation is that it ought to be public. I cannot see how residents are meant to evaluate a surveillance system whose users are unknown to them, and a secret user list leaves every published policy impossible to check.\n\nWhile you look into it, I hope you will consider the request underneath. I am a student at {{school}}, and I would like the readers near campus removed with no further ones approved.\n\nA written response with your position would mean a great deal to me."
+  },
+  {
+    "id": "sharing-037",
+    "angle": "sharing",
+    "subject": "Who holds accounts on the system near campus",
+    "body": "Dear {{officialName}},\n\nThere are {{readersWithinMile}} plate readers within a mile of {{shortName}}. Each feeds a database, and a database seems to me only as contained as its access list.\n\nSo who holds accounts on that system besides local staff? If the answer takes in agencies in other counties or other states, I think residents should be told plainly rather than left to guess, and the guessing is what I find corrosive.\n\nWhat I am asking is that the readers near campus be taken down and that none be installed in their place. That is a decision {{role}} can make without waiting for anybody else.\n\nI am a student here writing on my own behalf, and I would appreciate a reply with your view."
+  },
+  {
+    "id": "sharing-038",
+    "angle": "sharing",
+    "subject": "Joining a network means inheriting its weakest rules",
+    "body": "Dear {{officialName}},\n\nJoin any shared system and you inherit its weakest member. A careful policy in {{city}} does not constrain an agency elsewhere with a looser one, and the records that agency searches came from cameras this city paid for. That is the shape of my worry.\n\nCould you tell me what standards, if any, outside users must meet before they can search data collected here, and who checks?\n\nI suspect the honest answer to the second half is that nobody does. As a student at {{school}}, I am asking you to support removing the readers near campus and approving none in future.\n\nWhat is your position? If there is a checking mechanism I have missed, I would like to be pointed at it."
+  },
+  {
+    "id": "sharing-039",
+    "angle": "sharing",
+    "subject": "A written answer would settle this for me",
+    "body": "Dear {{officialName}},\n\nA written answer would settle this faster than another comment period. Does plate reader data collected in {{city}} leave {{city}}, and if so, on what authority?\n\nStaff have the documents. Producing them costs very little and would tell residents more than any general reassurance about responsible use. It bothers me that anyone has to guess at the reach of a system paid for out of the general fund.\n\nWhatever those documents say, my request stays the same. I am a student at {{school}}, and I would like the readers around campus removed and no new ones installed.\n\nCould you tell me whether you will ask for that answer, and whether you could support removal? I would be grateful either way."
+  },
+  {
+    "id": "sharing-040",
+    "angle": "sharing",
+    "subject": "Who gets the benefit of scans this city pays for",
+    "body": "Dear {{officialName}},\n\nResidents of {{city}} pay for these cameras. Others may be getting the benefit of them, and that possibility deserves an answer rather than a shrug, which is the response I have mostly found so far.\n\nWho else can search the records produced near {{shortName}}, and does {{city}} receive anything in return for supplying them? A one sided arrangement would strike me as a poor use of public money even for people who like the technology.\n\nMy own view is that the cameras should not be there at all. I am a student here, and I hope you will support taking them down around campus and approving no replacements.\n\nI would appreciate a reply stating your position, and I will read it whichever way it goes."
+  },
+  {
+    "id": "sharing-041",
+    "angle": "sharing",
+    "subject": "Sharing promises residents have no way to enforce",
+    "body": "Dear {{officialName}},\n\nPolicies about data sharing are promises, and I cannot see how a resident would enforce a promise made in an internal document. Nobody gets notice when a record moves, so nobody is ever in a position to object.\n\nGiven that, I would like to know which limits on transferring plate data actually bind {{city}} and its partners, as opposed to describing good intentions. If the answer is none, I would rather be told plainly than reassured.\n\nThe protection I trust here is not collecting. As a student at {{school}}, I am asking you to support removing the readers near campus and adding none.\n\nWhere do you stand? If you believe some of these limits are genuinely enforceable, I would like to know which."
+  },
+  {
+    "id": "sharing-042",
+    "angle": "sharing",
+    "subject": "A camera here answering a search far away",
+    "body": "Dear {{officialName}},\n\nPicture a camera mounted here answering a query typed somewhere far away. Whether that happens with the readers near {{shortName}} is something I cannot work out from public sources, and being unable to work it out is a good part of what troubles me.\n\nResidents should not have to reverse engineer the reach of a system their taxes funded. I would like the access arrangements published, or an explanation of why they cannot be.\n\nBetter still, I would like the collection to end. I am a student at {{school}}, and I am asking you to support removal of the campus area readers and a commitment to install no more.\n\nWould you reply with your position on that?"
+  },
+  {
+    "id": "sharing-043",
+    "angle": "sharing",
+    "subject": "Hoping you will bring a sharing rule forward",
+    "body": "Dear {{officialName}},\n\nThere is a version of this that {{role}} could settle in one sitting. Adopt a rule that plate reader data collected in {{city}} may not be transferred to any outside party, remove the readers standing near {{school}}, and approve no new ones, so the rule has little left to govern.\n\nMy worry about half measures is that they rarely survive staff turnover. A prohibition in adopted law does, because changing it takes a public vote and a public explanation.\n\nWould you sponsor that, or vote for it if somebody else brings it forward? I am a student here, writing for myself, and I would like to know your position before the question comes up rather than after.\n\nThank you for giving a letter from one constituent a few minutes of your time."
+  },
+  {
+    "id": "sharing-044",
+    "angle": "sharing",
+    "subject": "Deletion policies assume the city still holds the record",
+    "body": "Dear {{officialName}},\n\nDeletion policies assume possession. If a scan collected near {{shortName}} has already been copied into another system, {{city}} can delete its own record and change nothing about the copy. That gap between the promise and the effect is what I find hard to sit with.\n\nSo the practical question is whether copies leave at all, and whether anyone here would know if they did. I would like the answer in writing from whoever administers the contract, since a verbal assurance at a meeting will not survive the next staff change.\n\nCollection looks to me like the only stage where control is real. I am a student at {{school}}, and I hope you will support removing the readers around campus and approving no new ones.\n\nWould you tell me your position?"
+  },
+  {
+    "id": "sharing-045",
+    "angle": "sharing",
+    "subject": "Terms of service doing the work of public policy",
+    "body": "Dear {{officialName}},\n\nThe terms of service for a surveillance platform can work as public policy without ever being adopted as public policy. They set what the vendor may do with records and what other users may see, and they can be revised without a vote here. That arrangement unsettles me.\n\nHas {{role}} reviewed those terms for the system operating near {{school}}? If not, then on this point the city is governed by a document nobody here wrote.\n\nWhat I am asking for makes the terms beside the point. I am a student at {{shortName}}, and I would like the readers around campus removed and none installed in future.\n\nPlease tell me whether you agree, or where you think I have this wrong."
+  },
+  {
+    "id": "sharing-046",
+    "angle": "sharing",
+    "subject": "Local limits that become advice once data moves",
+    "body": "Dear {{officialName}},\n\nEvery limit {{city}} places on plate data starts to look advisory to me the moment a copy sits on a server governed by somebody else. Local rules do not travel with the record.\n\nThat is the heart of what worries me, and it does not rest on any particular claim about where the data goes. It rests only on whether the possibility exists, and on whether anyone here can say with confidence that it does not.\n\nIf nobody can say with confidence, then I would like the readers near {{shortName}} removed and no new ones approved. I am a student at {{school}} and I understand that is a bigger step than a policy tweak.\n\nI would like a reply telling me how you see it."
+  },
+  {
+    "id": "sharing-047",
+    "angle": "sharing",
+    "subject": "Nobody here voted on another county's rules",
+    "body": "Dear {{officialName}},\n\nNo one in {{city}} voted on the surveillance policies of other jurisdictions. Yet if data collected here is searchable there, those policies carry real consequences for people who live and study around {{school}}, and their recourse would run through officials they never had a chance to elect.\n\nHow does {{role}} satisfy itself that outside use meets any standard at all? Or is that simply not tracked? I suspect the second, though I would be glad to be wrong.\n\nI am a student here, and I hope you will support removing the readers near campus and approving none in future, which keeps the question from arising.\n\nCould you state your position in reply?"
+  },
+  {
+    "id": "sharing-048",
+    "angle": "sharing",
+    "subject": "Where the query logs live and who can reach them",
+    "body": "Dear {{officialName}},\n\nWhen an outside user runs a search, something happens on the vendor's side that residents never see. The query is logged somewhere and a result is returned somewhere, and both records may sit outside {{city}} custody.\n\nCould you tell me who holds the query logs for the readers near {{shortName}}, and whether {{city}} can obtain them when it wants to? An oversight regime that depends on asking a company politely is not one I can put much faith in.\n\nRemoval avoids all of it. I am a student at {{school}}, and I am asking you to support taking the campus area readers down and approving no new ones.\n\nPlease reply with your position. Thank you for giving this a few minutes."
+  },
+  {
+    "id": "sharing-049",
+    "angle": "sharing",
+    "subject": "Two narrow questions about data leaving the city",
+    "body": "Dear {{officialName}},\n\nTwo questions, both narrow. First, can plate data collected in {{city}} be searched by users outside this jurisdiction? Second, if it can, does any local body get a periodic account of those searches?\n\nI have looked for public answers and not found them. That absence is part of why I am writing, since a system this consequential ought to be documented somewhere a resident can reach.\n\nWhat I am asking of you, as a student at {{school}}, is support for removing the readers near campus and installing no additional ones.\n\nWould you answer the two questions and tell me your position? I would be grateful for even a brief reply."
+  },
+  {
+    "id": "sharing-050",
+    "angle": "sharing",
+    "subject": "Oversight that stops at the city line",
+    "body": "Dear {{officialName}},\n\nOversight that stops at the city line does not feel to me like oversight of this system. The cameras occupy fixed locations. Their database does not, and its users may be anywhere the platform reaches.\n\nWhat mechanism, if any, lets {{city}} see how its plate data is used once another party has access? If none exists, then residents are being asked to trust a process with no visible end, and I do not think that is a fair thing to ask.\n\nI am a student at {{shortName}}, and I hope you will support removal of the readers around campus and a commitment against new installations.\n\nA short reply with your view would be welcome."
+  },
+  {
+    "id": "sharing-051",
+    "angle": "sharing",
+    "subject": "Several retention clocks and only one of them ours",
+    "body": "Dear {{officialName}},\n\nRetention gets discussed as though there were one clock. There may be several, one for each party holding a copy, and the ones outside {{city}} are set by people who do not answer to residents here. That is the piece I find myself worrying about.\n\nFor the readers near {{school}}, does any outside holder work to a longer retention period than the city's own? If nobody has checked, I would like that checked before the next contract decision rather than after it.\n\nMy request is simple enough. I am a student at {{shortName}}, and I would like the readers around campus removed and no new ones approved, so there is nothing left to retain anywhere.\n\nPlease tell me where you stand."
+  },
+  {
+    "id": "sharing-052",
+    "angle": "sharing",
+    "subject": "A question about who else holds copies",
+    "body": "Dear {{officialName}},\n\nEvery time a plate is read near {{shortName}}, a record is created that will outlast the moment by a long way. Where that record goes next is the question I cannot answer and you can, which is why this letter is addressed to you.\n\nWho holds copies of the scans collected around campus besides the operating agency? A list, even a short one, would tell me more than a page of policy language.\n\nIf the list turns out to be long or unknown, that only strengthens the request I am making anyway. As a student here, I would like the readers near campus removed and none installed in future.\n\nWould you reply with your position?"
+  },
+  {
+    "id": "sharing-053",
+    "angle": "sharing",
+    "subject": "Asking you to gather the sharing paperwork",
+    "body": "Dear {{officialName}},\n\nA request rather than an argument this time. Would you ask staff to produce, in writing and for the public file, every arrangement that lets a party outside {{city}} reach plate reader data collected here?\n\nMy guess is that this will be harder to assemble than anyone expects, because such permissions accumulate across contracts and platform settings rather than sitting in one document. If that guess is right, the difficulty seems to me a reason for concern rather than a reason to drop it.\n\nIt is also why I am asking for something more than paperwork. I am a student at {{school}}, and I would like the readers near campus removed and no additional ones approved.\n\nCould you let me know whether you will make that request, and how you view removal?"
+  },
+  {
+    "id": "sharing-054",
+    "angle": "sharing",
+    "subject": "Search access as the decision nobody debates",
+    "body": "Dear {{officialName}},\n\nMounting locations get the public discussion. Search access gets settled quietly and is rarely revisited, even though it decides how far the system actually reaches. The imbalance there is what prompted me to write.\n\nFor the equipment near {{shortName}}, who holds search accounts, and what body approved each of them? A camera on a pole is something residents can judge for themselves. An access list has to be published before anyone can judge it.\n\nI am a student at {{school}}, and I am asking you to support removing the readers around campus and approving none in future. That decision needs no cooperation from any outside party and no trust in a policy written elsewhere.\n\nWhat is your position?"
+  },
+  {
+    "id": "sharing-055",
+    "angle": "sharing",
+    "subject": "Would anyone ever be told their record moved",
+    "body": "Dear {{officialName}},\n\nIf a record of my vehicle is handed to another agency, will I ever know? I think the realistic answer is no, and that shapes what any of us could do about misuse.\n\nNotice is standard in other parts of public administration. Something similar for plate data would at least let people see the system working, though the simpler course is not to generate the records at all.\n\nI am a student at {{school}}, and I hope you will support removing the readers near campus and adding none. Failing that, I would like to know whether any notice requirement exists today.\n\nI would appreciate a reply stating your view, and I will take a disagreement seriously if you have one."
+  },
+  {
+    "id": "sharing-056",
+    "angle": "sharing",
+    "subject": "A commercial party sitting between the city and its records",
+    "body": "Dear {{officialName}},\n\nA private company operates the software behind most plate reader deployments, which puts a commercial party between {{city}} and its own records. Access controls and query logs run through that party rather than through the city.\n\nSo when residents ask who can search the data collected near {{shortName}}, the honest answer may be that the city would have to ask its supplier. That strikes me as a strange position for a public body to be in, and it is the part I would most like explained.\n\nI am a student at {{school}}, and I am asking you to support removal of the campus area readers and a commitment to install no more.\n\nCould you tell me your position? Thank you for reading."
+  },
+  {
+    "id": "sharing-057",
+    "angle": "sharing",
+    "subject": "Trying to find out who can pull up these scans",
+    "body": "Dear {{officialName}},\n\nHere is what I have not been able to determine as a student at {{school}}. Which people, in which organizations, can pull up the scans taken near campus? The information is not published anywhere I have managed to find.\n\nYou are in a position to get that answer and to make it public, and I hope you will do both, including whether the list can be widened without a vote.\n\nMeanwhile my request stands. I would like the readers near campus taken down, with no new installations approved.\n\nPlease reply and let me know where you land. If you think the current arrangements are sound, I would rather hear that than hear nothing at all."
+  },
+  {
+    "id": "sharing-058",
+    "angle": "sharing",
+    "subject": "The contract is doing the work of a policy",
+    "body": "Dear {{officialName}},\n\nUntil {{role}} adopts something binding, the contract is the policy. Whatever it permits about copying and sharing plate records is what will actually happen, whatever is said at a meeting. Meetings produce assurances. Contracts produce obligations that outlast them, and that difference is what I keep returning to.\n\nI would like to know what the current contract permits on that point for the readers near {{shortName}}, and whether {{role}} has read it. Those are separate questions and I think both deserve an answer.\n\nWhat I would prefer is that the readers come down and none replace them. I am a student here and that is my honest position.\n\nWould you tell me yours?"
+  },
+  {
+    "id": "sharing-059",
+    "angle": "sharing",
+    "subject": "A data policy this city never wrote down",
+    "body": "Dear {{officialName}},\n\nCities of this size rarely think of themselves as having a data policy, yet every jurisdiction running plate readers has one whether it was written down or not. Ours seems to consist of whatever the contract and the platform settings happen to say, and residents have seen neither.\n\nBefore anything else, I would like those documents made public for the system near {{school}}. After that, the question of who can search the records could at least be argued with facts in hand.\n\nMy own position, as a student at {{shortName}}, is that the readers should be removed and none installed in their place.\n\nPlease tell me whether you agree, and if you do not, what you think I am missing."
+  },
+  {
+    "id": "sharing-060",
+    "angle": "sharing",
+    "subject": "Contracts can be cancelled and copies cannot",
+    "body": "Dear {{officialName}},\n\nContracts can be cancelled. Copies cannot, and that single fact seems to me the one that should govern how {{city}} thinks about plate reader data.\n\nIf scans collected near {{shortName}} have been transferred anywhere, no future decision by {{role}} reaches them. Only the decision to stop collecting has any effect on what happens next, which is why I am writing about collection rather than about safeguards.\n\nSo I am asking you to support removing the readers around campus and approving no new ones. Anything short of that leaves the question of outside access open, and I do not see how it could ever be closed later.\n\nI am one student with one letter. Would you reply with your position?"
+  },
+  {
+    "id": "sharing-061",
+    "angle": "sharing",
+    "subject": "Interoperability sounds neutral and worries me anyway",
+    "body": "Dear {{officialName}},\n\nInteroperability is a word that sounds like efficiency and works like expansion. Systems that talk to each other pool their data, and pooled data can be searched by everyone in the pool.\n\nWhether the readers near {{school}} take part in anything like that is not something I can verify from outside. I would like {{role}} to say plainly whether they do, and to publish the terms if so. Even a one line answer would give me somewhere to start.\n\nEither way the ask is the same. As a student at {{shortName}}, I would like the readers around campus removed and no more installed.\n\nPlease let me know your position. If the pooling concern is overstated, I would rather hear the reasons than assume the worst."
+  },
+  {
+    "id": "sharing-062",
+    "angle": "sharing",
+    "subject": "Very little published about outside access to these records",
+    "body": "Dear {{officialName}},\n\nOn the question of outside access to plate records, residents have been given very little. I can find no published list of users and no public log of searches, and I have looked in the places a person would think to look.\n\nThat gap concerns me more than the technical details of the cameras. A system whose users are unknown cannot really be evaluated by the people it watches.\n\nI am a student at {{school}}, and I am asking you to support removing the readers near campus and approving no new ones, and to publish whatever access documentation exists in the meantime.\n\nWould you tell me where you stand? A short answer would be plenty."
+  },
+  {
+    "id": "sharing-063",
+    "angle": "sharing",
+    "subject": "Hoping you will vote against any wider sharing",
+    "body": "Dear {{officialName}},\n\nIf a proposal comes forward to connect {{city}} plate data to a wider system, I hope you will vote against it. My better hope is that the question becomes moot.\n\nI would like the readers standing near {{school}} removed and no new ones approved. A city that collects nothing has nothing to share, and residents would not have to take anybody's word about safeguards.\n\nThere are already {{readersWithinMile}} of these devices within a mile of campus. As a student here, I find that a substantial feed into whatever system holds it.\n\nCould you tell me how you would vote? I would rather know your thinking now than read about it afterward."
+  },
+  {
+    "id": "sharing-064",
+    "angle": "sharing",
+    "subject": "Camera counts are easy and search records are not",
+    "body": "Dear {{officialName}},\n\nCamera counts are easy to establish. Search records are not, and those are the thing that would actually show how this system is used and by whom.\n\nCan a member of the public obtain a summary of queries run against the readers near {{shortName}}, broken out by the organization that ran them? If the answer is no, then oversight here rests on faith, and I would rather it rested on something else.\n\nI am a student at {{school}}, and I am asking you to support removal of the campus area readers and a bar on new installations.\n\nPlease reply with your position. If a summary like that already exists somewhere, I would be glad to be pointed toward it."
+  },
+  {
+    "id": "sharing-065",
+    "angle": "sharing",
+    "subject": "How far search access for these cameras reaches",
+    "body": "Dear {{officialName}},\n\nThe camera is local. Its audience may not be, and that gap is the piece of this debate I have never seen settled at a public meeting.\n\nFor the readers near {{school}}, I would like to know the geographic reach of search access. Does it stop at the department, or does it run to agencies in other counties and other states? I think residents are entitled to know how far a record of their car can travel.\n\nWhat I am asking for is removal of the readers near campus with no new ones approved. Distance is exactly what makes a shared database useful to its users and hard for anyone here to supervise.\n\nI am a student at {{shortName}}. Would you state your view in reply?"
+  },
+  {
+    "id": "sharing-066",
+    "angle": "sharing",
+    "subject": "Looking for the document that governs data access",
+    "body": "Dear {{officialName}},\n\nCould you point me to the document that governs who may access plate reader data collected in {{city}}? A policy summary would not settle it for me. The operative agreement is what determines what actually happens.\n\nIf several documents apply, I would like all of them, including any platform terms the city accepted when the system was set up. Those terms are rarely negotiated and rarely read, which is part of why they worry me.\n\nSeparately, and to me more importantly, I am asking as a student at {{shortName}} that you support removing the readers near campus and approving no additional units.\n\nCould you reply with your position on both? Thank you for the time."
+  },
+  {
+    "id": "sharing-067",
+    "angle": "sharing",
+    "subject": "A hearing on sharing defaults would help me",
+    "body": "Dear {{officialName}},\n\nThe settings that determine who sees {{city}} plate data were configured by someone, at some point, without a hearing. I gather that is true of nearly every deployment, and it is why sharing questions only surface after the equipment is up.\n\nA hearing now would still be worth holding, and I hope you would call for one. Better yet, {{role}} could remove the readers near {{school}} and approve no new ones, which settles the configuration question for good rather than for one budget cycle.\n\nI am a student here and I know which of those is the larger ask. I would like to know whether you would support scheduling that discussion, and how you would vote on removal."
+  },
+  {
+    "id": "sharing-068",
+    "angle": "sharing",
+    "subject": "Where the scans go after they are taken",
+    "body": "Dear {{officialName}},\n\nWhere do the scans go? That is the whole of my question, and I have not been able to answer it from any public source covering the readers near {{shortName}}.\n\nA plate record has a path that runs from the camera to a server and then to whoever holds an account on the system. Residents can see the first step and nothing after it, and I find the missing part harder to live with than the camera itself.\n\nUntil that path is public, assurances about privacy do not carry far with me. I am a student at {{school}}, and I am asking you to support taking the readers down around campus and approving no new ones.\n\nPlease tell me your position."
+  },
+  {
+    "id": "sharing-069",
+    "angle": "sharing",
+    "subject": "Local law reaching only the local half of this",
+    "body": "Dear {{officialName}},\n\nLocal law reaches local actors. That is a plain limit, and it is why I do not think a sharing question can be answered with a local policy.\n\nIf plate data gathered around {{school}} can be searched from outside {{state}}, then the protections {{role}} adopts govern the collection and not the use. Residents would be left holding a rule that binds the wrong party, which is the outcome I would most like to avoid.\n\nThe way to make local law sufficient is to keep the data local, and the surest version of that is not collecting it. I am a student at {{shortName}}, and I hope you will support removing the campus area readers and installing none in future.\n\nWould you reply with your view?"
+  },
+  {
+    "id": "sharing-070",
+    "angle": "sharing",
+    "subject": "One question I would like put to the vendor",
+    "body": "Dear {{officialName}},\n\nOne question, and it is really for the supplier rather than for staff. Does the company keep any right to the plate records collected in {{city}} once they leave the local system, including a right to use them internally?\n\nThe answer belongs in the public file, because it decides whether {{city}} is a customer or a source. Those are different relationships with different obligations, and I would rather not guess which one this is.\n\nMy request stays the same regardless. As a student at {{shortName}}, I would like the readers near campus removed and none added.\n\nPlease tell me whether you would ask the question, and where you stand on removal."
+  },
+  {
+    "id": "sharing-071",
+    "angle": "sharing",
+    "subject": "I would like the user list published",
+    "body": "Dear {{officialName}},\n\nEverything else about this debate would get easier if residents could see who holds search access to the plate data collected in {{city}}. I have not found an argument for keeping that list private that is not also an argument against the public evaluating the system at all.\n\nFor the readers near {{school}}, I would also like to know who has authority to add a user. Staff, or {{role}}? I think residents ought to be told which, and told before the next addition rather than after.\n\nUnderneath that, my request is removal of those readers with no new ones approved. I am a student here, writing only for myself.\n\nCould you reply with your position?"
+  },
+  {
+    "id": "sharing-072",
+    "angle": "sharing",
+    "subject": "Cross jurisdiction searches and the readers near campus",
+    "body": "Dear {{officialName}},\n\nCross jurisdiction querying is the feature that makes these systems attractive to the agencies buying them, and it is the one residents seem to hear least about. Whether searches from outside {{city}} are possible against the readers near {{shortName}}, and whether anyone locally would see them, are questions I cannot answer from public sources.\n\nYou can, and I hope you will get those answers and share them. Vendor marketing is not something I would want the city to rely on in place of a document it can stand behind.\n\nI am a student at {{school}}, and I am also asking you to support removing the readers around campus while approving none in future.\n\nA reply with your position would be appreciated."
+  },
+  {
+    "id": "sharing-073",
+    "angle": "sharing",
+    "subject": "Who a resident would complain to about a distant search",
+    "body": "Dear {{officialName}},\n\nWhen a search goes wrong, somebody has to answer for it. A query run by a local officer leaves a chain of responsibility a resident can follow. Run the same query from a distant agency and I lose the thread entirely.\n\nWho would a resident of {{city}} take that complaint to? I do not know, and I doubt the answer is written down. A complaint nobody can act on is much the same as no complaint process at all, which is what worries me.\n\nI am a student at {{school}}, and I hope you will support removing the readers near campus and approving no new ones.\n\nI would welcome your position in reply, whatever it is."
+  },
+  {
+    "id": "sharing-074",
+    "angle": "sharing",
+    "subject": "Trust in this system and the boundary nobody has drawn",
+    "body": "Dear {{officialName}},\n\nTrust in a public system depends on knowing its boundaries. With plate readers the boundary that matters is the set of people who can search the records, and around {{shortName}} that set has never been described publicly as far as I can tell.\n\nI would like it described. Failing that, I would like the readers removed and no new ones installed, which is my preference in any case.\n\nThere are {{readersWithinMile}} within a mile of campus, enough to establish patterns about anyone who drives there regularly. Whoever can query them holds that, and as a student I would rather know who they are.\n\nWhat is your position?"
+  },
+  {
+    "id": "sharing-075",
+    "angle": "sharing",
+    "subject": "Each new reader is another feed going somewhere",
+    "body": "Dear {{officialName}},\n\nAdding a reader adds a feed, and a feed goes wherever the system it belongs to sends it. That is the part of an expansion decision I never see discussed when the conversation is about coverage. Coverage maps are easy to picture. Reach is not.\n\nBefore {{role}} approves anything further near {{school}}, I think residents should be told which outside parties can search the existing data. My own request goes further than that. I would like the readers already in place around campus removed and none approved to follow.\n\nI am a student here and this is one letter, not a campaign. Would you tell me how you expect to vote?"
+  },
+  {
+    "id": "sharing-076",
+    "angle": "sharing",
+    "subject": "The schedules of the contract nobody reads aloud",
+    "body": "Dear {{officialName}},\n\nThe interesting part of a technology contract is rarely read aloud at a meeting. Data ownership and outside access sit in the schedules, and they outlast whatever assurances get offered in public.\n\nI would like those schedules published for the plate reader system operating near {{shortName}}. If they contain nothing troubling, publication costs the city nothing. If publication is not possible, I would like to understand the reason, because in the absence of one people will assume the worst.\n\nMy request stands either way. I am a student at {{school}}, and I would like the readers near campus taken out of service and no new ones approved.\n\nPlease reply with your position."
+  },
+  {
+    "id": "sharing-077",
+    "angle": "sharing",
+    "subject": "Scans crossing a state line and the rules left behind",
+    "body": "Dear {{officialName}},\n\nA scan that crosses a state line is governed by the law of wherever it lands. {{state}} rules do not follow it, and neither do any conditions {{role}} attaches locally. That mismatch is the thing I would most like cleared up.\n\nCan data from the readers near {{school}} be searched by agencies outside {{state}}? It is a yes or no question, and I would rather have the yes or no than a description of safeguards.\n\nMy request is that the readers be removed and that none be installed to replace them. I am a student here, so I am asking rather than telling.\n\nCould you answer the question and state your position?"
+  },
+  {
+    "id": "sharing-078",
+    "angle": "sharing",
+    "subject": "An access question I would ask before any new readers",
+    "body": "Dear {{officialName}},\n\nAny new installation ought to wait behind an answer to one question. Who can search what the existing readers have already collected? Coverage decisions seem to get made long before access decisions get explained, and that order strikes me as backwards.\n\nAround {{shortName}} there are already {{readersWithinMile}} readers within a mile. Statewide the count is {{readersInState}}. Those records exist and somebody can search them, and residents have not been told who.\n\nI am a student at {{school}}, and I am asking you to support removing the campus area readers and approving no new ones rather than adding to what is there. A system nobody can fully describe is not one I would want to see growing.\n\nI would like to hear your position."
+  },
+  {
+    "id": "sharing-079",
+    "angle": "sharing",
+    "subject": "Public money behind a database we have not seen",
+    "body": "Dear {{officialName}},\n\nPublic funds bought the cameras. A private company runs the software behind them, and other parties may hold accounts on it. Residents of {{city}} paid for something whose full user list they have never seen, and the more I think about that the less comfortable I am with it.\n\nI would like that list, and I would like to know whether the vendor holds any independent right to the records. Both questions have documentary answers.\n\nRather than resolve them one at a time, {{role}} could remove the readers near {{school}} and approve no further ones. That would end the whole line of inquiry, and it is what I am asking for as a student here.\n\nWould you support it? A short answer is fine."
+  },
+  {
+    "id": "sharing-080",
+    "angle": "sharing",
+    "subject": "Would the city even know about an outside search",
+    "body": "Dear {{officialName}},\n\nHas anyone outside {{city}} queried the plate readers around {{school}}, and would the city know? The two questions travel together, because a system that cannot answer the second cannot honestly answer the first.\n\nI am not alleging misconduct by anyone. My concern is narrower than that. It is whether the visibility exists at all, since without it every assurance rests on something nobody can check.\n\nI am a student here, and I hope you will support removing the readers near campus and installing no more. That is the only step I can see which needs nobody else's cooperation, and it does not depend on a log that only the operating agency reads.\n\nWould you tell me your position?"
+  },
+  {
+    "id": "sharing-081",
+    "angle": "sharing",
+    "subject": "A checkbox should not carry the weight of law",
+    "body": "Dear {{officialName}},\n\nA checkbox in a vendor console should not be able to do what an ordinance does. Yet the reach of a plate reader system often gets set exactly that way, by configuration rather than by law, and that is what I find worrying.\n\nFor the equipment near {{shortName}}, I would like to know whether any outside access can be switched on without action by {{role}}. If it can, then the body accountable to voters is not the body making the decision.\n\nMy request is removal of those readers and a commitment to install none. I am a student at {{school}} and I recognize that is more than a procedural fix.\n\nPlease let me know where you stand."
+  },
+  {
+    "id": "sharing-082",
+    "angle": "sharing",
+    "subject": "What becomes of our data if the vendor changes hands",
+    "body": "Dear {{officialName}},\n\nCompanies change hands, and their data assets change hands with them. What happens to plate records collected in {{city}} if the supplier is acquired or its platform is sold?\n\nThe contract may address that or it may not. Either way I think residents should be told, because a corporate transaction elsewhere ought not to quietly transfer a database built from public streets here. That prospect is the one I keep coming back to.\n\nI am a student at {{school}}, and I am asking you to support removing the readers near campus and approving no new ones. It is the only version of this that does not depend on somebody else's business decisions.\n\nCould you reply with your position?"
+  },
+  {
+    "id": "sharing-083",
+    "angle": "sharing",
+    "subject": "A local scan turning up in a distant case file",
+    "body": "Dear {{officialName}},\n\nA scan taken near {{shortName}} may end up as one line in an investigation run somewhere else, by people who have never been to {{city}} and answer to nobody here. Whether that is happening, I genuinely do not know.\n\nWhat I would like is for {{role}} to be able to say. If the city cannot describe the uses of its own data, then I struggle to see in what sense it controls that data.\n\nThe step I am asking for is removal of the campus area readers with no new ones approved. I am a student here and this is my own view rather than anyone's official position.\n\nPlease tell me yours."
+  },
+  {
+    "id": "sharing-084",
+    "angle": "sharing",
+    "subject": "Publishing the access list before the next vote",
+    "body": "Dear {{officialName}},\n\nBefore the next vote touching this program, I would like residents to have the access list in hand. Publishing who can search {{city}} plate data would take very little staff time and would change the quality of the discussion a good deal.\n\nMy own position does not turn on what the list says. I would like the readers near {{school}} taken down and none installed in their place, because the list can be changed after any vote {{role}} takes, and that is the part I cannot get past.\n\nI am a student here. Would you ask for the list, and would you say publicly how you would vote?"
+  },
+  {
+    "id": "sharing-085",
+    "angle": "sharing",
+    "subject": "State lines mean a lot legally and nothing technically",
+    "body": "Dear {{officialName}},\n\nState lines mean a great deal legally and nothing technically. A record can be queried from anywhere the platform reaches, while the rules protecting it stop at the border of whoever wrote them.\n\nDoes {{city}} know whether its plate data is reachable from outside {{state}}? If the answer is that staff would have to ask the vendor, I think that tells residents most of what they need to know, and it is not reassuring.\n\nI am a student at {{shortName}}, and I am asking you to support removing the readers around campus and approving no additional ones.\n\nA reply with your position would be welcome, including one that tells me why you see it differently."
+  },
+  {
+    "id": "sharing-086",
+    "angle": "sharing",
+    "subject": "The business model behind the cameras worries me",
+    "body": "Dear {{officialName}},\n\nThe business model behind these systems deserves a question of its own. Cities pay for the cameras while the company holds the resulting database, and its value grows with every jurisdiction that joins.\n\nWhat rights does the supplier have over the scans collected near {{school}}, and does the city get anything if those records help the company's other customers? I would like to read the contract language rather than a characterization of it.\n\nMy request is that the readers be removed and none installed in future. I am a student here, and I am aware I am asking you to undo something already paid for.\n\nPlease tell me whether you agree, and how you would vote."
+  },
+  {
+    "id": "sharing-087",
+    "angle": "sharing",
+    "subject": "What could be done about a misuse in another county",
+    "body": "Dear {{officialName}},\n\nNothing {{role}} adopts binds an officer in another county searching the same database. That limit applies to any local body, however careful, once records leave its own system.\n\nSo I would like to know whether records from the readers near {{shortName}} are reachable from outside {{city}}, and what the city could actually do about a misuse if they were. I expect the honest answer to the second half is very little, and I would rather be told that than reassured.\n\nThe practical answer as I see it is to stop collecting. I am a student at {{school}}, and I hope you will support removing those readers and approving no new ones.\n\nWould you state your position?"
+  },
+  {
+    "id": "sharing-088",
+    "angle": "sharing",
+    "subject": "Access is the part of this I cannot settle",
+    "body": "Dear {{officialName}},\n\nMost of the public argument about plate readers is about accuracy and crime, and it seems to me to miss the part that better policy cannot fix. Once a record exists, who sees it is decided by systems and contracts rather than by residents.\n\nFor the readers near {{school}}, I hope you will treat access as the central question and publish what the city knows about it. Residents could then judge the earlier decisions that put the equipment there.\n\nWhat I am asking for is removal, with no new installations approved anywhere near campus. I am a student here and that is the whole of my standing.\n\nCould you tell me your position?"
+  },
+  {
+    "id": "sharing-089",
+    "angle": "sharing",
+    "subject": "Cameras close by and searches nobody here sees",
+    "body": "Dear {{officialName}},\n\nCameras sit near campus. Searches may happen far from it, and the distance between those two facts is where I think accountability tends to disappear.\n\nI would like {{role}} to establish and publish whether any party outside {{city}} can query the plate records collected around {{shortName}}. Residents should not have to infer that from vendor marketing. A published answer would also let people judge the decisions that put the equipment there in the first place.\n\nWhatever the answer is, I hope you will support removing the readers near campus and approving none in future. I am a student here, writing on my own behalf.\n\nWould you reply with your view?"
+  },
+  {
+    "id": "sharing-090",
+    "angle": "sharing",
+    "subject": "An audit trail that only the agency can read",
+    "body": "Dear {{officialName}},\n\nAn audit trail nobody outside the agency can read is a private log with a public name. For plate reader systems, that distinction decides for me whether the oversight is real or decorative.\n\nCan residents of {{city}} see any accounting of who has searched the data from the readers near {{school}}, including searches from outside the city? A summary would do. Even a refusal would tell residents something, and either would be more informative than the silence there is now.\n\nMy request is that the readers be removed and that no new ones be approved. I am a student at {{shortName}} and this is one letter from one person.\n\nPlease reply with your position."
+  },
+  {
+    "id": "sharing-091",
+    "angle": "sharing",
+    "subject": "Removal would settle the sharing question for good",
+    "body": "Dear {{officialName}},\n\nOne approach to this needs no new policy and no negotiation with a vendor. Remove the readers near {{shortName}}, approve no new ones, and the questions about who else gets the data answer themselves.\n\nEvery other approach seems to me to rest on trusting parties {{city}} does not control and cannot audit. That is a lot of trust to extend on behalf of residents who were never asked whether they wanted to extend it.\n\nI am a student at {{school}}, and I would like to know whether you could support removal. If not, I would honestly like to hear which limits you believe are enforceable, because I have not been able to identify any.\n\nA reply would be appreciated."
+  },
+  {
+    "id": "sharing-092",
+    "angle": "sharing",
+    "subject": "Which office can grant another organization access",
+    "body": "Dear {{officialName}},\n\nWhich office in {{city}} can grant another organization access to plate reader data? It is a simple governance question, and I do not think a resident should have to file a request to learn the answer.\n\nOnce I know which office holds that authority, the next thing I would want to know is whether {{role}} reviews its decisions or merely hears about them afterward. The readers near {{school}} number {{readersWithinMile}} within a mile, so this is not a small authority to hold quietly.\n\nBoth questions would become unnecessary if the equipment went. I am a student here, and I am asking you to support removing those readers and installing no more.\n\nCould you tell me your position on removal?"
+  },
+  {
+    "id": "sharing-093",
+    "angle": "sharing",
+    "subject": "Our records kept on somebody else's schedule",
+    "body": "Dear {{officialName}},\n\nA retention schedule adopted here applies to records held here. Copies held elsewhere follow whatever schedule their holder chose, which may be a good deal longer and is not something {{city}} can inspect.\n\nSo does any copy of the plate data collected near {{shortName}} sit outside city systems? If staff cannot say with confidence, then the retention policy residents have been offered describes one server rather than the data, and that is the gap that worries me. Confidence on a point like this should mean a document rather than a recollection.\n\nI am a student at {{school}}, and I hope you will support removing the readers around campus and approving none in future.\n\nI would like to hear your position."
+  },
+  {
+    "id": "sharing-094",
+    "angle": "sharing",
+    "subject": "Publishing who can search before the contract renews",
+    "body": "Dear {{officialName}},\n\nWhenever the plate reader contract next comes up, I hope the list of parties able to search the data gets published before the discussion rather than after it. I cannot see how residents are meant to weigh a system whose users are undisclosed.\n\nI would also like to know what the city could actually do if an outside user misused a record from around {{school}}. My guess is very little, which is rather the heart of my concern.\n\nRather than manage that risk, I would like the readers near campus removed and no new ones approved. I am a student here and that is my honest preference.\n\nWould you tell me how you expect to vote?"
+  },
+  {
+    "id": "sharing-095",
+    "angle": "sharing",
+    "subject": "A short question about data flowing outward",
+    "body": "Dear {{officialName}},\n\nShort question, and I would be grateful for a short answer. Does plate reader data collected around {{shortName}} flow to any system {{city}} does not operate?\n\nEverything else follows from that for me. A yes would mean local policy is only half the story. A no should be easy to document, and it would settle a real worry for a lot of people. So far I have found nothing on the public record either way.\n\nMy request either way is removal of the readers near campus with no new ones installed. I am a student at {{school}} and I am asking rather than insisting.\n\nPlease reply with your position."
+  },
+  {
+    "id": "sharing-096",
+    "angle": "sharing",
+    "subject": "Downstream is the word missing from every briefing",
+    "body": "Dear {{officialName}},\n\nDownstream is a word that never seems to appear in a briefing about this technology. Records move, and once they do, the original collector stops being the only party that matters.\n\nFor the readers around {{school}}, who are the downstream users, and does the city keep any record of what they do with the data? I would rather have an incomplete answer than a general assurance, since the incomplete one at least tells me where the edges are.\n\nWhat I am asking is that {{role}} remove the campus area readers and approve no new ones. I am a student here with no more standing than that.\n\nCould you reply and tell me where you stand?"
+  },
+  {
+    "id": "sharing-097",
+    "angle": "sharing",
+    "subject": "Told what the cameras are for, not who reads them",
+    "body": "Dear {{officialName}},\n\nResidents have been told what these cameras are for. Nobody has told them who can search what the cameras produce, and the second fact shapes the first. That is the gap I would like closed.\n\nI hope {{role}} will close it for the system near {{shortName}}, in writing and in public. Until then, assurances about limited use are impossible for anyone outside to check. Publishing an access list looks to me like a small administrative task with a large effect on public confidence.\n\nMy request is removal of those readers, with no new installations approved. I am a student at {{school}}, writing for myself.\n\nPlease tell me your position."
+  },
+  {
+    "id": "sharing-098",
+    "angle": "sharing",
+    "subject": "Sharing that can begin or continue without a vote",
+    "body": "Dear {{officialName}},\n\nArrangements that let outsiders search {{city}} data should not be able to outlast the public decision that permitted them, and I would not want one to begin without such a decision either.\n\nFor the readers near {{school}}, can access be granted or widened without {{role}} voting? That is the governance question I keep finding underneath all the technical detail.\n\nI am a student at {{shortName}}, and I am asking you to support removing those readers and approving no new ones. That seems to me the cleanest way to keep this decision with the people who face the voters.\n\nWould you reply with your view? If you think the current process already does that, I would like to understand how."
+  },
+  {
+    "id": "sharing-099",
+    "angle": "sharing",
+    "subject": "The database question sitting behind the camera question",
+    "body": "Dear {{officialName}},\n\nDebate over this technology usually settles on the cameras. The database behind them deserves more of the attention, since that is where sharing happens and where I lose track of what becomes of my own records.\n\nSo my questions are about the database. Who can search it, and who decided that? For the readers near {{shortName}}, I have not found either answer in public.\n\nI hope you will support removing them and approving no new ones. A camera with no searchable archive behind it would be a different object entirely, and my concern would largely go with it.\n\nI am a student at {{school}}. I would appreciate a reply stating your position."
+  },
+  {
+    "id": "sharing-100",
+    "angle": "sharing",
+    "subject": "Hoping for a plain answer on who else gets these scans",
+    "body": "Dear {{officialName}},\n\nPlain answers would go a long way with me here. Who else can get the scans collected around {{school}}, and can that set of parties change without a public vote?\n\nResidents are asked to accept a good deal on trust with this technology, and trust comes easier when the basic facts are published. So far I have not found them published anywhere.\n\nMy request does not hinge on the answers. I would like the readers near campus removed, and no new ones approved. {{readersWithinMile}} within a mile of one campus feels like reason enough to me, and I am a student who is in that mile a great deal.\n\nPlease tell me where you stand, and whether you will ask for those answers."
+  }
+]

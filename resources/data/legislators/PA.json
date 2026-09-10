@@ -1,0 +1,2229 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Brian Fitzpatrick",
+    "party": "Republican",
+    "phone": "202-225-4276",
+    "url": "https://fitzpatrick.house.gov"
+   }
+  ],
+  "10": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Scott Perry",
+    "party": "Republican",
+    "phone": "202-225-5836",
+    "url": "https://perry.house.gov"
+   }
+  ],
+  "11": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Lloyd Smucker",
+    "party": "Republican",
+    "phone": "202-225-2411",
+    "url": "https://smucker.house.gov"
+   }
+  ],
+  "12": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Summer Lee",
+    "party": "Democrat",
+    "phone": "202-225-2135",
+    "url": "https://summerlee.house.gov"
+   }
+  ],
+  "13": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "John Joyce",
+    "party": "Republican",
+    "phone": "202-225-2431",
+    "url": "https://johnjoyce.house.gov"
+   }
+  ],
+  "14": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Guy Reschenthaler",
+    "party": "Republican",
+    "phone": "202-225-2065",
+    "url": "https://reschenthaler.house.gov"
+   }
+  ],
+  "15": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Glenn Thompson",
+    "party": "Republican",
+    "phone": "202-225-5121",
+    "url": "https://thompson.house.gov"
+   }
+  ],
+  "16": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Mike Kelly",
+    "party": "Republican",
+    "phone": "202-225-5406",
+    "url": "https://kelly.house.gov"
+   }
+  ],
+  "17": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Chris Deluzio",
+    "party": "Democrat",
+    "phone": "202-225-2301",
+    "url": "https://deluzio.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Brendan Boyle",
+    "party": "Democrat",
+    "phone": "202-225-6111",
+    "url": "https://boyle.house.gov"
+   }
+  ],
+  "3": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Dwight Evans",
+    "party": "Democrat",
+    "phone": "202-225-4001",
+    "url": "https://evans.house.gov"
+   }
+  ],
+  "4": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Madeleine Dean",
+    "party": "Democrat",
+    "phone": "202-225-4731",
+    "url": "https://dean.house.gov"
+   }
+  ],
+  "5": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Mary Scanlon",
+    "party": "Democrat",
+    "phone": "202-225-2011",
+    "url": "https://scanlon.house.gov"
+   }
+  ],
+  "6": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Chrissy Houlahan",
+    "party": "Democrat",
+    "phone": "202-225-4315",
+    "url": "https://houlahan.house.gov"
+   }
+  ],
+  "7": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Ryan Mackenzie",
+    "party": "Republican",
+    "phone": "202-225-6411",
+    "url": "https://mackenzie.house.gov"
+   }
+  ],
+  "8": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Robert Bresnahan",
+    "party": "Republican",
+    "phone": "202-225-5546",
+    "url": "https://bresnahan.house.gov"
+   }
+  ],
+  "9": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Daniel Meuser",
+    "party": "Republican",
+    "phone": "202-225-6511",
+    "url": "https://meuser.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.fetterman.senate.gov/contact/",
+   "email": null,
+   "name": "John Fetterman",
+   "party": "Democrat",
+   "phone": "202-224-4254",
+   "url": "https://www.fetterman.senate.gov"
+  },
+  {
+   "contactForm": "https://mccormick.senate.gov/",
+   "email": null,
+   "name": "Dave McCormick",
+   "party": "Republican",
+   "phone": "202-224-6324",
+   "url": "https://www.mccormick.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "pharkins@pahouse.net",
+    "name": "Pat Harkins",
+    "party": "Democratic",
+    "url": "https://pahouse.com/Harkins"
+   }
+  ],
+  "10": [
+   {
+    "email": "repbrown@pahouse.net",
+    "name": "Amen Brown",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1919"
+   }
+  ],
+  "100": [
+   {
+    "email": "bcutler@pahousegop.com",
+    "name": "Bryan Cutler",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1105"
+   }
+  ],
+  "101": [
+   {
+    "email": "jschlegel@pahousegop.com",
+    "name": "John Schlegel",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1958"
+   }
+  ],
+  "102": [
+   {
+    "email": "rdiamond@pahousegop.com",
+    "name": "Russ Diamond",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1686"
+   }
+  ],
+  "103": [
+   {
+    "email": "repdavidson@pahouse.net",
+    "name": "Nate Davidson",
+    "party": "Democratic",
+    "url": "https://www.pahouse.com/davidson/"
+   }
+  ],
+  "104": [
+   {
+    "email": "repmadsen@pahouse.net",
+    "name": "Dave Madsen",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1959"
+   }
+  ],
+  "105": [
+   {
+    "email": "repfleming@pahouse.net",
+    "name": "Justin Fleming",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1960"
+   }
+  ],
+  "106": [
+   {
+    "email": "tmehaffie@pahousegop.com",
+    "name": "Tom Mehaffie",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1751"
+   }
+  ],
+  "107": [
+   {
+    "email": "jstehr@pahousegop.com",
+    "name": "Joanne Stehr",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1961"
+   }
+  ],
+  "108": [
+   {
+    "email": "mstender@pahousegop.com",
+    "name": "Michael Stender",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=2014"
+   }
+  ],
+  "109": [
+   {
+    "email": "rleadbeter@pahousegop.com",
+    "name": "Robert Leadbeter",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1962"
+   }
+  ],
+  "11": [
+   {
+    "email": "mmustello@pahousegop.com",
+    "name": "Marci Mustello",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1868"
+   }
+  ],
+  "110": [
+   {
+    "email": "tpickett@pahousegop.com",
+    "name": "Tina Pickett",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=97"
+   }
+  ],
+  "111": [
+   {
+    "email": "jfritz@pahousegop.com",
+    "name": "Jonathan Fritz",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1752"
+   }
+  ],
+  "112": [
+   {
+    "email": "repmullins@pahouse.net",
+    "name": "Kyle Mullins",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1844"
+   }
+  ],
+  "113": [
+   {
+    "email": "repdonahue@pahouse.net",
+    "name": "Kyle Donahue",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1963"
+   }
+  ],
+  "114": [
+   {
+    "email": "repkosierowski@pahouse.net",
+    "name": "Bridget Malloy Kosierowski",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1866"
+   }
+  ],
+  "115": [
+   {
+    "email": "repmadden@pahouse.net",
+    "name": "Maureen Madden",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1753"
+   }
+  ],
+  "116": [
+   {
+    "email": "dwatro@pahousegop.com",
+    "name": "Dane Watro",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1964"
+   }
+  ],
+  "117": [
+   {
+    "email": "jwalsh@pahousegop.com",
+    "name": "Jamie Walsh",
+    "party": "Republican",
+    "url": "https://repwalsh.com/"
+   }
+  ],
+  "118": [
+   {
+    "email": "rephaddock@pahouse.net",
+    "name": "Jim Haddock",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1966"
+   }
+  ],
+  "119": [
+   {
+    "email": "aryncavage@pahousegop.com",
+    "name": "Alec Ryncavage",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1967"
+   }
+  ],
+  "12": [
+   {
+    "email": null,
+    "name": "Brandon Dukes",
+    "party": "Democratic",
+    "url": "https://www.pahouse.com/dukes/"
+   }
+  ],
+  "120": [
+   {
+    "email": "bpugh@pahousegop.com",
+    "name": "Brenda Pugh",
+    "party": "Republican",
+    "url": "https://www.palegis.us/house/members/bio/2033/rep-pugh"
+   }
+  ],
+  "121": [
+   {
+    "email": "reppashinski@pahouse.net",
+    "name": "Eddie Pashinski",
+    "party": "Democratic",
+    "url": "https://pahouse.com/Pashinski"
+   }
+  ],
+  "122": [
+   {
+    "email": "dheffley@pahousegop.com",
+    "name": "Doyle Heffley",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1211"
+   }
+  ],
+  "123": [
+   {
+    "email": "ttwardzik@pahousegop.com",
+    "name": "Tim Twardzik",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1906"
+   }
+  ],
+  "124": [
+   {
+    "email": "jbarton@pahousegop.com",
+    "name": "Jamie Barton",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1968"
+   }
+  ],
+  "125": [
+   {
+    "email": "jkerwin@pahousegop.com",
+    "name": "Joe Kerwin",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1907"
+   }
+  ],
+  "126": [
+   {
+    "email": "jrusnock@pahouse.net",
+    "name": "Jacklyn Rusnock",
+    "party": "Democratic",
+    "url": "https://www.pahouse.com/Rusnock/"
+   }
+  ],
+  "127": [
+   {
+    "email": "repguzman@pahouse.net",
+    "name": "Manny Guzman",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1908"
+   }
+  ],
+  "128": [
+   {
+    "email": "mgillen@pahousegop.com",
+    "name": "Mark Gillen",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1209"
+   }
+  ],
+  "129": [
+   {
+    "email": "repcepedafreytiz@pahouse.net",
+    "name": "Johanny Cepeda-Freytiz",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1969"
+   }
+  ],
+  "13": [
+   {
+    "email": "jlawrenc@pahousegop.com",
+    "name": "John Lawrence",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1215"
+   }
+  ],
+  "130": [
+   {
+    "email": "dmaloney@pahousegop.com",
+    "name": "David Maloney",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1226"
+   }
+  ],
+  "131": [
+   {
+    "email": "mmackenzie@pahousegop.com",
+    "name": "Milou Mackenzie",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1909"
+   }
+  ],
+  "132": [
+   {
+    "email": "repschlossberg@pahouse.net",
+    "name": "Mike Schlossberg",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1649"
+   }
+  ],
+  "133": [
+   {
+    "email": "jmcneill@pahousegop.com",
+    "name": "Jeanne McNeill",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1793"
+   }
+  ],
+  "134": [
+   {
+    "email": "repschweyer@pahouse.net",
+    "name": "Pete Schweyer",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1706"
+   }
+  ],
+  "135": [
+   {
+    "email": "ssamuels@pahouse.net",
+    "name": "Steve Samuelson",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=80"
+   }
+  ],
+  "136": [
+   {
+    "email": "rfreeman@pahouse.net",
+    "name": "Bob Freeman",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=136"
+   }
+  ],
+  "137": [
+   {
+    "email": "jemrick@pahousegop.com",
+    "name": "Joe Emrick",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1207"
+   }
+  ],
+  "138": [
+   {
+    "email": "aflood@pahousegop.com",
+    "name": "Ann Flood",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1910"
+   }
+  ],
+  "139": [
+   {
+    "email": "jolsommer@pahousegop.com",
+    "name": "Jeff Olsommer",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=2018"
+   }
+  ],
+  "14": [
+   {
+    "email": "rkozak@pahousegop.com",
+    "name": "Roman Kozak",
+    "party": "Republican",
+    "url": "https://www.palegis.us/house/members/bio/2022/rep-kozak"
+   }
+  ],
+  "140": [
+   {
+    "email": "repprokopiak@pahouse.net",
+    "name": "Jim Prokopiak",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=2017"
+   }
+  ],
+  "141": [
+   {
+    "email": "repdavis@pahouse.net",
+    "name": "Tina Davis",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1204"
+   }
+  ],
+  "142": [
+   {
+    "email": "jhogan@pahousegop.com",
+    "name": "Joe Hogan",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1971"
+   }
+  ],
+  "143": [
+   {
+    "email": "slabs@pahousegop.com",
+    "name": "Shelby Labs",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1911"
+   }
+  ],
+  "144": [
+   {
+    "email": "repmunroe@pahouse.net",
+    "name": "Brian Munroe",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1972"
+   }
+  ],
+  "145": [
+   {
+    "email": "cstaats@pahousegop.com",
+    "name": "Craig Staats",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1707"
+   }
+  ],
+  "146": [
+   {
+    "email": "jciresi@pahouse.net",
+    "name": "Joe Ciresi",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1847"
+   }
+  ],
+  "147": [
+   {
+    "email": "dscheuren@pahousegop.gov",
+    "name": "Donna Scheuren",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1973"
+   }
+  ],
+  "148": [
+   {
+    "email": "repmaryjodaley@pahouse.net",
+    "name": "Mary Jo Daley",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1622"
+   }
+  ],
+  "149": [
+   {
+    "email": "repbriggs@pahouse.net",
+    "name": "Tim Briggs",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1159"
+   }
+  ],
+  "15": [
+   {
+    "email": "jkail@pahousegop.com",
+    "name": "Josh Kail",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1823"
+   }
+  ],
+  "150": [
+   {
+    "email": "repwebster@pahouse.net",
+    "name": "Joe Webster",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1848"
+   }
+  ],
+  "151": [
+   {
+    "email": "repcerrato@pahouse.net",
+    "name": "Missy Cerrato",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1974"
+   }
+  ],
+  "152": [
+   {
+    "email": "repguenst@pahouse.net",
+    "name": "Nancy Guenst",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1913"
+   }
+  ],
+  "153": [
+   {
+    "email": "repsanchez@pahouse.net",
+    "name": "Ben Sanchez",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1849"
+   }
+  ],
+  "154": [
+   {
+    "email": "repnelson@pahouse.net",
+    "name": "Napoleon Nelson",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1914"
+   }
+  ],
+  "155": [
+   {
+    "email": "repotten@pahouse.net",
+    "name": "Danielle Otten",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1850"
+   }
+  ],
+  "156": [
+   {
+    "email": "reppielli@pahouse.net",
+    "name": "Chris Pielli",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1975"
+   }
+  ],
+  "157": [
+   {
+    "email": "repshusterman@pahouse.net",
+    "name": "Melissa Shusterman",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1851"
+   }
+  ],
+  "158": [
+   {
+    "email": "repsappey@pahouse.com",
+    "name": "Christina Sappey",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1852"
+   }
+  ],
+  "159": [
+   {
+    "email": "repkazeem@pahouse.net",
+    "name": "Carol Kazeem",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1976"
+   }
+  ],
+  "16": [
+   {
+    "email": "rmatzie@pahouse.net",
+    "name": "Rob Matzie",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1173"
+   }
+  ],
+  "160": [
+   {
+    "email": "craig.williams@pahousegop.com",
+    "name": "Craig Williams",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1916"
+   }
+  ],
+  "161": [
+   {
+    "email": "repkrueger@pahouse.net",
+    "name": "Leanne Krueger",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1735"
+   }
+  ],
+  "162": [
+   {
+    "email": "repdelloso@pahouse.net",
+    "name": "Dave Delloso",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1853"
+   }
+  ],
+  "163": [
+   {
+    "email": "hboyd@pahouse.net",
+    "name": "Heather Boyd",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=2015"
+   }
+  ],
+  "164": [
+   {
+    "email": "repcurry@pahouse.net",
+    "name": "Gina Curry",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1932"
+   }
+  ],
+  "165": [
+   {
+    "email": "repomara@pahouse.net",
+    "name": "Jenn O'Mara",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1855"
+   }
+  ],
+  "166": [
+   {
+    "email": "repvitali@pahouse.net",
+    "name": "Greg Vitali",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=210"
+   }
+  ],
+  "167": [
+   {
+    "email": "khoward@pahouse.net",
+    "name": "Kristine Howard",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1856"
+   }
+  ],
+  "168": [
+   {
+    "email": "repborowski@pahouse.net",
+    "name": "Lisa Borowski",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1977"
+   }
+  ],
+  "169": [
+   {
+    "email": "kklunk@pahousegop.com",
+    "name": "Kate Klunk",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1694"
+   }
+  ],
+  "17": [
+   {
+    "email": "tbonner@pahousegop.com",
+    "name": "Tim Bonner",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1877"
+   }
+  ],
+  "170": [
+   {
+    "email": "mwhite@pahousegop.com",
+    "name": "Martina White",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1732"
+   }
+  ],
+  "171": [
+   {
+    "email": "kbenning@pahousegop.com",
+    "name": "Kerry Benninghoff",
+    "party": "Republican",
+    "url": "https://www.kerrybenninghoff.com/"
+   }
+  ],
+  "172": [
+   {
+    "email": "repdougherty@pahouse.net",
+    "name": "Sean Dougherty",
+    "party": "Democratic",
+    "url": "https://www.pahouse.com/dougherty/"
+   }
+  ],
+  "173": [
+   {
+    "email": "repgallagher@pahouse.net",
+    "name": "Pat Gallagher",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1978"
+   }
+  ],
+  "174": [
+   {
+    "email": "repneilson@pahouse.net",
+    "name": "Ed Neilson",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1615"
+   }
+  ],
+  "175": [
+   {
+    "email": "misaacson@pahouse.net",
+    "name": "Mary Isaacson",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1857"
+   }
+  ],
+  "176": [
+   {
+    "email": "jrader@pahousegop.com",
+    "name": "Jack Rader",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1703"
+   }
+  ],
+  "177": [
+   {
+    "email": "jhohenstein@pahouse.net",
+    "name": "Joe Hohenstein",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1858"
+   }
+  ],
+  "178": [
+   {
+    "email": "kmarcell@pahousegop.com",
+    "name": "Kristin Marcell",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1979"
+   }
+  ],
+  "179": [
+   {
+    "email": "jdawkins@pahouse.net",
+    "name": "Jason Dawkins",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1685"
+   }
+  ],
+  "18": [
+   {
+    "email": "ktomlinson@pahousegop.com",
+    "name": "K.C. Tomlinson",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1876"
+   }
+  ],
+  "180": [
+   {
+    "email": "repgiral@pahouse.net",
+    "name": "Jos\u00e9 Giral",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1980"
+   }
+  ],
+  "181": [
+   {
+    "email": "mkenyatta@pahouse.net",
+    "name": "Malcolm Kenyatta",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1860"
+   }
+  ],
+  "182": [
+   {
+    "email": "repwaxman@pahouse.net",
+    "name": "Ben Waxman",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1981"
+   }
+  ],
+  "183": [
+   {
+    "email": "zmako@pahousegop.com",
+    "name": "Zach Mako",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1758"
+   }
+  ],
+  "184": [
+   {
+    "email": "repfiedler@pahouse.net",
+    "name": "Elizabeth Fiedler",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1861"
+   }
+  ],
+  "185": [
+   {
+    "email": "repyoung@pahouse.net",
+    "name": "Regina Young",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1917"
+   }
+  ],
+  "186": [
+   {
+    "email": "repharris@pahouse.net",
+    "name": "Jordan Harris",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1633"
+   }
+  ],
+  "187": [
+   {
+    "email": "gday@pahousegop.com",
+    "name": "Gary Day",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1190"
+   }
+  ],
+  "188": [
+   {
+    "email": "repkrajewski@pahouse.net",
+    "name": "Rick Krajewski",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1918"
+   }
+  ],
+  "189": [
+   {
+    "email": "repprobst@pahouse.net",
+    "name": "Tarah Probst",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1982"
+   }
+  ],
+  "19": [
+   {
+    "email": "aabney@pahouse.net",
+    "name": "Aerion Abney",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1933"
+   }
+  ],
+  "190": [
+   {
+    "email": "repgreen@pahouse.net",
+    "name": "Roni Green",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1874"
+   }
+  ],
+  "191": [
+   {
+    "email": "repmcclinton@pahouse.net",
+    "name": "Joanna McClinton",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1734"
+   }
+  ],
+  "192": [
+   {
+    "email": "mcephas@pahouse.net",
+    "name": "Morgan Cephas",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1759"
+   }
+  ],
+  "193": [
+   {
+    "email": null,
+    "name": "Catherine Wallen",
+    "party": "Republican",
+    "url": "https://repwallen.com/"
+   }
+  ],
+  "194": [
+   {
+    "email": "reptarik@pahouse.net",
+    "name": "Tarik Khan",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1983"
+   }
+  ],
+  "195": [
+   {
+    "email": "kharris@pahouse.net",
+    "name": "Keith Harris",
+    "party": "Democratic",
+    "url": "https://www.pahouse.com/KHarris/"
+   }
+  ],
+  "196": [
+   {
+    "email": "gmargetas@pahousegop.com",
+    "name": "George Margetas",
+    "party": "Republican",
+    "url": "https://repmargetas.com/"
+   }
+  ],
+  "197": [
+   {
+    "email": "dburgos@pahouse.net",
+    "name": "Danilo Burgos",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1863"
+   }
+  ],
+  "198": [
+   {
+    "email": "repparker@pahouse.net",
+    "name": "Darisha Parker",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1920"
+   }
+  ],
+  "199": [
+   {
+    "email": "bgleim@pahousegop.com",
+    "name": "Barb Gleim",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1864"
+   }
+  ],
+  "2": [
+   {
+    "email": "rmerski@pahouse.net",
+    "name": "Bob Merski",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1822"
+   }
+  ],
+  "20": [
+   {
+    "email": "repkinkead@pahouse.net",
+    "name": "Emily Kinkead",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1896"
+   }
+  ],
+  "200": [
+   {
+    "email": "reprabb@pahouse.net",
+    "name": "Chris Rabb",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1760"
+   }
+  ],
+  "201": [
+   {
+    "email": "repcarroll@pahouse.net",
+    "name": "Andre Carroll",
+    "party": "Democratic",
+    "url": "https://www.pahouse.com/Carroll/"
+   }
+  ],
+  "202": [
+   {
+    "email": "jsolomon@pahouse.net",
+    "name": "Jared Solomon",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1761"
+   }
+  ],
+  "203": [
+   {
+    "email": "repbellmon@pahouse.net",
+    "name": "Anthony Bellmon",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1984"
+   }
+  ],
+  "21": [
+   {
+    "email": "reppowell@pahouse.net",
+    "name": "Lindsay Powell",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=2016"
+   }
+  ],
+  "22": [
+   {
+    "email": "reptiburcio@pahouse.net",
+    "name": "Ana Tiburcio",
+    "party": "Democratic",
+    "url": "https://www.pahouse.com/Tiburcio/"
+   }
+  ],
+  "23": [
+   {
+    "email": "repfrankel@pahouse.net",
+    "name": "Dan Frankel",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=84"
+   }
+  ],
+  "24": [
+   {
+    "email": "repmayes@pahouse.net",
+    "name": "La'Tasha Mayes",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1941"
+   }
+  ],
+  "25": [
+   {
+    "email": "repmarkosek@pahouse.net",
+    "name": "Brandon Markosek",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1825"
+   }
+  ],
+  "26": [
+   {
+    "email": "repfriel@pahouse.net",
+    "name": "Paul Friel",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1942"
+   }
+  ],
+  "27": [
+   {
+    "email": "ddeasy@pahouse.net",
+    "name": "Dan Deasy",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1166"
+   }
+  ],
+  "28": [
+   {
+    "email": "jshaffer@pahousegop.com",
+    "name": "Jeremy Shaffer",
+    "party": "Republican",
+    "url": "https://www.palegis.us/house/members/bio/2023/rep-shaffer"
+   }
+  ],
+  "29": [
+   {
+    "email": "repbrennan@pahouse.net",
+    "name": "Tim Brennan",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1943"
+   }
+  ],
+  "3": [
+   {
+    "email": "repbizzarro@pahouse.net",
+    "name": "Ryan Bizzarro",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1619"
+   }
+  ],
+  "30": [
+   {
+    "email": "repvenkat@pahouse.net",
+    "name": "Arvind Venkat",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1944"
+   }
+  ],
+  "31": [
+   {
+    "email": "repwarren@pahouse.net",
+    "name": "Perry Warren",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1743"
+   }
+  ],
+  "32": [
+   {
+    "email": "repmcandrew@pahouse.net",
+    "name": "Joe McAndrew",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=2011"
+   }
+  ],
+  "33": [
+   {
+    "email": "repsteele@pahouse.net",
+    "name": "Mandy Steele",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1945"
+   }
+  ],
+  "34": [
+   {
+    "email": "repsalisbury@pahouse.net",
+    "name": "Abigail Salisbury",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=2012"
+   }
+  ],
+  "35": [
+   {
+    "email": "repgergely@pahouse.net",
+    "name": "Dan Goughnour",
+    "party": "Democratic",
+    "url": "https://www.pahouse.com/gergely"
+   }
+  ],
+  "36": [
+   {
+    "email": "repbenham@pahouse.net",
+    "name": "Jessica Benham",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1899"
+   }
+  ],
+  "37": [
+   {
+    "email": "mfee@pahousegop.com",
+    "name": "Mindy Fee",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1625"
+   }
+  ],
+  "38": [
+   {
+    "email": "repinglis@pahouse.net",
+    "name": "John Inglis",
+    "party": "Democratic",
+    "url": "https://www.pahouse.com/inglis/"
+   }
+  ],
+  "39": [
+   {
+    "email": "akuzma@pahousegop.com",
+    "name": "Andrew Kuzma",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1946"
+   }
+  ],
+  "4": [
+   {
+    "email": "jbanta@pahousegop.com",
+    "name": "Jake Banta",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1937"
+   }
+  ],
+  "40": [
+   {
+    "email": "nmihalek@pahousegop.com",
+    "name": "Natalie Mihalek",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1830"
+   }
+  ],
+  "41": [
+   {
+    "email": "bmiller@pahousegop.com",
+    "name": "Brett Miller",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1699"
+   }
+  ],
+  "42": [
+   {
+    "email": "repmazzocco@pahouse.net",
+    "name": "Jen Mazzocco",
+    "party": "Democratic",
+    "url": "https://www.pahouse.com/Mazzocco/"
+   }
+  ],
+  "43": [
+   {
+    "email": "kgreiner@pahousegop.com",
+    "name": "Keith Greiner",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1632"
+   }
+  ],
+  "44": [
+   {
+    "email": "vgaydos@pahousegop.com",
+    "name": "Valerie Gaydos",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1831"
+   }
+  ],
+  "45": [
+   {
+    "email": "akulik@pahouse.net",
+    "name": "Anita Kulik",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1744"
+   }
+  ],
+  "46": [
+   {
+    "email": "jortitay@pahousegop.com",
+    "name": "Jason Ortitay",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1701"
+   }
+  ],
+  "47": [
+   {
+    "email": "jdorsie@pahousegop.com",
+    "name": "Joe D'Orsie",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1947"
+   }
+  ],
+  "48": [
+   {
+    "email": "toneal@pahousegop.com",
+    "name": "Tim O'Neal",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1797"
+   }
+  ],
+  "49": [
+   {
+    "email": "repsmithwadeel@pahouse.net",
+    "name": "Izzy Smith-Wade-El",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1948"
+   }
+  ],
+  "5": [
+   {
+    "email": "eweaknecht@pahousegop.com",
+    "name": "Eric Weaknecht",
+    "party": "Republican",
+    "url": "https://repweaknecht.com/"
+   }
+  ],
+  "50": [
+   {
+    "email": "bcook@pahousegop.com",
+    "name": "Bud Cook",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1745"
+   }
+  ],
+  "51": [
+   {
+    "email": "ckrupa@pahousegop.com",
+    "name": "Charity Krupa",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1949"
+   }
+  ],
+  "52": [
+   {
+    "email": "rwarner@pahousegop.com",
+    "name": "Ryan Warner",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1708"
+   }
+  ],
+  "53": [
+   {
+    "email": "repmalagari@pahouse.net",
+    "name": "Steve Malagari",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1832"
+   }
+  ],
+  "54": [
+   {
+    "email": "repscott@pahouse.net",
+    "name": "Greg Scott",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1950"
+   }
+  ],
+  "55": [
+   {
+    "email": "jcooper@pahousegop.com",
+    "name": "Jill Cooper",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1951"
+   }
+  ],
+  "56": [
+   {
+    "email": "brasel@pahousegop.com",
+    "name": "Brian Rasel",
+    "party": "Republican",
+    "url": "https://reprasel.com/"
+   }
+  ],
+  "57": [
+   {
+    "email": "enelson@pahousegop.com",
+    "name": "Eric Nelson",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1738"
+   }
+  ],
+  "58": [
+   {
+    "email": "edavanzo@pahousegop.com",
+    "name": "Eric Davanzo",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1875"
+   }
+  ],
+  "59": [
+   {
+    "email": "lrossi@pahousegop.com",
+    "name": "Leslie Rossi",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1927"
+   }
+  ],
+  "6": [
+   {
+    "email": "broae@pahousegop.com",
+    "name": "Brad Roae",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1083"
+   }
+  ],
+  "60": [
+   {
+    "email": "amajor@pahousegop.com",
+    "name": "Abby Major",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1926"
+   }
+  ],
+  "61": [
+   {
+    "email": "lhanbidge@pahouse.net",
+    "name": "Liz Hanbidge",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1834"
+   }
+  ],
+  "62": [
+   {
+    "email": "jstruzzi@pahousegop.com",
+    "name": "Jim Struzzi",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1835"
+   }
+  ],
+  "63": [
+   {
+    "email": "jbashline@pahousegop.com",
+    "name": "Josh Bashline",
+    "party": "Republican",
+    "url": "https://repbashline.com/"
+   }
+  ],
+  "64": [
+   {
+    "email": "rljames@pahousegop.com",
+    "name": "Lee James",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1634"
+   }
+  ],
+  "65": [
+   {
+    "email": "klrapp@pahousegop.com",
+    "name": "Kathy Rapp",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1028"
+   }
+  ],
+  "66": [
+   {
+    "email": "bsmith@pahousegop.com",
+    "name": "Brian Smith",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1902"
+   }
+  ],
+  "67": [
+   {
+    "email": "mcauser@pahousegop.com",
+    "name": "Marty Causer",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=982"
+   }
+  ],
+  "68": [
+   {
+    "email": "cowlett@pahousegop.com",
+    "name": "Clint Owlett",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1796"
+   }
+  ],
+  "69": [
+   {
+    "email": "cmetzgar@pahousegop.com",
+    "name": "Carl Metzgar",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1174"
+   }
+  ],
+  "7": [
+   {
+    "email": "pwentling@pahousegop.com",
+    "name": "Parke Wentling",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1709"
+   }
+  ],
+  "70": [
+   {
+    "email": "repbradford@pahouse.net",
+    "name": "Matt Bradford",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1161"
+   }
+  ],
+  "71": [
+   {
+    "email": "jrigby@pahousegop.com",
+    "name": "Jim Rigby",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1836"
+   }
+  ],
+  "72": [
+   {
+    "email": "repburns@pahouse.net",
+    "name": "Frank Burns",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1163"
+   }
+  ],
+  "73": [
+   {
+    "email": "dkephart@pahousegop.com",
+    "name": "Dallas Kephart",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1952"
+   }
+  ],
+  "74": [
+   {
+    "email": "dwilliams@pahouse.net",
+    "name": "Dan Williams",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1837"
+   }
+  ],
+  "75": [
+   {
+    "email": "marmanini@pahousegop.com",
+    "name": "Mike Armanini",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1903"
+   }
+  ],
+  "76": [
+   {
+    "email": "sborowicz@pahousegop.com",
+    "name": "Stephanie Borowicz",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1838"
+   }
+  ],
+  "77": [
+   {
+    "email": "sconklin@pahouse.net",
+    "name": "Scott Conklin",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1096"
+   }
+  ],
+  "78": [
+   {
+    "email": "jtopper@pahousegop.com",
+    "name": "Jesse Topper",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1681"
+   }
+  ],
+  "79": [
+   {
+    "email": null,
+    "name": "Andrea Verobish",
+    "party": "Republican",
+    "url": "https://www.palegis.us/house/members/bio/2065/rep-verobish"
+   }
+  ],
+  "8": [
+   {
+    "email": "abernstine@pahousegop.com",
+    "name": "Aaron Bernstine",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1742"
+   }
+  ],
+  "80": [
+   {
+    "email": "sbarger@pahousegop.com",
+    "name": "Scott Barger",
+    "party": "Republican",
+    "url": "https://repbarger.com/"
+   }
+  ],
+  "81": [
+   {
+    "email": "rirvin@pahousegop.com",
+    "name": "Rich Irvin",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1691"
+   }
+  ],
+  "82": [
+   {
+    "email": "reptakac@pahouse.net",
+    "name": "Paul Takac",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1953"
+   }
+  ],
+  "83": [
+   {
+    "email": "jflick@pahousegop.com",
+    "name": "Jamie Flick",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1954"
+   }
+  ],
+  "84": [
+   {
+    "email": "jhamm@pahousegop.com",
+    "name": "Joe Hamm",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1904"
+   }
+  ],
+  "85": [
+   {
+    "email": "drowe@pahousegop.com",
+    "name": "David Rowe",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1871"
+   }
+  ],
+  "86": [
+   {
+    "email": "pstambaugh@pahousegop.com",
+    "name": "Perry Stambaugh",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1905"
+   }
+  ],
+  "87": [
+   {
+    "email": "tkutz@pahousegop.com",
+    "name": "Thomas Kutz",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1955"
+   }
+  ],
+  "88": [
+   {
+    "email": "sdelozie@pahousegop.com",
+    "name": "Sheryl Delozier",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1167"
+   }
+  ],
+  "89": [
+   {
+    "email": "rkauffma@pahousegop.com",
+    "name": "Rob Kauffman",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1022"
+   }
+  ],
+  "9": [
+   {
+    "email": "mbrown@pahousegop.com",
+    "name": "Marla Brown",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1938"
+   }
+  ],
+  "90": [
+   {
+    "email": "creichard@pahousegop.com",
+    "name": "Chad Reichard",
+    "party": "Republican",
+    "url": "https://repreichard.com/"
+   }
+  ],
+  "91": [
+   {
+    "email": "dmoul@pahousegop.com",
+    "name": "Dan Moul",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1101"
+   }
+  ],
+  "92": [
+   {
+    "email": "manderson@pahousegop.com",
+    "name": "Marc Anderson",
+    "party": "Republican",
+    "url": "https://repmarcanderson.com/"
+   }
+  ],
+  "93": [
+   {
+    "email": "mjones@pahousegop.com",
+    "name": "Mike Jones",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1842"
+   }
+  ],
+  "94": [
+   {
+    "email": "wfink@pahousegop.com",
+    "name": "Wendy Fink",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1956"
+   }
+  ],
+  "95": [
+   {
+    "email": "rephill-evans@pahouse.net",
+    "name": "Carol Hill-Evans",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1749"
+   }
+  ],
+  "96": [
+   {
+    "email": "reprivera@pahouse.net",
+    "name": "Nikki Rivera",
+    "party": "Democratic",
+    "url": "https://www.pahouse.com/Rivera/"
+   }
+  ],
+  "97": [
+   {
+    "email": "smentzer@pahousegop.com",
+    "name": "Steve Mentzer",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1642"
+   }
+  ],
+  "98": [
+   {
+    "email": "tjones@pahousegop.com",
+    "name": "Tom Jones",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1957"
+   }
+  ],
+  "99": [
+   {
+    "email": "dzimmerman@pahousegop.com",
+    "name": "Dave Zimmerman",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1711"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/pa.csv"
+ },
+ "state": "PA",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "saval@pasenate.com",
+    "name": "Nikil Saval",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1921"
+   }
+  ],
+  "10": [
+   {
+    "email": "senatorsantarsiero@pasenate.com",
+    "name": "Steve Santarsiero",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1179"
+   }
+  ],
+  "11": [
+   {
+    "email": "senatorschwank@pasenate.com",
+    "name": "Judy Schwank",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1234"
+   }
+  ],
+  "12": [
+   {
+    "email": "senatorcollett@pasenate.com",
+    "name": "Maria Collett",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1799"
+   }
+  ],
+  "13": [
+   {
+    "email": "smartin@pasen.gov",
+    "name": "Scott Martin",
+    "party": "Republican",
+    "url": "https://senatorscottmartinpa.com/"
+   }
+  ],
+  "14": [
+   {
+    "email": "miller@pasenate.com",
+    "name": "Nick Miller",
+    "party": "Democratic",
+    "url": "https://pasenatormiller.com/"
+   }
+  ],
+  "15": [
+   {
+    "email": "patty.kim@pasenate.com",
+    "name": "Patty Kim",
+    "party": "Democratic",
+    "url": "https://pasenatorkim.com/"
+   }
+  ],
+  "16": [
+   {
+    "email": "jcoleman@pasen.gov",
+    "name": "Jarrett Coleman",
+    "party": "Republican",
+    "url": "https://senatorcoleman.com/"
+   }
+  ],
+  "17": [
+   {
+    "email": "cappelletti@pasenate.com",
+    "name": "Amanda Cappelletti",
+    "party": "Democratic",
+    "url": "https://pasenatorcappelletti.com/"
+   }
+  ],
+  "18": [
+   {
+    "email": "boscola@pasenate.com",
+    "name": "Lisa Boscola",
+    "party": "Democratic",
+    "url": "https://senatorboscola.com/"
+   }
+  ],
+  "19": [
+   {
+    "email": "senatorcomitta@pasenate.com",
+    "name": "Carolyn Comitta",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1790"
+   }
+  ],
+  "2": [
+   {
+    "email": "tartaglione@pasenate.com",
+    "name": "Tina Tartaglione",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=277"
+   }
+  ],
+  "20": [
+   {
+    "email": "lbaker@pasen.gov",
+    "name": "Lisa Baker",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1077"
+   }
+  ],
+  "21": [
+   {
+    "email": "shutchinson@pasen.gov",
+    "name": "Scott Hutchinson",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1629"
+   }
+  ],
+  "22": [
+   {
+    "email": "flynn@pasenate.com",
+    "name": "Marty Flynn",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1626"
+   }
+  ],
+  "23": [
+   {
+    "email": "gyaw@pasen.gov",
+    "name": "Gene Yaw",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1186"
+   }
+  ],
+  "24": [
+   {
+    "email": "tpennycuick@pasen.gov",
+    "name": "Tracy Pennycuick",
+    "party": "Republican",
+    "url": "https://senatorpennycuick.com/"
+   }
+  ],
+  "25": [
+   {
+    "email": "cdush@pasen.gov",
+    "name": "Cris Dush",
+    "party": "Republican",
+    "url": "https://senatordush.com/"
+   }
+  ],
+  "26": [
+   {
+    "email": "senatorkearney@pasenate.com",
+    "name": "Tim Kearney",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1800"
+   }
+  ],
+  "27": [
+   {
+    "email": "lculver@pasen.gov",
+    "name": "Lynda Culver",
+    "party": "Republican",
+    "url": "https://senatorculver.com/"
+   }
+  ],
+  "28": [
+   {
+    "email": "senatorkristin@pasen.gov",
+    "name": "Kristin Phillips-Hill",
+    "party": "Republican",
+    "url": "https://senatorkristin.com/"
+   }
+  ],
+  "29": [
+   {
+    "email": "dargall@pasen.gov",
+    "name": "Dave Argall",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=69"
+   }
+  ],
+  "3": [
+   {
+    "email": "street@pasenate.com",
+    "name": "Sharif Street",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1767"
+   }
+  ],
+  "30": [
+   {
+    "email": "jward@pasen.gov",
+    "name": "Judy Ward",
+    "party": "Republican",
+    "url": "https://senatorjudyward.com/"
+   }
+  ],
+  "31": [
+   {
+    "email": "dkeefer@pasen.gov",
+    "name": "Dawn Keefer",
+    "party": "Republican",
+    "url": "https://senatorkeefer.com/"
+   }
+  ],
+  "32": [
+   {
+    "email": "pstefano@pasen.gov",
+    "name": "Pat Stefano",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1697"
+   }
+  ],
+  "33": [
+   {
+    "email": "dmastriano@pasen.gov",
+    "name": "Doug Mastriano",
+    "party": "Republican",
+    "url": "https://senatormastriano.com/"
+   }
+  ],
+  "34": [
+   {
+    "email": "grothman@pasen.gov",
+    "name": "Greg Rothman",
+    "party": "Republican",
+    "url": "https://senatorrothman.com/"
+   }
+  ],
+  "35": [
+   {
+    "email": "wlangerholc@pasen.gov",
+    "name": "Wayne Langerholc",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1764"
+   }
+  ],
+  "36": [
+   {
+    "email": "malone@pasenate.com",
+    "name": "James Malone",
+    "party": "Democratic",
+    "url": "https://www.palegis.us/senate/members/bio/2061/sen-malone"
+   }
+  ],
+  "37": [
+   {
+    "email": "drobinson@pasen.gov",
+    "name": "Devlin Robinson",
+    "party": "Republican",
+    "url": "https://senatorrobinson.com/"
+   }
+  ],
+  "38": [
+   {
+    "email": "senatorlindseywilliams@pasenate.com",
+    "name": "Lindsey Williams",
+    "party": "Democratic",
+    "url": "https://senatorlindseywilliams.com/"
+   }
+  ],
+  "39": [
+   {
+    "email": "kward@pasen.gov",
+    "name": "Kim Ward",
+    "party": "Republican",
+    "url": "https://senatorward.com/"
+   }
+  ],
+  "4": [
+   {
+    "email": "senatorhaywood@pasenate.com",
+    "name": "Art Haywood",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1689"
+   }
+  ],
+  "40": [
+   {
+    "email": "rbrown@pasen.gov",
+    "name": "Rosemary Brown",
+    "party": "Republican",
+    "url": "https://senatorbrown40.com/"
+   }
+  ],
+  "41": [
+   {
+    "email": null,
+    "name": "Joe Pittman",
+    "party": "Republican",
+    "url": "https://senatorpittman.com/"
+   }
+  ],
+  "42": [
+   {
+    "email": "fontana@pasenate.com",
+    "name": "Wayne Fontana",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1041"
+   }
+  ],
+  "43": [
+   {
+    "email": "costa@pasenate.com",
+    "name": "Jay Costa",
+    "party": "Democratic",
+    "url": "https://senatorcosta.com/"
+   }
+  ],
+  "44": [
+   {
+    "email": "senatormuth@pasenate.com",
+    "name": "Katie Muth",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1802"
+   }
+  ],
+  "45": [
+   {
+    "email": "nick.pisciottano@pasenate.com",
+    "name": "Nick Pisciottano",
+    "party": "Democratic",
+    "url": "https://pasenatornick.com/"
+   }
+  ],
+  "46": [
+   {
+    "email": "cbartolotta@pasen.gov",
+    "name": "Camera Bartolotta",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1698"
+   }
+  ],
+  "47": [
+   {
+    "email": "evogel@pasen.gov",
+    "name": "Elder Vogel",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1189"
+   }
+  ],
+  "48": [
+   {
+    "email": "cgebhard@pasen.gov",
+    "name": "Chris Gebhard",
+    "party": "Republican",
+    "url": "https://senatorgebhard.com/"
+   }
+  ],
+  "49": [
+   {
+    "email": "dlaughlin@pasen.gov",
+    "name": "Dan Laughlin",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1766"
+   }
+  ],
+  "5": [
+   {
+    "email": "jpicozzi@pasen.gov",
+    "name": "Joe Picozzi",
+    "party": "Republican",
+    "url": "https://5thdistrict.pasenategop.com/"
+   }
+  ],
+  "50": [
+   {
+    "email": "mbrooks@pasen.gov",
+    "name": "Michele Brooks",
+    "party": "Republican",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1087"
+   }
+  ],
+  "6": [
+   {
+    "email": "ffarry@pasen.gov",
+    "name": "Frank Farry",
+    "party": "Republican",
+    "url": "https://senatorfarry.com/"
+   }
+  ],
+  "7": [
+   {
+    "email": "hughes@pasenate.com",
+    "name": "Vincent Hughes",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=152"
+   }
+  ],
+  "8": [
+   {
+    "email": "williams@pasenate.com",
+    "name": "Tony Williams",
+    "party": "Democratic",
+    "url": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=153"
+   }
+  ],
+  "9": [
+   {
+    "email": "kane@pasenate.com",
+    "name": "John Kane",
+    "party": "Democratic",
+    "url": "https://pasenatorkane.com/"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

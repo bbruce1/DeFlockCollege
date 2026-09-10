@@ -7,10 +7,11 @@ import { createRoot } from 'react-dom/client';
 // Breeze scaffolds for v2 is no longer the right shape.
 const pages = import.meta.glob('./Pages/**/*.tsx', { eager: false });
 
-const appName = import.meta.env.VITE_APP_NAME || 'Laravel';
+const appName = import.meta.env.VITE_APP_NAME || 'DeFlock Campus';
 
 createInertiaApp({
-    title: (title) => `${title} - ${appName}`,
+    // Chapter pages set their own full title; only bare pages get the suffix.
+    title: (title) => (title ? title : appName),
     // Inertia 3 wants the component itself, not the module wrapping it.
     resolve: async (name) => {
         const page = pages[`./Pages/${name}.tsx`];

@@ -1,0 +1,1035 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Donald Norcross",
+    "party": "Democrat",
+    "phone": "202-225-6501",
+    "url": "https://norcross.house.gov"
+   }
+  ],
+  "10": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "LaMonica McIver",
+    "party": "Democrat",
+    "phone": "202-225-3436",
+    "url": "https://mciver.house.gov"
+   }
+  ],
+  "11": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Analilia Mejia",
+    "party": "Democrat",
+    "phone": "202-225-5034",
+    "url": "https://mejia.house.gov"
+   }
+  ],
+  "12": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Bonnie Watson Coleman",
+    "party": "Democrat",
+    "phone": "202-225-5801",
+    "url": "https://watsoncoleman.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Jefferson Van Drew",
+    "party": "Republican",
+    "phone": "202-225-6572",
+    "url": "https://vandrew.house.gov"
+   }
+  ],
+  "3": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Herbert Conaway",
+    "party": "Democrat",
+    "phone": "202-225-4765",
+    "url": "https://conaway.house.gov"
+   }
+  ],
+  "4": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Christopher Smith",
+    "party": "Republican",
+    "phone": "202-225-3765",
+    "url": "https://chrissmith.house.gov"
+   }
+  ],
+  "5": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Josh Gottheimer",
+    "party": "Democrat",
+    "phone": "202-225-4465",
+    "url": "https://gottheimer.house.gov"
+   }
+  ],
+  "6": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Frank Pallone",
+    "party": "Democrat",
+    "phone": "202-225-4671",
+    "url": "https://pallone.house.gov"
+   }
+  ],
+  "7": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Thomas Kean",
+    "party": "Republican",
+    "phone": "202-225-5361",
+    "url": "https://kean.house.gov"
+   }
+  ],
+  "8": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Robert Menendez",
+    "party": "Democrat",
+    "phone": "202-225-7919",
+    "url": "https://menendez.house.gov"
+   }
+  ],
+  "9": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Nellie Pou",
+    "party": "Democrat",
+    "phone": "202-225-5751",
+    "url": "https://pou.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.booker.senate.gov/?p=contact",
+   "email": null,
+   "name": "Cory Booker",
+   "party": "Democrat",
+   "phone": "202-224-3224",
+   "url": "https://www.booker.senate.gov"
+  },
+  {
+   "contactForm": null,
+   "email": null,
+   "name": "Andy Kim",
+   "party": "Democrat",
+   "phone": "202-224-4744",
+   "url": "https://www.kim.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "asmmcclellan@njleg.org",
+    "name": "Antwan McClellan",
+    "party": "Republican",
+    "url": "https://www.njassemblygop.com/212/Antwan-McClellan"
+   },
+   {
+    "email": "asmsimonsen@njleg.org",
+    "name": "Erik Simonsen",
+    "party": "Republican",
+    "url": "https://www.njassemblygop.com/235/Erik-Simonsen"
+   }
+  ],
+  "10": [
+   {
+    "email": "asmmcguckin@njleg.org",
+    "name": "Greg McGuckin",
+    "party": "Republican",
+    "url": "https://www.njassemblygop.com/229/Gregory-McGuckin"
+   },
+   {
+    "email": "asmkanitra@njleg.org",
+    "name": "Paul Kanitra",
+    "party": "Republican",
+    "url": "https://www.njassemblygop.com/226/Paul-Kanitra"
+   }
+  ],
+  "11": [
+   {
+    "email": "aswpeterpaul@njleg.org",
+    "name": "Luanne Peterpaul",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/172/Luanne-M-Peterpaul---District-11"
+   },
+   {
+    "email": "aswdonlon@njleg.org",
+    "name": "Margie Donlon",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/171/Margie-M-Donlon---District-11"
+   }
+  ],
+  "12": [
+   {
+    "email": "asmsauickie@njleg.org",
+    "name": "Alex Sauickie",
+    "party": "Republican",
+    "url": "https://njleg.state.nj.us/legislative-roster/454/assemblyman-sauickie"
+   },
+   {
+    "email": "asmclifton@njleg.org",
+    "name": "Rob Clifton",
+    "party": "Republican",
+    "url": "https://www.njassemblygop.com/220/Robert-Clifton"
+   }
+  ],
+  "13": [
+   {
+    "email": "asmscharfenberger@njleg.org",
+    "name": "Gerry Scharfenberger",
+    "party": "Republican",
+    "url": "https://www.njassemblygop.com/234/Gerry-Scharfenberger"
+   },
+   {
+    "email": "aswflynn@njleg.org",
+    "name": "Vicky Flynn",
+    "party": "Republican",
+    "url": "https://www.njassemblygop.com/223/Victoria-Flynn"
+   }
+  ],
+  "14": [
+   {
+    "email": "aswmccoy@njleg.org",
+    "name": "Tennille McCoy",
+    "party": "Democratic",
+    "url": "https://tennillermccoy.com/"
+   },
+   {
+    "email": "asmdeangelo@njleg.org",
+    "name": "Wayne DeAngelo",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/174/Wayne-P-DeAngelo---District-14"
+   }
+  ],
+  "15": [
+   {
+    "email": "asmverrelli@njleg.org",
+    "name": "Anthony Verrelli",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/177/Anthony-S-Verrelli---District-15"
+   },
+   {
+    "email": "aswreynoldsjackson@njleg.org",
+    "name": "Verlina Reynolds-Jackson",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/169/Verlina-Reynolds-Jackson---District-15"
+   }
+  ],
+  "16": [
+   {
+    "email": "aswdrulis@njleg.org",
+    "name": "Mitchelle Drulis",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/178/Mitchelle-Drulis---District-16"
+   },
+   {
+    "email": "asmfreiman@njleg.org",
+    "name": "Roy Freiman",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/180/Roy-Freiman---District-16"
+   }
+  ],
+  "17": [
+   {
+    "email": "asmdanielsen@njleg.org",
+    "name": "Joe Danielsen",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/181/Joseph-Danielsen---District-17"
+   },
+   {
+    "email": "asmegan@njleg.org",
+    "name": "Kevin Egan",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/182/Kevin-P-Egan---District-17"
+   }
+  ],
+  "18": [
+   {
+    "email": "asmkarabinchak@njleg.org",
+    "name": "Robert Karabinchak",
+    "party": "Democratic",
+    "url": "https://robkarabinchak.com/"
+   },
+   {
+    "email": "asmstanley@njleg.org",
+    "name": "Sterley Stanley",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/191/Sterley-Stanley---District-18"
+   }
+  ],
+  "19": [
+   {
+    "email": "asmcoughlin@njleg.org",
+    "name": "Craig Coughlin",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/185/Craig-J-Coughlin---District-19"
+   },
+   {
+    "email": "aswlopez@njleg.org",
+    "name": "Yvonne Lopez",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/188/Yvonne-Lopez---District-19"
+   }
+  ],
+  "2": [
+   {
+    "email": "asmguardian@njleg.org",
+    "name": "Don Guardian",
+    "party": "Republican",
+    "url": "https://www.njassemblygop.com/224/Donald-Guardian"
+   },
+   {
+    "email": "aswrowan@njleg.org",
+    "name": "Maureen Rowan",
+    "party": "Democratic",
+    "url": "https://njleg.state.nj.us/legislative-roster/501/assemblywoman-rowan"
+   }
+  ],
+  "20": [
+   {
+    "email": "aswquijano@njleg.org",
+    "name": "Annette Quijano",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/170/Annette-Quijano---District-20"
+   },
+   {
+    "email": "asmrodriguez@njleg.org",
+    "name": "Ed Rodriguez",
+    "party": "Democratic",
+    "url": "https://njleg.state.nj.us/legislative-roster/503/assemblyman-rodriguez"
+   }
+  ],
+  "21": [
+   {
+    "email": "asmmacurdy@njleg.org",
+    "name": "Andrew Macurdy",
+    "party": "Democratic",
+    "url": "https://njleg.state.nj.us/legislative-roster/505/assemblyman-macurdy"
+   },
+   {
+    "email": "asmkearney@njleg.org",
+    "name": "Vinnie Kearney",
+    "party": "Democratic",
+    "url": "https://njleg.state.nj.us/legislative-roster/504/assemblyman-kearney"
+   }
+  ],
+  "22": [
+   {
+    "email": "asmkennedy@njleg.org",
+    "name": "Jim Kennedy",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/195/James-J-Kennedy---District-22"
+   },
+   {
+    "email": "aswcarter@njleg.org",
+    "name": "Linda Carter",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/194/Linda-S-Carter---District-22"
+   }
+  ],
+  "23": [
+   {
+    "email": "asmpeterson@njleg.org",
+    "name": "Erik Peterson",
+    "party": "Republican",
+    "url": "https://www.njassemblygop.com/232/Erik-Peterson"
+   },
+   {
+    "email": "asmdimaio@njleg.org",
+    "name": "John DiMaio",
+    "party": "Republican",
+    "url": "https://www.njassemblygop.com/211/John-DiMaio"
+   }
+  ],
+  "24": [
+   {
+    "email": "aswfantasia@njleg.org",
+    "name": "Dawn Fantasia",
+    "party": "Republican",
+    "url": "https://www.njassemblygop.com/222/Dawn-Fantasia"
+   },
+   {
+    "email": "asminganamort@njleg.org",
+    "name": "Mike Inganamort",
+    "party": "Republican",
+    "url": "https://www.njassemblygop.com/225/Michael-Inganamort"
+   }
+  ],
+  "25": [
+   {
+    "email": "aswdunn@njleg.org",
+    "name": "Aura Dunn",
+    "party": "Republican",
+    "url": "https://www.njassemblygop.com/221/Aura-Dunn"
+   },
+   {
+    "email": "aswsweeney@njleg.org",
+    "name": "Marisa Sweeney",
+    "party": "Democratic",
+    "url": "https://njleg.state.nj.us/legislative-roster/506/assemblywoman-sweeney"
+   }
+  ],
+  "26": [
+   {
+    "email": "asmbergen@njleg.org",
+    "name": "Brian Bergen",
+    "party": "Republican",
+    "url": "https://www.njassemblygop.com/161/Brian-Bergen"
+   },
+   {
+    "email": "asmwebber@njleg.org",
+    "name": "Jay Webber",
+    "party": "Republican",
+    "url": "https://www.njassemblygop.com/238/Jay-Webber"
+   }
+  ],
+  "27": [
+   {
+    "email": "aswcollazosgill@njleg.org",
+    "name": "Alixon Collazos-Gill",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/204/Alixon-Collazos-Gill---District-27"
+   },
+   {
+    "email": "aswbagolie@njleg.org",
+    "name": "Rosy Bagolie",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/203/Rosaura-Rosy-Bagolie---District-27"
+   }
+  ],
+  "28": [
+   {
+    "email": "asmonyema@njleg.org",
+    "name": "Chigozie Onyema",
+    "party": "Democratic",
+    "url": "https://njleg.state.nj.us/legislative-roster/507/assemblyman-onyema"
+   },
+   {
+    "email": "aswtucker@njleg.org",
+    "name": "Cleopatra Tucker",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/199/Cleopatra-G-Tucker---District-28"
+   }
+  ],
+  "29": [
+   {
+    "email": "aswpintormarin@njleg.org",
+    "name": "Eliana Pintor Marin",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/173/Eliana-Pintor-Marin---District-29"
+   },
+   {
+    "email": "aswspeight@njleg.org",
+    "name": "Shanique Speight",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/200/Shanique-Speight---District-29"
+   }
+  ],
+  "3": [
+   {
+    "email": "asmbailey@njleg.org",
+    "name": "Dave Bailey",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/157/Dave-Bailey-Jr---District-3"
+   },
+   {
+    "email": "aswsimmons@njleg.org",
+    "name": "Heather Simmons",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/159/Heather-Simmons---District-3"
+   }
+  ],
+  "30": [
+   {
+    "email": "asmschnall@njleg.org",
+    "name": "Avi Schnall",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/210/Alexander-Avi-Schnall---District-30"
+   },
+   {
+    "email": "asmskean@njleg.org",
+    "name": "Sean Kean",
+    "party": "Republican",
+    "url": "https://www.njassemblygop.com/227/Sean-Kean"
+   }
+  ],
+  "31": [
+   {
+    "email": "asmwalker@njleg.org",
+    "name": "Jerry Walker",
+    "party": "Democratic",
+    "url": "https://njleg.state.nj.us/legislative-roster/508/assemblyman-walker"
+   },
+   {
+    "email": "asmsampson@njleg.org",
+    "name": "Will Sampson",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/201/William-Sampson---District-31"
+   }
+  ],
+  "32": [
+   {
+    "email": "aswbrennan@njleg.org",
+    "name": "Katie Brennan",
+    "party": "Democratic",
+    "url": "https://njleg.state.nj.us/legislative-roster/510/assemblywoman-brennan"
+   },
+   {
+    "email": "asmbhalla@njleg.org",
+    "name": "Ravi Bhalla",
+    "party": "Democratic",
+    "url": "https://njleg.state.nj.us/legislative-roster/509/assemblyman-bhalla"
+   }
+  ],
+  "33": [
+   {
+    "email": "asmrodriguez@njleg.org",
+    "name": "Gabe Rodriguez",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/223/Gabriel-Rodriguez---District-33"
+   },
+   {
+    "email": "asmwainstein@njleg.org",
+    "name": "Larry Wainstein",
+    "party": "Democratic",
+    "url": "https://njleg.state.nj.us/legislative-roster/511/assemblyman-wainstein"
+   }
+  ],
+  "34": [
+   {
+    "email": "aswmorales@njleg.org",
+    "name": "Carmen Morales",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/237/Carmen-Morales---District-34"
+   },
+   {
+    "email": "asmvenezia@njleg.org",
+    "name": "Mike Venezia",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/238/Michael-Venezia---District-34"
+   }
+  ],
+  "35": [
+   {
+    "email": "asmabdelaziz@njleg.org",
+    "name": "Al Abdelaziz",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/388/Alaa-Al-Abdelaziz---District-35"
+   },
+   {
+    "email": "asmstewart@njleg.org",
+    "name": "Kenyatta Stewart",
+    "party": "Democratic",
+    "url": "https://njleg.state.nj.us/legislative-roster/512/assemblyman-stewart"
+   }
+  ],
+  "36": [
+   {
+    "email": "asmcalabrese@njleg.org",
+    "name": "Clinton Calabrese",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/226/Clinton-Calabrese---District-36"
+   },
+   {
+    "email": "asmschaer@njleg.org",
+    "name": "Gary Schaer",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/179/Gary-S-Schaer---District-36"
+   }
+  ],
+  "37": [
+   {
+    "email": "aswpark@njleg.org",
+    "name": "Ellen Park",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/206/Ellen-Park---District-37"
+   },
+   {
+    "email": "aswhaider@njleg.org",
+    "name": "Shama Haider",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/209/Shama-Haider---District-37"
+   }
+  ],
+  "38": [
+   {
+    "email": "aswswain@njleg.org",
+    "name": "Lisa Swain",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/193/Lisa-Swain---District-38"
+   },
+   {
+    "email": "asmtully@njleg.org",
+    "name": "Chris Tully",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/211/Christopher-Tully---District-38"
+   }
+  ],
+  "39": [
+   {
+    "email": "asmazzariti@njleg.org",
+    "name": "John Azzariti",
+    "party": "Republican",
+    "url": "https://www.njassemblygop.com/217/John-Azzariti"
+   },
+   {
+    "email": "asmauth@njleg.org",
+    "name": "Bob Auth",
+    "party": "Republican",
+    "url": "https://www.njassemblygop.com/216/Robert-Auth"
+   }
+  ],
+  "4": [
+   {
+    "email": "asmmiller@njleg.org",
+    "name": "Cody Miller",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/161/Cody-Miller---District-4"
+   },
+   {
+    "email": "asmhutchison@njleg.org",
+    "name": "Dan Hutchison",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/160/Dan-Hutchison---District-4"
+   }
+  ],
+  "40": [
+   {
+    "email": "asmbarlas@njleg.org",
+    "name": "Al Barlas",
+    "party": "Republican",
+    "url": "https://www.njassemblygop.com/218/Al-Barlas"
+   },
+   {
+    "email": "asmdephillips@njleg.org",
+    "name": "Chris DePhillips",
+    "party": "Republican",
+    "url": "https://www.njassemblygop.com/213/Christopher-DePhillips"
+   }
+  ],
+  "5": [
+   {
+    "email": "asmmoen@njleg.org",
+    "name": "Bill Moen",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/163/William-F-Moen-Jr---District-5"
+   },
+   {
+    "email": "asmspearman@njleg.org",
+    "name": "Bill Spearman",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/162/William-W-Spearman---District-5"
+   }
+  ],
+  "6": [
+   {
+    "email": "asmgreenwald@njleg.org",
+    "name": "Lou Greenwald",
+    "party": "Democratic",
+    "url": "https://nj-newjerseylegislativead.civicplus.com/165/Louis-D-Greenwald---District-6"
+   },
+   {
+    "email": "aswkane@njleg.org",
+    "name": "Melinda Kane",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/387/Melinda-Kane---District-6"
+   }
+  ],
+  "7": [
+   {
+    "email": "asmsingh@njleg.org",
+    "name": "Balvir Singh",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/389/Balvir-Singh---District-7"
+   },
+   {
+    "email": "aswmurphy@njleg.org",
+    "name": "Carol Murphy",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/167/Carol-Murphy---District-7"
+   }
+  ],
+  "8": [
+   {
+    "email": "aswkatz@njleg.org",
+    "name": "Andrea Katz",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/168/Andrea-Katz---District-8"
+   },
+   {
+    "email": "asmangelozzi@njleg.org",
+    "name": "Anthony Angelozzi",
+    "party": "Democratic",
+    "url": "https://njleg.state.nj.us/legislative-roster/502/assemblyman-angelozzi"
+   }
+  ],
+  "9": [
+   {
+    "email": "asmrumpf@njleg.org",
+    "name": "Brian Rumpf",
+    "party": "Republican",
+    "url": "https://www.njassemblygop.com/215/Brian-Rumpf"
+   },
+   {
+    "email": "asmmyhre@njleg.org",
+    "name": "Greg Myhre",
+    "party": "Republican",
+    "url": "https://www.njassemblygop.com/231/Gregory-Myhre"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/nj.csv"
+ },
+ "state": "NJ",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "sentesta@njleg.org",
+    "name": "Mike Testa",
+    "party": "Republican",
+    "url": "https://testa.senatenj.com/testa.php"
+   }
+  ],
+  "10": [
+   {
+    "email": "senholzapfel@njleg.org",
+    "name": "Jim Holzapfel",
+    "party": "Republican",
+    "url": "https://holzapfel.senatenj.com/"
+   }
+  ],
+  "11": [
+   {
+    "email": "sengopal@njleg.org",
+    "name": "Vin Gopal",
+    "party": "Democratic",
+    "url": "https://www.njleg.state.nj.us/legislative-roster/405/senator-gopal"
+   }
+  ],
+  "12": [
+   {
+    "email": "senhenry@njleg.org",
+    "name": "Owen Henry",
+    "party": "Republican",
+    "url": "https://www.njleg.state.nj.us/legislative-roster/470/senator-henry"
+   }
+  ],
+  "13": [
+   {
+    "email": "senoscanlon@njleg.org",
+    "name": "Declan O'Scanlon",
+    "party": "Republican",
+    "url": "https://oscanlon.senatenj.com/"
+   }
+  ],
+  "14": [
+   {
+    "email": "sengreenstein@njleg.org",
+    "name": "Linda Greenstein",
+    "party": "Democratic",
+    "url": "https://www.njleg.state.nj.us/legislative-roster/329/senator-greenstein"
+   }
+  ],
+  "15": [
+   {
+    "email": "senturner@njleg.org",
+    "name": "Shirley Turner",
+    "party": "Democratic",
+    "url": "https://www.njleg.state.nj.us/legislative-roster/47/senator-turner"
+   }
+  ],
+  "16": [
+   {
+    "email": "senzwicker@njleg.org",
+    "name": "Andrew Zwicker",
+    "party": "Democratic",
+    "url": "https://www.andrewzwicker.com"
+   }
+  ],
+  "17": [
+   {
+    "email": "senbsmith@njleg.org",
+    "name": "Bob Smith",
+    "party": "Democratic",
+    "url": "https://www.njleg.state.nj.us/legislative-roster/53/senator-smith"
+   }
+  ],
+  "18": [
+   {
+    "email": "sendiegnan@njleg.org",
+    "name": "Patrick Diegnan",
+    "party": "Democratic",
+    "url": "https://www.njleg.state.nj.us/legislative-roster/387/senator-diegnan"
+   }
+  ],
+  "19": [
+   {
+    "email": "senvitale@njleg.org",
+    "name": "Joe Vitale",
+    "party": "Democratic",
+    "url": "https://www.njleg.state.nj.us/legislative-roster/175/senator-vitale"
+   }
+  ],
+  "2": [
+   {
+    "email": "senpolistina@njleg.org",
+    "name": "Vince Polistina",
+    "party": "Republican",
+    "url": "https://polistina.senatenj.com/"
+   }
+  ],
+  "20": [
+   {
+    "email": "sencryan@njleg.org",
+    "name": "Joe Cryan",
+    "party": "Democratic",
+    "url": "https://www.njleg.state.nj.us/legislative-roster/406/senator-cryan"
+   }
+  ],
+  "21": [
+   {
+    "email": "senbramnick@njleg.org",
+    "name": "Jon Bramnick",
+    "party": "Republican",
+    "url": "https://bramnick.senatenj.com/"
+   }
+  ],
+  "22": [
+   {
+    "email": "senscutari@njleg.org",
+    "name": "Nick Scutari",
+    "party": "Democratic",
+    "url": "https://www.njleg.state.nj.us/legislative-roster/237/senator-scutari"
+   }
+  ],
+  "23": [
+   {
+    "email": "sensteinhardt@njleg.org",
+    "name": "Doug Steinhardt",
+    "party": "Republican",
+    "url": "https://steinhardt.senatenj.com/"
+   }
+  ],
+  "24": [
+   {
+    "email": "senspace@njleg.org",
+    "name": "Parker Space",
+    "party": "Republican",
+    "url": "https://www.njassemblygop.com/space/"
+   }
+  ],
+  "25": [
+   {
+    "email": "senbucco@njleg.org",
+    "name": "Tony Bucco",
+    "party": "Republican",
+    "url": "https://bucco.senatenj.com/"
+   }
+  ],
+  "26": [
+   {
+    "email": "senpennacchio@njleg.org",
+    "name": "Joe Pennacchio",
+    "party": "Republican",
+    "url": "https://pennacchio.senatenj.com/"
+   }
+  ],
+  "27": [
+   {
+    "email": "senmckeon@njleg.org",
+    "name": "John McKeon",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/john-mckeon/"
+   }
+  ],
+  "28": [
+   {
+    "email": "senburgess@njleg.org",
+    "name": "Renee Burgess",
+    "party": "Democratic",
+    "url": "https://www.njleg.state.nj.us/legislative-roster/455/senator-burgess"
+   }
+  ],
+  "29": [
+   {
+    "email": "senruiz@njleg.org",
+    "name": "Teresa Ruiz",
+    "party": "Democratic",
+    "url": "https://www.njleg.state.nj.us/legislative-roster/287/senator-ruiz"
+   }
+  ],
+  "3": [
+   {
+    "email": "senburzichelli@njleg.org",
+    "name": "John Burzichelli",
+    "party": "Democratic",
+    "url": "https://www.njleg.state.nj.us/legislative-roster/458/senator-burzichelli"
+   }
+  ],
+  "30": [
+   {
+    "email": "sensinger@njleg.org",
+    "name": "Bob Singer",
+    "party": "Republican",
+    "url": "https://singer.senatenj.com/"
+   }
+  ],
+  "31": [
+   {
+    "email": "senmcknight@njleg.org",
+    "name": "Angela McKnight",
+    "party": "Democratic",
+    "url": "https://www.njleg.state.nj.us/legislative-roster/383/assemblywoman-mcknight"
+   }
+  ],
+  "32": [
+   {
+    "email": "senmukherji@njleg.org",
+    "name": "Raj Mukherji",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/raj-mukherji/"
+   }
+  ],
+  "33": [
+   {
+    "email": "senstack@njleg.org",
+    "name": "Brian Stack",
+    "party": "Democratic",
+    "url": "https://www.njleg.state.nj.us/legislative-roster/306/senator-stack"
+   }
+  ],
+  "34": [
+   {
+    "email": "sentimberlake@njleg.org",
+    "name": "Britnee Timberlake",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/britnee-timberlake/"
+   }
+  ],
+  "35": [
+   {
+    "email": "senwimberly@njleg.org",
+    "name": "Benjie Wimberly",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/176/Benjie-E-Wimberly---District-35"
+   }
+  ],
+  "36": [
+   {
+    "email": "sensarlo@njleg.org",
+    "name": "Paul Sarlo",
+    "party": "Democratic",
+    "url": "https://www.njleg.state.nj.us/legislative-roster/223/senator-sarlo"
+   }
+  ],
+  "37": [
+   {
+    "email": "senjohnson@njleg.org",
+    "name": "Gordon Johnson",
+    "party": "Democratic",
+    "url": "https://www.njleg.state.nj.us/legislative-roster/434/senator-johnson"
+   }
+  ],
+  "38": [
+   {
+    "email": "senlagana@njleg.org",
+    "name": "Joe Lagana",
+    "party": "Democratic",
+    "url": "https://www.njleg.state.nj.us/legislative-roster/411/senator-lagana"
+   }
+  ],
+  "39": [
+   {
+    "email": "senschepisi@njleg.org",
+    "name": "Holly Schepisi",
+    "party": "Republican",
+    "url": "https://schepisi.senatenj.com/"
+   }
+  ],
+  "4": [
+   {
+    "email": "senmoriarty@njleg.org",
+    "name": "Paul Moriarty",
+    "party": "Democratic",
+    "url": "https://www.assemblydems.com/paul-moriarty/"
+   }
+  ],
+  "40": [
+   {
+    "email": "sencorrado@njleg.org",
+    "name": "Kristin Corrado",
+    "party": "Republican",
+    "url": "https://corrado.senatenj.com/"
+   }
+  ],
+  "5": [
+   {
+    "email": "sencruzperez@njleg.org",
+    "name": "Nilsa Cruz-Perez",
+    "party": "Democratic",
+    "url": "https://www.njleg.state.nj.us/legislative-roster/371/senator-cruz-perez"
+   }
+  ],
+  "6": [
+   {
+    "email": "senbeach@njleg.org",
+    "name": "Jim Beach",
+    "party": "Democratic",
+    "url": "https://www.njleg.state.nj.us/legislative-roster/310/senator-beach"
+   }
+  ],
+  "7": [
+   {
+    "email": "sensingleton@njleg.org",
+    "name": "Troy Singleton",
+    "party": "Democratic",
+    "url": "https://www.njleg.state.nj.us/legislative-roster/395/senator-singleton"
+   }
+  ],
+  "8": [
+   {
+    "email": "sentiver@njleg.org",
+    "name": "Latham Tiver",
+    "party": "Republican",
+    "url": "https://www.njleg.state.nj.us/legislative-roster/464/senator-tiver"
+   }
+  ],
+  "9": [
+   {
+    "email": "senamato@njleg.org",
+    "name": "Carmen Amato",
+    "party": "Republican",
+    "url": "https://www.njleg.state.nj.us/legislative-roster/465/senator-amato"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

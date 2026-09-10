@@ -1,0 +1,602 @@
+[
+  {
+    "id": "plain-001",
+    "angle": "plain",
+    "subject": "Asking about the plate readers near {{shortName}}",
+    "body": "Dear {{officialName}},\n\nI would like the automated license plate readers around {{shortName}} taken down, and I am hoping the city will not approve any more of them.\n\nI study at {{school}} and am on or near campus most days. Having my car photographed and logged every time it passes is not something I ever agreed to, and it sits badly with me. The cameras keep running whether or not anyone nearby has done anything wrong.\n\nKnowing where you stand before the next contract comes up would help me a great deal. Even a short reply would be welcome. Thank you for reading a letter from one student."
+  },
+  {
+    "id": "plain-002",
+    "angle": "plain",
+    "subject": "{{readersWithinMile}} plate readers sit within a mile of campus",
+    "body": "Dear {{officialName}},\n\nThere are {{readersWithinMile}} automated license plate readers within a mile of {{school}}, where I am a student. That figure is most of what worries me. I would like every one of them removed, with nothing installed to replace them.\n\nHaving my car photographed and filed because I drove to class is not something I want. The cameras cannot tell the difference between somebody worth watching and everybody else, and a permanent record of who was where feels like more than {{city}} needs.\n\nYou are in a position to change this, and I would be grateful to know whether you will."
+  },
+  {
+    "id": "plain-003",
+    "angle": "plain",
+    "subject": "The case for cameras around {{shortName}}",
+    "body": "Dear {{officialName}},\n\nI have been looking for the argument in favor of keeping automated license plate readers around {{shortName}}, and I have not found one that accounts for photographing everyone who drives past.\n\nThat is why I am asking you to support taking them out, with no new ones installed near campus. I am a student at {{school}}, so this is the area I move through every day.\n\nSurveillance that runs by default on people who have done nothing seems like the sort of thing a city should have to explain out loud. If there is an explanation I have missed, I would like to hear it."
+  },
+  {
+    "id": "plain-004",
+    "angle": "plain",
+    "subject": "A vote that would remove the campus readers",
+    "body": "Dear {{officialName}},\n\nA vote on these cameras would settle something that has bothered me all year. I would like the automated license plate readers around {{school}} removed, and I hope the answer to any request for more is no.\n\nI am a student there, and I never agreed to have my car logged each time I drive in. Neither did the people who live in {{city}} year round. Recording everybody in order to find somebody strikes me as a poor trade, however convenient it is.\n\nWould you tell me how you expect to vote when this comes up? Thank you."
+  },
+  {
+    "id": "plain-005",
+    "angle": "plain",
+    "subject": "I would rather not have plate readers at {{shortName}}",
+    "body": "Dear {{officialName}},\n\nI do not want automated license plate readers around {{shortName}}, I would like the ones already installed to come out, and I hope no new ones go in.\n\nThat is the whole of it. No theory about crime, no argument about government. I am a student at {{school}}, I walk and drive through the area constantly, and being recorded by default is what I object to. The cameras treat an ordinary trip to class the way they would treat a suspect, which seems backward to me.\n\nWhatever your view turns out to be, I would rather hear it from you than guess. Would you write back and tell me?"
+  },
+  {
+    "id": "plain-006",
+    "angle": "plain",
+    "subject": "Concerns about the cameras around {{school}}",
+    "body": "Dear {{officialName}},\n\nMy concern is with the automated license plate readers around campus. I would like them taken down, and I hope {{city}} will not buy more.\n\nI am a student at {{school}}. My car is photographed on the way in and again on the way out, and a record of that sits somewhere I cannot see, held by people I did not choose. Nothing about it was put to students, or to residents, before the cameras went up.\n\nA program most people never agreed to seems like a reasonable one to end. Could you tell me where you stand on ending it?"
+  },
+  {
+    "id": "plain-007",
+    "angle": "plain",
+    "subject": "Reader counts near {{shortName}} and across {{state}}",
+    "body": "Dear {{officialName}},\n\nBetween {{readersWithinMile}} automated license plate readers within a mile of {{shortName}} and {{readersInState}} of them across {{state}}, the scale of this is what unsettles me most.\n\nI am a student at {{school}}, and I would like the readers near campus removed, with no new ones approved. One camera is a tool. This many becomes a habit that nobody decided to form.\n\nIf the counts look different from where you sit, or if there is a reason for them I have not understood, I would genuinely like to hear it. A short reply would be plenty. Thank you."
+  },
+  {
+    "id": "plain-008",
+    "angle": "plain",
+    "subject": "A short request about the campus plate readers",
+    "body": "Dear {{officialName}},\n\nWhat I am asking for is short. I would like the automated license plate readers around {{school}} removed, and I hope the next proposal to add more is turned down.\n\nBeing a student here means passing those cameras several times a day. Each pass leaves a record I did not agree to and cannot look at. That is what bothers me, more than any particular use the readers might be put to.\n\nI know one letter from one person is not much. Even so, I would be grateful to hear your position. Thank you for taking the time to read it."
+  },
+  {
+    "id": "plain-009",
+    "angle": "plain",
+    "subject": "Two sentences about the readers near campus",
+    "body": "Dear {{officialName}},\n\nTwo sentences will cover what I want. The automated license plate readers around {{shortName}} should come out, and I hope none go up in their place.\n\nI am a student at {{school}}, writing once and for myself. What worries me is not any single camera but the habit of keeping a record of ordinary trips made by people who are not suspected of anything. That record outlasts whatever reason it was collected for.\n\nIf you disagree, I would still like to know. A line back with your position would be worth more to me than silence. Thank you."
+  },
+  {
+    "id": "plain-010",
+    "angle": "plain",
+    "subject": "Would you vote to remove the campus readers",
+    "body": "Dear {{officialName}},\n\nWould you consider voting to take the automated license plate readers out of service around {{school}}? I am a student there, and that is the only thing I want from this letter, along with a decision against new ones.\n\nThe cameras photograph every car on the road, mine included, and keep what they see. Nobody asked whether that was a fair price for the area, and I do not think it is.\n\nYou may have heard arguments in favor that I have not. If so, I would like to hear them. Either way, I would appreciate a reply."
+  },
+  {
+    "id": "plain-011",
+    "angle": "plain",
+    "subject": "Cars going past {{shortName}} are logged",
+    "body": "Dear {{officialName}},\n\nCars going past {{shortName}} are logged by automated license plate readers, and I would rather my city did not do that. I am a student at {{school}}, and I would like the readers removed, with none installed later.\n\nWhat sits with me is how ordinary the people being recorded are. Most of us are driving to class or to work. A record of that has to be stored, secured, and trusted to whoever holds it, and I have no way to check any of that.\n\nWould you let me know your position? Even a brief note would help."
+  },
+  {
+    "id": "plain-012",
+    "angle": "plain",
+    "subject": "If the plate reader contract comes back",
+    "body": "Dear {{officialName}},\n\nIf the automated license plate reader contract comes back for renewal, I am hoping you will vote against it, and I would like the cameras already installed around {{shortName}} taken down, with no new ones going in.\n\nI am a student at {{school}}. Living beside cameras that read every plate feels different from living beside an officer who might notice one. The first sort never stops, never forgets, and never has to explain itself.\n\nThere may be a case for renewal that I have not seen. If there is, I would like to hear it from you. Thank you for reading this."
+  },
+  {
+    "id": "plain-013",
+    "angle": "plain",
+    "subject": "Nothing I have read explains the readers",
+    "body": "Dear {{officialName}},\n\nNothing I have read explains why automated license plate readers need to run on everybody. I am a student at {{school}}, and I would like the ones around campus taken out, with no new ones installed.\n\nThe part that stays with me is the default. If a camera watched only after some reason to look, I would feel differently. These start from the assumption that everyone's movements are worth keeping, and that assumption never gets argued for.\n\nIf you have heard a better case than I have, I would like to hear it. Otherwise I hope you will support removal. Thank you."
+  },
+  {
+    "id": "plain-014",
+    "angle": "plain",
+    "subject": "Each reader near campus keeps a record",
+    "body": "Dear {{officialName}},\n\nEach of the readers around {{school}} keeps a record of people who are not suspected of anything, and mine is among them. I am a student there, and I would like the cameras removed and no more approved.\n\nWhat worries me is not one photograph. It is the file that builds up behind it, held by somebody I cannot ask about it. Ordinary trips become a history that outlives whatever reason there was to collect it.\n\nI would be grateful for your view, even if it differs from mine. A short reply would be enough to settle it. Thank you for reading."
+  },
+  {
+    "id": "plain-015",
+    "angle": "plain",
+    "subject": "Before {{city}} approves another plate reader",
+    "body": "Dear {{officialName}},\n\nBefore {{city}} approves another automated license plate reader, I would like to understand why the ones around {{school}} are there in the first place. I am a student on that campus and have not found an answer.\n\nMy hope is that the readers near campus come down and that no new ones are installed. The cameras run constantly on people going about a normal day, and that is the part I keep coming back to.\n\nIf there is a reason for them that would change my mind, I would honestly like to hear it. Thank you for your time."
+  },
+  {
+    "id": "plain-016",
+    "angle": "plain",
+    "subject": "Is a review of the readers coming up",
+    "body": "Dear {{officialName}},\n\nIs there a review coming for the automated license plate readers around {{shortName}}? If so, I would like them removed, and I hope any proposal for new ones is set aside.\n\nI am a student at {{school}}, so the cameras sit on the roads I use most. Being photographed on an ordinary drive is not something I consented to, and there is no way for me to see what is kept or for how long.\n\nKnowing your position would help me more than another round of searching. Would you write back, even briefly? Thank you."
+  },
+  {
+    "id": "plain-017",
+    "angle": "plain",
+    "subject": "One decision from your office would help",
+    "body": "Dear {{officialName}},\n\nOne decision from your office would take the automated license plate readers around {{school}} out of service, and a second would keep new ones from going in. I am hoping for both.\n\nI am a student here. The cameras photograph my car on trips that have nothing to do with anyone's investigation, and the record of that goes somewhere I cannot follow. That is the piece which unsettles me.\n\nIf either decision is further off than I think, I would still like to know where you stand. Thank you for reading a letter from one student."
+  },
+  {
+    "id": "plain-018",
+    "angle": "plain",
+    "subject": "Nobody I know was asked about the cameras",
+    "body": "Dear {{officialName}},\n\nNobody I know was asked whether automated license plate readers should go up around {{shortName}}, and I include myself in that. I am a student at {{school}}, and I would like them removed, with none added afterward.\n\nThe cameras keep working whether or not there is a reason to look at any particular car. That is a strange thing to have arrive without a public conversation, and it is what I keep thinking about.\n\nI would be glad to hear your view on removal, even a short one. Thank you for taking the time."
+  },
+  {
+    "id": "plain-019",
+    "angle": "plain",
+    "subject": "A student at {{shortName}} on the campus cameras",
+    "body": "Dear {{officialName}},\n\nAs a student at {{school}}, I would like the automated license plate readers near campus removed, and I hope no new ones are installed. That is the request, and I will not dress it up.\n\nWhat bothers me is the ordinariness of what gets recorded. Driving to class is not suspicious, and I would rather it were not logged and stored by default. Whoever holds those records is somebody I have no way to reach.\n\nIf you see a reason to keep them that I have overlooked, I would like to hear it. Otherwise I hope you will support taking them down."
+  },
+  {
+    "id": "plain-020",
+    "angle": "plain",
+    "subject": "Two things I am hoping for from your office",
+    "body": "Dear {{officialName}},\n\nTwo things would settle this for me. I would like the automated license plate readers around {{school}} taken out of service, and I hope your office will stop approving new ones.\n\nI am a student there, writing on my own behalf. The readers watch a road, not a suspect, and everyone who uses that road ends up in the record. That inversion is what I find hard to accept.\n\nYou may weigh this differently. If so, I would still rather hear your reasoning than assume it. A brief reply would be welcome. Thank you."
+  },
+  {
+    "id": "plain-021",
+    "angle": "plain",
+    "subject": "About renewing the plate reader contract",
+    "body": "Dear {{officialName}},\n\nRenewing the automated license plate reader contract is something I am hoping to see declined, and I would like the cameras near {{shortName}} taken down rather than carried forward, with none added in their place.\n\nI am a student at {{school}}. My objection is simple enough: the readers collect from everyone, all the time, and the people they collect from have no say in it and no view of it.\n\nIf renewal is already settled, I would still like to know your own position, and whether removal could be raised later. Thank you for reading a letter from one student."
+  },
+  {
+    "id": "plain-022",
+    "angle": "plain",
+    "subject": "The cameras around {{shortName}} and what they collect",
+    "body": "Dear {{officialName}},\n\nAround {{shortName}} there are automated license plate readers that photograph every car going past, mine included. I would like them removed, and I hope your office will decline new ones.\n\nI am a student at {{school}}, so I pass them often. What concerns me is that a record of ordinary movement is being kept about people who have not been accused of anything, and that the record is easier to keep than to delete.\n\nYour view on this counts for more than mine does. Would you share it with me? A short answer either way would be appreciated."
+  },
+  {
+    "id": "plain-023",
+    "angle": "plain",
+    "subject": "Counting the readers within a mile of {{shortName}}",
+    "body": "Dear {{officialName}},\n\nCounting the automated license plate readers within a mile of {{shortName}} gives {{readersWithinMile}}. Every one of them points at people going about a normal day, and I would like all of them taken out with none installed later.\n\nI am a student at {{school}}. The number is what got my attention, but the worry underneath it is simpler. Records of where people drove sit somewhere indefinitely, and nobody who is recorded gets a say.\n\nI would be grateful for your position on removal. Even a line would help me understand where this stands. Thank you."
+  },
+  {
+    "id": "plain-024",
+    "angle": "plain",
+    "subject": "Your position on the automated plate readers",
+    "body": "Dear {{officialName}},\n\nYour position on automated license plate readers is something I would like to know, because there are a number of them around {{school}}, where I am a student.\n\nMine is that they should be removed and that new ones should not be installed. The cameras photograph everybody who drives past and keep what they see, which is a lot of collecting for a problem I have never seen laid out.\n\nIf there is a reason for them that holds up, I would rather hear it than keep guessing. Would you reply and tell me how you see it? Thank you."
+  },
+  {
+    "id": "plain-025",
+    "angle": "plain",
+    "subject": "Hoping for no more cameras around {{school}}",
+    "body": "Dear {{officialName}},\n\nNo more of these cameras is what I am hoping for, and I would like the automated license plate readers already around {{school}} removed as well.\n\nI am a student here. The readers run without pause on roads that ordinary people use for ordinary reasons, and the record they build is not something anyone recorded can see or correct. That combination worries me more than the cameras themselves.\n\nYou hear from many people, I realize. Still, I would value a reply telling me whether removal is something you would support. Thank you for reading."
+  },
+  {
+    "id": "plain-026",
+    "angle": "plain",
+    "subject": "The people these readers record are not suspects",
+    "body": "Dear {{officialName}},\n\nPeople who have done nothing are the ones these readers spend their day recording, and I am one of them. I am a student at {{school}} who drives past the cameras near {{shortName}} most days.\n\nI would like them removed, and I hope no new ones are approved. The trouble for me is that the collecting starts before there is any reason for it, and carries on afterward.\n\nIf you would tell me where you stand, I would appreciate it. A short answer is more than I have now. Thank you."
+  },
+  {
+    "id": "plain-027",
+    "angle": "plain",
+    "subject": "Ending the plate reader program around campus",
+    "body": "Dear {{officialName}},\n\nEnding the automated license plate reader program would take one decision, and I am asking you to make it. The cameras near {{shortName}} should come down, and I hope nothing goes up to replace them.\n\nI am a student at {{school}}, and I pass those readers on the way to class. Each pass adds to a record kept about somebody who is not under suspicion, which describes most of the people on that road.\n\nWould you let me know whether removal is something you could support? I would be grateful for an answer either way."
+  },
+  {
+    "id": "plain-028",
+    "angle": "plain",
+    "subject": "What keeping the campus cameras costs us",
+    "body": "Dear {{officialName}},\n\nLetting the readers stay feels to me like accepting a habit that nobody chose deliberately. I would like the automated license plate readers around {{school}} removed, and I hope none are installed in their place.\n\nI am a student there. What worries me is how little it takes to keep a system like this running compared with how much it would take to unwind it later. The longer the records accumulate, the harder that gets.\n\nIf there is an argument for keeping them that I have not weighed properly, I would like to hear it. Thank you for your time."
+  },
+  {
+    "id": "plain-029",
+    "angle": "plain",
+    "subject": "The short version of what worries me",
+    "body": "Dear {{officialName}},\n\nHere is the short version. I would like the automated license plate readers around {{shortName}} taken down, and I hope {{city}} stops adding them.\n\nI am a student at {{school}}, writing once rather than joining anything. Cameras that read every plate turn a normal drive into a record, and the person in the car has no part in the decision to keep it. That is the whole of my worry.\n\nYour position would matter to me, whichever way it falls. Would you write back with it? Thank you for reading."
+  },
+  {
+    "id": "plain-030",
+    "angle": "plain",
+    "subject": "About the next proposal for more readers",
+    "body": "Dear {{officialName}},\n\nThe next proposal for more automated license plate readers is one I hope you will turn down, and I would like the ones already running around {{school}} taken out.\n\nI am a student there, writing for myself. The cameras do not distinguish between a car worth looking at and the hundreds around it, so everybody ends up in the same file. I would rather my city did not keep that file at all.\n\nIf you would tell me how you are thinking about this, I would be grateful. A brief reply would be plenty. Thank you."
+  },
+  {
+    "id": "plain-031",
+    "angle": "plain",
+    "subject": "My objection to the readers at {{shortName}}",
+    "body": "Dear {{officialName}},\n\nPut simply, I am worried about the automated license plate readers around {{shortName}}, and I would like them removed with no new ones installed. I am a student at {{school}}.\n\nThe cameras work continuously on people who have given no reason to be watched. Whatever is collected has to live somewhere, and I cannot find out where, for how long, or who can ask for it. That gap is most of what concerns me.\n\nI would rather know your view than assume it. Would you reply and tell me where you stand? Thank you for the time."
+  },
+  {
+    "id": "plain-032",
+    "angle": "plain",
+    "subject": "A ring of cameras was not what I expected",
+    "body": "Dear {{officialName}},\n\nLiving inside a ring of automated license plate readers is not what I pictured when I enrolled at {{school}}. I would like the cameras around campus removed, and I hope no more are approved.\n\nAs a student here I drive the same few roads constantly, which means the same few cameras see me constantly. The record that builds from that is about a person who has done nothing, and it will outlast any reason for making it.\n\nIf you disagree, I would still like to hear why. A short reply would mean something. Thank you."
+  },
+  {
+    "id": "plain-033",
+    "angle": "plain",
+    "subject": "Do the readers near {{shortName}} come up for review",
+    "body": "Dear {{officialName}},\n\nDo the automated license plate readers near {{shortName}} come up for review at some point? If they do, I am hoping they will be removed, and that proposals for new ones will be set aside.\n\nI am a student at {{school}}. My worry is straightforward: the cameras collect from everyone who drives past, keep it, and give the people recorded no way to see or question what is held.\n\nEven a short answer about timing and your own view would help. Thank you for reading a letter from one student."
+  },
+  {
+    "id": "plain-034",
+    "angle": "plain",
+    "subject": "One request about the cameras at {{school}}",
+    "body": "Dear {{officialName}},\n\nOne request is all I have. I would like the automated license plate readers around {{school}} removed, and I hope no more are installed.\n\nI am a student there. This is not something I want in the place where I spend most of my year, and nobody asked the people who live and study here about it. The cameras run all day on ordinary traffic, and the record does not go away when the day does.\n\nWould you tell me whether you would support removal? I would be grateful for the answer. Thank you."
+  },
+  {
+    "id": "plain-035",
+    "angle": "plain",
+    "subject": "{{state}} already has a great many plate readers",
+    "body": "Dear {{officialName}},\n\n{{state}} already has {{readersInState}} automated license plate readers, and {{readersWithinMile}} of them sit within a mile of {{school}}. Neither number reads to me like a careful decision.\n\nI am a student on that campus, and I would like the readers nearby taken down, with none installed to replace them. What concerns me is that a network this size grew without anyone having to justify it as a whole.\n\nIf there is a case for that scale, I would like to hear it. Otherwise I hope you will support removal. Thank you for reading."
+  },
+  {
+    "id": "plain-036",
+    "angle": "plain",
+    "subject": "Cameras like these sit oddly beside a university",
+    "body": "Dear {{officialName}},\n\nCameras like these sit oddly beside a university, or anywhere else people drive to work and class without expecting to be logged. I am a student at {{school}}, and I would like the readers around campus removed, with none added later.\n\nMy concern is the reach rather than any single camera. Reading every plate means treating every trip as potentially interesting, which is a strange footing for a city to keep with its residents.\n\nI would be glad to know how you see it, even if you see it differently. Thank you for taking the time to read this."
+  },
+  {
+    "id": "plain-037",
+    "angle": "plain",
+    "subject": "Is removal something you would move for",
+    "body": "Dear {{officialName}},\n\nRemoval is what I am hoping for, and I would like to know whether it is something you would move for. I am a student at {{school}}, and the automated license plate readers around {{shortName}} are what I mean.\n\nI would also be glad to see a decision against new installations. The cameras keep a record of people who are not accused of anything, which covers nearly everyone who uses those roads.\n\nIf the answer is no, I would still rather hear it from you. Thank you for reading."
+  },
+  {
+    "id": "plain-038",
+    "angle": "plain",
+    "subject": "The readers near {{shortName}} could be switched off",
+    "body": "Dear {{officialName}},\n\nSwitching the readers off and taking them down is what I would like to see happen around {{shortName}}. They have been reading plates belonging to people who have done nothing wrong, and I am one of those people.\n\nI am a student at {{school}} and drive past them often. The bit that stays with me is that none of it depends on suspicion. The cameras record first and sort later, if anyone sorts at all.\n\nWould you tell me whether you would support removal, and holding off on new ones? I would appreciate hearing it."
+  },
+  {
+    "id": "plain-039",
+    "angle": "plain",
+    "subject": "A plain request about the plate readers",
+    "body": "Dear {{officialName}},\n\nPlainly, the automated license plate readers around {{shortName}} are something I would like removed, and I hope the city stops approving new ones. I am a student at {{school}}.\n\nI have no expertise here and no organization behind me. What I have is a daily drive past cameras that keep a record of it, and a sense that the record is nobody's business but mine.\n\nIf you think I am wrong about that, I would rather be told than left to guess. A reply of any length would be welcome. Thank you."
+  },
+  {
+    "id": "plain-040",
+    "angle": "plain",
+    "subject": "A second look at the readers around {{school}}",
+    "body": "Dear {{officialName}},\n\nReconsidering the automated license plate readers around {{school}} is what I am hoping for, and my own view is that they should come out and that new ones should not be approved.\n\nI am a student there. The cameras went in without much of a public conversation, as far as I can tell, and they now run on every car that passes. Ordinary trips end up in a record I cannot see.\n\nIf a second look is possible, I would like to know. If it is not, I would still like your position. Thank you."
+  },
+  {
+    "id": "plain-041",
+    "angle": "plain",
+    "subject": "Cameras should not be the default in {{city}}",
+    "body": "Dear {{officialName}},\n\nReading every plate that passes should not be the way a city watches its streets by default, or so it seems to me. I am a student at {{school}}, and I would like the automated license plate readers around campus removed, with no new ones installed.\n\nA camera pointed at a specific problem is one thing. A camera pointed at everyone in case a problem appears is another, and the second is what the readers do all day.\n\nI would be grateful to know whether you agree, and what you would be willing to support. Thank you."
+  },
+  {
+    "id": "plain-042",
+    "angle": "plain",
+    "subject": "The readers within a mile of {{shortName}}",
+    "body": "Dear {{officialName}},\n\nWithin a mile of {{shortName}} there are {{readersWithinMile}} automated license plate readers. I would like all of them removed, and I hope none go up to take their place.\n\nI am a student at {{school}}, so those are the roads I use daily. Each camera adds to a record of trips made by people who are not under investigation, and none of us can look at what is held or ask for it back.\n\nWould you let me know where you stand on removal? Even a short reply would be worth having. Thank you for reading."
+  },
+  {
+    "id": "plain-043",
+    "angle": "plain",
+    "subject": "Adding more readers to {{city}} worries me",
+    "body": "Dear {{officialName}},\n\nAdding more automated license plate readers to {{city}} is the part that worries me most, and I hope none of them are approved. I would also like the ones near {{school}} taken out.\n\nI am a student there. Every camera makes the record more complete, and a complete record of who drove where is a thing I would rather no office had to be trusted with, however carefully it is kept.\n\nIf you see room to move on this, I would like to know. If you do not, I would still like to hear your reasoning. Thank you for reading."
+  },
+  {
+    "id": "plain-044",
+    "angle": "plain",
+    "subject": "The readers went up without a vote",
+    "body": "Dear {{officialName}},\n\nNo vote was ever taken on whether {{city}} should read every plate on the road, at least none I can find. The automated license plate readers around {{school}} went up regardless, and I would like them removed with no new ones installed.\n\nI am a student there, writing once. A decision this broad seems like one that should have been argued in the open, and the fact that it was not is a large part of why I am writing.\n\nWould you tell me your position? I would be grateful for it. Thank you."
+  },
+  {
+    "id": "plain-045",
+    "angle": "plain",
+    "subject": "A letter about the cameras, from a student",
+    "body": "Dear {{officialName}},\n\nYou will get more urgent mail than this today. Even so, I would like the automated license plate readers around {{shortName}} removed, and I hope no more are approved.\n\nI am a student at {{school}}. The cameras photograph everyone who drives past, whether or not there is any reason to, and the record they keep is one I cannot see. That is what has been on my mind.\n\nIf you can spare a line to tell me where you stand, it would mean something. Thank you for reading this far."
+  },
+  {
+    "id": "plain-046",
+    "angle": "plain",
+    "subject": "Ahead of the next plate reader renewal",
+    "body": "Dear {{officialName}},\n\nAhead of the next renewal, I would like the automated license plate readers around {{school}} taken out, and I hope anything that would add more is turned down.\n\nI am a student there. What concerns me is that renewals tend to pass quietly, and a system nobody argued for at the start ends up lasting because ending it takes more effort than continuing it.\n\nIf there is a good case for renewal, I would honestly like to hear it. If there is not, I hope you will say so. Thank you for your time."
+  },
+  {
+    "id": "plain-047",
+    "angle": "plain",
+    "subject": "The cameras at {{shortName}} bother me",
+    "body": "Dear {{officialName}},\n\nThese cameras bother me more than I expected them to. I am a student at {{school}}, and I would like the automated license plate readers around campus removed, with none installed afterward.\n\nAt first I did not think much about them. What changed my mind was noticing how constant they are, and that a record of my ordinary movements exists somewhere without my having agreed to it or being able to see it.\n\nI would like to know your view, even if it is not mine. A short reply would be enough. Thank you for reading."
+  },
+  {
+    "id": "plain-048",
+    "angle": "plain",
+    "subject": "A vote available to you this year",
+    "body": "Dear {{officialName}},\n\nThere is a vote available that would take the automated license plate readers out of the area around {{school}}, and I am hoping you will take it, along with declining anything that would add more.\n\nI am a student there. The readers run on ordinary traffic all day, and the people in that traffic have no way to know what is kept about them. That is the part I keep returning to.\n\nWould you tell me how you are leaning? I would rather hear a plain no than nothing at all. Thank you."
+  },
+  {
+    "id": "plain-049",
+    "angle": "plain",
+    "subject": "Getting removal onto the agenda",
+    "body": "Dear {{officialName}},\n\nGetting removal onto the agenda would go a long way with me. The automated license plate readers around {{shortName}} are what I mean, and I hope no new ones are approved either.\n\nI am a student at {{school}}. The cameras collect from everybody who drives past, and the collecting does not stop or ask permission. I would rather the city did without them entirely.\n\nIf putting this forward is not something you can do, I would still like to know your own position on it. Thank you for reading a letter from one student."
+  },
+  {
+    "id": "plain-050",
+    "angle": "plain",
+    "subject": "How many readers does {{city}} actually need",
+    "body": "Dear {{officialName}},\n\nHow many automated license plate readers does {{city}} actually need? My own answer is none, and I would start with the ones around {{school}}, where I am a student.\n\nI would like those removed and no new ones installed. The cameras work on everyone who passes, which means the great majority of what they collect is about people going to class or to work. Keeping that seems like the wrong instinct for a city.\n\nIf your answer differs from mine, I would like to hear it in your words. Thank you for the time."
+  },
+  {
+    "id": "plain-051",
+    "angle": "plain",
+    "subject": "Hoping for not one more camera",
+    "body": "Dear {{officialName}},\n\nNot one more camera is what I am hoping for, and I would like the automated license plate readers already around {{school}} removed too, since leaving those while refusing new ones only freezes the problem where it is.\n\nI am a student there. Being recorded by default on the drive to class is what I object to, and no policy about how the records get used changes the fact that they exist.\n\nWould you tell me whether removal is something you could back? I would be grateful for a reply."
+  },
+  {
+    "id": "plain-052",
+    "angle": "plain",
+    "subject": "Your office could settle this quickly",
+    "body": "Dear {{officialName}},\n\nYour office could settle this quickly, and I hope it will. I would like the automated license plate readers around {{shortName}} removed, and the next request for more declined.\n\nI am a student at {{school}}, so I pass those cameras several times a week. The record they build is about people who have not been accused of anything, and it stays long after whatever prompted the collection has passed.\n\nIf you would tell me where you stand, I would appreciate it. Even a sentence would be better than wondering. Thank you for reading."
+  },
+  {
+    "id": "plain-053",
+    "angle": "plain",
+    "subject": "Keeping this short about the campus readers",
+    "body": "Dear {{officialName}},\n\nKeeping this short seems fairest to both of us. The automated license plate readers near {{school}} are ones I would like removed, and I hope no new ones go in. I am a student there.\n\nThe cameras read every plate, all the time, including mine. What I cannot get past is that the record of an ordinary drive is kept by default, with no way for me to see it or ask about it.\n\nA short answer with your position would be welcome, whatever it says. Thank you for reading."
+  },
+  {
+    "id": "plain-054",
+    "angle": "plain",
+    "subject": "This is my only letter about the cameras",
+    "body": "Dear {{officialName}},\n\nThis is my only letter about this, so I will be direct rather than long. I would like the automated license plate readers around {{shortName}} removed, and I hope the city stops installing them.\n\nI am a student at {{school}}. The readers watch a road rather than a person, which sounds harmless until you notice that everyone using the road is being recorded and none of us were asked.\n\nIf you would send back a line saying where you stand, I would be grateful. Thank you for taking the time."
+  },
+  {
+    "id": "plain-055",
+    "angle": "plain",
+    "subject": "A look at what sits around {{school}}",
+    "body": "Dear {{officialName}},\n\nLooking at what sits around {{school}}, I find automated license plate readers running constantly and reading the plate of every car that passes. I would like them removed, and I hope no more are approved.\n\nI am a student there. None of this was put to the people who drive those roads daily, and the record it produces is not one any of us can see. Both of those bother me.\n\nWould you tell me whether removal is something you would support? A brief reply would be plenty. Thank you."
+  },
+  {
+    "id": "plain-056",
+    "angle": "plain",
+    "subject": "The number of readers near {{shortName}}",
+    "body": "Dear {{officialName}},\n\nSomewhere in the streets around {{shortName}} sit {{readersWithinMile}} automated license plate readers. I would like all of them taken out, and I hope nothing replaces them.\n\nI am a student at {{school}}. The figure surprised me, but what stayed with me afterward was how ordinary the traffic they read is. Almost none of it has anything to do with a crime, and all of it gets recorded anyway.\n\nI would be glad to hear your position, even in a sentence. If there is context I am missing, I would like that too. Thank you."
+  },
+  {
+    "id": "plain-057",
+    "angle": "plain",
+    "subject": "Hoping for a no on new plate readers",
+    "body": "Dear {{officialName}},\n\nA no vote on new automated license plate readers is what I am hoping for, along with removal of the ones already around {{school}}. Being a student there is my only reason for writing.\n\nThe cameras record everybody who drives past, and the people recorded have no way to check what is held or how long it lasts. That imbalance is the part which concerns me most.\n\nIf you would let me know where you stand, I would appreciate it. Thank you for reading a letter from one student who lives with these daily."
+  },
+  {
+    "id": "plain-058",
+    "angle": "plain",
+    "subject": "An ordinary complaint about the surveillance cameras",
+    "body": "Dear {{officialName}},\n\nThis is an ordinary complaint from an ordinary resident. I would like the automated license plate readers around {{shortName}} removed, and I hope the city will not install more.\n\nI am a student at {{school}}, in {{city}} for most of the year. My worry is not dramatic. Cameras that log every car build a record of people who are not suspected of anything, and that record sits somewhere out of reach of the people in it.\n\nWould you write back with your view? I would be grateful for it, whichever way it goes. Thank you."
+  },
+  {
+    "id": "plain-059",
+    "angle": "plain",
+    "subject": "Taking the readers off the poles near campus",
+    "body": "Dear {{officialName}},\n\nTaking the readers off the poles is what I would like to see around {{school}}. They have been reading plates from every car in the area, mine included, and I hope no new ones are installed either.\n\nI am a student here. The cameras never pause and never forget, and the people they record are almost entirely people going about a normal day. That combination is what I find hard to sit with.\n\nI would value knowing your position, even briefly. If you see it differently, I would still like to hear why. Thank you."
+  },
+  {
+    "id": "plain-060",
+    "angle": "plain",
+    "subject": "The readers have quietly become permanent",
+    "body": "Dear {{officialName}},\n\nWhatever the readers were meant to be at the start, they have become permanent, and I would like them removed from the area around {{school}}. I hope no new ones are installed in their place.\n\nI am a student there. Permanence is the part that worries me. A tool brought in for a particular problem stays long after, and the record it keeps grows with it, covering people who never had anything to do with the problem.\n\nWould you tell me whether you would support removal? I would be grateful for an answer. Thank you."
+  },
+  {
+    "id": "plain-061",
+    "angle": "plain",
+    "subject": "The readers cover the roads I use daily",
+    "body": "Dear {{officialName}},\n\nThe roads I use to get to class are covered by these cameras, and I would rather they were not. I am a student at {{school}}, and I would like the automated license plate readers around {{shortName}} removed, with none installed later.\n\nThere is no way to avoid them short of not driving. That is what makes this different from a camera I could choose to walk past or not, and it is why I am writing rather than shrugging.\n\nWould you share your position with me? Thank you for reading."
+  },
+  {
+    "id": "plain-062",
+    "angle": "plain",
+    "subject": "Reading everyone's plate to find one",
+    "body": "Dear {{officialName}},\n\nReading everyone's plate in order to find one person's seems like a poor trade to me, and I would like {{city}} to stop making it. The automated license plate readers around {{shortName}} are ones I hope will come down, with no new ones installed.\n\nI am a student at {{school}}. The people whose plates get read are mostly students, workers, and residents doing nothing of interest to anyone.\n\nIf you weigh that trade differently, I would like to understand why. A reply of any length would be welcome. Thank you."
+  },
+  {
+    "id": "plain-063",
+    "angle": "plain",
+    "subject": "Old readers out, new ones not approved",
+    "body": "Dear {{officialName}},\n\nOld ones out, new ones not approved. That is what I am hoping for with the automated license plate cameras around {{shortName}}, and I am writing as a student at {{school}}.\n\nHalf a solution would not settle it for me. Removing the readers while leaving the door open to replacements, or refusing new ones while the current cameras keep running, would leave the same record being built either way.\n\nI would be grateful to know whether both halves are something you could support, and if only one of them is possible, which one that would be. Thank you for reading."
+  },
+  {
+    "id": "plain-064",
+    "angle": "plain",
+    "subject": "Writing only for myself about the campus readers",
+    "body": "Dear {{officialName}},\n\nSpeaking only for myself, I would like the automated license plate readers around {{school}} removed, and I hope no new ones are installed. I am a student there and represent nobody but me.\n\nThe cameras collect constantly from people who have done nothing to invite it. Whatever protections exist around the records, the collecting itself is the thing I object to, and it happens before any of those protections matter.\n\nIf you would tell me your view, I would appreciate it. Thank you for taking a moment with this."
+  },
+  {
+    "id": "plain-065",
+    "angle": "plain",
+    "subject": "About the next camera proposal to reach you",
+    "body": "Dear {{officialName}},\n\nThe next camera proposal to reach your desk is one I hope you will decline, and I would also like the automated license plate readers already installed around {{shortName}} taken out.\n\nI am a student at {{school}}. What worries me is the direction rather than any single approval. Each new camera makes the record of ordinary movement more complete, and nothing about that process invites a decision to stop.\n\nI would be glad to hear where you stand. Even a short note would be worth having. Thank you for reading."
+  },
+  {
+    "id": "plain-066",
+    "angle": "plain",
+    "subject": "A camera on a pole does not know me",
+    "body": "Dear {{officialName}},\n\nA camera on a pole does not know who I am, and I would rather it did not find out. The automated license plate readers around {{school}} are ones I would like removed, with none installed to replace them.\n\nI am a student there. Being read and recorded on a drive to class is not something I agreed to, and no one asked. The record outlasts the trip by a very long way.\n\nIf there is a reason to keep them that I have not understood, I would like to hear it. Thank you."
+  },
+  {
+    "id": "plain-067",
+    "angle": "plain",
+    "subject": "Most people never notice the readers",
+    "body": "Dear {{officialName}},\n\nMost people in {{city}} could not say how many cameras read their plate on the way to work, and that is part of why this is easy to leave alone. I am a student at {{school}}, and I would like the readers around campus removed, with no new ones approved.\n\nNot noticing something is different from agreeing to it. The record builds either way, about people who have done nothing to prompt it.\n\nWould you tell me where you stand? I would be grateful for a reply, however brief. Thank you."
+  },
+  {
+    "id": "plain-068",
+    "angle": "plain",
+    "subject": "Quietly installed and quietly running",
+    "body": "Dear {{officialName}},\n\nQuietly installed cameras that quietly keep running are how a city ends up watching everyone without ever deciding to. The automated license plate readers around {{school}} strike me that way, and I would like them removed with none added later.\n\nI am a student there. My concern is with how little deliberation a system like this needs in order to persist, compared with how much it would take to end.\n\nIf you see this differently, I would genuinely like to know why. Thank you for reading a letter from one student."
+  },
+  {
+    "id": "plain-069",
+    "angle": "plain",
+    "subject": "The plate reader program in {{city}}",
+    "body": "Dear {{officialName}},\n\nThe plate reader program in {{city}} is one I would like to see ended, with the automated readers around {{school}} removed first, and I hope anything that would add more is turned down.\n\nI am a student on that campus. The cameras keep a record of people who are not suspected of anything, and there is no point at which any of us agreed to be part of it.\n\nWould you tell me whether ending it is something you could support? I would be grateful for an answer either way. Thank you."
+  },
+  {
+    "id": "plain-070",
+    "angle": "plain",
+    "subject": "One student with one request",
+    "body": "Dear {{officialName}},\n\nOne student with one request: I would like the automated license plate readers around {{shortName}} taken out of the area, and I hope no new ones are approved.\n\nI am at {{school}} and writing on my own. Cameras that read every plate make a record of ordinary trips, and the people in those trips are not consulted and cannot see what is kept. That is the whole of my worry, stated once.\n\nIf you would send back your position, even a line or two, I would appreciate it. Thank you for reading a letter that asks for nothing else."
+  },
+  {
+    "id": "plain-071",
+    "angle": "plain",
+    "subject": "No public conversation came before the cameras",
+    "body": "Dear {{officialName}},\n\nThere was no public conversation before these cameras went up, at least none I have been able to find. The automated license plate readers around {{shortName}} are ones I would like removed, with no new ones installed.\n\nI am a student at {{school}}. A decision that puts every driver into a record seems like one that should have been argued in the open, and I would like the chance to see that argument even now.\n\nWould you tell me your view? I would be grateful for it. Thank you for reading."
+  },
+  {
+    "id": "plain-072",
+    "angle": "plain",
+    "subject": "My answer on the plate readers is no",
+    "body": "Dear {{officialName}},\n\nMy answer on the automated license plate readers is no. I would like the ones around {{shortName}} removed, and I hope any proposal to add more is turned down.\n\nI am a student at {{school}}, and this is the only letter I plan to send about it. The cameras record everyone who drives past, which is a great many people to gather information about in order to find the rare one worth finding.\n\nIf you would let me know where you stand, I would appreciate hearing it. Thank you."
+  },
+  {
+    "id": "plain-073",
+    "angle": "plain",
+    "subject": "Removal is the outcome I am hoping for",
+    "body": "Dear {{officialName}},\n\nNothing short of removal would settle this for me. A review or a policy update would still leave the automated license plate readers around {{school}} reading plates, and I would like them out, with none installed afterward.\n\nI am a student there. My worry is with the collecting itself. Rules about how records get used matter, but they apply to a record that should not have been made about people who did nothing.\n\nIf you see a middle path I am missing, I would like to hear it. Thank you for reading."
+  },
+  {
+    "id": "plain-074",
+    "angle": "plain",
+    "subject": "Every approach to {{shortName}} has a camera",
+    "body": "Dear {{officialName}},\n\nDriving toward {{shortName}} means passing automated license plate readers, and I would rather it did not. I would like the cameras removed, and I hope the city stops installing them.\n\nI am a student at {{school}}, so I make that drive constantly. Each time, a record is made of a trip that has nothing to do with anyone's investigation, and that record does not belong to me even though it is about me.\n\nWould you tell me whether you would support removal? A short reply would be welcome. Thank you."
+  },
+  {
+    "id": "plain-075",
+    "angle": "plain",
+    "subject": "Acting on the readers before the term ends",
+    "body": "Dear {{officialName}},\n\nActing on this would not take much, as best I can tell. I would like the automated license plate readers around {{school}} removed, and I hope the next set is refused.\n\nI am a student there. The cameras are already installed and already running, which makes doing nothing the easy option. That is exactly why I thought it was worth writing to ask.\n\nIf there is a step in this that is harder than it looks from outside, I would like to understand it. Thank you for your time."
+  },
+  {
+    "id": "plain-076",
+    "angle": "plain",
+    "subject": "The simplest version of what I want",
+    "body": "Dear {{officialName}},\n\nThe simplest version of what I want is cameras out and no new cameras in, starting with the automated license plate readers around {{shortName}}.\n\nI am a student at {{school}}, which is the only standing I have here. What bothers me is that a record of every trip made by every driver exists without anyone in the car having agreed to it, and without any way to look at it.\n\nI would be grateful for a reply telling me your position. If it differs from mine, I would still like to hear it. Thank you."
+  },
+  {
+    "id": "plain-077",
+    "angle": "plain",
+    "subject": "Do you support removing the campus readers",
+    "body": "Dear {{officialName}},\n\nDo you support removing the automated license plate readers around {{school}}? That is really my only question, and I ask it as a student there who would also like new installations ruled out.\n\nThe cameras read every plate that passes, mine among them, and keep what they read. I have not found anything that explains why that is necessary on roads used mostly by people going to class and work.\n\nAn answer either way would help me more than silence. Thank you for taking the time to read this."
+  },
+  {
+    "id": "plain-078",
+    "angle": "plain",
+    "subject": "A ring of cameras around a university",
+    "body": "Dear {{officialName}},\n\nA ring of cameras around a university was somebody's idea, and it is not one I can make sense of. The automated license plate readers near {{school}} are ones I would like removed, and I hope no new ones are approved.\n\nI am a student here. Campuses are full of people who have just arrived in a city and have no particular reason to be logged coming and going. That is a strange place to start collecting.\n\nWould you let me know your position? I would be grateful for it. Thank you."
+  },
+  {
+    "id": "plain-079",
+    "angle": "plain",
+    "subject": "A position on the campus cameras",
+    "body": "Dear {{officialName}},\n\nHaving a position on this from you would help me, if you have not already stated one. Mine is that the automated license plate readers around {{shortName}} should be removed and that the city should stop adding them.\n\nI am a student at {{school}}. The cameras collect from everyone, continuously, and the people collected from have no way to see or question the record.\n\nIf your view is different, I would rather hear it plainly than not hear it. Thank you for reading a letter from one student."
+  },
+  {
+    "id": "plain-080",
+    "angle": "plain",
+    "subject": "Removal of the readers around {{school}} this year",
+    "body": "Dear {{officialName}},\n\nThis year would be a good one to remove the automated license plate readers around {{school}}, and to decide against new installations. That is what I am hoping for.\n\nI am a student there. The readers run every day on traffic that is almost entirely ordinary, and the record they build is kept out of sight of the people it describes. Time only makes that record longer.\n\nWould you tell me whether removal is something you would support this year? I would be grateful for an answer. Thank you for reading."
+  },
+  {
+    "id": "plain-081",
+    "angle": "plain",
+    "subject": "The readers do not belong in {{city}}",
+    "body": "Dear {{officialName}},\n\nCameras that read plates automatically do not belong in {{city}}, to my mind, and least of all ringing a campus. I am a student at {{school}}, and I would like the readers near campus removed, with no new ones installed.\n\nWhat worries me is that the collecting is indiscriminate by design. It cannot be otherwise, since a camera has no way of knowing which car matters until after it has recorded them all.\n\nIf there is an answer to that I have not considered, I would like to hear it. Thank you."
+  },
+  {
+    "id": "plain-082",
+    "angle": "plain",
+    "subject": "A single decision would settle this",
+    "body": "Dear {{officialName}},\n\nA single decision would settle this for me: the automated license plate readers around {{shortName}} taken out, and new ones ruled out at the same time.\n\nI am a student at {{school}}, writing once and for myself. The cameras photograph every car, mine included, and the record goes to a place I have no access to. Nobody asked whether that was an acceptable arrangement.\n\nI would be glad to know your view, even if it is not the one I am hoping for. A short reply would be more than I have now. Thank you for reading."
+  },
+  {
+    "id": "plain-083",
+    "angle": "plain",
+    "subject": "An objection from one constituent",
+    "body": "Dear {{officialName}},\n\nThis is an objection from a constituent, filed once and meant seriously. I would like the automated license plate readers around {{school}} removed, and no new ones installed.\n\nI am a student there and in {{city}} most of the year. My concern is that a record of ordinary movement is being built continuously about people who have not been accused of anything, and none of us can see it.\n\nIf you would tell me where you stand, I would appreciate it. Even a brief reply would be worth having. Thank you."
+  },
+  {
+    "id": "plain-084",
+    "angle": "plain",
+    "subject": "What happens to the plates the cameras collect",
+    "body": "Dear {{officialName}},\n\nWhat happens to a plate after a camera reads it is something I have not been able to find a trustworthy answer to, and that is one reason I would like the automated license plate readers around {{shortName}} removed.\n\nI am a student at {{school}}, and I hope no new ones are installed either. Not knowing where a record of my movements goes is uncomfortable in a way I did not expect.\n\nIf you know the answer, I would like to hear it. If not, I hope you will consider removal. Thank you."
+  },
+  {
+    "id": "plain-085",
+    "angle": "plain",
+    "subject": "Almost everyone recorded has done nothing",
+    "body": "Dear {{officialName}},\n\nAlmost everyone those cameras record has done nothing, and that includes me. I am a student at {{school}}, and I would like the automated license plate readers around campus removed, with none installed later.\n\nThe ratio is what unsettles me. A tool aimed at the rare case ends up holding information about everybody else, and everybody else never comes into it except as data that happened to be nearby.\n\nI would be grateful to know your view on removal, even in a line or two. Thank you for reading."
+  },
+  {
+    "id": "plain-086",
+    "angle": "plain",
+    "subject": "A request from someone who lives here",
+    "body": "Dear {{officialName}},\n\nFrom someone who lives in the area most of the year: I would like the automated license plate readers around {{school}} removed, and I hope the next request for more is refused.\n\nI am a student there, so my time in {{city}} is real if not permanent. The cameras log my car on trips that concern nobody, and that log stays after I have forgotten the trip entirely.\n\nWould you tell me whether you would back removal? A short answer would be plenty. Thank you for reading this."
+  },
+  {
+    "id": "plain-087",
+    "angle": "plain",
+    "subject": "An end to the readers around {{shortName}}",
+    "body": "Dear {{officialName}},\n\nAn end to the readers is what would suit me: no automated license plate readers around {{shortName}}, and none installed afterward to make up the difference.\n\nI am a student at {{school}}. My worry is simple enough. Cameras that record every car build a history of people who have done nothing, and that history sits somewhere none of us can reach or review.\n\nIf you would let me know whether you could support removal, I would be grateful. Thank you for reading a letter from one student who passes them daily."
+  },
+  {
+    "id": "plain-088",
+    "angle": "plain",
+    "subject": "Cameras around campus, from a student",
+    "body": "Dear {{officialName}},\n\nWriting as a student at {{school}}, I would like the automated license plate readers around campus removed, and I hope no new ones are installed. That is the whole request.\n\nThe cameras sit on roads I use every day. What sits badly is that a record of ordinary trips is made automatically, kept indefinitely, and shown to nobody who is in it. I would rather my city did without that.\n\nIf you would reply with your position, I would appreciate it, whichever way it falls. Thank you for reading."
+  },
+  {
+    "id": "plain-089",
+    "angle": "plain",
+    "subject": "Stopping before the next installation goes in",
+    "body": "Dear {{officialName}},\n\nStopping before the next installation would be a start, and working backward from there would be better. The automated license plate readers already around {{school}} are ones I would like removed as well.\n\nI am a student there. Every additional camera makes the record more complete, and completeness is the thing I find hard about this. Nobody set out to build a history of where residents drive, but that is what accumulates.\n\nWould you tell me where you stand? I would be grateful for a reply. Thank you."
+  },
+  {
+    "id": "plain-090",
+    "angle": "plain",
+    "subject": "A brief note about the plate readers",
+    "body": "Dear {{officialName}},\n\nBriefly, the automated license plate readers around {{shortName}} are ones I would like removed, and I hope {{city}} stops approving new ones. I am a student at {{school}}.\n\nI write on behalf of no group and have no expertise to offer. I drive past these cameras constantly, and the thought that each pass is recorded and kept somewhere I cannot see has been bothering me for a while.\n\nYour position would be worth knowing, whatever it is. Would you write back and tell me whether you could support removal and refuse new installations? Thank you for the time."
+  },
+  {
+    "id": "plain-091",
+    "angle": "plain",
+    "subject": "The answer I am hoping for is removal",
+    "body": "Dear {{officialName}},\n\nThe answer I am hoping for is removal, followed by a decision not to install more. I am a student at {{school}}, and the automated license plate readers around campus are what I mean.\n\nReviews and policy updates would leave the cameras in place and running. What concerns me is the record itself, made about people who have given no reason for it and kept beyond any reason for keeping it.\n\nIf you would tell me whether removal is possible, I would be grateful. Thank you for reading."
+  },
+  {
+    "id": "plain-092",
+    "angle": "plain",
+    "subject": "Bringing removal to a vote",
+    "body": "Dear {{officialName}},\n\nBringing removal to a vote is something I hope you will consider. The automated license plate readers around {{school}} should come down, in my view, and no new ones approved after that.\n\nI am a student there. The cameras record every car that passes, mine included, and the people recorded have no say in it and no sight of what is held. A vote would at least put that decision in the open.\n\nWould you let me know whether you would support one, and how you would vote if it came about? Thank you for reading this."
+  },
+  {
+    "id": "plain-093",
+    "angle": "plain",
+    "subject": "The easiest thing would be to leave this alone",
+    "body": "Dear {{officialName}},\n\nThe easiest thing to do with this is nothing, which is why I thought it was worth writing. I would like the automated license plate readers around {{shortName}} removed, and no new ones installed.\n\nI am a student at {{school}}. Programs like this continue on their own momentum, and the record they keep grows quietly, covering people who never came into anyone's inquiry.\n\nIf you would tell me your position, I would be grateful. Even a sentence would be more than I have now. Thank you for reading."
+  },
+  {
+    "id": "plain-094",
+    "angle": "plain",
+    "subject": "Both halves of this request matter to me",
+    "body": "Dear {{officialName}},\n\nBoth halves of this matter to me: removal of the automated license plate readers around {{school}}, and a decision against the next batch. I am a student there.\n\nDoing only one would leave the same thing happening at a different pace. The cameras collect from everyone who drives past, and the record they build is about people who have not been accused of anything.\n\nI would be grateful to know whether both are things you could support. If only one is, I would like to hear which. Thank you for reading."
+  },
+  {
+    "id": "plain-095",
+    "angle": "plain",
+    "subject": "The cameras will outlast my time at {{school}}",
+    "body": "Dear {{officialName}},\n\nThese readers will outlast my time at {{school}} unless somebody decides otherwise, and I am hoping you might be that somebody. I would like them removed, and new proposals turned down.\n\nI am a student here for a few years, and the record the cameras keep will be here longer than I am. That gap between how long the collecting lasts and how long anyone remembers the reason for it is what worries me.\n\nWould you tell me your view? I would be grateful for it. Thank you."
+  },
+  {
+    "id": "plain-096",
+    "angle": "plain",
+    "subject": "A no from one constituent",
+    "body": "Dear {{officialName}},\n\nMy own view is no. The automated license plate readers around {{shortName}} are ones I would like removed, and I hope the city approves no more of them.\n\nI am a student at {{school}} and one constituent with one opinion. The cameras read every plate that passes and keep the result, and nobody in those cars was asked whether that was acceptable. It does not seem acceptable to me.\n\nIf you would send back a line with your position, I would be grateful for it. Thank you for reading."
+  },
+  {
+    "id": "plain-097",
+    "angle": "plain",
+    "subject": "Another look at the plate reader program",
+    "body": "Dear {{officialName}},\n\nAnother look at this would be worth the time, I think. The automated license plate readers around {{school}} are ones I would like removed, and I hope new ones are refused.\n\nI am a student there. When the readers went in, they may have looked like a small addition. What they amount to now is a steady record of ordinary movement by people who have done nothing, and that is worth reconsidering.\n\nWould you tell me whether you would support removal? I would appreciate an answer. Thank you."
+  },
+  {
+    "id": "plain-098",
+    "angle": "plain",
+    "subject": "Asking directly rather than signing a petition",
+    "body": "Dear {{officialName}},\n\nRather than sign a petition, I thought I would ask you directly: would you support removing the automated license plate readers around {{school}}, and refusing new ones?\n\nI am a student there, writing once and for myself. The cameras photograph everyone who drives past and keep the record out of reach of the people in it. That is what I would like to see end.\n\nIf your answer is no, I would still like to know, and to hear the reasoning behind it. A short note would be plenty, and I would not write again. Thank you for reading."
+  },
+  {
+    "id": "plain-099",
+    "angle": "plain",
+    "subject": "Ahead of any vote on the readers",
+    "body": "Dear {{officialName}},\n\nAhead of any vote on this, I would like to know your position, and I will offer mine first. The automated license plate readers around {{shortName}} should come out, and no new ones should go in.\n\nI am a student at {{school}}. What concerns me is that these cameras record constantly and indiscriminately, and the people recorded have no way to see, question, or remove what is held.\n\nWould you write back with where you stand? Even a short answer would help me more than guessing does. Thank you for reading a letter from one student."
+  },
+  {
+    "id": "plain-100",
+    "angle": "plain",
+    "subject": "The last thing I will say about the cameras",
+    "body": "Dear {{officialName}},\n\nOnce, and then I will leave it alone: I would like the automated license plate readers around {{school}} removed, and I hope the city installs no more of them.\n\nI am a student there. The cameras record ordinary trips made by people who are not under suspicion, and the record lasts far longer than the trip or the reason for it. That is what I have been turning over.\n\nIf you would tell me where you stand, I would be grateful. Thank you for reading this one letter."
+  }
+]

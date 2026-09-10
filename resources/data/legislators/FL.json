@@ -1,0 +1,1545 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": "https://patronis.house.gov/contact/email-me",
+    "email": null,
+    "name": "Jimmy Patronis",
+    "party": "Republican",
+    "phone": "202-225-4136",
+    "url": "https://patronis.house.gov"
+   }
+  ],
+  "10": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Maxwell Frost",
+    "party": "Democrat",
+    "phone": "202-225-2176",
+    "url": "https://frost.house.gov"
+   }
+  ],
+  "11": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Daniel Webster",
+    "party": "Republican",
+    "phone": "202-225-1002",
+    "url": "https://webster.house.gov"
+   }
+  ],
+  "12": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Gus Bilirakis",
+    "party": "Republican",
+    "phone": "202-225-5755",
+    "url": "https://bilirakis.house.gov"
+   }
+  ],
+  "13": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Anna Luna",
+    "party": "Republican",
+    "phone": "202-225-5961",
+    "url": "https://luna.house.gov"
+   }
+  ],
+  "14": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Kathy Castor",
+    "party": "Democrat",
+    "phone": "202-225-3376",
+    "url": "https://castor.house.gov"
+   }
+  ],
+  "15": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Laurel Lee",
+    "party": "Republican",
+    "phone": "202-225-5626",
+    "url": "https://laurellee.house.gov"
+   }
+  ],
+  "16": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Vern Buchanan",
+    "party": "Republican",
+    "phone": "202-225-5015",
+    "url": "https://buchanan.house.gov"
+   }
+  ],
+  "17": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "W. Steube",
+    "party": "Republican",
+    "phone": "202-225-5792",
+    "url": "https://steube.house.gov"
+   }
+  ],
+  "18": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "C. Franklin",
+    "party": "Republican",
+    "phone": "202-225-1252",
+    "url": "https://franklin.house.gov"
+   }
+  ],
+  "19": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Byron Donalds",
+    "party": "Republican",
+    "phone": "202-225-2536",
+    "url": "https://donalds.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Neal Dunn",
+    "party": "Republican",
+    "phone": "202-225-5235",
+    "url": "https://dunn.house.gov"
+   }
+  ],
+  "21": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Brian Mast",
+    "party": "Republican",
+    "phone": "202-225-3026",
+    "url": "https://mast.house.gov"
+   }
+  ],
+  "22": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Lois Frankel",
+    "party": "Democrat",
+    "phone": "202-225-9890",
+    "url": "https://frankel.house.gov"
+   }
+  ],
+  "23": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Jared Moskowitz",
+    "party": "Democrat",
+    "phone": "202-225-3001",
+    "url": "https://moskowitz.house.gov"
+   }
+  ],
+  "24": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Frederica Wilson",
+    "party": "Democrat",
+    "phone": "202-225-4506",
+    "url": "https://wilson.house.gov"
+   }
+  ],
+  "25": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Debbie Wasserman Schultz",
+    "party": "Democrat",
+    "phone": "202-225-7931",
+    "url": "https://wassermanschultz.house.gov"
+   }
+  ],
+  "26": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Mario Diaz-Balart",
+    "party": "Republican",
+    "phone": "202-225-4211",
+    "url": "https://mariodiazbalart.house.gov"
+   }
+  ],
+  "27": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Maria Salazar",
+    "party": "Republican",
+    "phone": "202-225-3931",
+    "url": "https://salazar.house.gov"
+   }
+  ],
+  "28": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Carlos Gimenez",
+    "party": "Republican",
+    "phone": "202-225-2778",
+    "url": "https://gimenez.house.gov"
+   }
+  ],
+  "3": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Katherine Cammack",
+    "party": "Republican",
+    "phone": "202-225-5744",
+    "url": "https://cammack.house.gov"
+   }
+  ],
+  "4": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Aaron Bean",
+    "party": "Republican",
+    "phone": "202-225-0123",
+    "url": "https://bean.house.gov"
+   }
+  ],
+  "5": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "John Rutherford",
+    "party": "Republican",
+    "phone": "202-225-2501",
+    "url": "https://rutherford.house.gov"
+   }
+  ],
+  "6": [
+   {
+    "contactForm": "hhttps://fine.house.gov/address_authentication?form=/contact/email-me",
+    "email": null,
+    "name": "Randall Fine",
+    "party": "Republican",
+    "phone": "202-225-2706",
+    "url": "https://fine.house.gov"
+   }
+  ],
+  "7": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Cory Mills",
+    "party": "Republican",
+    "phone": "202-225-4035",
+    "url": "https://mills.house.gov"
+   }
+  ],
+  "8": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Mike Haridopolos",
+    "party": "Republican",
+    "phone": "202-225-3671",
+    "url": "https://haridopolos.house.gov"
+   }
+  ],
+  "9": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Darren Soto",
+    "party": "Democrat",
+    "phone": "202-225-9889",
+    "url": "https://soto.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.rickscott.senate.gov/contact/contact",
+   "email": null,
+   "name": "Rick Scott",
+   "party": "Republican",
+   "phone": "202-224-5274",
+   "url": "https://www.rickscott.senate.gov"
+  },
+  {
+   "contactForm": null,
+   "email": null,
+   "name": "Ashley Moody",
+   "party": "Republican",
+   "phone": "202-224-3041",
+   "url": "https://www.moody.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "michelle.salzman@flhouse.gov",
+    "name": "Michelle Salzman",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4763&LegislativeTermId=90"
+   }
+  ],
+  "10": [
+   {
+    "email": "chuck.brannan@flhouse.gov",
+    "name": "Chuck Brannan",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4708&LegislativeTermId=90"
+   }
+  ],
+  "100": [
+   {
+    "email": "chip.lamarca@flhouse.gov",
+    "name": "Chip LaMarca",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4722&LegislativeTermId=90"
+   }
+  ],
+  "101": [
+   {
+    "email": "hillary.cassel@flhouse.gov",
+    "name": "Hillary Cassel",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4895&LegislativeTermId=90"
+   }
+  ],
+  "102": [
+   {
+    "email": "mike.gottlieb@flhouse.gov",
+    "name": "Mike Gottlieb",
+    "party": "Democratic",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4724&LegislativeTermId=90"
+   }
+  ],
+  "103": [
+   {
+    "email": "robin.bartleman@flhouse.gov",
+    "name": "Robin Bartleman",
+    "party": "Democratic",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4793&LegislativeTermId=90"
+   }
+  ],
+  "104": [
+   {
+    "email": "felicia.robinson@flhouse.gov",
+    "name": "Felicia Robinson",
+    "party": "Democratic",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4791&LegislativeTermId=90"
+   }
+  ],
+  "105": [
+   {
+    "email": "marie.woodson@flhouse.gov",
+    "name": "Marie Woodson",
+    "party": "Democratic",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4789&LegislativeTermId=90"
+   }
+  ],
+  "106": [
+   {
+    "email": "fabian.basabe@flhouse.gov",
+    "name": "Fabi\u00e1n Basabe",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4900&LegislativeTermId=90"
+   }
+  ],
+  "107": [
+   {
+    "email": "wallace.aristide@flhouse.gov",
+    "name": "Wallace Aristide",
+    "party": "Democratic",
+    "url": "https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4928"
+   }
+  ],
+  "108": [
+   {
+    "email": "dotie.joseph@flhouse.gov",
+    "name": "Dotie Joseph",
+    "party": "Democratic",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4716&LegislativeTermId=90"
+   }
+  ],
+  "109": [
+   {
+    "email": "ashley.gantt@flhouse.gov",
+    "name": "Ashley Gantt",
+    "party": "Democratic",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4897&LegislativeTermId=90"
+   }
+  ],
+  "11": [
+   {
+    "email": "sam.garrison@flhouse.gov",
+    "name": "Sam Garrison",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4767&LegislativeTermId=90"
+   }
+  ],
+  "110": [
+   {
+    "email": "tom.fabricio@flhouse.gov",
+    "name": "Tom Fabricio",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4792&LegislativeTermId=90"
+   }
+  ],
+  "111": [
+   {
+    "email": "david.borrero@flhouse.gov",
+    "name": "David Borrero",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4794&LegislativeTermId=90"
+   }
+  ],
+  "112": [
+   {
+    "email": "alex.rizo@flhouse.gov",
+    "name": "Alex Rizo",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4796&LegislativeTermId=90"
+   }
+  ],
+  "114": [
+   {
+    "email": "demi.busatta@flhouse.gov",
+    "name": "Demi Busatta",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4800&LegislativeTermId=90"
+   }
+  ],
+  "115": [
+   {
+    "email": "omar.blanco@flhouse.gov",
+    "name": "Omar Blanco",
+    "party": "Republican",
+    "url": "https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4929"
+   }
+  ],
+  "117": [
+   {
+    "email": "kevin.chambliss@flhouse.gov",
+    "name": "Kevin Chambliss",
+    "party": "Democratic",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4798&LegislativeTermId=90"
+   }
+  ],
+  "118": [
+   {
+    "email": "mike.redondo@flhouse.gov",
+    "name": "Mike Redondo",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4902&LegislativeTermId=90"
+   }
+  ],
+  "119": [
+   {
+    "email": "juancarlos.porras@flhouse.gov",
+    "name": "Juan Porras",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4898&LegislativeTermId=90"
+   }
+  ],
+  "12": [
+   {
+    "email": "wyman.duggan@flhouse.gov",
+    "name": "Wyman Duggan",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4712&LegislativeTermId=90"
+   }
+  ],
+  "120": [
+   {
+    "email": "james.mooney@flhouse.gov",
+    "name": "Jim Mooney",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4797&LegislativeTermId=90"
+   }
+  ],
+  "13": [
+   {
+    "email": "angela.nixon@flhouse.gov",
+    "name": "Angie Nixon",
+    "party": "Democratic",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4766&LegislativeTermId=90"
+   }
+  ],
+  "14": [
+   {
+    "email": "kimberly.daniels@flhouse.gov",
+    "name": "Kim Daniels",
+    "party": "Democratic",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4652&LegislativeTermId=90"
+   }
+  ],
+  "15": [
+   {
+    "email": "dean.black@flhouse.gov",
+    "name": "Dean Black",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4865&LegislativeTermId=90"
+   }
+  ],
+  "16": [
+   {
+    "email": "kiyan.michael@flhouse.gov",
+    "name": "Kiyan Michael",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4869&LegislativeTermId=90"
+   }
+  ],
+  "17": [
+   {
+    "email": "jessica.baker@flhouse.gov",
+    "name": "Jessica Baker",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4866&LegislativeTermId=90"
+   }
+  ],
+  "18": [
+   {
+    "email": "kim.kendall@flhouse.gov",
+    "name": "Kim Kendall",
+    "party": "Republican",
+    "url": "https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4905"
+   }
+  ],
+  "19": [
+   {
+    "email": "sam.greco@flhouse.gov",
+    "name": "Sam Greco",
+    "party": "Republican",
+    "url": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4906"
+   }
+  ],
+  "2": [
+   {
+    "email": "alex.andrade@flhouse.gov",
+    "name": "Alex Andrade",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4710&LegislativeTermId=90"
+   }
+  ],
+  "20": [
+   {
+    "email": "judson.sapp@flhouse.gov",
+    "name": "Judson Sapp",
+    "party": "Republican",
+    "url": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4907"
+   }
+  ],
+  "21": [
+   {
+    "email": "yvonne.hinson@flhouse.gov",
+    "name": "Yvonne Hinson",
+    "party": "Democratic",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4768&LegislativeTermId=90"
+   }
+  ],
+  "22": [
+   {
+    "email": "chad.johnson@flhouse.gov",
+    "name": "Chad Johnson",
+    "party": "Republican",
+    "url": "https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4908&LegislativeTermId=91"
+   }
+  ],
+  "23": [
+   {
+    "email": "jj.grow@flhouse.gov",
+    "name": "J.J. Grow",
+    "party": "Republican",
+    "url": "https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4909"
+   }
+  ],
+  "24": [
+   {
+    "email": "ryan.chamberlin@flhouse.gov",
+    "name": "Ryan Chamberlin",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4901&LegislativeTermId=90"
+   }
+  ],
+  "25": [
+   {
+    "email": "taylor.yarkosky@flhouse.gov",
+    "name": "Taylor Yarkosky",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4868&LegislativeTermId=90"
+   }
+  ],
+  "26": [
+   {
+    "email": "nan.cobb@flhouse.gov",
+    "name": "Nan Cobb",
+    "party": "Republican",
+    "url": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4910"
+   }
+  ],
+  "27": [
+   {
+    "email": "richard.gentry@flhouse.gov",
+    "name": "Richard Gentry",
+    "party": "Republican",
+    "url": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4911"
+   }
+  ],
+  "28": [
+   {
+    "email": "bill.partington@flhouse.gov",
+    "name": "Bill Partington",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4912&LegislativeTermId=91"
+   }
+  ],
+  "29": [
+   {
+    "email": "webster.barnaby@flhouse.gov",
+    "name": "Webster Barnaby",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4770&LegislativeTermId=90"
+   }
+  ],
+  "3": [
+   {
+    "email": "nathan.boyles@flhouse.gov",
+    "name": "Nathan Boyles",
+    "party": "Republican",
+    "url": "https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=5063"
+   }
+  ],
+  "30": [
+   {
+    "email": "chase.tramont@flhouse.gov",
+    "name": "Chase Tramont",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4867&LegislativeTermId=90"
+   }
+  ],
+  "31": [
+   {
+    "email": "tyler.sirois@flhouse.gov",
+    "name": "Tyler Sirois",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4748&LegislativeTermId=90"
+   }
+  ],
+  "32": [
+   {
+    "email": "brian.hodgers@flhouse.gov",
+    "name": "Brian Hodgers",
+    "party": "Republican",
+    "url": "https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=5064&LegislativeTermId=91"
+   }
+  ],
+  "33": [
+   {
+    "email": "monique.miller@flhouse.gov",
+    "name": "Monique Miller",
+    "party": "Republican",
+    "url": "https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4913"
+   }
+  ],
+  "34": [
+   {
+    "email": "robert.brackett@flhouse.gov",
+    "name": "Robbie Brackett",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4870&LegislativeTermId=90"
+   }
+  ],
+  "35": [
+   {
+    "email": "erika.booth@flhouse.gov",
+    "name": "Erika Booth",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4914&LegislativeTermId=91"
+   }
+  ],
+  "36": [
+   {
+    "email": "rachel.plakon@flhouse.gov",
+    "name": "Rachel Plakon",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4871&LegislativeTermId=90"
+   }
+  ],
+  "37": [
+   {
+    "email": "susan.plasencia@flhouse.gov",
+    "name": "Susan Plasencia",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4872&LegislativeTermId=90"
+   }
+  ],
+  "38": [
+   {
+    "email": "david.smith@flhouse.gov",
+    "name": "Dave Smith",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4718&LegislativeTermId=90"
+   }
+  ],
+  "39": [
+   {
+    "email": "doug.bankson@flhouse.gov",
+    "name": "Doug Bankson",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4873&LegislativeTermId=90"
+   }
+  ],
+  "4": [
+   {
+    "email": "patt.maney@flhouse.gov",
+    "name": "Patt Maney",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4764&LegislativeTermId=90"
+   }
+  ],
+  "40": [
+   {
+    "email": "rashon.young@flhouse.gov",
+    "name": "RaShon Young",
+    "party": "Democratic",
+    "url": "https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=5065"
+   }
+  ],
+  "41": [
+   {
+    "email": "bruce.antone@flhouse.gov",
+    "name": "Bruce Antone",
+    "party": "Democratic",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4269&LegislativeTermId=90"
+   }
+  ],
+  "42": [
+   {
+    "email": "anna.eskamani@flhouse.gov",
+    "name": "Anna Eskamani",
+    "party": "Democratic",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4746&LegislativeTermId=90"
+   }
+  ],
+  "43": [
+   {
+    "email": "johanna.lopez@flhouse.gov",
+    "name": "Johanna L\u00f3pez",
+    "party": "Democratic",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4875&LegislativeTermId=90"
+   }
+  ],
+  "44": [
+   {
+    "email": "rita.harris@flhouse.gov",
+    "name": "Rita Harris",
+    "party": "Democratic",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4877&LegislativeTermId=90"
+   }
+  ],
+  "45": [
+   {
+    "email": "leonard.spencer@flhouse.gov",
+    "name": "Leonard Spencer",
+    "party": "Democratic",
+    "url": "https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4915&LegislativeTermId=91"
+   }
+  ],
+  "46": [
+   {
+    "email": "jose.alvarez@flhouse.gov",
+    "name": "Jose Alvarez",
+    "party": "Democratic",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4916&LegislativeTermId=91"
+   }
+  ],
+  "47": [
+   {
+    "email": "paula.stark@flhouse.gov",
+    "name": "Paula Stark",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4878&LegislativeTermId=90"
+   }
+  ],
+  "48": [
+   {
+    "email": "jon.albert@flhouse.gov",
+    "name": "Jon Albert",
+    "party": "Republican",
+    "url": "https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4917&LegislativeTermId=91"
+   }
+  ],
+  "49": [
+   {
+    "email": "jennifer.jonsson@flhouse.gov",
+    "name": "Jennifer Kincart Jonsson",
+    "party": "Republican",
+    "url": "https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4918"
+   }
+  ],
+  "5": [
+   {
+    "email": "shane.abbott@flhouse.gov",
+    "name": "Shane Abbott",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4864&LegislativeTermId=90"
+   }
+  ],
+  "50": [
+   {
+    "email": "jennifer.canady@flhouse.gov",
+    "name": "Jennifer Canady",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4879&LegislativeTermId=90"
+   }
+  ],
+  "51": [
+   {
+    "email": "hilary.holley@flhouse.gov",
+    "name": "Hilary Holley",
+    "party": "Republican",
+    "url": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=5072"
+   }
+  ],
+  "52": [
+   {
+    "email": "samantha.scott@flhouse.gov",
+    "name": "Samantha Scott",
+    "party": "Republican",
+    "url": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=5070"
+   }
+  ],
+  "53": [
+   {
+    "email": "jeff.holcomb@flhouse.gov",
+    "name": "Jeff Holcomb",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4890&LegislativeTermId=90"
+   }
+  ],
+  "54": [
+   {
+    "email": "randy.maggard@flhouse.gov",
+    "name": "Randy Maggard",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4758&LegislativeTermId=90"
+   }
+  ],
+  "56": [
+   {
+    "email": "brad.yeager@flhouse.gov",
+    "name": "Brad Yeager",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4882&LegislativeTermId=90"
+   }
+  ],
+  "57": [
+   {
+    "email": "adam.anderson@flhouse.gov",
+    "name": "Adam Anderson",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4885&LegislativeTermId=90"
+   }
+  ],
+  "58": [
+   {
+    "email": "kim.berfield@flhouse.gov",
+    "name": "Kim Berfield",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4210&LegislativeTermId=90"
+   }
+  ],
+  "59": [
+   {
+    "email": "berny.jacques@flhouse.gov",
+    "name": "Berny Jacques",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4886&LegislativeTermId=90"
+   }
+  ],
+  "6": [
+   {
+    "email": "griff.griffitts@flhouse.gov",
+    "name": "Griff Griffitts",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4862&LegislativeTermId=90"
+   }
+  ],
+  "60": [
+   {
+    "email": "lindsay.cross@flhouse.gov",
+    "name": "Lindsay Cross",
+    "party": "Democratic",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4887&LegislativeTermId=90"
+   }
+  ],
+  "61": [
+   {
+    "email": "linda.chaney@flhouse.gov",
+    "name": "Linda Chaney",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4778&LegislativeTermId=90"
+   }
+  ],
+  "62": [
+   {
+    "email": "michele.rayner@flhouse.gov",
+    "name": "Michele Rayner",
+    "party": "Democratic",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4781&LegislativeTermId=90"
+   }
+  ],
+  "63": [
+   {
+    "email": "dianne.hart-lowman@flhouse.gov",
+    "name": "Dianne Hart-Lowman",
+    "party": "Democratic",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4736&LegislativeTermId=90"
+   }
+  ],
+  "64": [
+   {
+    "email": "susan.valdes@flhouse.gov",
+    "name": "Susan Vald\u00e9s",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4752&LegislativeTermId=90"
+   }
+  ],
+  "65": [
+   {
+    "email": "karen.pittman@flhouse.gov",
+    "name": "Karen Gonzalez Pittman",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4888&LegislativeTermId=90"
+   }
+  ],
+  "66": [
+   {
+    "email": "traci.koster@flhouse.gov",
+    "name": "Traci Koster",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4779&LegislativeTermId=90"
+   }
+  ],
+  "67": [
+   {
+    "email": "fentrice.driskell@flhouse.gov",
+    "name": "Fentrice Driskell",
+    "party": "Democratic",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4745&LegislativeTermId=90"
+   }
+  ],
+  "68": [
+   {
+    "email": "lawrence.mcclure@flhouse.gov",
+    "name": "Lawrence McClure",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4686&LegislativeTermId=90"
+   }
+  ],
+  "69": [
+   {
+    "email": "danny.alvarez@flhouse.gov",
+    "name": "Danny Alvarez",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4889&LegislativeTermId=90"
+   }
+  ],
+  "7": [
+   {
+    "email": "jason.shoaf@flhouse.gov",
+    "name": "Jason Shoaf",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4756&LegislativeTermId=90"
+   }
+  ],
+  "70": [
+   {
+    "email": "michael.owen@flhouse.gov",
+    "name": "Michael Owen",
+    "party": "Republican",
+    "url": "https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4919"
+   }
+  ],
+  "71": [
+   {
+    "email": "will.robinson@flhouse.gov",
+    "name": "Will Robinson",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4733&LegislativeTermId=90"
+   }
+  ],
+  "72": [
+   {
+    "email": "bill.conerly@flhouse.gov",
+    "name": "Bill Conerly",
+    "party": "Republican",
+    "url": "https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4920"
+   }
+  ],
+  "73": [
+   {
+    "email": "fiona.mcfarland@flhouse.gov",
+    "name": "Fiona McFarland",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4780&LegislativeTermId=90"
+   }
+  ],
+  "74": [
+   {
+    "email": "james.buchanan@flhouse.gov",
+    "name": "James Buchanan",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4731&LegislativeTermId=90"
+   }
+  ],
+  "75": [
+   {
+    "email": "danny.nix@flhouse.gov",
+    "name": "Danny Nix",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4921&LegislativeTermId=91"
+   }
+  ],
+  "76": [
+   {
+    "email": "vanessa.oliver@flhouse.gov",
+    "name": "Vanessa Oliver",
+    "party": "Republican",
+    "url": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4922"
+   }
+  ],
+  "77": [
+   {
+    "email": "tiffany.esposito@flhouse.gov",
+    "name": "Tiffany Esposito",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4892&LegislativeTermId=90"
+   }
+  ],
+  "79": [
+   {
+    "email": "mike.giallombardo@flhouse.gov",
+    "name": "Mike Giallombardo",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4783&LegislativeTermId=90"
+   }
+  ],
+  "8": [
+   {
+    "email": "gallop.franklin@flhouse.gov",
+    "name": "Gallop Franklin",
+    "party": "Democratic",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4863&LegislativeTermId=90"
+   }
+  ],
+  "80": [
+   {
+    "email": "adam.botana@flhouse.gov",
+    "name": "Adam Botana",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4782&LegislativeTermId=90"
+   }
+  ],
+  "81": [
+   {
+    "email": "yvette.benarroch@flhouse.gov",
+    "name": "Yvette Benarroch",
+    "party": "Republican",
+    "url": "https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4923"
+   }
+  ],
+  "82": [
+   {
+    "email": "lauren.melo@flhouse.gov",
+    "name": "Lauren Melo",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4784&LegislativeTermId=90"
+   }
+  ],
+  "83": [
+   {
+    "email": "kaylee.tuck@flhouse.gov",
+    "name": "Kaylee Tuck",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4776&LegislativeTermId=90"
+   }
+  ],
+  "84": [
+   {
+    "email": "dana.trabulsy@flhouse.gov",
+    "name": "Dana Trabulsy",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4788&LegislativeTermId=90"
+   }
+  ],
+  "85": [
+   {
+    "email": "toby.overdorf@flhouse.gov",
+    "name": "Toby Overdorf",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4728&LegislativeTermId=90"
+   }
+  ],
+  "86": [
+   {
+    "email": "john.snyder@flhouse.gov",
+    "name": "John Snyder",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4787&LegislativeTermId=90"
+   }
+  ],
+  "87": [
+   {
+    "email": "emily.gregory@flhouse.gov",
+    "name": "Emily Gregory",
+    "party": "Democratic",
+    "url": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=5069"
+   }
+  ],
+  "88": [
+   {
+    "email": "jervonte.edmonds@flhouse.gov",
+    "name": "Tae Edmonds",
+    "party": "Democratic",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4842&LegislativeTermId=90"
+   }
+  ],
+  "89": [
+   {
+    "email": "debra.tendrich@flhouse.gov",
+    "name": "Debra Tendrich",
+    "party": "Democratic",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4924&LegislativeTermId=91"
+   }
+  ],
+  "9": [
+   {
+    "email": "allison.tant@flhouse.gov",
+    "name": "Allison Tant",
+    "party": "Democratic",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4765&LegislativeTermId=90"
+   }
+  ],
+  "90": [
+   {
+    "email": "rob.long@flhouse.gov",
+    "name": "Rob Long",
+    "party": "Democratic",
+    "url": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=5067"
+   }
+  ],
+  "91": [
+   {
+    "email": "peggy.gossettseidman@flhouse.gov",
+    "name": "Peggy Gossett-Seidman",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4891&LegislativeTermId=90"
+   }
+  ],
+  "92": [
+   {
+    "email": "kelly.skidmore@flhouse.gov",
+    "name": "Kelly Skidmore",
+    "party": "Democratic",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4786&LegislativeTermId=90"
+   }
+  ],
+  "93": [
+   {
+    "email": "anne.gerwig@flhouse.gov",
+    "name": "Anne Gerwig",
+    "party": "Republican",
+    "url": "https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4925"
+   }
+  ],
+  "94": [
+   {
+    "email": "meg.weinberger@flhouse.gov",
+    "name": "Meg Weinberger",
+    "party": "Republican",
+    "url": "https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4926"
+   }
+  ],
+  "95": [
+   {
+    "email": "christine.hunschofsky@flhouse.gov",
+    "name": "Christine Hunschofsky",
+    "party": "Democratic",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4799&LegislativeTermId=90"
+   }
+  ],
+  "96": [
+   {
+    "email": "dan.daley@flhouse.gov",
+    "name": "Dan Daley",
+    "party": "Democratic",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4757&LegislativeTermId=90"
+   }
+  ],
+  "97": [
+   {
+    "email": "lisa.dunkley@flhouse.gov",
+    "name": "Lisa Dunkley",
+    "party": "Democratic",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4893&LegislativeTermId=90"
+   }
+  ],
+  "98": [
+   {
+    "email": "mitch.rosenwald@flhouse.gov",
+    "name": "Mitch Rosenwald",
+    "party": "Democratic",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4927&LegislativeTermId=91"
+   }
+  ],
+  "99": [
+   {
+    "email": "daryl.campbell@flhouse.gov",
+    "name": "Daryl Campbell",
+    "party": "Democratic",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4843&LegislativeTermId=90"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/fl.csv"
+ },
+ "state": "FL",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "gaetz.don.web@flsenate.gov",
+    "name": "Don Gaetz",
+    "party": "Republican",
+    "url": "https://www.flsenate.gov/Senators/s1"
+   }
+  ],
+  "10": [
+   {
+    "email": "brodeur.jason.web@flsenate.gov",
+    "name": "Jason Brodeur",
+    "party": "Republican",
+    "url": "https://flsenate.gov/Senators/2022-2024/S10"
+   }
+  ],
+  "11": [
+   {
+    "email": "massullo.ralph.web@flsenate.gov",
+    "name": "Ralph Massullo",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4624&LegislativeTermId=90"
+   }
+  ],
+  "12": [
+   {
+    "email": "burton.colleen.web@flsenate.gov",
+    "name": "Colleen Burton",
+    "party": "Republican",
+    "url": "https://flsenate.gov/Senators/2022-2024/S12"
+   }
+  ],
+  "13": [
+   {
+    "email": "truenow.keith.web@flsenate.gov",
+    "name": "Keith Truenow",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4772&LegislativeTermId=90"
+   }
+  ],
+  "14": [
+   {
+    "email": "nathan.brian.web@flsenate.gov",
+    "name": "Brian Nathan",
+    "party": "Democratic",
+    "url": "https://www.flsenate.gov/Senators/S14"
+   }
+  ],
+  "15": [
+   {
+    "email": "bracydavis.lavon.web@flsenate.gov",
+    "name": "LaVon Bracy Davis",
+    "party": "Democratic",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4874&LegislativeTermId=90"
+   }
+  ],
+  "16": [
+   {
+    "email": "rouson.darryl.web@flsenate.gov",
+    "name": "Darryl Rouson",
+    "party": "Democratic",
+    "url": "https://flsenate.gov/Senators/2022-2024/S16"
+   }
+  ],
+  "17": [
+   {
+    "email": "smith.carlos.web@flsenate.gov",
+    "name": "Carlos Smith",
+    "party": "Democratic",
+    "url": "https://www.flsenate.gov/Senators/S17"
+   }
+  ],
+  "18": [
+   {
+    "email": "diceglie.nick.web@flsenate.gov",
+    "name": "Nick DiCeglie",
+    "party": "Republican",
+    "url": "https://flsenate.gov/Senators/2022-2024/S18"
+   }
+  ],
+  "19": [
+   {
+    "email": "mayfield.debbie.web@flsenate.gov",
+    "name": "Debbie Mayfield",
+    "party": "Republican",
+    "url": "https://flsenate.gov/Senators/2022-2024/S19"
+   }
+  ],
+  "2": [
+   {
+    "email": "trumbull.jay.web@flsenate.gov",
+    "name": "Jay Trumbull",
+    "party": "Republican",
+    "url": "https://flsenate.gov/Senators/2022-2024/S2"
+   }
+  ],
+  "20": [
+   {
+    "email": "boyd.jim.web@flsenate.gov",
+    "name": "Jim Boyd",
+    "party": "Republican",
+    "url": "https://flsenate.gov/Senators/2022-2024/S20"
+   }
+  ],
+  "21": [
+   {
+    "email": "hooper.ed.web@flsenate.gov",
+    "name": "Ed Hooper",
+    "party": "Republican",
+    "url": "https://flsenate.gov/Senators/2022-2024/S21"
+   }
+  ],
+  "22": [
+   {
+    "email": "gruters.joe.web@flsenate.gov",
+    "name": "Joe Gruters",
+    "party": "Republican",
+    "url": "https://flsenate.gov/Senators/2022-2024/S22"
+   }
+  ],
+  "23": [
+   {
+    "email": "burgess.danny.web@flsenate.gov",
+    "name": "Danny Burgess",
+    "party": "Republican",
+    "url": "https://flsenate.gov/Senators/2022-2024/S23"
+   }
+  ],
+  "24": [
+   {
+    "email": "bernard.mack.web@flsenate.gov",
+    "name": "Mack Bernard",
+    "party": "Democratic",
+    "url": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4422&SessionId=70"
+   }
+  ],
+  "25": [
+   {
+    "email": "arrington.kristen.web@flsenate.gov",
+    "name": "Kristen Arrington",
+    "party": "Democratic",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4774&LegislativeTermId=90"
+   }
+  ],
+  "26": [
+   {
+    "email": "berman.lori.web@flsenate.gov",
+    "name": "Lori Berman",
+    "party": "Democratic",
+    "url": "https://flsenate.gov/Senators/2022-2024/S26"
+   }
+  ],
+  "27": [
+   {
+    "email": "albritton.ben.web@flsenate.gov",
+    "name": "Ben Albritton",
+    "party": "Republican",
+    "url": "https://flsenate.gov/Senators/2022-2024/S27"
+   }
+  ],
+  "28": [
+   {
+    "email": "passidomo.kathleen.web@flsenate.gov",
+    "name": "Kathleen Passidomo",
+    "party": "Republican",
+    "url": "https://flsenate.gov/Senators/2022-2024/S28"
+   }
+  ],
+  "29": [
+   {
+    "email": "grall.erin.web@flsenate.gov",
+    "name": "Erin Grall",
+    "party": "Republican",
+    "url": "https://flsenate.gov/Senators/2022-2024/S29"
+   }
+  ],
+  "3": [
+   {
+    "email": "simon.corey.web@flsenate.gov",
+    "name": "Corey Simon",
+    "party": "Republican",
+    "url": "https://flsenate.gov/Senators/2022-2024/S3"
+   }
+  ],
+  "30": [
+   {
+    "email": "polsky.tina.web@flsenate.gov",
+    "name": "Tina Polsky",
+    "party": "Democratic",
+    "url": "https://flsenate.gov/Senators/2022-2024/S30"
+   }
+  ],
+  "31": [
+   {
+    "email": "harrell.gayle.web@flsenate.gov",
+    "name": "Gayle Harrell",
+    "party": "Republican",
+    "url": "https://flsenate.gov/Senators/2022-2024/S31"
+   }
+  ],
+  "32": [
+   {
+    "email": "osgood.rosalind.web@flsenate.gov",
+    "name": "Rosalind Osgood",
+    "party": "Democratic",
+    "url": "https://flsenate.gov/Senators/2022-2024/S32"
+   }
+  ],
+  "33": [
+   {
+    "email": "martin.jonathan.web@flsenate.gov",
+    "name": "Jonathan Martin",
+    "party": "Republican",
+    "url": "https://flsenate.gov/Senators/2022-2024/S33"
+   }
+  ],
+  "34": [
+   {
+    "email": "jones.shevrin.web@flsenate.gov",
+    "name": "Shev Jones",
+    "party": "Democratic",
+    "url": "https://flsenate.gov/Senators/2022-2024/S34"
+   }
+  ],
+  "35": [
+   {
+    "email": "sharief.barbara.web@flsenate.gov",
+    "name": "Barbara Sharief",
+    "party": "Democratic",
+    "url": "https://www.flsenate.gov/Senators/S35"
+   }
+  ],
+  "36": [
+   {
+    "email": "garcia.ileana.web@flsenate.gov",
+    "name": "Ileana Garcia",
+    "party": "Republican",
+    "url": "https://flsenate.gov/Senators/2022-2024/S36"
+   }
+  ],
+  "37": [
+   {
+    "email": "pizzo.jason.web@flsenate.gov",
+    "name": "Jason Pizzo",
+    "party": "Independent",
+    "url": "https://flsenate.gov/Senators/2022-2024/S37"
+   }
+  ],
+  "38": [
+   {
+    "email": "calatayud.alexis.web@flsenate.gov",
+    "name": "Alexis Calatayud",
+    "party": "Republican",
+    "url": "https://flsenate.gov/Senators/2022-2024/S38"
+   }
+  ],
+  "4": [
+   {
+    "email": "yarborough.clay.web@flsenate.gov",
+    "name": "Clay Yarborough",
+    "party": "Republican",
+    "url": "https://flsenate.gov/Senators/2022-2024/S4"
+   }
+  ],
+  "40": [
+   {
+    "email": "rodriguez.anamaria.web@flsenate.gov",
+    "name": "Ana Maria Rodriguez",
+    "party": "Republican",
+    "url": "https://flsenate.gov/Senators/2022-2024/S40"
+   }
+  ],
+  "5": [
+   {
+    "email": "davis.tracie.web@flsenate.gov",
+    "name": "Tracie Davis",
+    "party": "Democratic",
+    "url": "https://flsenate.gov/Senators/2022-2024/S5"
+   }
+  ],
+  "6": [
+   {
+    "email": "bradley.jennifer.web@flsenate.gov",
+    "name": "Jennifer Bradley",
+    "party": "Republican",
+    "url": "https://flsenate.gov/Senators/2022-2024/S6"
+   }
+  ],
+  "7": [
+   {
+    "email": "leek.tom.web@flsenate.gov",
+    "name": "Tom Leek",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4662&LegislativeTermId=90"
+   }
+  ],
+  "8": [
+   {
+    "email": "wright.tom.web@flsenate.gov",
+    "name": "Tommy Wright",
+    "party": "Republican",
+    "url": "https://flsenate.gov/Senators/2022-2024/S8"
+   }
+  ],
+  "9": [
+   {
+    "email": "mcclain.stan.web@flsenate.gov",
+    "name": "Stan McClain",
+    "party": "Republican",
+    "url": "https://myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4658&LegislativeTermId=90"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

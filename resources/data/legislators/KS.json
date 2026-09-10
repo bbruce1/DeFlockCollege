@@ -1,0 +1,1395 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Tracey Mann",
+    "party": "Republican",
+    "phone": "202-225-2715",
+    "url": "https://mann.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Derek Schmidt",
+    "party": "Republican",
+    "phone": "202-225-6601",
+    "url": "https://schmidt.house.gov"
+   }
+  ],
+  "3": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Sharice Davids",
+    "party": "Democrat",
+    "phone": "202-225-2865",
+    "url": "https://davids.house.gov"
+   }
+  ],
+  "4": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Ron Estes",
+    "party": "Republican",
+    "phone": "202-225-6216",
+    "url": "https://estes.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.moran.senate.gov/public/index.cfm/e-mail-jerry",
+   "email": null,
+   "name": "Jerry Moran",
+   "party": "Republican",
+   "phone": "202-224-6521",
+   "url": "https://www.moran.senate.gov"
+  },
+  {
+   "contactForm": "https://www.marshall.senate.gov/contact/",
+   "email": null,
+   "name": "Roger Marshall",
+   "party": "Republican",
+   "phone": "202-224-4774",
+   "url": "https://www.marshall.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "dale.helwig@house.ks.gov",
+    "name": "Dale Helwig",
+    "party": "Republican",
+    "url": "https://kslegislature.gov/legislators/rep_helwig_dale_1/"
+   }
+  ],
+  "10": [
+   {
+    "email": "suzanne.wikle@house.ks.gov",
+    "name": "Suzanne Wikle",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_wikle_suzanne_1/"
+   }
+  ],
+  "100": [
+   {
+    "email": "dan.hawkins@house.ks.gov",
+    "name": "Dan Hawkins",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_hawkins_daniel_1/"
+   }
+  ],
+  "101": [
+   {
+    "email": "joe.seiwert@house.ks.gov",
+    "name": "Joe Seiwert",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_seiwert_joe_1/"
+   }
+  ],
+  "102": [
+   {
+    "email": "kyler.sweely@house.ks.gov",
+    "name": "Kyler Sweely",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_sweely_kyler_1/"
+   }
+  ],
+  "103": [
+   {
+    "email": "angela.martinez@house.ks.gov",
+    "name": "Angela Martinez",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_martinez_angela_1/"
+   }
+  ],
+  "104": [
+   {
+    "email": "paul.waggoner@house.ks.gov",
+    "name": "Paul Waggoner",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_waggoner_paul_1/"
+   }
+  ],
+  "105": [
+   {
+    "email": "jill.ward@house.ks.gov",
+    "name": "Jill Ward",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_ward_jill_1/"
+   }
+  ],
+  "106": [
+   {
+    "email": "lisa.moser@house.ks.gov",
+    "name": "Lisa Moser",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_moser_lisa_1/"
+   }
+  ],
+  "107": [
+   {
+    "email": "dawn.wolf@house.ks.gov",
+    "name": "Dawn Wolf",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_wolf_dawn_1/"
+   }
+  ],
+  "108": [
+   {
+    "email": "brandon.woodard@house.ks.gov",
+    "name": "Brandon Woodard",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_woodard_brandon_1/"
+   }
+  ],
+  "109": [
+   {
+    "email": "troy.waymaster@house.ks.gov",
+    "name": "Troy Waymaster",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_waymaster_troy_1/"
+   }
+  ],
+  "11": [
+   {
+    "email": "ron.bryce@house.ks.gov",
+    "name": "Ron Bryce",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_bryce_ron_1/"
+   }
+  ],
+  "110": [
+   {
+    "email": "ken.rahjes@house.ks.gov",
+    "name": "Ken Rahjes",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_rahjes_ken_1/"
+   }
+  ],
+  "111": [
+   {
+    "email": "barb.wasinger@house.ks.gov",
+    "name": "Barb Wasinger",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_wasinger_barbara_1/"
+   }
+  ],
+  "112": [
+   {
+    "email": "sherri.brantley@house.ks.gov",
+    "name": "Sherri Brantley",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_brantley_sherri_1/"
+   }
+  ],
+  "113": [
+   {
+    "email": "brett.fairchild@house.ks.gov",
+    "name": "Brett Fairchild",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_fairchild_brett_1/"
+   }
+  ],
+  "114": [
+   {
+    "email": "kevin.schwertfeger@house.ks.gov",
+    "name": "Kevin Schwertfeger",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_schwertfeger_kevin_1/"
+   }
+  ],
+  "115": [
+   {
+    "email": "gary.white@house.ks.gov",
+    "name": "Gary White",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_white_gary_1/"
+   }
+  ],
+  "116": [
+   {
+    "email": "kyle.hoffman@house.ks.gov",
+    "name": "Kyle Hoffman",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_hoffman_kyle_1/"
+   }
+  ],
+  "117": [
+   {
+    "email": "adam.turk@house.ks.gov",
+    "name": "Adam Turk",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_turk_adam_1/"
+   }
+  ],
+  "118": [
+   {
+    "email": "jim.minnix@house.ks.gov",
+    "name": "Jim Minnix",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_minnix_jim_1/"
+   }
+  ],
+  "119": [
+   {
+    "email": "jason.goetz@house.ks.gov",
+    "name": "Jason Goetz",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_goetz_jason_1/"
+   }
+  ],
+  "12": [
+   {
+    "email": "doug.blex@house.ks.gov",
+    "name": "Doug Blex",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_blex_doug_1/"
+   }
+  ],
+  "120": [
+   {
+    "email": "adam.smith@house.ks.gov",
+    "name": "Adam Smith",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_smith_adam_1/"
+   }
+  ],
+  "121": [
+   {
+    "email": "mike.storm@house.ks.gov",
+    "name": "Mike Storm",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_storm_mike_1/"
+   }
+  ],
+  "122": [
+   {
+    "email": "lon.pishny@house.ks.gov",
+    "name": "Lon Pishny",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_pishny_lon_1/"
+   }
+  ],
+  "123": [
+   {
+    "email": "bob.lewis@house.ks.gov",
+    "name": "Bob Lewis",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_lewis_bob_1/"
+   }
+  ],
+  "124": [
+   {
+    "email": "marty.long@house.ks.gov",
+    "name": "Marty Long",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_long_martin_1/"
+   }
+  ],
+  "125": [
+   {
+    "email": "shannon.francis@house.ks.gov",
+    "name": "Shannon Francis",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_francis_shannon_1/"
+   }
+  ],
+  "13": [
+   {
+    "email": "duane.droge@house.ks.gov",
+    "name": "Duane Droge",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_droge_duane_1/"
+   }
+  ],
+  "14": [
+   {
+    "email": "charlotte.esau@house.ks.gov",
+    "name": "Charlotte Esau",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/b2025_26/legislators/rep_esau_charlotte_1/"
+   }
+  ],
+  "15": [
+   {
+    "email": "lauren.bohi@house.ks.gov",
+    "name": "Lauren Bohi",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_bohi_lauren_1/"
+   }
+  ],
+  "16": [
+   {
+    "email": "linda.featherston@house.ks.gov",
+    "name": "Linda Featherston",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_featherston_linda_1/"
+   }
+  ],
+  "17": [
+   {
+    "email": "joella.hoye@house.ks.gov",
+    "name": "Jo Ella Hoye",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_hoye_jo_ella_1/"
+   }
+  ],
+  "18": [
+   {
+    "email": "cindy.neighbor@house.ks.gov",
+    "name": "Cindy Neighbor",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_neighbor_cindy_1/"
+   }
+  ],
+  "19": [
+   {
+    "email": "stephanie.clayton@house.ks.gov",
+    "name": "Stephanie Sawyer-Clayton",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_clayton_stephanie_1/"
+   }
+  ],
+  "2": [
+   {
+    "email": "ken.collins@house.ks.gov",
+    "name": "Ken Collins",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_collins_kenneth_1/"
+   }
+  ],
+  "20": [
+   {
+    "email": "mari-lynn.poskin@house.ks.gov",
+    "name": "Mari-Lynn Poskin",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_poskin_mari_lynn_1/"
+   }
+  ],
+  "21": [
+   {
+    "email": "jerry.stogsdill@house.ks.gov",
+    "name": "Jerry Stogsdill",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_stogsdill_jerry_1/"
+   }
+  ],
+  "22": [
+   {
+    "email": "lindsay.vaughn@house.ks.gov",
+    "name": "Lindsay Vaughn",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_vaughn_lindsay_1/"
+   }
+  ],
+  "23": [
+   {
+    "email": "susan.ruiz@house.ks.gov",
+    "name": "Susan Ruiz",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_ruiz_susan_1/"
+   }
+  ],
+  "24": [
+   {
+    "email": "jarrod.ousley@house.ks.gov",
+    "name": "Jarrod Ousley",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_ousley_jarrod_1/"
+   }
+  ],
+  "25": [
+   {
+    "email": "rui.xu@house.ks.gov",
+    "name": "Rui Xu",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_xu_rui_1/"
+   }
+  ],
+  "26": [
+   {
+    "email": "chip.vanhouden@house.ks.gov",
+    "name": "Chip VanHouden",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_vanhouden_charles_1/"
+   }
+  ],
+  "27": [
+   {
+    "email": "sean.tarwater@house.ks.gov",
+    "name": "Sean Tarwater",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_tarwater_sean_1/"
+   }
+  ],
+  "28": [
+   {
+    "email": "carl.turner@house.ks.gov",
+    "name": "Carl Turner",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_turner_carl_1/"
+   }
+  ],
+  "29": [
+   {
+    "email": "heather.meyer@house.ks.gov",
+    "name": "Heather Meyer",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_meyer_heather_1/"
+   }
+  ],
+  "3": [
+   {
+    "email": "chuck.smith@house.ks.gov",
+    "name": "Chuck Smith",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_smith_charles_1/"
+   }
+  ],
+  "30": [
+   {
+    "email": "laura.williams@house.ks.gov",
+    "name": "Laura Williams",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_williams_laura_1/"
+   }
+  ],
+  "31": [
+   {
+    "email": "louis.ruiz@house.ks.gov",
+    "name": "Louis Ruiz",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_ruiz_louis_1/"
+   }
+  ],
+  "32": [
+   {
+    "email": "pam.curtis@house.ks.gov",
+    "name": "Pam Curtis",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_curtis_pam_1/"
+   }
+  ],
+  "33": [
+   {
+    "email": "carolyn.caiharr@house.ks.gov",
+    "name": "Carolyn Caiharr",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_caiharr_carolyn_1/"
+   }
+  ],
+  "34": [
+   {
+    "email": "valdenia.winn@house.ks.gov",
+    "name": "Val Winn",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_winn_valdenia_1/"
+   }
+  ],
+  "35": [
+   {
+    "email": "wanda.paige@house.ks.gov",
+    "name": "Wanda Paige",
+    "party": "Democratic",
+    "url": "https://kslegislature.gov/li/b2023_24/members/rep_paige_wanda_1/"
+   }
+  ],
+  "36": [
+   {
+    "email": "lynn.melton@house.ks.gov",
+    "name": "Lynn Melton",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_melton_lynn_1/"
+   }
+  ],
+  "37": [
+   {
+    "email": "melissa.oropeza@house.ks.gov",
+    "name": "Melissa Oropeza",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_oropeza_melissa_1/"
+   }
+  ],
+  "38": [
+   {
+    "email": "timothy.johnson@house.ks.gov",
+    "name": "Tim Johnson",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_johnson_timothy_1/"
+   }
+  ],
+  "39": [
+   {
+    "email": "angela.stiens@house.ks.gov",
+    "name": "Angela Stiens",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_stiens_angela_1/"
+   }
+  ],
+  "4": [
+   {
+    "email": "rick.james@house.ks.gov",
+    "name": "Rick James",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_james_ricky_1/"
+   }
+  ],
+  "40": [
+   {
+    "email": "david.buehler@house.ks.gov",
+    "name": "Dave Buehler",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_buehler_david_1/"
+   }
+  ],
+  "41": [
+   {
+    "email": "pat.proctor@house.ks.gov",
+    "name": "Pat Proctor",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_proctor_pat_1/"
+   }
+  ],
+  "42": [
+   {
+    "email": "lance.neelly@house.ks.gov",
+    "name": "Lance Neelly",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_neelly_lance_1/"
+   }
+  ],
+  "43": [
+   {
+    "email": "bill.sutton@house.ks.gov",
+    "name": "Bill Sutton",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_sutton_william_1/"
+   }
+  ],
+  "44": [
+   {
+    "email": "barbara.ballard@house.ks.gov",
+    "name": "Barbara Ballard",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_ballard_barbara_1/"
+   }
+  ],
+  "45": [
+   {
+    "email": "mike.amyx@house.ks.gov",
+    "name": "Mike Amyx",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_amyx_mike_1/"
+   }
+  ],
+  "46": [
+   {
+    "email": "brooklynne.mosley@house.ks.gov",
+    "name": "Brooklynne Mosley",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_mosley_brooklynne_1/"
+   }
+  ],
+  "47": [
+   {
+    "email": "ronald.ellis@house.ks.gov",
+    "name": "Ronald Ellis",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_ellis_ronald_1/"
+   }
+  ],
+  "48": [
+   {
+    "email": "dan.osman@house.ks.gov",
+    "name": "Dan Osman",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_osman_dan_1/"
+   }
+  ],
+  "49": [
+   {
+    "email": "nikki.mcdonald@house.ks.gov",
+    "name": "Nikki McDonald",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_mcdonald_nikki_1/"
+   }
+  ],
+  "5": [
+   {
+    "email": "courtney.sappington@house.ks.gov",
+    "name": "Courtney Sappington",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_sappington_courtney_1/"
+   }
+  ],
+  "50": [
+   {
+    "email": "kyle.mcnorton@house.ks.gov",
+    "name": "Kyle McNorton",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_mcnorton_kyle_1/"
+   }
+  ],
+  "51": [
+   {
+    "email": "megan.steele@house.ks.gov",
+    "name": "Megan Steele",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_steele_megan_1/"
+   }
+  ],
+  "52": [
+   {
+    "email": "jesse.borjon@house.ks.gov",
+    "name": "Jesse Borjon",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_borjon_jesse_1/"
+   }
+  ],
+  "53": [
+   {
+    "email": "kirk.haskins@house.ks.gov",
+    "name": "Kirk Haskins",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_haskins_kirk_1/"
+   }
+  ],
+  "54": [
+   {
+    "email": "ken.corbet@house.ks.gov",
+    "name": "Ken Corbet",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_corbet_ken_1/"
+   }
+  ],
+  "55": [
+   {
+    "email": "tobias.schlingensiepen@house.ks.gov",
+    "name": "Tobias Schlingensiepen",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_schlingensiepen_tobias_1/"
+   }
+  ],
+  "56": [
+   {
+    "email": "virgil.weigel@house.ks.gov",
+    "name": "Virgil Weigel",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_weigel_virgil_1/"
+   }
+  ],
+  "57": [
+   {
+    "email": "john.alcala@house.ks.gov",
+    "name": "John Alcala",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_alcala_john_1/"
+   }
+  ],
+  "58": [
+   {
+    "email": "alexis.simmons@house.ks.gov",
+    "name": "Alexis Simmons",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_simmons_alexis_1/"
+   }
+  ],
+  "59": [
+   {
+    "email": "rebecca.schmoe@house.ks.gov",
+    "name": "Rebecca Schmoe",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_schmoe_rebecca_1/"
+   }
+  ],
+  "6": [
+   {
+    "email": "samantha.poetter@house.ks.gov",
+    "name": "Samantha Poetter Parshall",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_poetter_samantha_1/"
+   }
+  ],
+  "60": [
+   {
+    "email": "mark.schreiber@house.ks.gov",
+    "name": "Mark Schreiber",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_schreiber_mark_1/"
+   }
+  ],
+  "61": [
+   {
+    "email": "francis.awerkamp@house.ks.gov",
+    "name": "Francis Awerkamp",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_awerkamp_francis_1/"
+   }
+  ],
+  "62": [
+   {
+    "email": "sean.willcott@house.ks.gov",
+    "name": "Sean Willcott",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_willcott_sean_1/"
+   }
+  ],
+  "63": [
+   {
+    "email": "allen.reavis@house.ks.gov",
+    "name": "Allen Reavis",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_reavis_allen_1/"
+   }
+  ],
+  "64": [
+   {
+    "email": "lewis.bloom@house.ks.gov",
+    "name": "Bill Bloom",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_bloom_lewis_1/"
+   }
+  ],
+  "65": [
+   {
+    "email": "shawn.chauncey@house.ks.gov",
+    "name": "Shawn Chauncey",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_chauncey_shawn_1/"
+   }
+  ],
+  "66": [
+   {
+    "email": "sydney.carlin@house.ks.gov",
+    "name": "Sydney Carlin",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_carlin_sydney_1/"
+   }
+  ],
+  "67": [
+   {
+    "email": "angel.roeser@house.ks.gov",
+    "name": "Angel Roeser",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_roeser_angelina_1/"
+   }
+  ],
+  "68": [
+   {
+    "email": "nate.butler@house.ks.gov",
+    "name": "Nate Butler",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_butler_nathan_1/"
+   }
+  ],
+  "69": [
+   {
+    "email": "clarke.sanders@house.ks.gov",
+    "name": "Clarke Sanders",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_sanders_clarke_1/"
+   }
+  ],
+  "7": [
+   {
+    "email": "dan.goddard@house.ks.gov",
+    "name": "Dan Goddard",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_goddard_dan_1/"
+   }
+  ],
+  "70": [
+   {
+    "email": "greg.wilson@house.ks.gov",
+    "name": "Greg Wilson",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_wilson_greg_1/"
+   }
+  ],
+  "71": [
+   {
+    "email": "steven.howe@house.ks.gov",
+    "name": "Steve Howe",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_howe_steven_1/"
+   }
+  ],
+  "72": [
+   {
+    "email": "avery.anderson@house.ks.gov",
+    "name": "Avery Anderson",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_anderson_avery_1/"
+   }
+  ],
+  "73": [
+   {
+    "email": "richard.wilborn@house.ks.gov",
+    "name": "Rick Wilborn",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_wilborn_rick_1/"
+   }
+  ],
+  "74": [
+   {
+    "email": "mike.king@house.ks.gov",
+    "name": "Mike King",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_king_mike_1/"
+   }
+  ],
+  "75": [
+   {
+    "email": "will.carpenter@house.ks.gov",
+    "name": "Will Carpenter",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_carpenter_will_1/"
+   }
+  ],
+  "76": [
+   {
+    "email": "brad.barrett@house.ks.gov",
+    "name": "Brad Barrett",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_barrett_bradley_1/"
+   }
+  ],
+  "77": [
+   {
+    "email": "kristey.williams@house.ks.gov",
+    "name": "Kristey Williams",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_williams_kristey_1/"
+   }
+  ],
+  "78": [
+   {
+    "email": "robyn.essex@house.ks.gov",
+    "name": "Robyn Essex",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_essex_robyn_1/"
+   }
+  ],
+  "79": [
+   {
+    "email": "webster.roth@house.ks.gov",
+    "name": "Web Roth",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_roth_webster_1/"
+   }
+  ],
+  "8": [
+   {
+    "email": "chris.croft@house.ks.gov",
+    "name": "Chris Croft",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_croft_chris_1/"
+   }
+  ],
+  "80": [
+   {
+    "email": "bill.rhiley@house.ks.gov",
+    "name": "Bill Rhiley",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_rhiley_bill_1/"
+   }
+  ],
+  "81": [
+   {
+    "email": "blake.carpenter@house.ks.gov",
+    "name": "Blake Carpenter",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_carpenter_blake_1/"
+   }
+  ],
+  "82": [
+   {
+    "email": "leah.howell@house.ks.gov",
+    "name": "Leah Howell",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_howell_leah_1/"
+   }
+  ],
+  "83": [
+   {
+    "email": "henry.helgerson@house.ks.gov",
+    "name": "Henry Helgerson",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_helgerson_henry_1/"
+   }
+  ],
+  "84": [
+   {
+    "email": "ford.carr@house.ks.gov",
+    "name": "Ford Carr",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_carr_ford_1/"
+   }
+  ],
+  "85": [
+   {
+    "email": "steve.brunk@house.ks.gov",
+    "name": "Steve Brunk",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_brunk_steve_1/"
+   }
+  ],
+  "86": [
+   {
+    "email": "abi.boatman@house.ks.gov",
+    "name": "Abi Boatman",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_boatman_abi_1/"
+   }
+  ],
+  "87": [
+   {
+    "email": "susan.estes@house.ks.gov",
+    "name": "Susan Estes",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_estes_susan_2/"
+   }
+  ],
+  "88": [
+   {
+    "email": "sandy.pickert@house.ks.gov",
+    "name": "Sandy Pickert",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_pickert_sandy_1/"
+   }
+  ],
+  "89": [
+   {
+    "email": "kc.ohaebosim@house.ks.gov",
+    "name": "K.C. Ohaebosim",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_ohaebosim_kc_1/"
+   }
+  ],
+  "9": [
+   {
+    "email": "fred.gardner@house.ks.gov",
+    "name": "Fred Gardner",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_gardner_fred_1/"
+   }
+  ],
+  "90": [
+   {
+    "email": "steve.huebert@house.ks.gov",
+    "name": "Steve Huebert",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_huebert_steve_1/"
+   }
+  ],
+  "91": [
+   {
+    "email": "emil.bergquist@house.ks.gov",
+    "name": "Emil Bergquist",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_bergquist_emil_1/"
+   }
+  ],
+  "92": [
+   {
+    "email": "john.carmichael@house.ks.gov",
+    "name": "John Carmichael",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_carmichael_john_1/"
+   }
+  ],
+  "93": [
+   {
+    "email": "brian.bergkamp@house.ks.gov",
+    "name": "Brian Bergkamp",
+    "party": "Republican",
+    "url": "https://kslegislature.gov/li/b2025_26/members/rep_bergkamp_brian_1/"
+   }
+  ],
+  "94": [
+   {
+    "email": "leo.delperdang@house.ks.gov",
+    "name": "Leo Delperdang",
+    "party": "Republican",
+    "url": "https://kslegislature.gov/li/b2025_26/members/rep_delperdang_leo_1/"
+   }
+  ],
+  "95": [
+   {
+    "email": "tom.sawyer@house.ks.gov",
+    "name": "Tom Sawyer",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/legislators/rep_sawyer_tom_1/"
+   }
+  ],
+  "96": [
+   {
+    "email": "tom.kessler@house.ks.gov",
+    "name": "Tom Kessler",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_kessler_tom_1/"
+   }
+  ],
+  "97": [
+   {
+    "email": "nick.hoheisel@house.ks.gov",
+    "name": "Nick Hoheisel",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_hoheisel_nick_1/"
+   }
+  ],
+  "98": [
+   {
+    "email": "cyndi.howerton@house.ks.gov",
+    "name": "Cyndi Howerton",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_howerton_cyndi_1/"
+   }
+  ],
+  "99": [
+   {
+    "email": "susan.humphries@house.ks.gov",
+    "name": "Susan Humphries",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/legislators/rep_humphries_susan_1/"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/ks.csv"
+ },
+ "state": "KS",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "craig.bowser@senate.ks.gov",
+    "name": "Craig Bowser",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_bowser_craig_1/"
+   }
+  ],
+  "10": [
+   {
+    "email": "mike.thompson@senate.ks.gov",
+    "name": "Mike Thompson",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_thompson_mike_1/"
+   }
+  ],
+  "11": [
+   {
+    "email": "kellie.warren@senate.ks.gov",
+    "name": "Kellie Warren",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_warren_kellie_1/"
+   }
+  ],
+  "12": [
+   {
+    "email": "caryn.tyson@senate.ks.gov",
+    "name": "Caryn Tyson",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_tyson_caryn_1/"
+   }
+  ],
+  "13": [
+   {
+    "email": "tim.shallenburger@senate.ks.gov",
+    "name": "Tim Shallenburger",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_shallenburger_tim_1/"
+   }
+  ],
+  "14": [
+   {
+    "email": "michael.fagg@senate.ks.gov",
+    "name": "Mike Fagg",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_fagg_michael_1/"
+   }
+  ],
+  "15": [
+   {
+    "email": "virgil.peck@senate.ks.gov",
+    "name": "Virgil Peck",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_peck_virgil_1/"
+   }
+  ],
+  "16": [
+   {
+    "email": "ty.masterson@senate.ks.gov",
+    "name": "Ty Masterson",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_masterson_ty_1/"
+   }
+  ],
+  "17": [
+   {
+    "email": "mike.argabright@senate.ks.gov",
+    "name": "Mike Argabright",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_argabright_mike_1/"
+   }
+  ],
+  "18": [
+   {
+    "email": "kenny.titus@senate.ks.gov",
+    "name": "Kenny Titus",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_titus_kenny_1/"
+   }
+  ],
+  "19": [
+   {
+    "email": "patrick.schmidt@senate.ks.gov",
+    "name": "Patrick Schmidt",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_schmidt_patrick_1/"
+   }
+  ],
+  "2": [
+   {
+    "email": "marci.francisco@senate.ks.gov",
+    "name": "Marci Francisco",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_francisco_marci_1/"
+   }
+  ],
+  "20": [
+   {
+    "email": "brenda.dietrich@senate.ks.gov",
+    "name": "Brenda Dietrich",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_dietrich_brenda_1/"
+   }
+  ],
+  "21": [
+   {
+    "email": "dinah.sykes@senate.ks.gov",
+    "name": "Dinah Sykes",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_sykes_dinah_1/"
+   }
+  ],
+  "22": [
+   {
+    "email": "brad.starnes@senate.ks.gov",
+    "name": "Brad Starnes",
+    "party": "Republican",
+    "url": "https://starnes4senate.com/"
+   }
+  ],
+  "23": [
+   {
+    "email": "adam.thomas@senate.ks.gov",
+    "name": "Adam Thomas",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_thomas_adam_1/"
+   }
+  ],
+  "24": [
+   {
+    "email": "scott.hill@senate.ks.gov",
+    "name": "Scott Hill",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_hill_scott_1/"
+   }
+  ],
+  "25": [
+   {
+    "email": "silas.miller@senate.ks.gov",
+    "name": "Silas Miller",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_miller_silas_1/"
+   }
+  ],
+  "26": [
+   {
+    "email": "chase.blasi@senate.ks.gov",
+    "name": "Chase Blasi",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_blasi_chase_1/"
+   }
+  ],
+  "27": [
+   {
+    "email": "joseph.claeys@senate.ks.gov",
+    "name": "Joe Claeys",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_claeys_joseph_1/"
+   }
+  ],
+  "28": [
+   {
+    "email": "mike.petersen@senate.ks.gov",
+    "name": "Mike Petersen",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_petersen_mike_1/"
+   }
+  ],
+  "29": [
+   {
+    "email": "oletha.faust-goudeau@senate.ks.gov",
+    "name": "Oletha Faust-Goudeau",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_faust_goudeau_oletha_1/"
+   }
+  ],
+  "3": [
+   {
+    "email": "rick.kloos@senate.ks.gov",
+    "name": "Rick Kloos",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_kloos_rick_1/"
+   }
+  ],
+  "30": [
+   {
+    "email": "renee.erickson@senate.ks.gov",
+    "name": "Renee Erickson",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_erickson_renee_1/"
+   }
+  ],
+  "31": [
+   {
+    "email": "stephen.owens@senate.ks.gov",
+    "name": "Stephen Owens",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_owens_stephen_1/"
+   }
+  ],
+  "32": [
+   {
+    "email": "larry.alley@senate.ks.gov",
+    "name": "Larry Alley",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_alley_larry_1/"
+   }
+  ],
+  "33": [
+   {
+    "email": "torymarie.blew@senate.ks.gov",
+    "name": "Tory Marie Blew",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_blew_marie_1/"
+   }
+  ],
+  "34": [
+   {
+    "email": "michael.murphy@senate.ks.gov",
+    "name": "Mike Murphy",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_murphy_michael_1/"
+   }
+  ],
+  "35": [
+   {
+    "email": "tj.rose@senate.ks.gov",
+    "name": "T.J. Rose",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_rose_tj_1/"
+   }
+  ],
+  "36": [
+   {
+    "email": "elaine.bowers@senate.ks.gov",
+    "name": "Elaine Bowers",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_bowers_elaine_1/"
+   }
+  ],
+  "37": [
+   {
+    "email": "doug.shane@senate.ks.gov",
+    "name": "Doug Shane",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_shane_doug_1/"
+   }
+  ],
+  "38": [
+   {
+    "email": "ron.ryckman@senate.ks.gov",
+    "name": "Ron Ryckman",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_ryckman_ronald_1/"
+   }
+  ],
+  "39": [
+   {
+    "email": "william.clifford@senate.ks.gov",
+    "name": "Bill Clifford",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_clifford_william_1/"
+   }
+  ],
+  "4": [
+   {
+    "email": "david.haley@senate.ks.gov",
+    "name": "David Haley",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_haley_david_1/"
+   }
+  ],
+  "40": [
+   {
+    "email": "rick.billinger@senate.ks.gov",
+    "name": "Rick Billinger",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_billinger_rick_1/"
+   }
+  ],
+  "5": [
+   {
+    "email": "jeff.klemp@senate.ks.gov",
+    "name": "Jeff Klemp",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_klemp_jeff_1/"
+   }
+  ],
+  "6": [
+   {
+    "email": "pat.pettey@senate.ks.gov",
+    "name": "Pat Pettey",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_pettey_pat_1/"
+   }
+  ],
+  "7": [
+   {
+    "email": "ethan.corson@senate.ks.gov",
+    "name": "Ethan Corson",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_corson_ethan_1/"
+   }
+  ],
+  "8": [
+   {
+    "email": "cindy.holscher@senate.ks.gov",
+    "name": "Cindy Holscher",
+    "party": "Democratic",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_holscher_cindy_1/"
+   }
+  ],
+  "9": [
+   {
+    "email": "beverly.gossage@senate.ks.gov",
+    "name": "Beverly Gossage",
+    "party": "Republican",
+    "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_gossage_beverly_1/"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

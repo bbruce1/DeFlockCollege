@@ -47,8 +47,11 @@ hundred chapters of missing history.
 
 Three things appear on every chapter, exempt from any randomisation:
 
-1. **Make the Instagram.** The generator builds the site; it cannot build an
-   audience. It is the one thing we ask a creator to do themselves.
+1. **Follow the Instagram.** An account is now a condition of creating a
+   chapter, so the page no longer asks a creator to make one — by the time
+   anybody reads it, it exists. The section instead asks the reader to follow
+   it, because the generator builds the site and the account builds the
+   audience.
 2. **Emails and votes. Never vandalism.** Damaging a camera loses the argument,
    hands opponents their story, and in many states costs a student the vote they
    came to use.

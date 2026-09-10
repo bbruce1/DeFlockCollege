@@ -1,0 +1,1325 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Frank Mrvan",
+    "party": "Democrat",
+    "phone": "202-225-2461",
+    "url": "https://mrvan.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Rudy Yakym",
+    "party": "Republican",
+    "phone": "202-225-3915",
+    "url": "https://yakym.house.gov"
+   }
+  ],
+  "3": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Marlin Stutzman",
+    "party": "Republican",
+    "phone": "202-225-4436",
+    "url": "https://stutzman.house.gov"
+   }
+  ],
+  "4": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "James Baird",
+    "party": "Republican",
+    "phone": "202-225-5037",
+    "url": "https://baird.house.gov"
+   }
+  ],
+  "5": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Victoria Spartz",
+    "party": "Republican",
+    "phone": "202-225-2276",
+    "url": "https://spartz.house.gov"
+   }
+  ],
+  "6": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Jefferson Shreve",
+    "party": "Republican",
+    "phone": "202-225-3021",
+    "url": "https://shreve.house.gov"
+   }
+  ],
+  "7": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Andr\u00e9 Carson",
+    "party": "Democrat",
+    "phone": "202-225-4011",
+    "url": "https://carson.house.gov"
+   }
+  ],
+  "8": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Mark Messmer",
+    "party": "Republican",
+    "phone": "202-225-4636",
+    "url": "https://messmer.house.gov"
+   }
+  ],
+  "9": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Erin Houchin",
+    "party": "Republican",
+    "phone": "202-225-5315",
+    "url": "https://houchin.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.young.senate.gov/contact",
+   "email": null,
+   "name": "Todd Young",
+   "party": "Republican",
+   "phone": "202-224-5623",
+   "url": "https://www.young.senate.gov"
+  },
+  {
+   "contactForm": null,
+   "email": null,
+   "name": "Jim Banks",
+   "party": "Republican",
+   "phone": "202-224-4814",
+   "url": "https://www.banks.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "h1@iga.in.gov",
+    "name": "Carolyn Jackson",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2019/legislators/legislator_carolyn_jackson_1/"
+   }
+  ],
+  "10": [
+   {
+    "email": "h10@iga.in.gov",
+    "name": "Chuck Moseley",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_charles_moseley_973"
+   }
+  ],
+  "100": [
+   {
+    "email": "h100@iga.in.gov",
+    "name": "Blake Johnson",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2020/legislators/legislator_blake_johnson_1/"
+   }
+  ],
+  "11": [
+   {
+    "email": "h11@iga.in.gov",
+    "name": "Mike Aylesworth",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_mike_aylesworth_1"
+   }
+  ],
+  "12": [
+   {
+    "email": "h12@iga.in.gov",
+    "name": "Mike Andrade",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_mike_andrade_1"
+   }
+  ],
+  "13": [
+   {
+    "email": "h13@iga.in.gov",
+    "name": "Matt Commons",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2026/legislators/legislator_matt_commons_1"
+   }
+  ],
+  "14": [
+   {
+    "email": "h14@iga.in.gov",
+    "name": "Vernon Smith",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_vernon_smith_230"
+   }
+  ],
+  "15": [
+   {
+    "email": "h15@iga.in.gov",
+    "name": "Hal Slager",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_harold_slager_1111"
+   }
+  ],
+  "16": [
+   {
+    "email": "h16@iga.in.gov",
+    "name": "Kendell Culp",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2024/legislators/legislator_kendell_culp_1"
+   }
+  ],
+  "17": [
+   {
+    "email": "h17@iga.in.gov",
+    "name": "Jack Jordan",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2019/legislators/legislator_jack_jordan_1/"
+   }
+  ],
+  "18": [
+   {
+    "email": "h18@iga.in.gov",
+    "name": "David Abbott",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_david_abbott_1"
+   }
+  ],
+  "19": [
+   {
+    "email": "h19@iga.in.gov",
+    "name": "Julie Olthoff",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_julie_olthoff_1"
+   }
+  ],
+  "2": [
+   {
+    "email": "h2@iga.in.gov",
+    "name": "Earl Harris",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_earl_harris_1"
+   }
+  ],
+  "20": [
+   {
+    "email": "h20@iga.in.gov",
+    "name": "Jim Pressel",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2019/legislators/legislator_jim_pressel_1/"
+   }
+  ],
+  "21": [
+   {
+    "email": "h21@iga.in.gov",
+    "name": "Tim Wesco",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_timothy_wesco_1025"
+   }
+  ],
+  "22": [
+   {
+    "email": "h22@iga.in.gov",
+    "name": "Craig Snow",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_craig_snow_1"
+   }
+  ],
+  "23": [
+   {
+    "email": "h23@iga.in.gov",
+    "name": "Ethan Manning",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_ethan_manning_1"
+   }
+  ],
+  "24": [
+   {
+    "email": "h24@iga.in.gov",
+    "name": "Hunter Smith",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2026/legislators/legislator_hunter_smith_1"
+   }
+  ],
+  "25": [
+   {
+    "email": "h25@iga.in.gov",
+    "name": "Becky Cash",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2024/legislators/legislator_becky_cash_1"
+   }
+  ],
+  "26": [
+   {
+    "email": "h26@iga.in.gov",
+    "name": "Chris Campbell",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2019/legislators/legislator_christine_campbell_1/"
+   }
+  ],
+  "27": [
+   {
+    "email": "h27@iga.in.gov",
+    "name": "Sheila Klinker",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_sheila_klinker_212"
+   }
+  ],
+  "28": [
+   {
+    "email": "h28@iga.in.gov",
+    "name": "Jeff Thompson",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_jeffrey_thompson_529"
+   }
+  ],
+  "29": [
+   {
+    "email": "h29@iga.in.gov",
+    "name": "Alaina Shonkwiler",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2026/legislators/legislator_alaina_shonkwiler_1"
+   }
+  ],
+  "3": [
+   {
+    "email": "h3@iga.in.gov",
+    "name": "Ragen Hatcher",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2019/legislators/legislator_ragen_hatcher_1/"
+   }
+  ],
+  "30": [
+   {
+    "email": "h30@iga.in.gov",
+    "name": "Mike Karickhoff",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_michael_karickhoff_1027"
+   }
+  ],
+  "31": [
+   {
+    "email": "h31@iga.in.gov",
+    "name": "Lori Goss-Reaves",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2024/legislators/legislator_lori_goss_reaves_1"
+   }
+  ],
+  "32": [
+   {
+    "email": "h32@iga.in.gov",
+    "name": "Victoria Garcia Wilburn",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2024/legislators/legislator_victoria_garcia_wilburn_1"
+   }
+  ],
+  "33": [
+   {
+    "email": "h33@iga.in.gov",
+    "name": "J.D. Prescott",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2019/legislators/legislator_john_prescott_1/"
+   }
+  ],
+  "34": [
+   {
+    "email": "h34@iga.in.gov",
+    "name": "Sue Errington",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2019/legislators/legislator_sue_errington_866/"
+   }
+  ],
+  "35": [
+   {
+    "email": "h35@iga.in.gov",
+    "name": "Elizabeth Rowray",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_elizabeth_rowray_1"
+   }
+  ],
+  "36": [
+   {
+    "email": "h36@iga.in.gov",
+    "name": "Kyle Pierce",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2024/legislators/legislator_kyle_pierce_1"
+   }
+  ],
+  "37": [
+   {
+    "email": "h37@iga.in.gov",
+    "name": "Todd Huston",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_todd_huston_1114"
+   }
+  ],
+  "38": [
+   {
+    "email": "h38@iga.in.gov",
+    "name": "Heath VanNatter",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_heath_vannatter_956"
+   }
+  ],
+  "39": [
+   {
+    "email": "h39@iga.in.gov",
+    "name": "Danny Lopez",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2026/legislators/legislator_danny_lopez_1"
+   }
+  ],
+  "4": [
+   {
+    "email": "h4@iga.in.gov",
+    "name": "Ed Soliday",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2019/legislators/legislator_edmond_soliday_864/"
+   }
+  ],
+  "40": [
+   {
+    "email": "h40@iga.in.gov",
+    "name": "Greg Steuerwald",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2019/legislators/legislator_gregory_steuerwald_927/"
+   }
+  ],
+  "41": [
+   {
+    "email": "h41@iga.in.gov",
+    "name": "Mark Genda",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2024/legislators/legislator_mark_genda_1"
+   }
+  ],
+  "42": [
+   {
+    "email": "h42@iga.in.gov",
+    "name": "Tim Yocum",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2026/legislators/legislator_tim_yocum_1"
+   }
+  ],
+  "43": [
+   {
+    "email": "h43@iga.in.gov",
+    "name": "Tonya Pfaff",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2019/legislators/legislator_tonya_pfaff_1/"
+   }
+  ],
+  "44": [
+   {
+    "email": "h44@iga.in.gov",
+    "name": "Beau Baird",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2019/legislators/legislator_beau_baird_1/"
+   }
+  ],
+  "45": [
+   {
+    "email": "h45@iga.in.gov",
+    "name": "Bruce Borders",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_bruce_borders_1"
+   }
+  ],
+  "46": [
+   {
+    "email": "h46@iga.in.gov",
+    "name": "Bob Heaton",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_robert_heaton_1030"
+   }
+  ],
+  "47": [
+   {
+    "email": "h47@iga.in.gov",
+    "name": "Robb Greene",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2024/legislators/legislator_robb_greene_1"
+   }
+  ],
+  "48": [
+   {
+    "email": "h48@iga.in.gov",
+    "name": "Doug Miller",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2019/legislators/legislator_doug_miller_1/"
+   }
+  ],
+  "49": [
+   {
+    "email": "h49@iga.in.gov",
+    "name": "Joanna King",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_joanna_king_1"
+   }
+  ],
+  "5": [
+   {
+    "email": "h5@iga.in.gov",
+    "name": "Dale DeVon",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_dale_devon_1108"
+   }
+  ],
+  "50": [
+   {
+    "email": "h50@iga.in.gov",
+    "name": "Lorissa Sweet",
+    "party": "Republican",
+    "url": "https://www.indianahouserepublicans.com/members/general/lorissa-sweet"
+   }
+  ],
+  "51": [
+   {
+    "email": "h51@iga.in.gov",
+    "name": "Tony Isa",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2026/legislators/legislator_tony_isa_1"
+   }
+  ],
+  "52": [
+   {
+    "email": "h52@iga.in.gov",
+    "name": "Ben Smaltz",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_ben_smaltz_1118"
+   }
+  ],
+  "53": [
+   {
+    "email": "h53@iga.in.gov",
+    "name": "Ethan Lawson",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2026/legislators/legislator_ethan_lawson_1"
+   }
+  ],
+  "54": [
+   {
+    "email": "h54@iga.in.gov",
+    "name": "Cory Criswell",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2024/legislators/legislator_cory_criswell_1"
+   }
+  ],
+  "55": [
+   {
+    "email": "h55@iga.in.gov",
+    "name": "Lindsay Patterson",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2024/legislators/legislator_lindsay_patterson_1"
+   }
+  ],
+  "56": [
+   {
+    "email": "h56@iga.in.gov",
+    "name": "Brad Barrett",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2019/legislators/legislator_bradford_barrett_1/"
+   }
+  ],
+  "57": [
+   {
+    "email": "h57@iga.in.gov",
+    "name": "Craig Haggard",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2024/legislators/legislator_craig_haggard_1"
+   }
+  ],
+  "58": [
+   {
+    "email": "h58@iga.in.gov",
+    "name": "Michelle Davis",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_michelle_davis_1"
+   }
+  ],
+  "59": [
+   {
+    "email": "h59@iga.in.gov",
+    "name": "Ryan Lauer",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2019/legislators/legislator_ryan_lauer_1/"
+   }
+  ],
+  "6": [
+   {
+    "email": "h06@iga.in.gov",
+    "name": "Maureen Bauer",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_maureen_bauer_1"
+   }
+  ],
+  "60": [
+   {
+    "email": "h60@iga.in.gov",
+    "name": "Peggy Mayfield",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_peggy_mayfield_1121"
+   }
+  ],
+  "61": [
+   {
+    "email": "h61@iga.in.gov",
+    "name": "Matt Pierce",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_matthew_pierce_708"
+   }
+  ],
+  "62": [
+   {
+    "email": "h62@iga.in.gov",
+    "name": "Dave Hall",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2024/legislators/legislator_david_hall_1"
+   }
+  ],
+  "63": [
+   {
+    "email": "h63@iga.in.gov",
+    "name": "Shane Lindauer",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2019/legislators/legislator_shane_lindauer_1/"
+   }
+  ],
+  "64": [
+   {
+    "email": "h64@iga.in.gov",
+    "name": "Matt Hostettler",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2019/legislators/legislator_matthew_hostettler_1/"
+   }
+  ],
+  "65": [
+   {
+    "email": "h65@iga.in.gov",
+    "name": "Chris May",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2019/legislators/legislator_chris_may_1/"
+   }
+  ],
+  "66": [
+   {
+    "email": "h66@iga.in.gov",
+    "name": "Zach Payne",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_zach_payne_1"
+   }
+  ],
+  "67": [
+   {
+    "email": "h67@iga.in.gov",
+    "name": "Alex Zimmerman",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2024/legislators/legislator_alex_zimmerman_1"
+   }
+  ],
+  "68": [
+   {
+    "email": "h68@iga.in.gov",
+    "name": "Garrett Bascom",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2026/legislators/legislator_garrett_bascom_1"
+   }
+  ],
+  "69": [
+   {
+    "email": "h69@iga.in.gov",
+    "name": "Jim Lucas",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_jim_lucas_1123"
+   }
+  ],
+  "7": [
+   {
+    "email": "h7@iga.in.gov",
+    "name": "Jake Teshka",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_jake_teshka_1"
+   }
+  ],
+  "70": [
+   {
+    "email": "h70@iga.in.gov",
+    "name": "Karen Engleman",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2019/legislators/legislator_karen_engleman_1/"
+   }
+  ],
+  "71": [
+   {
+    "email": "h71@iga.in.gov",
+    "name": "Wendy Dant Chesser",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2024/legislators/legislator_wendy_dant_chesser_1/"
+   }
+  ],
+  "72": [
+   {
+    "email": "h72@iga.in.gov",
+    "name": "Ed Clere",
+    "party": "Independent",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_edward_clere_984"
+   }
+  ],
+  "73": [
+   {
+    "email": "h73@iga.in.gov",
+    "name": "Jenny Meltzer",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2024/legislators/legislator_jennifer_meltzer_1"
+   }
+  ],
+  "74": [
+   {
+    "email": "h74@iga.in.gov",
+    "name": "Steve Bartels",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2019/legislators/legislator_stephen_bartels_1/"
+   }
+  ],
+  "75": [
+   {
+    "email": "h75@iga.in.gov",
+    "name": "Cindy Ledbetter",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_cindy_ledbetter_1"
+   }
+  ],
+  "76": [
+   {
+    "email": "h76@iga.in.gov",
+    "name": "Wendy McNamara",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2019/legislators/legislator_wendy_mcnamara_1046/"
+   }
+  ],
+  "77": [
+   {
+    "email": "h77@iga.in.gov",
+    "name": "Alex Burton",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2026/legislators/legislator_alex_burton_1"
+   }
+  ],
+  "78": [
+   {
+    "email": "h78@iga.in.gov",
+    "name": "Tim O'Brien",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_timothy_obrien_1/"
+   }
+  ],
+  "79": [
+   {
+    "email": "h79@iga.in.gov",
+    "name": "Matt Lehman",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_matthew_lehman_987"
+   }
+  ],
+  "8": [
+   {
+    "email": "h8@iga.in.gov",
+    "name": "Ryan Dvorak",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_ryan_dvorak_697"
+   }
+  ],
+  "80": [
+   {
+    "email": "h80@iga.in.gov",
+    "name": "Phil GiaQuinta",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_philip_giaquinta_879"
+   }
+  ],
+  "81": [
+   {
+    "email": "h81@iga.in.gov",
+    "name": "Martin Carbaugh",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_martin_carbaugh_1125"
+   }
+  ],
+  "82": [
+   {
+    "email": "h82@iga.in.gov",
+    "name": "Kyle Miller",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2024/legislators/legislator_kyle_miller_1"
+   }
+  ],
+  "83": [
+   {
+    "email": "h83@iga.in.gov",
+    "name": "Chris Judy",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_christopher_judy_1"
+   }
+  ],
+  "84": [
+   {
+    "email": "h84@iga.in.gov",
+    "name": "Bob Morris",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_robert_morris_1021"
+   }
+  ],
+  "85": [
+   {
+    "email": "h85@iga.in.gov",
+    "name": "Dave Heine",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2019/legislators/legislator_dave_heine_1/"
+   }
+  ],
+  "86": [
+   {
+    "email": "h86@iga.in.gov",
+    "name": "Ed DeLaney",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_edward_delaney_988"
+   }
+  ],
+  "87": [
+   {
+    "email": "h87@iga.in.gov",
+    "name": "Carey Hamilton",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2019/legislators/legislator_carey_hamilton_1/"
+   }
+  ],
+  "88": [
+   {
+    "email": "h88@iga.in.gov",
+    "name": "Chris Jeter",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2020/legislators/legislator_chris_jeter_1/"
+   }
+  ],
+  "89": [
+   {
+    "email": "h89@iga.in.gov",
+    "name": "Mitch Gore",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_mitch_gore_1"
+   }
+  ],
+  "9": [
+   {
+    "email": "h9@iga.in.gov",
+    "name": "Randy Novak",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2025/legislators/legislator_randy_novak_1"
+   }
+  ],
+  "90": [
+   {
+    "email": "h90@iga.in.gov",
+    "name": "Andrew Ireland",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2026/legislators/legislator_andrew_ireland_1"
+   }
+  ],
+  "91": [
+   {
+    "email": "h91@iga.in.gov",
+    "name": "Bob Behning",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2019/legislators/legislator_robert_behning_187/"
+   }
+  ],
+  "92": [
+   {
+    "email": "h92@iga.in.gov",
+    "name": "Rene\u00e9 Pack",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_renee_pack_1"
+   }
+  ],
+  "93": [
+   {
+    "email": "h93@iga.in.gov",
+    "name": "Julie McGuire",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2024/legislators/legislator_julie_mcguire_1"
+   }
+  ],
+  "94": [
+   {
+    "email": "h94@iga.in.gov",
+    "name": "Cherrish Pryor",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_cherrish_pryor_990"
+   }
+  ],
+  "95": [
+   {
+    "email": "h95@iga.in.gov",
+    "name": "John Bartlett",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_john_bartlett_942"
+   }
+  ],
+  "96": [
+   {
+    "email": "h96@iga.in.gov",
+    "name": "Gregory Porter",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_gregory_porter_115"
+   }
+  ],
+  "97": [
+   {
+    "email": "h97@iga.in.gov",
+    "name": "Justin Moed",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_justin_moed_908"
+   }
+  ],
+  "98": [
+   {
+    "email": "h98@iga.in.gov",
+    "name": "Robin Shackleford",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_robin_shackleford_1128"
+   }
+  ],
+  "99": [
+   {
+    "email": "h99@iga.in.gov",
+    "name": "Vanessa Summers",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_vanessa_summers_231"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/in.csv"
+ },
+ "state": "IN",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "s1@iga.in.gov",
+    "name": "Dan Dernulc",
+    "party": "Republican",
+    "url": "https://www.indianasenaterepublicans.com/dernulc"
+   }
+  ],
+  "10": [
+   {
+    "email": "s10@iga.in.gov",
+    "name": "David Niezgodski",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_david_niezgodski_1"
+   }
+  ],
+  "11": [
+   {
+    "email": "s11@iga.in.gov",
+    "name": "Linda Rogers",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_linda_rogers_1"
+   }
+  ],
+  "12": [
+   {
+    "email": "s12@iga.in.gov",
+    "name": "Blake Doriot",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_blake_doriot_1"
+   }
+  ],
+  "13": [
+   {
+    "email": "s13@iga.in.gov",
+    "name": "Sue Glick",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_susan_glick_1048"
+   }
+  ],
+  "14": [
+   {
+    "email": "s14@iga.in.gov",
+    "name": "Tyler Johnson",
+    "party": "Republican",
+    "url": "https://www.indianasenaterepublicans.com/johnson"
+   }
+  ],
+  "15": [
+   {
+    "email": "s15@iga.in.gov",
+    "name": "Liz Brown",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_liz_brown_1"
+   }
+  ],
+  "16": [
+   {
+    "email": "s16@iga.in.gov",
+    "name": "Justin Busch",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_justin_busch_1"
+   }
+  ],
+  "17": [
+   {
+    "email": "s17@iga.in.gov",
+    "name": "Nick McKinley",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2026/legislators/legislator_nick_mckinley_1"
+   }
+  ],
+  "18": [
+   {
+    "email": "s18@iga.in.gov",
+    "name": "Stacey Donato",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_stacey_donato_1"
+   }
+  ],
+  "19": [
+   {
+    "email": "s19@iga.in.gov",
+    "name": "Travis Holdman",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_travis_holdman_955"
+   }
+  ],
+  "2": [
+   {
+    "email": "s2@iga.in.gov",
+    "name": "Lonnie Randolph",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_lonnie_randolph_160"
+   }
+  ],
+  "20": [
+   {
+    "email": "s20@iga.in.gov",
+    "name": "Scott Baldwin",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_scott_baldwin_1"
+   }
+  ],
+  "21": [
+   {
+    "email": "s21@iga.in.gov",
+    "name": "Jim Buck",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_james_buck_124"
+   }
+  ],
+  "22": [
+   {
+    "email": "s22@iga.in.gov",
+    "name": "Ron Alting",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_ron_alting_538"
+   }
+  ],
+  "23": [
+   {
+    "email": "s23@iga.in.gov",
+    "name": "Spencer Deery",
+    "party": "Republican",
+    "url": "https://www.indianasenaterepublicans.com/deery"
+   }
+  ],
+  "24": [
+   {
+    "email": "s24@iga.in.gov",
+    "name": "Brett Clark",
+    "party": "Republican",
+    "url": "https://www.indianasenaterepublicans.com/clark"
+   }
+  ],
+  "25": [
+   {
+    "email": "s25@iga.in.gov",
+    "name": "Mike Gaskill",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_mike_gaskill_1"
+   }
+  ],
+  "26": [
+   {
+    "email": "s26@iga.in.gov",
+    "name": "Scott Alexander",
+    "party": "Republican",
+    "url": "https://www.indianasenaterepublicans.com/alexander"
+   }
+  ],
+  "27": [
+   {
+    "email": "s27@iga.in.gov",
+    "name": "Jeff Raatz",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_jeff_raatz_1"
+   }
+  ],
+  "28": [
+   {
+    "email": "s28@iga.in.gov",
+    "name": "Michael Crider",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_michael_crider_1130"
+   }
+  ],
+  "29": [
+   {
+    "email": "s29@iga.in.gov",
+    "name": "J.D. Ford",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_jd_ford_1"
+   }
+  ],
+  "3": [
+   {
+    "email": "s3@iga.in.gov",
+    "name": "Mark Spencer",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2025/legislators/legislator_mark_spencer_1"
+   }
+  ],
+  "30": [
+   {
+    "email": "s30@iga.in.gov",
+    "name": "Fady Qaddoura",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_fady_qaddoura_1"
+   }
+  ],
+  "31": [
+   {
+    "email": "s31@iga.in.gov",
+    "name": "Kyle Walker",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_kyle_walker_1"
+   }
+  ],
+  "32": [
+   {
+    "email": "s32@iga.in.gov",
+    "name": "Aaron Freeman",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_aaron_freeman_1"
+   }
+  ],
+  "33": [
+   {
+    "email": "s33@iga.in.gov",
+    "name": "Greg Taylor",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_greg_taylor_976"
+   }
+  ],
+  "34": [
+   {
+    "email": "s34@iga.in.gov",
+    "name": "La Keisha Jackson",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2024/legislators/legislator_la_keisha_jackson_1"
+   }
+  ],
+  "35": [
+   {
+    "email": "s35@iga.in.gov",
+    "name": "Mike Young",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_r_michael_young_645"
+   }
+  ],
+  "36": [
+   {
+    "email": "s36@iga.in.gov",
+    "name": "Cyndi Carrasco",
+    "party": "Republican",
+    "url": "https://www.indianasenaterepublicans.com/carrasco"
+   }
+  ],
+  "37": [
+   {
+    "email": "s37@iga.in.gov",
+    "name": "Rod Bray",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_rodric_bray_1106"
+   }
+  ],
+  "38": [
+   {
+    "email": "s38@iga.in.gov",
+    "name": "Greg Goode",
+    "party": "Republican",
+    "url": "https://www.indianasenaterepublicans.com/goode"
+   }
+  ],
+  "39": [
+   {
+    "email": "s39@iga.in.gov",
+    "name": "Eric Bassler",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_eric_bassler_1"
+   }
+  ],
+  "4": [
+   {
+    "email": "s4@iga.in.gov",
+    "name": "Rodney Pol",
+    "party": "Democratic",
+    "url": "https://indianasenatedemocrats.org/senators/s4/"
+   }
+  ],
+  "40": [
+   {
+    "email": "s40@iga.in.gov",
+    "name": "Shelli Yoder",
+    "party": "Democratic",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_shelli_yoder_1"
+   }
+  ],
+  "41": [
+   {
+    "email": "s41@iga.in.gov",
+    "name": "Greg Walker",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_greg_walker_867"
+   }
+  ],
+  "42": [
+   {
+    "email": "s42@iga.in.gov",
+    "name": "Jean Leising",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_jean_leising_136"
+   }
+  ],
+  "43": [
+   {
+    "email": "s43@iga.in.gov",
+    "name": "Randy Maxwell",
+    "party": "Republican",
+    "url": "https://www.indianasenaterepublicans.com/maxwell"
+   }
+  ],
+  "44": [
+   {
+    "email": "s44@iga.in.gov",
+    "name": "Eric Koch",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_eric_koch_1"
+   }
+  ],
+  "45": [
+   {
+    "email": "s45@iga.in.gov",
+    "name": "Chris Garten",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_chris_garten_1"
+   }
+  ],
+  "46": [
+   {
+    "email": "s46@iga.in.gov",
+    "name": "Andrea Hunley",
+    "party": "Democratic",
+    "url": "https://indianasenatedemocrats.org/senators/s46/"
+   }
+  ],
+  "47": [
+   {
+    "email": "s47@iga.in.gov",
+    "name": "Gary Byrne",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2022/legislators/legislator_gary_byrne_1/"
+   }
+  ],
+  "48": [
+   {
+    "email": "s48@iga.in.gov",
+    "name": "Daryl Schmitt",
+    "party": "Republican",
+    "url": "https://www.indianasenaterepublicans.com/schmitt"
+   }
+  ],
+  "49": [
+   {
+    "email": "s49@iga.in.gov",
+    "name": "Jim Tomes",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_james_tomes_1041"
+   }
+  ],
+  "5": [
+   {
+    "email": "s5@iga.in.gov",
+    "name": "Ed Charbonneau",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_ed_charbonneau_919"
+   }
+  ],
+  "50": [
+   {
+    "email": "s50@iga.in.gov",
+    "name": "Vaneta Becker",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_vaneta_becker_228"
+   }
+  ],
+  "6": [
+   {
+    "email": "s6@iga.in.gov",
+    "name": "Rick Niemeyer",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_rick_niemeyer_1109"
+   }
+  ],
+  "7": [
+   {
+    "email": "s7@iga.in.gov",
+    "name": "Brian Buchanan",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_brian_buchanan_1"
+   }
+  ],
+  "8": [
+   {
+    "email": "s8@iga.in.gov",
+    "name": "Mike Bohacek",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_mike_bohacek_1"
+   }
+  ],
+  "9": [
+   {
+    "email": "s9@iga.in.gov",
+    "name": "Ryan Mishler",
+    "party": "Republican",
+    "url": "https://iga.in.gov/legislative/2021/legislators/legislator_ryan_mishler_801"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

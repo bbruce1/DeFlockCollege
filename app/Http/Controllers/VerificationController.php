@@ -4,12 +4,14 @@ declare(strict_types=1);
 
 namespace App\Http\Controllers;
 
+use App\Chapters\ChapterRepository;
 use App\Chapters\Ownership;
 use App\Chapters\SchoolDomain;
 use App\Chapters\VerificationTicket;
 use App\Mail\VerificationLink;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Mail;
 use Illuminate\Support\Facades\RateLimiter;
 use InvalidArgumentException;
@@ -17,11 +19,11 @@ use InvalidArgumentException;
 /**
  * Sends the link that proves somebody controls a school address.
  *
- * Enumeration is handled by splitting where information is revealed: this
- * endpoint answers identically whether or not a chapter already exists, so an
- * unverified stranger learns nothing about which schools are taken. Once the
- * link is opened, and control of the address is proved, the create page says
- * plainly that the chapter exists and links to it.
+ * A domain that already has a chapter is told so immediately and sent to it,
+ * rather than being mailed a link that would only end at the same message. That
+ * reveals nothing: chapters are public, listed, and indexed, so their existence
+ * was never the secret. What stays hidden is which addresses exist, and this
+ * endpoint still answers identically on that.
  */
 final class VerificationController extends Controller
 {
@@ -30,6 +32,8 @@ final class VerificationController extends Controller
 
     /** Per client, so we cannot be used as a relay to many addresses. */
     private const MAX_PER_IP_PER_HOUR = 10;
+
+    public function __construct(private readonly ChapterRepository $chapters) {}
 
     public function store(Request $request): RedirectResponse
     {
@@ -49,31 +53,75 @@ final class VerificationController extends Controller
             return back()->withErrors(['email' => $e->getMessage()])->withInput();
         }
 
+        // One school, one chapter. Sending a link here would waste the person's
+        // time and a mail, and end at exactly this message.
+        //
+        // Only when they are trying to create one. Somebody asking for an edit
+        // link is asking about the chapter that already exists, so short
+        // circuiting on the same condition would make re-verifying the school
+        // address — the documented way back into a chapter — impossible.
+        if ($purpose === 'create' && $chapter = $this->chapters->findByDomain($domain)) {
+            return back()->with('existing', [
+                'slug' => $chapter->slug,
+                'shortName' => $chapter->shortName,
+            ]);
+        }
+
         if ($limit = $this->exceededLimit($request, $email)) {
             return back()->withErrors(['email' => $limit])->withInput();
         }
 
         $ticket = VerificationTicket::issue($email, $purpose);
         $schoolName = $domain->known()[0] ?? $domain->registrable;
+        $url = $this->destinationFor($purpose, $domain, $ticket);
 
         Mail::to($email)->send(new VerificationLink(
-            url: route('chapters.start', ['ticket' => $ticket->toToken()]),
+            url: $url,
             schoolName: $schoolName,
             minutesValid: VerificationTicket::LIFETIME_MINUTES,
             isEdit: $purpose === 'edit',
         ));
+
+        // On a developer's own machine the link is also written to the log, so
+        // testing does not depend on whether a spam filter let the mail through.
+        // Local only, and to the log rather than the response: putting a
+        // verification link on a page would defeat the gate it exists to be.
+        if (app()->isLocal()) {
+            Log::info('Verification link issued', ['email' => $email, 'url' => $url]);
+        }
 
         // Identical wording regardless of what exists at that domain.
         return back()->with('status', "Check {$email}. The link works for "
             .VerificationTicket::LIFETIME_MINUTES.' minutes.');
     }
 
+    /**
+     * An edit link has to land on the chapter being edited, not on the create
+     * page. A domain with nothing to edit falls back to creating, which is what
+     * the person almost certainly wanted.
+     */
+    private function destinationFor(
+        string $purpose,
+        SchoolDomain $domain,
+        VerificationTicket $ticket,
+    ): string {
+        $token = $ticket->toToken();
+
+        if ($purpose === 'edit' && $chapter = $this->chapters->findByDomain($domain)) {
+            return route('chapters.edit', ['slug' => $chapter->slug, 'ticket' => $token]);
+        }
+
+        return route('chapters.start', ['ticket' => $token]);
+    }
+
     private function exceededLimit(Request $request, string $email): ?string
     {
         // Keyed on the HMAC rather than the address, so the rate limiter's own
-        // store never holds an email in the clear.
+        // store never holds an email in the clear. The client digest is keyed
+        // for the same reason: IPv4 is small enough to enumerate, so a bare
+        // hash of an address is a reversible record of who asked for a link.
         $emailKey = 'verify-email:'.Ownership::record($email);
-        $ipKey = 'verify-ip:'.sha1((string) $request->ip());
+        $ipKey = 'verify-ip:'.hash_hmac('sha256', (string) $request->ip(), (string) config('app.key'));
 
         if (RateLimiter::tooManyAttempts($emailKey, self::MAX_PER_EMAIL_PER_HOUR)) {
             $minutes = (int) ceil(RateLimiter::availableIn($emailKey) / 60);

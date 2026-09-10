@@ -1,0 +1,602 @@
+[
+  {
+    "id": "campus-001",
+    "angle": "campus",
+    "subject": "What the plate readers around {{shortName}} are for",
+    "body": "Dear {{officialName}},\n\nAutomated license plate readers sit on the roads that ring {{shortName}}, and I have found no record that the people who use those roads were asked about them first. A campus pulls the same people through the same handful of streets every day, which is what makes a permanent record of those streets worry me more than it might elsewhere.\n\nI would like to understand what problem the cameras were bought to solve, and how anyone would know whether they had solved it. As a student I have not been able to find that written down anywhere.\n\nMy request is that the readers around campus come down and that no new ones go up. Safety near a university seems arguable without keeping a searchable history of everyone's comings and goings.\n\nWould you tell me where you stand on removal?"
+  },
+  {
+    "id": "campus-002",
+    "angle": "campus",
+    "subject": "A question about campus and {{city}} camera data",
+    "body": "Dear {{officialName}},\n\nTwo different systems can watch the same stretch of road. One may belong to a university and another to {{city}}, and from the sidewalk there is no way for a student to tell which is which, or whether they pool what they collect.\n\nThat uncertainty is the part I find hardest to sit with. Plate readers build a history of where a vehicle has been, and when the roads involved ring a campus, that history is mostly students and the people who work alongside them, recorded across an ordinary week for no particular reason.\n\nI would be grateful for a direct answer. Does any campus reader feed a municipal database, and does any municipal reader feed a campus one?\n\nI hope you will also back the remedy, which is to take the readers near {{shortName}} out and add none.\n\nA written reply would mean a lot to me."
+  },
+  {
+    "id": "campus-003",
+    "angle": "campus",
+    "subject": "What the university has agreed to about cameras",
+    "body": "Dear {{officialName}},\n\nA university has obligations to the people it gathers into one place, and I think an explanation is one of them once their movements start being recorded by machine.\n\nAutomated plate readers around {{shortName}} log vehicles without suspicion and keep the result. Students live and study inside the small area those cameras cover, so what would be ordinary traffic data somewhere else reads to me like a daily diary here.\n\nI would like the institution to say in public what it agreed to and what it did not. After that, I would like the readers around campus removed and no replacements installed.\n\nIf you see it differently, I would rather read your reasoning than assume it. Would you write back?"
+  },
+  {
+    "id": "campus-004",
+    "angle": "campus",
+    "subject": "A campus in your district and constant scanning",
+    "body": "Dear {{officialName}},\n\nThe boundaries of your district take in a university, which is why this question feels partly yours. {{readersWithinMile}} automated plate readers stand within a mile of {{shortName}}, and across {{state}} the count reaches {{readersInState}}.\n\nDensity is what makes a campus different, and it is what worries me. Elsewhere a camera catches strangers passing through once. Here it records the same people over and over for years, along with the staff who serve them and the households next door.\n\nI am asking you to support removal of the readers around campus and a commitment that none be added. I am one student with one letter, but that is a decision an elected official can push for.\n\nWhere do you land on this? A short answer on the record would help."
+  },
+  {
+    "id": "campus-005",
+    "angle": "campus",
+    "subject": "Hoping to see the readers near {{shortName}} removed",
+    "body": "Dear {{officialName}},\n\nMy request is short. I would like the automated license plate readers around {{shortName}} taken down, and I hope you will commit to installing no further ones.\n\nThe reason is the shape of the place. University neighborhoods pack an enormous amount of ordinary life into a few blocks, so a system that logs every plate on every pass ends up holding a fine grained account of how a whole community spends its weeks.\n\nWhat unsettles me as a student is that the record exists whether or not anyone is suspected of anything, and it can later be searched by people I will never meet. I would rather {{city}} decided this deliberately than let it accumulate by default.\n\nCan you tell me whether you would support taking them down?"
+  },
+  {
+    "id": "campus-006",
+    "angle": "campus",
+    "subject": "What a movement record costs some students more",
+    "body": "Dear {{officialName}},\n\nNot every student carries the same risk from being recorded, and that is the part of this I find hardest to put down. A citizen with a parking ticket and a visa holder whose status depends on a clean file are not in the same position, and automated plate readers do not distinguish between them.\n\n{{shortName}} draws people from outside the country, as universities do. For them a stored history of where a car has been can become a file requested later by an agency holding power over whether they stay. I rarely see that asymmetry mentioned when a camera contract is approved.\n\nI am asking that the readers around campus be removed and that none be added. Crime near a university can surely be addressed without a movement log on an entire student body.\n\nWould you say publicly whether you support removal?"
+  },
+  {
+    "id": "campus-007",
+    "angle": "campus",
+    "subject": "Visitors to campus are logged along with students",
+    "body": "Dear {{officialName}},\n\nThink about who passes a camera placed near a university. Prospective students arrive with their parents, contractors come and go all week, and residents of {{city}} whose route home runs along the edge of campus are recorded as a side effect, with no connection to the place at all.\n\nNone of them chose to enter a plate database, and I doubt many know they have been added to one. That bothers me more the longer I look at it.\n\nI would like the scanning around {{shortName}} to stop, with the existing readers taken out rather than replaced. A university district seems to me the place where the incidental catch is largest and the justification thinnest.\n\nDo you support removal? An answer I could quote would be worth more to a student than a polite acknowledgement."
+  },
+  {
+    "id": "campus-008",
+    "angle": "campus",
+    "subject": "A campus feels like the wrong place for this",
+    "body": "Dear {{officialName}},\n\nUniversities are dense by design. People are meant to live close to where they study and to cross paths often. That design is the whole point, and it is also what turns routine plate scanning around {{shortName}} into something closer to attendance tracking.\n\nA reader does not know why a car is on a road. It records the plate and the location regardless, then keeps the result. Over a term that adds up to a picture of a student's life that nobody asked permission to draw, and I would rather it were not drawn.\n\nI would like the readers near campus removed and a public commitment that no more will be installed. If you think that is wrong, I would honestly like to hear the reasoning.\n\nWill you reply with a position?"
+  },
+  {
+    "id": "campus-009",
+    "angle": "campus",
+    "subject": "A request about the readers ringing {{shortName}}",
+    "body": "Dear {{officialName}},\n\nThere are {{readersWithinMile}} automated plate readers within a mile of {{shortName}}. That is a great deal of hardware pointed at a small area where the same population circulates all week, and it is hard for me to see it as ordinary.\n\nI am a student here, not a lawyer, and I do not speak for the university. What I can say is that we were not asked, and the material available to the public does not explain who approved the placement or how long the data is held.\n\nI would like them taken down, and none added. If the answer is no, I would hope for something more specific than a general assurance about responsible handling.\n\nYour position in writing would be better than leaving me to guess at it."
+  },
+  {
+    "id": "campus-010",
+    "angle": "campus",
+    "subject": "Nobody asked the student body about this",
+    "body": "Dear {{officialName}},\n\nSomebody decided that the roads around {{shortName}} should be scanned. Whoever that was, the people who use those roads were not consulted, and I can find no public record that a student would recognize as agreement.\n\nConsent seems to matter more where the watching is continuous. A camera on a highway sees a stranger once. Point one at the edge of a campus and it sees the same undergraduate and the same custodian week after week.\n\nSo I am asking for removal of the readers around campus and a commitment against new installations. If that is not possible, I would at least like the approval documented and published.\n\nWhat is your position? I would be grateful to hear it."
+  },
+  {
+    "id": "campus-011",
+    "angle": "campus",
+    "subject": "Plate readers on the roads students use daily",
+    "body": "Dear {{officialName}},\n\nThe roads that border a university are not ordinary roads. They carry a population that mostly lives within walking distance and depends on a small number of routes to get anywhere.\n\nAutomated readers on those routes produce a dense log of a single community. The information is gathered before any suspicion exists and kept afterwards, available to whoever can make a case for access. That is the piece I keep turning over.\n\nI would like the readers around {{shortName}} removed and none installed in their place. That is the whole of my request, and I do not think it needs a study or a working group first.\n\nIf your view differs, I would rather hear it from you than be pointed at a policy page. Thank you for reading this from a student."
+  },
+  {
+    "id": "campus-012",
+    "angle": "campus",
+    "subject": "A student asking where you stand on campus readers",
+    "body": "Dear {{officialName}},\n\nPositions on this are easy to avoid and easy to state. I am hoping for one.\n\nAutomated plate readers operate around {{shortName}}. They record vehicles that have done nothing wrong and keep the result somewhere it can be searched later. On a campus the effect compounds, because the same people appear again and again inside a small radius, and so do the staff and residents who share those streets with them.\n\nWhat I would like is removal of the existing readers near campus and a decision against adding more. Either yes or no is a fair answer, and I will take either without complaint.\n\nWould you put yours in writing? It would help me explain to other students where this actually sits."
+  },
+  {
+    "id": "campus-013",
+    "angle": "campus",
+    "subject": "The cameras near {{shortName}} watch the same people",
+    "body": "Dear {{officialName}},\n\nScale is what I think gets missed about plate readers. One camera on one road sounds minor. Ringing a university with them feels different in kind, because a campus pulls the same population through the same corridors day after day, and the record that accumulates is a record of that population.\n\nNobody there is under suspicion. The system does not require suspicion, which is exactly what worries me about it.\n\nI would like the readers around campus to come down and no new ones approved. I write as one student, with no claim to speak for {{school}}, and I would still be grateful for a direct answer.\n\nWill you support removal?"
+  },
+  {
+    "id": "campus-014",
+    "angle": "campus",
+    "subject": "Staff and neighbors are recorded alongside students",
+    "body": "Dear {{officialName}},\n\nMost of the argument about campus cameras assumes the people affected are students. We are not the only ones. The people who clean the buildings and the households in the blocks next door pass those same readers every day, and they have less standing to ask about it than I do.\n\nA plate reader near {{shortName}} does not check whether a driver belongs to the university before logging them. It logs everyone, and the log outlasts the reason it was made. That last part is what stays with me.\n\nI would like them removed, with none approved to replace them. If {{city}} wants to address a specific crime problem, I hope that can be done without a standing record of a whole neighborhood's movements.\n\nWhere do you stand?"
+  },
+  {
+    "id": "campus-015",
+    "angle": "campus",
+    "subject": "Who reviews the camera contract covering campus",
+    "body": "Dear {{officialName}},\n\nContracts for surveillance equipment tend to be renewed quietly, and I would like to know who reviews the one covering the area around {{shortName}}, and whether anyone outside the office that signed it ever sees the terms.\n\nThe specifics matter to me here. How long is the data kept, and who is able to query it? As a student I have no way to learn either from public sources.\n\nWhatever the answers turn out to be, my hope is that the readers near campus are removed rather than renewed, and that none replace them. A university district generates a uniquely detailed picture of ordinary life, and I do not think that picture should sit in a database by default.\n\nCould you tell me what your office intends to do at the next review?"
+  },
+  {
+    "id": "campus-016",
+    "angle": "campus",
+    "subject": "Scanning a university district records ordinary life",
+    "body": "Dear {{officialName}},\n\nOrdinary life is what these cameras capture around {{shortName}}. What accumulates is the grinding regularity of students and workers going out and then coming home again, day after day.\n\nA reader logs the plate whether the driver is a suspect or a night cleaner finishing a shift. The record is kept either way, and the difference between the two gets decided long afterwards by whoever is running the query. Because the population near a campus is stable and concentrated, that record becomes a timetable rather than a snapshot, which is the thing I cannot get comfortable with.\n\nI would like the readers around campus taken out, with a commitment that none will be added.\n\nPlease tell me whether you agree, and if not, what standard you would apply instead."
+  },
+  {
+    "id": "campus-017",
+    "angle": "campus",
+    "subject": "Campus policing and municipal databases in {{city}}",
+    "body": "Dear {{officialName}},\n\nJurisdiction blurs at the edge of a university. Campus officers operate on public streets, municipal officers operate on university land, and the plate data collected in that overlap has to live somewhere.\n\nWhere does it live, and who can search it? A student asking that question finds no straightforward answer, and the difficulty of asking is part of what troubles me.\n\nThe cameras around {{shortName}} record a population that has no practical way to avoid them. Walking is not always an option, and a passenger is logged as surely as a driver.\n\nWhat I am asking for is removal of those readers and a decision against installing more. Would you set out your position, so that I can pass it on accurately?"
+  },
+  {
+    "id": "campus-018",
+    "angle": "campus",
+    "subject": "The readers within a mile of campus",
+    "body": "Dear {{officialName}},\n\n{{readersWithinMile}} plate readers within a mile of a single university is a policy choice, even if it never looked like one when each was approved separately.\n\nI have not found anything about a campus that would justify that concentration. The people inside that mile are overwhelmingly students and the staff who support them, and the readers cannot tell one from the other or care to.\n\nRemoval is what I am hoping for, along with a commitment that no further readers go in around {{shortName}}.\n\nYou may hold a different view, and I would rather read it in your words than assume it. Will you write back with your position? I would be grateful either way."
+  },
+  {
+    "id": "campus-019",
+    "angle": "campus",
+    "subject": "Students in {{city}} are scanned constantly too",
+    "body": "Dear {{officialName}},\n\nStudents are residents of {{city}} too, even the ones who arrive with an out of state plate and leave after a few years. We pay rent here, many of us vote here, and all of us are scanned here constantly.\n\nThe plate readers around {{shortName}} treat that population as traffic. What they produce looks to me closer to a register of who was where, at what hour, and how often. Registers of that kind seem hard to unbuild once they exist, and easy to widen once they are normal.\n\nI would like the readers removed and none added in their place.\n\nCould you tell me whether you support that, and if you do, what step comes next?"
+  },
+  {
+    "id": "campus-020",
+    "angle": "campus",
+    "subject": "A student's request about the campus readers",
+    "body": "Dear {{officialName}},\n\nThe request first, so it is not buried. I would like the automated license plate readers around {{shortName}} taken down, and no new ones installed.\n\nThe reasoning is short as well. A campus compresses an entire community into a few streets, so a permanent log of those streets is a permanent log of that community. Nobody consented to it, and the people most exposed to the consequences are the ones with the least ability to say anything about it. That combination is what worries me.\n\nWhether the cameras belong to the university or to {{city}} does not change much for a student. Either way the record exists and outlasts the reason for it.\n\nCould I have your position in writing?"
+  },
+  {
+    "id": "campus-021",
+    "angle": "campus",
+    "subject": "How long is campus plate data kept",
+    "body": "Dear {{officialName}},\n\nRetention is where my worry actually sits. A camera that forgets within the hour is a nuisance. One that remembers for months around {{shortName}} builds a history of a student population that nobody agreed to create.\n\nSo the question I would like answered is simple. How long is plate data from the campus perimeter held, and what deletes it? If the honest answer is that nobody has it to hand, I would rather be told that than nothing.\n\nMy own view is that the readers should be removed rather than tuned, and that none should replace them, because retention policy changes with whoever holds the office and the hardware does not.\n\nWould you reply with the retention period, and with your position on removal?"
+  },
+  {
+    "id": "campus-022",
+    "angle": "campus",
+    "subject": "Who can query the plate records around {{shortName}}",
+    "body": "Dear {{officialName}},\n\nCollection gets the attention, but access is what determines the harm, and access is what I cannot find out about. A plate record around {{shortName}} is only as private as the list of people able to search it.\n\nWould you tell me who is on that list? Other agencies, federal ones, private contractors maintaining the system?\n\nFor a campus this matters unusually much, because the same names come up over and over in a small radius, and a single query can reconstruct a student's week without any warrant or any suspicion.\n\nThe remedy I am hoping for is removal of the readers and a commitment to add none. A narrower access policy would still leave the record sitting there for the next administration to reinterpret.\n\nI would welcome your answer."
+  },
+  {
+    "id": "campus-023",
+    "angle": "campus",
+    "subject": "University consent and the cameras on its perimeter",
+    "body": "Dear {{officialName}},\n\nWhether {{school}} was asked before the readers went up is not something a student can establish from outside, and I think it ought to be.\n\nIf the institution agreed, the agreement should be public. If it did not, then a system is watching its community without its consent, which seems like something the administration should be raising rather than absorbing quietly.\n\nEither way my request is the same. I would like the plate readers around campus removed, and none added.\n\nA university that asks people to move their lives into one place and to trust it with a great deal already owes them clarity about who is recording their movements.\n\nWill you tell me where you stand, and what you intend to do about it?"
+  },
+  {
+    "id": "campus-024",
+    "angle": "campus",
+    "subject": "Cameras at the edge of campus catch everyone",
+    "body": "Dear {{officialName}},\n\nEdges are where these readers usually go, which sounds modest until you notice that everyone entering or leaving a campus crosses one. The perimeter is not a boundary for a surveillance system. It is the choke point.\n\nAround {{shortName}} that means a near complete log of arrivals and departures for a community that lives and studies inside a small area. Nothing about it requires a crime to have occurred. The log builds itself, and as a student I have no way to see my own entries in it.\n\nI would like the readers taken down and no more installed, and I would like {{city}} to treat this as a decision rather than an inheritance.\n\nCould you reply with your position, however brief?"
+  },
+  {
+    "id": "campus-025",
+    "angle": "campus",
+    "subject": "Plate readers and the risk to international students",
+    "body": "Dear {{officialName}},\n\nInternational students at {{shortName}} live under a different set of rules from the rest of us. Their presence depends on paperwork, and paperwork can be revisited whenever an agency decides to look again.\n\nA stored record of where a car has been is exactly the kind of material that gets pulled into such a review. The person concerned has no way to see it, correct it, or contest how it is read. That is the thing I worry about most in all of this.\n\nIt is why a plate reader near a campus does not feel equivalent to one on an interstate. I hope you will support removing the readers around campus and installing none.\n\nWould you be willing to state that publicly?"
+  },
+  {
+    "id": "campus-026",
+    "angle": "campus",
+    "subject": "A record that outlasts the reason for it",
+    "body": "Dear {{officialName}},\n\nHardware installed today will still be there when everyone currently making decisions about it has moved on. That is the part of the campus surveillance question that keeps bothering me.\n\nWhatever restraint governs the plate readers around {{shortName}} right now depends on the people holding office and the policy they happen to favor. Policies get rewritten. Cameras stay bolted to poles, and the archive they have built stays queryable.\n\nA student population turns over every few years and cannot really vote on any of this, yet it supplies most of the data.\n\nI would like the readers around campus removed and no new ones approved. Would you tell me whether that is something you are willing to back?"
+  },
+  {
+    "id": "campus-027",
+    "angle": "campus",
+    "subject": "Campus safety arguments and what the cameras measure",
+    "body": "Dear {{officialName}},\n\nSafety is the reason usually given for cameras near a university, and safety is worth taking seriously. I am not convinced plate readers deliver it.\n\nA reader records vehicles. Most harm on and around a campus does not involve one, and the students who feel least safe walking at night are not obviously made safer by a database of license plates.\n\nThe cost, meanwhile, is concrete. Everyone who drives to class or to a shift near {{shortName}} enters a permanent log without being asked.\n\nI would like the readers removed and none installed in their place. If you believe they do make campus safer, what would count as evidence either way? I would genuinely like to know, and I would appreciate a reply."
+  },
+  {
+    "id": "campus-028",
+    "angle": "campus",
+    "subject": "Hoping campus police will explain the plate readers",
+    "body": "Dear {{officialName}},\n\nOfficers who work a campus beat know the community better than any database does, and that familiarity is worth something. A plate reader adds nothing to it except storage.\n\nAround {{shortName}} the readers collect vehicle movements indiscriminately, and the collection continues whether or not anything is happening. Over a semester it becomes a record of who comes and goes, at what hours, from a small and predictable population. That accumulation is what concerns me as a student.\n\nI am asking for that equipment to be removed and for no further units to be installed.\n\nIf your department sees it otherwise, I would rather hear the case made directly than read it in a procurement notice. Will you respond?"
+  },
+  {
+    "id": "campus-029",
+    "angle": "campus",
+    "subject": "The city's cameras and the university's students",
+    "body": "Dear {{officialName}},\n\nMunicipal cameras do not stop at a campus boundary, and the people they record near {{shortName}} are disproportionately students who had no say in the decision.\n\nConstituents who can vote get to weigh in on {{city}} policy. A student from another state or another country is governed by that policy without any comparable voice, and is scanned by it several times a day. That imbalance seems to me a reason for more caution than usual, not less.\n\nWhat I would like is for the readers around the university to be removed and for no new installations to be approved.\n\nWould you tell me whether you support that, and whether the decision rests with your office or somewhere else?"
+  },
+  {
+    "id": "campus-030",
+    "angle": "campus",
+    "subject": "Asking would have been easy on a campus",
+    "body": "Dear {{officialName}},\n\nAsking would have been easy. A university has an unusually well defined community, with plenty of channels for reaching it, and I can find no sign that any of them were used before the plate readers went in around {{shortName}}.\n\nConsent is not a formality here, at least not to me. The system logs the same people repeatedly because they live in the same few blocks, so the record it produces is far more detailed than what the same equipment yields on a highway.\n\nI would like the readers removed and no more installed. I would also like whatever agreement authorized them published, so students can at least see how the decision was made.\n\nWould you reply with your position on removal?"
+  },
+  {
+    "id": "campus-031",
+    "angle": "campus",
+    "subject": "Movement records reveal more on a small campus",
+    "body": "Dear {{officialName}},\n\nGeography does the work here. On a large road network, plate hits are scattered and thin. Compress the same technology into the blocks around {{shortName}} and the hits line up into a routine.\n\nRoutines expose things people do not volunteer, such as where a student sleeps or which appointments they keep and how often they keep them. None of that requires anyone to be doing anything wrong, and none of it was offered up willingly. That is the heart of my worry.\n\nI would like the readers removed, and no more installed near campus. I am not asking for a study or a review, only for the equipment to come out.\n\nCan you say whether you agree?"
+  },
+  {
+    "id": "campus-032",
+    "angle": "campus",
+    "subject": "Students cannot opt out of the campus perimeter",
+    "body": "Dear {{officialName}},\n\nAvoiding a plate reader requires knowing where it is and having somewhere else to go. Around a university, neither condition holds. The routes are few, and the schedule is set by somebody else's timetable.\n\nSo the ordinary defense of these systems, that a driver can simply take another road, does not survive contact with {{shortName}}. What remains is a captive population supplying continuous data to a database no student can inspect.\n\nI would like the readers taken out, with a commitment to install none. If that sits outside your authority, I would be grateful if you told me whose authority it falls within, and I will write to them as well.\n\nEither way, thank you for reading this."
+  },
+  {
+    "id": "campus-033",
+    "angle": "campus",
+    "subject": "Publishing the locations of readers near campus",
+    "body": "Dear {{officialName}},\n\nDisclosure would be a start, since it costs little. Where exactly are the automated plate readers around {{shortName}}, who owns each one, and where does the data go?\n\nStudents cross those streets daily, and the honest answer available to us right now is guesswork. That alone unsettles me.\n\nDisclosure would only be a beginning, though. Removal is what I am really asking for. A campus is the densest possible target for this technology, and the record it produces is correspondingly intimate.\n\nSo I would like the list published, then the readers taken down, with none added afterwards.\n\nWould you be willing to commit to either half of that, and let me know which?"
+  },
+  {
+    "id": "campus-034",
+    "angle": "campus",
+    "subject": "Data sharing between campus and city plate systems",
+    "body": "Dear {{officialName}},\n\nSystems approved separately often end up joined. A university buys readers for its own perimeter. {{city}} buys readers for its streets. Somewhere a query interface reaches both, and nobody has to announce it.\n\nIf that has happened around {{shortName}}, the practical result is a single searchable record of a student population's movements, assembled without any decision that looked like a decision. I find that quietly alarming.\n\nI would like to know whether the two systems exchange data, and under what agreement.\n\nMore than that, I would like the readers around campus removed and none installed to replace them. Will you answer the first question and give me your position on the second?"
+  },
+  {
+    "id": "campus-035",
+    "angle": "campus",
+    "subject": "The people who work on campus are recorded too",
+    "body": "Dear {{officialName}},\n\nUniversities run on staff who commute. Facilities work and food service arrive by car at hours that are easy to reconstruct from plate data.\n\nThose workers are recorded every shift by the readers near {{shortName}}, and they are in the weakest position of anyone to object. Complaining about an employer's surveillance is not a low risk act. Students at least get to write letters like this one, which is part of why I am writing.\n\nI would like the equipment to come out, with nothing to replace it. A record of when the lowest paid people in a workplace arrive and leave does not look to me like a public safety asset.\n\nDo you support removal? A plain answer would be useful."
+  },
+  {
+    "id": "campus-036",
+    "angle": "campus",
+    "subject": "Plate readers and the freedom to gather on campus",
+    "body": "Dear {{officialName}},\n\nUniversities exist so that people can argue in public and change their minds afterwards. Any system that logs who showed up where sits uneasily against that, and it is why this bothers me here more than it would elsewhere.\n\nPlate readers around {{shortName}} do not need to be aimed at anything in particular to have that effect. Their existence is enough. A student who suspects a record is being kept adjusts a little, and the adjustment is invisible.\n\nI am not accusing anyone of misusing the data. My worry is that the capability sits there at all, on a campus of all places.\n\nI hope you will support removing the readers and installing no further ones. Would you state that position where students can see it?"
+  },
+  {
+    "id": "campus-037",
+    "angle": "campus",
+    "subject": "Misread plates and the student who must argue",
+    "body": "Dear {{officialName}},\n\nWhat happens when a reader gets a plate wrong near {{shortName}}? I have looked, and a student has no way to find out.\n\nThe person on the receiving end of an error is usually the least equipped to contest it. A young driver far from home, possibly on a visa, is not in a strong position to argue with a database or with the officer reading from it. That imbalance worries me more than the technology itself.\n\nSystems that produce it should be justified very well or not deployed at all.\n\nI am asking for the readers around campus to be removed and for none to be added. Could you tell me your position, and what the error process currently is?"
+  },
+  {
+    "id": "campus-038",
+    "angle": "campus",
+    "subject": "Hoping you will oppose new readers near {{shortName}}",
+    "body": "Dear {{officialName}},\n\nBefore anything else, I hope you will oppose any new automated plate readers around {{shortName}}, and support removing the ones already there.\n\nAdditions tend to arrive one at a time, each too small to argue about, until a university district is fully covered. {{readersWithinMile}} within a mile is what that process produces, and watching it continue is what prompted this letter.\n\nA campus deserves the opposite default. The population is concentrated and largely unable to influence the decision, which is why I think the burden of proof should be high.\n\nI am one student writing on my own account, without any authority from {{school}}.\n\nWould you let me know whether you would vote or advocate against further installations?"
+  },
+  {
+    "id": "campus-039",
+    "angle": "campus",
+    "subject": "What the university owes the people it gathers",
+    "body": "Dear {{officialName}},\n\nAn institution that asks people to move across the world and spend years inside a few blocks takes on obligations beyond teaching. Knowing who is recording their movements seems to me one of them.\n\nAround {{shortName}} I cannot find that obligation met in anything a student can read. The plate readers operate, and no explanation of where the data goes has been offered publicly.\n\nI would like the university to press for removal of the readers on and around its perimeter, and to turn down any new ones.\n\nIf the administration believes it lacks the standing to do that, saying so plainly would at least let us know where we are. Which is it, as far as you understand the situation?"
+  },
+  {
+    "id": "campus-040",
+    "angle": "campus",
+    "subject": "Campus visitors may not know they are scanned",
+    "body": "Dear {{officialName}},\n\nPublic lectures and open days bring people onto university land who have no connection to it otherwise. Every one of them drives past a reader near {{shortName}}, and I doubt many realize it.\n\nA visitor cannot agree to something they were never told about, and I have seen no sign at a campus entrance explaining that arrivals are logged.\n\nThe incidental catch around a university seems larger than almost anywhere else in {{city}}, and it falls on people who are simply attending something.\n\nWhat I am hoping for is that the readers come out and that none are approved in future. If you see the balance differently, I would rather understand your reasoning than guess at it.\n\nWould you write back to a student who is genuinely trying to work this out?"
+  },
+  {
+    "id": "campus-041",
+    "angle": "campus",
+    "subject": "A searchable history of a small neighborhood",
+    "body": "Dear {{officialName}},\n\nThe area around {{shortName}} is one neighborhood, because that is what it amounts to. Now picture a permanent, searchable log of every vehicle movement in it, held indefinitely and queryable by people who live nowhere near it.\n\nThat log already exists. It was built without a vote and without notice, and no resident or student can see their own entries in it. Living inside it is an odd feeling.\n\nI am asking that the readers producing it be removed, and that no more be installed.\n\nYou may consider the trade worthwhile. If so, I would like to understand the reasoning rather than assume the worst. Will you write back?"
+  },
+  {
+    "id": "campus-042",
+    "angle": "campus",
+    "subject": "Who signed off on the readers near campus",
+    "body": "Dear {{officialName}},\n\nSomewhere a signature authorized the plate readers around {{shortName}}. I would like to know whose it was and what the authorization covered.\n\nResponsibility for this keeps moving, which is the reason I am asking. The university points toward {{city}}, which points toward a department, which points toward a contract. Students who want an answer tend to give up somewhere in that loop.\n\nThat drift is convenient for everyone except the people being recorded.\n\nMy request does not change with whoever turns out to hold the pen. I would like the readers around campus removed, and no further units installed.\n\nCould you tell me who authorized the current deployment, and whether you would support ending it?"
+  },
+  {
+    "id": "campus-043",
+    "angle": "campus",
+    "subject": "Out of state students are constituents as well",
+    "body": "Dear {{officialName}},\n\nPlenty of people at {{shortName}} come from elsewhere and will leave eventually. That does not make them less affected by what {{city}} decides. They rent here and drive the same roads as everyone else, and the readers do not treat them as temporary.\n\nBecause they are transient, their objections are easy to set aside. A population that turns over quickly rarely organizes against infrastructure that outlasts it. I would rather it not work out that way this time, which is why a student is writing to you.\n\nI hope you will support removal of the plate readers around campus and a commitment against new ones.\n\nWould you tell me where you stand, so students can weigh it?"
+  },
+  {
+    "id": "campus-044",
+    "angle": "campus",
+    "subject": "The difference between watching and remembering",
+    "body": "Dear {{officialName}},\n\nAn officer parked near a campus sees who drives past and forgets most of it by evening. A plate reader in the same spot forgets nothing, and what it holds can be searched by someone with no connection to {{city}} at all.\n\nThat difference is what I keep coming back to. Memory at scale turns ordinary observation into a dossier, and around {{shortName}} the dossier is unusually rich, because the same students pass the same points constantly.\n\nI would like the readers removed and none installed afterwards.\n\nHuman policing near a university is something people can reasonably disagree about. Permanent machine memory feels like a different proposition, and I would like to know which one you support."
+  },
+  {
+    "id": "campus-045",
+    "angle": "campus",
+    "subject": "Federal access to plate data collected near campus",
+    "body": "Dear {{officialName}},\n\nData collected locally does not always stay local. Once a plate record exists around {{shortName}}, the question of who can eventually reach it stops being a {{city}} question, and that is what unsettles me.\n\nFor a university it is a serious matter. Campuses host people whose immigration status, research collaborations, or family situations make an outside agency's interest more than hypothetical.\n\nI would like to know whether any federal body can query the records produced near campus, directly or through a shared platform.\n\nWhatever that answer is, I would like the readers removed and no new ones installed. Could you give me a straight response on access, and tell me whether you support removal? I am asking as a student, for myself."
+  },
+  {
+    "id": "campus-046",
+    "angle": "campus",
+    "subject": "Students who never drive are recorded anyway",
+    "body": "Dear {{officialName}},\n\nA plate reader logs a vehicle, not a driver, which sounds like a limitation until you think about a campus. Rideshares, friends giving lifts, parents visiting for a weekend, a housemate's car borrowed for a grocery run. All of it links back to somebody near {{shortName}} eventually.\n\nStudents without cars are not outside this system. We are simply harder to identify, and identification is a matter of effort rather than principle. The protection some of us assume we have does not really exist.\n\nI am asking that the readers around campus be removed and that none be added.\n\nWould you set out your position, and say whether you are able to act on it?"
+  },
+  {
+    "id": "campus-047",
+    "angle": "campus",
+    "subject": "Campus surveillance became normal without a decision",
+    "body": "Dear {{officialName}},\n\nNothing about the plate readers near {{shortName}} appears to have been put to a public choice, as far as any student can tell. Equipment appeared. Contracts renewed. The situation became normal by continuing.\n\nDecisions made that way seem worth revisiting precisely because they were never really made.\n\nA university district feels like the last place where surveillance should accumulate quietly. The people inside it are concentrated and largely voiceless in the process, which is the combination that ought to prompt caution.\n\nI would like the readers removed, and no more installed. I would like {{city}} to make that call deliberately rather than by drift.\n\nWill you tell me whether you support it, and what the route to a vote would be?"
+  },
+  {
+    "id": "campus-048",
+    "angle": "campus",
+    "subject": "A week reconstructed from plate reads near campus",
+    "body": "Dear {{officialName}},\n\nSomeone holding a month of plate reads from the roads around {{shortName}} could reconstruct a student's week without much effort, down to arrival times and the places they turn up at reliably.\n\nThat capability exists now, without any warrant and without the subject ever knowing a query ran. It is the thing I find hardest to explain away when I try to argue myself out of worrying.\n\nThe concentration is what makes it work. A campus supplies the repetition that turns scattered data points into a schedule.\n\nI am asking for the readers to be removed and for none to be installed around the university.\n\nIf you think the capability is acceptable, I would rather hear why than assume. Would you write back?"
+  },
+  {
+    "id": "campus-049",
+    "angle": "campus",
+    "subject": "Campus police powers and city streets in {{city}}",
+    "body": "Dear {{officialName}},\n\nThe area around a university is policed by more than one authority, and plate data seems to flow across that seam more easily than accountability does.\n\nA student who wants to know why their vehicle was scanned near {{shortName}} has to guess which body to ask, then guess again when the first one says it holds nothing. Trying that is what turned my mild unease into a letter.\n\nI would like that seam closed by the simplest available method, which is removal of the readers around campus with no replacements installed.\n\nShort of that, I would be grateful to know which office holds the records and which is answerable for how they are used. A written answer to any part of this would be more than students have now."
+  },
+  {
+    "id": "campus-050",
+    "angle": "campus",
+    "subject": "Traffic data is not ordinary near a university",
+    "body": "Dear {{officialName}},\n\nTraffic data sounds harmless. Counts of vehicles and their timing, none of it obviously personal. Automated plate readers seem different to me, because they identify rather than count.\n\nNear {{shortName}} that distinction turns sharp. The identified vehicles belong to a small, stable community whose members appear over and over, and repetition is what converts data into a profile of a student or a staff member.\n\nCounting cars around a campus would be fine. Recording which specific ones, at which specific hours, indefinitely, is what I am asking you to reconsider.\n\nMy request is removal of the readers and a commitment against new ones. Would you tell me whether you can support that, and if the decision sits elsewhere, where it sits?"
+  },
+  {
+    "id": "campus-051",
+    "angle": "campus",
+    "subject": "The campus readers and the next contract renewal",
+    "body": "Dear {{officialName}},\n\nRenewal is the moment when a decision can actually be revisited, and it usually passes without comment. I am hoping this one does not.\n\nThe automated plate readers around {{shortName}} record a community that was never asked. Students and the staff who keep the place running pass the same points daily, which makes the accumulated record far more revealing than it would be anywhere else.\n\nWhen the contract next comes up, I hope you will argue for letting it lapse and for taking the equipment down, with nothing installed in its place.\n\nWould you tell me when that review happens, and whether you would support ending the deployment rather than extending it?"
+  },
+  {
+    "id": "campus-052",
+    "angle": "campus",
+    "subject": "Your view on the cameras around the university",
+    "body": "Dear {{officialName}},\n\nStudents at {{shortName}} are trying to work out which officials in {{city}} think campus plate surveillance is acceptable, and your answer would help me a great deal.\n\nMy case against it is short. A university concentrates the same people into a few streets, so a permanent log of those streets amounts to a log of the people. Nobody was asked. The record can be searched by people the community will never meet, for reasons it will never hear.\n\nWhat I want is removal of the readers near campus and a firm no to further installations.\n\nIf that matches your view, saying so publicly would mean something here. If it does not, I would still rather know. Which is it?"
+  },
+  {
+    "id": "campus-053",
+    "angle": "campus",
+    "subject": "For many students home is inside the camera zone",
+    "body": "Dear {{officialName}},\n\nFor a large share of people at {{shortName}}, home and work occupy the same few blocks. That is unusual, and I think it changes what a perimeter camera means.\n\nElsewhere a plate reader catches a commute. Here it catches somebody leaving their house, and the pattern of those departures over months is about as personal as location data gets. Nobody signed up for that when they accepted a place or a job, and as a student I did not either.\n\nI am asking for the readers to be removed and for none to be installed around the university.\n\nA short reply with your position would be genuinely useful, even if it is not the answer I am hoping for."
+  },
+  {
+    "id": "campus-054",
+    "angle": "campus",
+    "subject": "Plate readers do not distinguish town from gown",
+    "body": "Dear {{officialName}},\n\nRelations between a university and the city around it are complicated enough without a shared surveillance record neither side quite controls.\n\nThe readers near {{shortName}} scan students and long term residents of {{city}} alike. Neither group was consulted. Both end up in the same database, and both have the same lack of visibility into who queries it. That is a rare point of agreement between the two, and to me it argues for removal rather than expansion.\n\nI hope you will support taking the readers out and adding none.\n\nI would like to hear whether you see it that way, and if the authority to act rests with another office, I would appreciate being pointed there."
+  },
+  {
+    "id": "campus-055",
+    "angle": "campus",
+    "subject": "What happens to campus plate data after graduation",
+    "body": "Dear {{officialName}},\n\nA student leaves {{shortName}} after a few years. The record of their movements does not leave with them, and that asymmetry has been on my mind.\n\nIs plate data from the campus perimeter deleted on a schedule, and if so, what schedule? Or does a graduate's history simply sit in a system indefinitely, available to anyone who later gains access?\n\nNone of us were told on arrival that this was part of the arrangement.\n\nThe clean answer, as I see it, is to remove the readers and install no more, so the question stops arising. Short of that, I would like to know the retention rule.\n\nWill you answer, and will you support removal?"
+  },
+  {
+    "id": "campus-056",
+    "angle": "campus",
+    "subject": "Concentration is what makes campus scanning different",
+    "body": "Dear {{officialName}},\n\nSpread plate readers across a county and you get thin, patchy data. Cluster them around a university and you get something else entirely, because the population inside that cluster repeats its movements constantly.\n\n{{readersWithinMile}} readers within a mile of {{shortName}} is a cluster. Across {{state}} there are {{readersInState}}, but the ones near a campus seem to me to do disproportionate work.\n\nThe result is a detailed behavioral record of people who are mostly young and mostly unable to change any of it. I am one of those students, and it is not a comfortable position.\n\nI would like those readers removed and no new ones installed. Would you tell me your position, and whether your office can act on it directly?"
+  },
+  {
+    "id": "campus-057",
+    "angle": "campus",
+    "subject": "Surveillance normalized for people still forming habits",
+    "body": "Dear {{officialName}},\n\nUniversity is where a lot of people first live independently and first work out what they believe. Doing that under continuous vehicle logging teaches a lesson nobody intended, and it is the lesson I would least like my own cohort to learn.\n\nThe readers around {{shortName}} are not aimed at anyone in particular. They do not need to be. The effect is that a whole student generation comes to treat permanent monitoring as the background condition of adult life.\n\nI would rather {{city}} decided that a campus is the one place to hold the line.\n\nI hope you will support removing the plate readers near the university and refusing new installations. Would you say publicly whether you agree?"
+  },
+  {
+    "id": "campus-058",
+    "angle": "campus",
+    "subject": "Explaining the campus readers to the people scanned",
+    "body": "Dear {{officialName}},\n\nExplanation should not be this hard to obtain. As a student near {{shortName}} I cannot find out who installed the plate readers, who holds the data, or how long it stays.\n\nThat opacity does not feel incidental. A system nobody can describe is a system nobody can question, and silence tends to get read as agreement.\n\nI do not agree, and I suspect most people around campus would say the same if anyone asked them.\n\nWhat I would like is removal of the readers, with none installed in future. Short of that, publishing the deployment details and the retention policy would at least let the argument happen on facts.\n\nCould you respond with what you know and what you intend to do?"
+  },
+  {
+    "id": "campus-059",
+    "angle": "campus",
+    "subject": "Cameras near campus in your district, {{officialTitle}}",
+    "body": "Dear {{officialName}},\n\nYour role puts the area around {{shortName}} within your remit, which is why this is landing in your inbox rather than someone else's.\n\nAutomated plate readers there record a population that turns over constantly and has little say in local decisions. Students and the households nearby are logged as a matter of routine, with no notice and no way to see their own records. That last detail is the one I find hardest to accept.\n\nI am asking for the readers to be removed and for no more to be approved.\n\nIf you support that, students would benefit from hearing it said out loud. If you take a different view, the reasoning would still be worth reading. Will you reply?"
+  },
+  {
+    "id": "campus-060",
+    "angle": "campus",
+    "subject": "A campus is a workplace before it is anything else",
+    "body": "Dear {{officialName}},\n\nA great many people are employed in the blocks around a university, and surveillance of a workplace perimeter strikes me as a labor question as much as a privacy one.\n\nThe plate readers near {{shortName}} record arrivals and departures with a precision no timeclock ever managed, and they do it for people who never agreed to be tracked as a condition of employment.\n\nThat data exists whether or not any employer intends to use it. Availability tends to find a use, which is what worries a student watching this from the inside.\n\nI hope you will support removing the readers and adding none. I would like to know your position, and whether you see the employment side of this as within your responsibility."
+  },
+  {
+    "id": "campus-061",
+    "angle": "campus",
+    "subject": "A student asking about campus plate reader policy",
+    "body": "Dear {{officialName}},\n\nPolicy on this seems to exist mainly as an assumption. Everyone involved appears to believe somebody else has written it down.\n\nAround {{shortName}} the practical situation is that vehicles are logged continuously, and the people affected have no document to consult about any of it. A campus makes that worse, because the same population passes the same readers repeatedly, so the record is dense rather than incidental.\n\nMy request, as one student, is removal of the equipment and a commitment against new installations.\n\nI write only for myself and claim no authority from the university. Would you reply with your position, and with any written policy that does exist? I would read it carefully."
+  },
+  {
+    "id": "campus-062",
+    "angle": "campus",
+    "subject": "The quiet spread of readers around university districts",
+    "body": "Dear {{officialName}},\n\nCoverage grows by increment. One reader for a problem intersection, another for a busy approach, and eventually a campus perimeter is enclosed without anyone deciding to enclose it.\n\nThat seems to be how {{shortName}} arrived here. No single installation looked like a surveillance program, and the sum of them now does.\n\nReversing it takes an explicit choice, which is what I am asking you to make. I would like the existing readers around campus removed, and none approved in future.\n\nThe alternative, as far as a student can see, is that coverage keeps thickening on the same logic that produced it.\n\nWhere do you stand? A written answer would help me explain this to other students."
+  },
+  {
+    "id": "campus-063",
+    "angle": "campus",
+    "subject": "Consulting students before more cameras go up",
+    "body": "Dear {{officialName}},\n\nIf further plate readers are proposed near {{shortName}}, I hope the people who will be recorded by them hear about it beforehand. That is a low bar, and I have not seen it cleared so far.\n\nBetter still would be removing the ones already installed. A campus concentrates a community into a small area, so the record produced there is unusually complete, and it was assembled without anybody's agreement.\n\nConsultation after the fact is not much of a remedy, though it would beat the present arrangement.\n\nWould you be willing to oppose new readers around the university, and to support removal of the existing ones? A direct answer would be appreciated by more students than me."
+  },
+  {
+    "id": "campus-064",
+    "angle": "campus",
+    "subject": "What plate data near campus lets people infer",
+    "body": "Dear {{officialName}},\n\nLocation data does not stay location data. A repeated stop at a particular address on a particular afternoon tells a story, and around a university the destinations are close enough together that inference gets easy.\n\nThe readers near {{shortName}} record enough to support that kind of reasoning about students and staff. Nobody has to be accused of misuse for the risk to be real. The capability is what troubles me.\n\nI am asking for removal of the readers and a refusal to install more.\n\nWhatever safeguards exist today were written by people who will not always hold the relevant offices. Would you tell me where you stand on taking the equipment out?"
+  },
+  {
+    "id": "campus-065",
+    "angle": "campus",
+    "subject": "Taking the campus cameras out rather than tuning policy",
+    "body": "Dear {{officialName}},\n\nBetter policy is the usual offer when students raise plate readers. Shorter retention, perhaps, or an audit log that somebody promises to read.\n\nPolicy is easier to change than hardware, and it changes in whichever direction the next officeholder prefers. The cameras around {{shortName}} would still be collecting under any policy, and the community they record would still not have been asked. That is why the softer options do not settle my worry.\n\nRemoval is the only version of this that seems to hold.\n\nSo my request is that the readers near campus be taken down and that none be installed afterwards. Could you tell me whether you would support that, rather than a policy adjustment?"
+  },
+  {
+    "id": "campus-066",
+    "angle": "campus",
+    "subject": "University land, city streets, one shared record",
+    "body": "Dear {{officialName}},\n\nOwnership of the ground under a camera turns out to matter less than access to what it collects. Around {{shortName}} the streets belong to {{city}} in places and to the university in others, while the data may well end up in one place regardless.\n\nA student crossing that boundary several times a day cannot tell which authority is recording them at any given moment, and neither authority seems eager to claim the question. Being unable to work out who to ask is its own kind of worry.\n\nRemoving the readers would resolve it neatly. Adding none would keep it resolved.\n\nWould you tell me which body holds the campus perimeter data, and whether you support taking the equipment out?"
+  },
+  {
+    "id": "campus-067",
+    "angle": "campus",
+    "subject": "Please consider opposing more readers near {{shortName}}",
+    "body": "Dear {{officialName}},\n\nExpansion is the likeliest next step, so opposing it may be the most useful thing an official can do right now.\n\nAround {{shortName}} there is already enough coverage to log the routine movements of a whole community. Adding more would deepen a record that I do not think should exist, built on people who were never consulted and who mostly cannot vote in {{city}} elections.\n\nBeyond stopping expansion, I would like the existing readers removed.\n\nI am a student writing on my own behalf and speak for no part of the institution. Would you tell me whether you would oppose further installations, and whether you would back removal?"
+  },
+  {
+    "id": "campus-068",
+    "angle": "campus",
+    "subject": "Accountability when a campus scan goes wrong",
+    "body": "Dear {{officialName}},\n\nSuppose a plate read near {{shortName}} leads to a stop that should never have happened. Who answers for it, and how does the person affected find out what the system said about them?\n\nThose are not rhetorical questions. As a student I have no idea what the process is, and the people most likely to be caught by an error have the least capacity to challenge one.\n\nA system that cannot answer basic questions about its own mistakes does not seem to me like the right thing to have watching a university district.\n\nI would like the readers removed, with no more installed. Could you tell me what accountability exists today, and whether you support taking the equipment out?"
+  },
+  {
+    "id": "campus-069",
+    "angle": "campus",
+    "subject": "Scanning the same people over and over",
+    "body": "Dear {{officialName}},\n\nRepetition is what separates a campus from a highway. The same vehicles pass the same readers near {{shortName}} again and again, week after week, because that is how a university works.\n\nA record built from that repetition amounts to a continuous account of how a community lives, held by parties the community cannot name and cannot question. Nobody agreed to it, and no student can meaningfully withdraw from it.\n\nI am asking that the readers be removed and that no further ones be installed around campus.\n\nWould you state your position, so students in {{city}} know where their officials actually stand? I would be grateful for it."
+  },
+  {
+    "id": "campus-070",
+    "angle": "campus",
+    "subject": "What would justify a camera on this perimeter",
+    "body": "Dear {{officialName}},\n\nI have tried to work out what would justify a permanent plate reader on a university perimeter. A specific and ongoing problem might. General reassurance about deterrence does not persuade me.\n\nAround {{shortName}} students have been given no justification at all, specific or otherwise. The equipment simply operates.\n\nThe absence of a stated reason feels like a reason to remove it. Systems that collect this much should probably have to explain themselves continuously, not once at procurement.\n\nI hope you will support removal of the readers near campus and a commitment against new ones. What justification are you aware of, and does it satisfy you? I would like to hear it."
+  },
+  {
+    "id": "campus-071",
+    "angle": "campus",
+    "subject": "The students least able to raise this themselves",
+    "body": "Dear {{officialName}},\n\nComplaint is a privilege here. A student on a visa, an employee on an hourly contract, or anyone with reason to avoid official attention is not going to write a letter about plate readers near {{shortName}}.\n\nSo the objections that reach you come from the safest people, and the burden falls hardest on those you never hear from. I hope you will weigh that when the topic comes up, because quiet is not the same as consent.\n\nWhat I am asking for is removal of the readers around campus and no further ones installed.\n\nI would like to know whether you agree, and I would like to be able to tell others what you said."
+  },
+  {
+    "id": "campus-072",
+    "angle": "campus",
+    "subject": "Every entrance to campus is a recording point",
+    "body": "Dear {{officialName}},\n\nEntrances are chokepoints, and a university has few of them. Put a plate reader at each and you have effectively logged the comings and goings of everyone attached to {{shortName}}, without ever describing the system that way.\n\nThe description matters to me. Called a perimeter safety measure it sounds reasonable. Described as an attendance log for a student community, it sounds like something I would want a say in.\n\nI would like the readers removed and none installed to replace them.\n\nIf you think the second description is unfair, I would rather hear that argument than none at all. Will you reply with your view?"
+  },
+  {
+    "id": "campus-073",
+    "angle": "campus",
+    "subject": "Neighbors of the university are recorded by default",
+    "body": "Dear {{officialName}},\n\nHouseholds in the blocks around a campus did not choose to live next to a surveillance perimeter, and they get all of the recording with none of the supposed benefit.\n\nNear {{shortName}} the readers cannot distinguish a student from a long time resident of {{city}} driving home. Both are logged, and neither has any way of learning who searches the result afterwards.\n\nThose residents are your constituents in a way that students may not be, which I hope makes this easier to act on rather than harder.\n\nI would like the readers removed, with none approved to replace them. Would you tell me your position, and whether neighbors have raised it with you as well?"
+  },
+  {
+    "id": "campus-074",
+    "angle": "campus",
+    "subject": "The vendor's terms and who holds the keys",
+    "body": "Dear {{officialName}},\n\nEquipment on a campus perimeter is usually operated through a private company, which means the records of a student population sit on infrastructure nobody local controls. That arrangement worries me quite a lot.\n\nTwo questions seem worth putting on paper. Can company employees search the data collected near {{shortName}}? Does the contract allow the records to be used for anything beyond the stated purpose?\n\nStudents cannot obtain those answers. An official can.\n\nWhatever the terms say, my request is that the readers be removed and that no new ones be installed. Would you find out who holds access, and tell me whether you support removal?"
+  },
+  {
+    "id": "campus-075",
+    "angle": "campus",
+    "subject": "The case for taking campus readers out entirely",
+    "body": "Dear {{officialName}},\n\nPartial measures will probably be offered. Fewer cameras. Shorter storage. A promise of review.\n\nNone of those address what makes a campus different, which is that a small area holds the same people continuously and therefore produces a record of extraordinary richness from ordinary equipment. That is the worry I cannot shake as a student living inside it.\n\nOnly removal seems to deal with it. I would like the plate readers around {{shortName}} taken out, with nothing installed in their place.\n\nI am not asking for a permanent principle about all technology everywhere. My question is about a university district, where the ratio of intrusion to benefit looks worst.\n\nWould you give me a straight answer on whether you support full removal?"
+  },
+  {
+    "id": "campus-076",
+    "angle": "campus",
+    "subject": "Readers around campus and the people passing through",
+    "body": "Dear {{officialName}},\n\nThrough traffic is a real thing near a university. People cut across campus roads because it is the fastest way somewhere else, and they end up in the same database as everyone who belongs there.\n\nThat is a lot of {{city}} recorded incidentally, on the strength of a decision framed as being about campus safety. The incidental catch rarely comes up when these systems are defended, and it is the part I find hardest to justify.\n\nI would like the readers near {{shortName}} removed and none installed afterwards.\n\nCan you tell me whether you support that, and whether the incidental collection was considered when the deployment was approved? A student would appreciate knowing."
+  },
+  {
+    "id": "campus-077",
+    "angle": "campus",
+    "subject": "How you would vote on removing campus readers",
+    "body": "Dear {{officialName}},\n\nVotes are what eventually matter, so this is a question about how you would cast one.\n\nIf a proposal came forward to remove the automated plate readers around {{shortName}} and to install none near the university in future, would you support it?\n\nI hope you would. A campus concentrates a community into a few streets, which makes a permanent record of those streets far more revealing than the same equipment produces anywhere else. The people recorded were not consulted, and many of them have limited standing to object.\n\nAn answer of any length would be useful, and I would like to be able to share it with other students. Thank you for considering it."
+  },
+  {
+    "id": "campus-078",
+    "angle": "campus",
+    "subject": "Campus perimeter cameras and academic visitors",
+    "body": "Dear {{officialName}},\n\nUniversities host visiting researchers and collaborators from abroad, which is part of the point of having one in {{city}}.\n\nThose visitors drive past the readers around {{shortName}} like everyone else, and a record of their movements ends up in a system they have never heard of and cannot query. For someone whose home country takes an interest in where they go, that is not a small thing, and it is one of the reasons a student is writing to you about this.\n\nI am asking for the readers to be removed and for none to be installed around campus.\n\nWould you tell me your position? If the decision is not yours to make, I would appreciate knowing whose it is."
+  },
+  {
+    "id": "campus-079",
+    "angle": "campus",
+    "subject": "Would you look again at the readers ringing campus",
+    "body": "Dear {{officialName}},\n\nReconsideration is easier than reversal, so let me start there. Would you be willing to look again at the automated plate readers around {{shortName}}?\n\nWhat I expect you would find is that the case for them was never made publicly and that the community affected was never asked. Density is the other half of it, since a campus makes the resulting record unusually intimate.\n\nWhat I am hoping for at the end of it is removal, with a commitment against new installations.\n\nStudents here have no lever other than writing to people like you. Will you reply and tell me whether you are prepared to take another look?"
+  },
+  {
+    "id": "campus-080",
+    "angle": "campus",
+    "subject": "Plate readers collect first and justify afterwards",
+    "body": "Dear {{officialName}},\n\nCollection comes first with this technology. Justification arrives later, if anyone asks, and usually in general terms about crime rather than anything specific to the area around {{shortName}}.\n\nOn a campus that ordering is especially hard for me to accept. The people scanned are overwhelmingly students and staff going to class or to work, the same ones each day, and the record is held whether or not any incident ever occurs.\n\nI would like the readers removed, with none installed in future. That is the whole of what I am asking for.\n\nWould you give me your position in writing, and if you see it differently, the specific problem you believe the readers are solving here?"
+  },
+  {
+    "id": "campus-081",
+    "angle": "campus",
+    "subject": "Whether the university agreed to any of this",
+    "body": "Dear {{officialName}},\n\nSilence from an institution tends to read as agreement, whether or not it was, and that is the position {{school}} appears to occupy on the plate readers around its campus.\n\nStudents deserve a plain statement. Did the university request the readers on its perimeter, or simply tolerate them once they appeared? Each answer would imply something different about what happens next.\n\nMy own request does not change with the answer. I would like the readers around campus removed, and no more installed.\n\nI write for myself and not for any part of the university. Would you tell me what the institution's position actually is, and whether you would press for removal?"
+  },
+  {
+    "id": "campus-082",
+    "angle": "campus",
+    "subject": "A community that cannot simply move away",
+    "body": "Dear {{officialName}},\n\nLeaving is the usual remedy for a neighborhood you dislike being surveilled in. Students at {{shortName}} do not really have it. Housing is tied to enrollment, and the roads are fixed.\n\nBeing stuck in that way should raise the standard for what gets installed, I think, rather than lower it.\n\nInstead the area has readers logging vehicles continuously, with no notice given and no way for anyone to see what has been recorded about them.\n\nI am asking for removal, and for a commitment against new installations. Could you tell me whether you support that, and whether {{city}} has ever reviewed the deployment in public?"
+  },
+  {
+    "id": "campus-083",
+    "angle": "campus",
+    "subject": "Where campus and municipal surveillance meet",
+    "body": "Dear {{officialName}},\n\nBoundaries between a university and a city are administrative fictions to a camera. The reader does not know which authority is meant to answer for it, and in practice neither does a student trying to raise a concern.\n\nAround {{shortName}} that confusion protects the system rather than the people in it. Every question about retention or access can be redirected to another office indefinitely, and eventually you stop asking.\n\nCutting through it looks straightforward to me. I would like the readers around campus removed, with no further ones installed.\n\nIf you can only answer one thing, I would like to know which body is accountable for the plate data collected near the university, and then whether you support removal."
+  },
+  {
+    "id": "campus-084",
+    "angle": "campus",
+    "subject": "Asking before the next reader goes up",
+    "body": "Dear {{officialName}},\n\nInstallation is the point of maximum leverage, and near a campus it usually happens without any public notice.\n\nI would like a commitment that no new automated plate reader goes up around {{shortName}} without the affected community being told first, and preferably that none goes up at all.\n\nAlongside that, I would like the existing ones removed. A university district produces a denser and more personal record than almost anywhere else, precisely because the same people cross the same points constantly.\n\nNeither request needs new legislation. Both need someone in office to decide. Would you be willing to be that person, and would you tell a student either way?"
+  },
+  {
+    "id": "campus-085",
+    "angle": "campus",
+    "subject": "Records of student movement in {{state}}",
+    "body": "Dear {{officialName}},\n\nStatewide there are {{readersInState}} automated plate readers, and {{readersWithinMile}} of them sit within a mile of {{shortName}}.\n\nConcentration of that sort around a university is worth pausing on. The population in that mile is unusually uniform in its habits, so the record produced is unusually complete, and its subjects are largely students without deep roots in {{city}} politics.\n\nI would like the readers around campus removed, with a commitment that none replace them.\n\nYou may read the numbers differently. If so, I would like to know what level of coverage around a university you would consider appropriate, and why this one qualifies. I would rather understand your view than guess at it."
+  },
+  {
+    "id": "campus-086",
+    "angle": "campus",
+    "subject": "No student agreed to be in this database",
+    "body": "Dear {{officialName}},\n\nAgreement never happened. Not at enrollment, and not in any document a student at {{shortName}} can be shown since.\n\nThe plate readers around campus seem to run on the assumption that people who have not objected do not mind. Most of us were never told there was anything to object to, which makes that a poor foundation for a permanent record of a community's movements.\n\nI would like the readers removed, and no more installed. If the university or {{city}} believes consent exists somewhere, I would be glad to be shown it.\n\nWould you reply with your position, and with any record of the community being consulted?"
+  },
+  {
+    "id": "campus-087",
+    "angle": "campus",
+    "subject": "Campus cameras and the chilling of ordinary movement",
+    "body": "Dear {{officialName}},\n\nBehavior changes when people believe they are being logged, even when nothing is done with the log. That is a mild effect on one person and a significant one across a whole campus.\n\nAround {{shortName}} the readers apply that pressure to students who are supposed to be experimenting with how they live and what they think. A university seems to me the worst possible setting for a background sense of being tracked.\n\nNone of this requires bad intent from anyone operating the system.\n\nI hope you will support removing the readers and refusing new ones. Would you tell me whether you agree that the effect on a student population is worth weighing?"
+  },
+  {
+    "id": "campus-088",
+    "angle": "campus",
+    "subject": "An avoidable record of a predictable population",
+    "body": "Dear {{officialName}},\n\nPredictability is what makes campus data valuable, and it is also what makes me uneasy about it. Students near {{shortName}} move on schedules set by timetables, so the plate record fills in cleanly and the gaps are easy to interpret.\n\nAnywhere else this technology produces noise. Here it produces a calendar.\n\nRemoving the readers looks like the proportionate response, and installing no more would keep it that way. I am not asking for anything that would require {{city}} to stop policing near the university.\n\nCould you tell me your position, and whether you would be willing to raise the question with whichever body actually controls the deployment?"
+  },
+  {
+    "id": "campus-089",
+    "angle": "campus",
+    "subject": "A campus decision that may have been made elsewhere",
+    "body": "Dear {{officialName}},\n\nDecisions that shape a campus are not always made on it. The plate readers around {{shortName}} may well have been approved by people with no particular thought for the university community, and the institution may have had no say at all.\n\nIf that is the situation, I would rather the administration said so than leave students guessing.\n\nEither way I am hoping for the same outcome. I would like the readers around campus removed, and none installed in future.\n\nWould you tell me what involvement the university had, and whether you would advocate for removal with whoever holds the authority?"
+  },
+  {
+    "id": "campus-090",
+    "angle": "campus",
+    "subject": "An answer students could actually share",
+    "body": "Dear {{officialName}},\n\nAnswers that arrive privately and vaguely are not much use to a campus trying to work out what its officials think.\n\nSo I am hoping for something quotable. Do you support removing the automated plate readers around {{shortName}} and installing no new ones?\n\nMy reasons are not complicated. A university packs the same people into the same streets daily, so the resulting record is unusually detailed. Nobody agreed to it, and many of those affected have little ability to object.\n\nA sentence would do. Would you send one, and would you be content for a student to share it with others?"
+  },
+  {
+    "id": "campus-091",
+    "angle": "campus",
+    "subject": "Night and weekend shifts near campus are logged too",
+    "body": "Dear {{officialName}},\n\nLate hours are when a campus perimeter is quietest and when plate reads are most identifying. Few vehicles, easy attribution.\n\nThe people driving near {{shortName}} at those times are often working. Cleaning crews and security staff, keeping a building running while the students inside it sleep. A record of their arrivals is a record of their employment, held indefinitely.\n\nNone of them were asked, and few are in a position to raise it, which is part of why I am.\n\nI am asking for the readers to be removed and for none to be installed. Would you tell me your position, and whether the effect on shift workers has been considered?"
+  },
+  {
+    "id": "campus-092",
+    "angle": "campus",
+    "subject": "The cheapest fix is to stop collecting",
+    "body": "Dear {{officialName}},\n\nEvery other remedy costs something. Audits need staff. Retention rules need somebody checking that deletion actually happens, year after year, without being asked.\n\nNot collecting costs nothing and cannot fail quietly. That is my argument for taking the plate readers around {{shortName}} out rather than governing them better, and for installing none afterwards.\n\nOn a campus the stakes feel higher than usual, because the same community passes the same points constantly, and the record accumulates into something I doubt any audit would have approved in advance. I am a student inside that record.\n\nWould you tell me whether you find that argument persuasive, and what you would be prepared to do about it?"
+  },
+  {
+    "id": "campus-093",
+    "angle": "campus",
+    "subject": "Who benefits from scanning a university district",
+    "body": "Dear {{officialName}},\n\nBenefit is worth tracing here. Who gains from a permanent plate record of the area around {{shortName}}?\n\nA vendor gains a contract. An agency gains a search capability it did not have. The community that supplies the data gains nothing it can point to, and carries the risk that the record is read badly by somebody later. As a student I am on the supplying side of that arrangement, and the distribution is what bothers me, whatever anyone's intentions.\n\nI hope you will support removing the readers near campus and approving no new ones.\n\nWould you tell me who you understand the beneficiaries to be, and whether you think the balance is right?"
+  },
+  {
+    "id": "campus-094",
+    "angle": "campus",
+    "subject": "Local decisions with consequences beyond {{city}}",
+    "body": "Dear {{officialName}},\n\nA camera installed here can matter a great deal somewhere else. Records collected around {{shortName}} may be queried by agencies well outside {{city}}, for purposes nobody locally chose.\n\nCampuses feel that most sharply, because they gather people whose circumstances make outside interest more likely and the consequences heavier. A student who came here to study should not have to think about that, and yet several of us do.\n\nDeciding what to collect is a local matter. Who reads it afterwards, in practice, is not.\n\nThat is why I am asking for removal of the plate readers around the university, with no new installations to follow. Could you tell me what external access exists, and whether you support taking the equipment down?"
+  },
+  {
+    "id": "campus-095",
+    "angle": "campus",
+    "subject": "Hoping you will treat campus surveillance as yours",
+    "body": "Dear {{officialName}},\n\nResponsibility for this keeps being described as somebody else's. Students writing about plate readers near {{shortName}} are sent between offices until the question dissolves, and it is dispiriting.\n\nI would like you to hold onto it instead, at least long enough to give an answer.\n\nThe substance is straightforward. A university crowds a community into a few streets, so a permanent record of those streets is a permanent record of the community. Nobody asked that community first.\n\nI would like the readers around campus removed, with no more installed.\n\nIf part of this genuinely falls outside your remit, I would be grateful if you said which part, and gave me your position on the rest."
+  },
+  {
+    "id": "campus-096",
+    "angle": "campus",
+    "subject": "How a plate log becomes a portrait of someone",
+    "body": "Dear {{officialName}},\n\nOn its own a plate read is trivial. Somebody's car was on a road at a time. Stack a semester of them from the area around {{shortName}} and the triviality disappears.\n\nWhat emerges is where a student sleeps and who they see regularly, down to the week their pattern changed. No warrant is needed to assemble it, and the subject never learns it happened. That is the version of this I would find hard to describe to anyone as reasonable.\n\nA campus supplies the density that makes the portrait sharp.\n\nI am asking that the readers be removed and that none be installed near the university. Would you tell me whether you support that, and whether you would say so publicly?"
+  },
+  {
+    "id": "campus-097",
+    "angle": "campus",
+    "subject": "What a campus actually needs from {{city}}",
+    "body": "Dear {{officialName}},\n\nConsider what a university actually needs from {{city}} in the way of safety. Lighting that works, and transport at night for the people finishing late.\n\nA permanent searchable log of vehicle movements does not appear on that list, and it is the one thing that seems to have been supplied without anyone asking for it. That mismatch is what prompted me to write.\n\nI would like the readers around {{shortName}} to come out, with nothing to take their place. I would rather see resources go toward things a student could actually notice on a walk home.\n\nWould you tell me whether you support removal, and where you think the resources would be better spent?"
+  },
+  {
+    "id": "campus-098",
+    "angle": "campus",
+    "subject": "Retention rules change, the archive does not",
+    "body": "Dear {{officialName}},\n\nRules about how long plate data is kept can be rewritten by whoever inherits the system, and the data already gathered around {{shortName}} does not become unrecorded when someone changes their mind.\n\nStudents are therefore relying on the continued goodwill of offices we will never deal with, about a record we cannot see. Goodwill is not a control, and that is the part that keeps me writing letters like this one.\n\nRemoving the readers would end the accumulation, which is the only step that does not depend on future officials behaving well. Installing none would keep it that way.\n\nWould you give me your position on removal, and tell me who currently sets the retention rule for data collected near the university?"
+  },
+  {
+    "id": "campus-099",
+    "angle": "campus",
+    "subject": "A university district should be the exception",
+    "body": "Dear {{officialName}},\n\nEven someone comfortable with plate readers generally might reasonably draw a line at a campus. The population is concentrated and its movements repeat. A large share of it has no vote in {{city}} and no practical way to object.\n\nThat combination makes a university district the strongest case for an exception, as I see it, rather than the weakest.\n\nSo I am asking you to support removing the readers around {{shortName}} and installing no new ones, whatever your view of the technology elsewhere.\n\nWould you tell me whether you can accept that distinction? If you cannot, I would still like to understand why a campus should be treated like any other stretch of road. A student would rather hear the reasoning than nothing."
+  },
+  {
+    "id": "campus-100",
+    "angle": "campus",
+    "subject": "A clear answer for students about the campus cameras",
+    "body": "Dear {{officialName}},\n\nClarity is what has been missing. Students near {{shortName}} do not know who authorized the plate readers or how long the data survives, and every attempt to find out ends in a referral.\n\nSet against that, my request is very simple. I would like the readers around campus removed, and no further ones installed.\n\nA university gathers the same people into the same streets year after year, which turns routine vehicle logging into a detailed record of a community that never agreed to supply it. That is what worries me, and it is why I am writing rather than letting it go.\n\nWill you tell me where you stand, plainly enough that I can pass it on to other students without interpreting it?"
+  }
+]

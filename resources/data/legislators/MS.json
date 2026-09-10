@@ -1,0 +1,1451 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Trent Kelly",
+    "party": "Republican",
+    "phone": "202-225-4306",
+    "url": "https://trentkelly.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Bennie Thompson",
+    "party": "Democrat",
+    "phone": "202-225-5876",
+    "url": "https://benniethompson.house.gov"
+   }
+  ],
+  "3": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Michael Guest",
+    "party": "Republican",
+    "phone": "202-225-5031",
+    "url": "https://guest.house.gov"
+   }
+  ],
+  "4": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Mike Ezell",
+    "party": "Republican",
+    "phone": "202-225-5772",
+    "url": "https://ezell.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.wicker.senate.gov/public/index.cfm/contact",
+   "email": null,
+   "name": "Roger Wicker",
+   "party": "Republican",
+   "phone": "202-224-6253",
+   "url": "https://www.wicker.senate.gov"
+  },
+  {
+   "contactForm": "https://www.hydesmith.senate.gov/contact-senator",
+   "email": null,
+   "name": "Cindy Hyde-Smith",
+   "party": "Republican",
+   "phone": "202-224-5054",
+   "url": "https://www.hydesmith.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "lcarpenter@house.ms.gov",
+    "name": "Bubba Carpenter",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/carpenter.xml"
+   }
+  ],
+  "10": [
+   {
+    "email": "jhawkins@house.ms.gov",
+    "name": "Josh Hawkins",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/hawkins.xml"
+   }
+  ],
+  "100": [
+   {
+    "email": "kmorgan@house.ms.gov",
+    "name": "Ken Morgan",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/morgan.xml"
+   }
+  ],
+  "101": [
+   {
+    "email": "kmccarty@house.ms.gov",
+    "name": "Kent McCarty",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/mccarty.xml"
+   }
+  ],
+  "102": [
+   {
+    "email": "mmcgee@house.ms.gov",
+    "name": "Missy McGee",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/mcgee.xml"
+   }
+  ],
+  "103": [
+   {
+    "email": "pwatson@house.ms.gov",
+    "name": "Percy Watson",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/watson.xml"
+   }
+  ],
+  "104": [
+   {
+    "email": "lbyrd@house.ms.gov",
+    "name": "Larry Byrd",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/byrd.xml"
+   }
+  ],
+  "105": [
+   {
+    "email": "burch@house.ms.gov",
+    "name": "Elliot Burch",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/burch.xml"
+   }
+  ],
+  "106": [
+   {
+    "email": "jowen@house.ms.gov",
+    "name": "Jansen Owen",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/owen.xml"
+   }
+  ],
+  "107": [
+   {
+    "email": "lott@house.ms.gov",
+    "name": "Steve Lott",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/lott.xml"
+   }
+  ],
+  "108": [
+   {
+    "email": "swilkes@house.ms.gov",
+    "name": "Stacey Hobgood-Wilkes",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/hobgood-wilkes.xml"
+   }
+  ],
+  "109": [
+   {
+    "email": "mbarton@house.ms.gov",
+    "name": "Manly Barton",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/barton.xml"
+   }
+  ],
+  "11": [
+   {
+    "email": "ljackson@house.ms.gov",
+    "name": "Lataisha Jackson",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/2023/pdf/house_authors/jackson.xml"
+   }
+  ],
+  "110": [
+   {
+    "email": "janderson@house.ms.gov",
+    "name": "Jeramey Anderson",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/anderson.xml"
+   }
+  ],
+  "111": [
+   {
+    "email": "fondren@house.ms.gov",
+    "name": "Jimmy Fondren",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/fondren.xml"
+   }
+  ],
+  "112": [
+   {
+    "email": "jread@house.ms.gov",
+    "name": "John Read",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/read.xml"
+   }
+  ],
+  "113": [
+   {
+    "email": "hzuber@house.ms.gov",
+    "name": "Hank Zuber",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/zuber.xml"
+   }
+  ],
+  "114": [
+   {
+    "email": "jguice@house.ms.gov",
+    "name": "Jeff Guice",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/guice.xml"
+   }
+  ],
+  "115": [
+   {
+    "email": "zgrady@house.ms.gov",
+    "name": "Zack Grady",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/grady.xml"
+   }
+  ],
+  "116": [
+   {
+    "email": "ceure@house.ms.gov",
+    "name": "Casey Eure",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/eure.xml"
+   }
+  ],
+  "117": [
+   {
+    "email": "kfelsher@house.ms.gov",
+    "name": "Kevin Felsher",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/felsher.xml"
+   }
+  ],
+  "118": [
+   {
+    "email": "ghaney@house.ms.gov",
+    "name": "Greg Haney",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/haney.xml"
+   }
+  ],
+  "119": [
+   {
+    "email": "jhulum@house.ms.gov",
+    "name": "Jeffrey Hulum",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/hulum.xml"
+   }
+  ],
+  "12": [
+   {
+    "email": "cdeweese@house.ms.gov",
+    "name": "Clay Deweese",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/deweese.xml"
+   }
+  ],
+  "120": [
+   {
+    "email": "rbennett@house.ms.gov",
+    "name": "Richard Bennett",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/bennett.xml"
+   }
+  ],
+  "121": [
+   {
+    "email": "ccrawford@house.ms.gov",
+    "name": "Carolyn Crawford",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/crawford.xml"
+   }
+  ],
+  "122": [
+   {
+    "email": "banderson@house.ms.gov",
+    "name": "Brent Anderson",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/anderson_(122nd).xml"
+   }
+  ],
+  "13": [
+   {
+    "email": "smassengill@house.ms.gov",
+    "name": "Steve Massengill",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/massengill.xml"
+   }
+  ],
+  "14": [
+   {
+    "email": "screekmore@house.ms.gov",
+    "name": "Sam Creekmore",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/creekmore_iv.xml"
+   }
+  ],
+  "15": [
+   {
+    "email": "bwaldo@house.ms.gov",
+    "name": "Beth Waldo",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/waldo.xml"
+   }
+  ],
+  "16": [
+   {
+    "email": "rthompson@house.ms.gov",
+    "name": "Rickey Thompson",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/thompson.xml"
+   }
+  ],
+  "17": [
+   {
+    "email": "saguirre@house.ms.gov",
+    "name": "Shane Aguirre",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/aguirre.xml"
+   }
+  ],
+  "18": [
+   {
+    "email": "jturner@house.ms.gov",
+    "name": "Jerry Turner",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/turner.xml"
+   }
+  ],
+  "19": [
+   {
+    "email": "rboyd@house.ms.gov",
+    "name": "Randy Boyd",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/boyd.xml"
+   }
+  ],
+  "2": [
+   {
+    "email": "mattox@house.ms.gov",
+    "name": "Brad Mattox",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/mattox.xml"
+   }
+  ],
+  "20": [
+   {
+    "email": "rhall@house.ms.gov",
+    "name": "Rodney Hall",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/hall.xml"
+   }
+  ],
+  "21": [
+   {
+    "email": "dbell@house.ms.gov",
+    "name": "Donnie Bell",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/bell_(21st).xml"
+   }
+  ],
+  "22": [
+   {
+    "email": "jcrosby@house.ms.gov",
+    "name": "Justin Crosby",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/crosby.xml"
+   }
+  ],
+  "23": [
+   {
+    "email": "pbailey@house.ms.gov",
+    "name": "Perry Bailey",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/bailey_(23rd).xml"
+   }
+  ],
+  "24": [
+   {
+    "email": "jhale@house.ms.gov",
+    "name": "Jeff Hale",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/hale.xml"
+   }
+  ],
+  "25": [
+   {
+    "email": "deubanks@house.ms.gov",
+    "name": "Dan Eubanks",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/eubanks.xml"
+   }
+  ],
+  "26": [
+   {
+    "email": "owilliams@house.ms.gov",
+    "name": "Otha Williams",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/williams.xml"
+   }
+  ],
+  "27": [
+   {
+    "email": "holloway@house.ms.gov",
+    "name": "Kenji Holloway",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/holloway_(27th).xml"
+   }
+  ],
+  "28": [
+   {
+    "email": "wharris@house.ms.gov",
+    "name": "Doc Harris",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/harris.xml"
+   }
+  ],
+  "29": [
+   {
+    "email": "rsanders@house.ms.gov",
+    "name": "Robert Sanders",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/sanders.xml"
+   }
+  ],
+  "3": [
+   {
+    "email": "warnold@house.ms.gov",
+    "name": "Tracy Arnold",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/arnold.xml"
+   }
+  ],
+  "30": [
+   {
+    "email": "trosebud@house.ms.gov",
+    "name": "Tracey Rosebud",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/rosebud.xml"
+   }
+  ],
+  "31": [
+   {
+    "email": "oanthony@house.ms.gov",
+    "name": "Otis Anthony",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/anthony.xml"
+   }
+  ],
+  "32": [
+   {
+    "email": "sosborne@house.ms.gov",
+    "name": "Solomon Osborne",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/osborne.xml"
+   }
+  ],
+  "33": [
+   {
+    "email": "jestrada@house.ms.gov",
+    "name": "Jim Estrada",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/estrada.xml"
+   }
+  ],
+  "34": [
+   {
+    "email": "khoran@house.ms.gov",
+    "name": "Kevin Horan",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/horan.xml"
+   }
+  ],
+  "35": [
+   {
+    "email": "jhood@house.ms.gov",
+    "name": "Joey Hood",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/hood.xml"
+   }
+  ],
+  "36": [
+   {
+    "email": "kgibbs@house.ms.gov",
+    "name": "Karl Gibbs",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/gibbs.xml"
+   }
+  ],
+  "37": [
+   {
+    "email": "aboyd@house.ms.gov",
+    "name": "Andy Boyd",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/boyd_(37).xml"
+   }
+  ],
+  "38": [
+   {
+    "email": "ctaylor@house.ms.gov",
+    "name": "Cheikh Taylor",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/taylor.xml"
+   }
+  ],
+  "39": [
+   {
+    "email": "dmclean@house.ms.gov",
+    "name": "Dana McLean",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/mclean.xml"
+   }
+  ],
+  "4": [
+   {
+    "email": "jsteverson@house.ms.gov",
+    "name": "Jody Steverson",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/steverson.xml"
+   }
+  ],
+  "40": [
+   {
+    "email": "hmccray@house.ms.gov",
+    "name": "Hester Jackson-McCray",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/mccray.xml"
+   }
+  ],
+  "41": [
+   {
+    "email": "kkarriem@house.ms.gov",
+    "name": "Kabir Karriem",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/karriem.xml"
+   }
+  ],
+  "42": [
+   {
+    "email": "cmickens@house.ms.gov",
+    "name": "Carl Mickens",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/mickens.xml"
+   }
+  ],
+  "43": [
+   {
+    "email": "rroberson@house.ms.gov",
+    "name": "Rob Roberson",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/roberson.xml"
+   }
+  ],
+  "44": [
+   {
+    "email": "sbounds@house.ms.gov",
+    "name": "Scott Bounds",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/bounds.xml"
+   }
+  ],
+  "45": [
+   {
+    "email": "jackson@house.ms.gov",
+    "name": "Keith Jackson",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/jackson_(45th).xml"
+   }
+  ],
+  "46": [
+   {
+    "email": "koliver@house.ms.gov",
+    "name": "Karl Oliver",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/oliver.xml"
+   }
+  ],
+  "47": [
+   {
+    "email": "bclark@house.ms.gov",
+    "name": "Bryant Clark",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/clark.xml"
+   }
+  ],
+  "48": [
+   {
+    "email": "jwhite@house.ms.gov",
+    "name": "Jason White",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/White.xml"
+   }
+  ],
+  "49": [
+   {
+    "email": "wbailey@house.ms.gov",
+    "name": "Willie Bailey",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/bailey.xml"
+   }
+  ],
+  "5": [
+   {
+    "email": "jfaulkner@house.ms.gov",
+    "name": "John Faulkner",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/faulkner.xml"
+   }
+  ],
+  "50": [
+   {
+    "email": "jhines@house.ms.gov",
+    "name": "John Hines",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/hines.xml"
+   }
+  ],
+  "51": [
+   {
+    "email": "james-jones@house.ms.gov",
+    "name": "Timaka James-Jones",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/james-jones.xml"
+   }
+  ],
+  "52": [
+   {
+    "email": "bkinkade@house.ms.gov",
+    "name": "Bill Kinkade",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/kinkade.xml"
+   }
+  ],
+  "53": [
+   {
+    "email": "vmangold@house.ms.gov",
+    "name": "Vince Mangold",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/mangold.xml"
+   }
+  ],
+  "54": [
+   {
+    "email": "kford@house.ms.gov",
+    "name": "Kevin Ford",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/ford.xml"
+   }
+  ],
+  "55": [
+   {
+    "email": "odenton@house.ms.gov",
+    "name": "Oscar Denton",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/denton.xml"
+   }
+  ],
+  "56": [
+   {
+    "email": "cmansell@house.ms.gov",
+    "name": "Clay Mansell",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/mansell.xml"
+   }
+  ],
+  "57": [
+   {
+    "email": "lblackmon@house.ms.gov",
+    "name": "Lawrence Blackmon",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/blackmon.xml"
+   }
+  ],
+  "58": [
+   {
+    "email": "mcmillan@house.ms.gov",
+    "name": "Jonathan McMillan",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/mcmillan.xml"
+   }
+  ],
+  "59": [
+   {
+    "email": "bpowell@house.ms.gov",
+    "name": "Brent Powell",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/powell.xml"
+   }
+  ],
+  "6": [
+   {
+    "email": "jkeen@house.ms.gov",
+    "name": "Justin Keen",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/keen.xml"
+   }
+  ],
+  "60": [
+   {
+    "email": "fshanks@house.ms.gov",
+    "name": "Fred Shanks",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/shanks.xml"
+   }
+  ],
+  "61": [
+   {
+    "email": "gnewman@house.ms.gov",
+    "name": "Gene Newman",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/newman.xml"
+   }
+  ],
+  "62": [
+   {
+    "email": "varner@house.ms.gov",
+    "name": "Lance Varner",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/varner.xml"
+   }
+  ],
+  "63": [
+   {
+    "email": "sfoster@house.ms.gov",
+    "name": "Stephanie Foster",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/foster.xml"
+   }
+  ],
+  "64": [
+   {
+    "email": "syates@house.ms.gov",
+    "name": "Shanda Yates",
+    "party": "Independent",
+    "url": "https://billstatus.ls.state.ms.us/members/house/yates.xml"
+   }
+  ],
+  "65": [
+   {
+    "email": "cbell@house.ms.gov",
+    "name": "Chris Bell",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/bell_(65th).xml"
+   }
+  ],
+  "66": [
+   {
+    "email": "nelson@house.ms.gov",
+    "name": "Fabian Nelson",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/nelson.xml"
+   }
+  ],
+  "67": [
+   {
+    "email": "ebankslaw@aol.com",
+    "name": "Earle Banks",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/banks.xml"
+   }
+  ],
+  "68": [
+   {
+    "email": "zsummers@house.ms.gov",
+    "name": "Zakiya Summers",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/summers.xml"
+   }
+  ],
+  "69": [
+   {
+    "email": "gbutlerwashington@house.ms.gov",
+    "name": "Grace Butler-Washington",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/butler-washington.xml"
+   }
+  ],
+  "7": [
+   {
+    "email": "remak@house.ms.gov",
+    "name": "Kimberly Remak",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/remak.xml"
+   }
+  ],
+  "71": [
+   {
+    "email": "rcrudup@house.ms.gov",
+    "name": "Ronnie Crudup",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/crudup.xml"
+   }
+  ],
+  "72": [
+   {
+    "email": "jgibbs@house.ms.gov",
+    "name": "Justis Gibbs",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/gibbs_(72nd).xml"
+   }
+  ],
+  "73": [
+   {
+    "email": "jford@house.ms.gov",
+    "name": "Jill Ford",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/ford_(73rd).xml"
+   }
+  ],
+  "74": [
+   {
+    "email": "lyancey@house.ms.gov",
+    "name": "Lee Yancey",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/yancey.xml"
+   }
+  ],
+  "75": [
+   {
+    "email": "churst@house.ms.gov",
+    "name": "Celeste Hurst",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/hurst.xml"
+   }
+  ],
+  "76": [
+   {
+    "email": "gholloway@house.ms.gov",
+    "name": "Greg Holloway",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/holloway.xml"
+   }
+  ],
+  "78": [
+   {
+    "email": "rrushing@house.ms.gov",
+    "name": "Randy Rushing",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/rushing.xml"
+   }
+  ],
+  "79": [
+   {
+    "email": "mtullos@house.ms.gov",
+    "name": "Mark Tullos",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/tullos.xml"
+   }
+  ],
+  "8": [
+   {
+    "email": "jlamar@house.ms.gov",
+    "name": "Trey Lamar",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/lamar.xml"
+   }
+  ],
+  "80": [
+   {
+    "email": "oscott@house.ms.gov",
+    "name": "Omeria Scott",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/scott.xml"
+   }
+  ],
+  "81": [
+   {
+    "email": "shorne@house.ms.gov",
+    "name": "Steve Horne",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/horne.xml"
+   }
+  ],
+  "82": [
+   {
+    "email": "gelliott@house.ms.gov",
+    "name": "Gregory Elliott",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/elliott.xml"
+   }
+  ],
+  "83": [
+   {
+    "email": "bcalvert@house.ms.gov",
+    "name": "Billy Adam Calvert",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/calvert.xml"
+   }
+  ],
+  "84": [
+   {
+    "email": "tsmith@house.ms.gov",
+    "name": "Troy Smith",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/smith.xml"
+   }
+  ],
+  "85": [
+   {
+    "email": "jharness@house.ms.gov",
+    "name": "Jeffery Harness",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/harness.xml"
+   }
+  ],
+  "86": [
+   {
+    "email": "sbarnett@house.ms.gov",
+    "name": "Shane Barnett",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/barnett.xml"
+   }
+  ],
+  "87": [
+   {
+    "email": "jtubb@house.ms.gov",
+    "name": "Bubba Tubb",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/tubb.xml"
+   }
+  ],
+  "88": [
+   {
+    "email": "cblackwell@house.ms.gov",
+    "name": "Chuck Blackwell",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/blackwell.xml"
+   }
+  ],
+  "89": [
+   {
+    "email": "dscoggin@house.ms.gov",
+    "name": "Donnie Scoggin",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/scoggin.xml"
+   }
+  ],
+  "9": [
+   {
+    "email": "cburnett@house.ms.gov",
+    "name": "Cedric Burnett",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/burnett.xml"
+   }
+  ],
+  "90": [
+   {
+    "email": "nsanford@house.ms.gov",
+    "name": "Noah Sanford",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/sanford.xml"
+   }
+  ],
+  "91": [
+   {
+    "email": "bevans@house.ms.gov",
+    "name": "Bob Evans",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/evans_%2891st%29.xml"
+   }
+  ],
+  "92": [
+   {
+    "email": "bcurrie@house.ms.gov",
+    "name": "Becky Currie",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/currie.xml"
+   }
+  ],
+  "93": [
+   {
+    "email": "tladner@house.ms.gov",
+    "name": "Timmy Ladner",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/ladner.xml"
+   }
+  ],
+  "94": [
+   {
+    "email": "rjohnson@house.ms.gov",
+    "name": "Robert Johnson",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/johnson.xml"
+   }
+  ],
+  "95": [
+   {
+    "email": "jmcknight@house.ms.gov",
+    "name": "Jay McKnight",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/mcknight.xml"
+   }
+  ],
+  "96": [
+   {
+    "email": "acockerham@house.ms.gov",
+    "name": "Angela Cockerham",
+    "party": "Independent",
+    "url": "https://billstatus.ls.state.ms.us/members/house/cockerham.xml"
+   }
+  ],
+  "97": [
+   {
+    "email": "smims@house.ms.gov",
+    "name": "Sam Mims",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/mims.xml"
+   }
+  ],
+  "98": [
+   {
+    "email": "dporter@house.ms.gov",
+    "name": "Daryl Porter",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/house/porter.xml"
+   }
+  ],
+  "99": [
+   {
+    "email": "bpigott@house.ms.gov",
+    "name": "Bill Pigott",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/pigott.xml"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/ms.csv"
+ },
+ "state": "MS",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "mmclendon@senate.ms.gov",
+    "name": "Michael McLendon",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/mclendon.xml"
+   }
+  ],
+  "10": [
+   {
+    "email": "nwhaley@senate.ms.gov",
+    "name": "Neil Whaley",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/whaley.xml"
+   }
+  ],
+  "11": [
+   {
+    "email": "rjackson@senate.ms.gov",
+    "name": "Reginald Jackson",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/jackson.xml"
+   }
+  ],
+  "12": [
+   {
+    "email": "dsimmons@senate.ms.gov",
+    "name": "Derrick Simmons",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/simmons_(12th).xml"
+   }
+  ],
+  "13": [
+   {
+    "email": "ssimmons@senate.ms.gov",
+    "name": "Sarita Simmons",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/simmons_(13th).xml"
+   }
+  ],
+  "14": [
+   {
+    "email": "lchassaniol@senate.ms.gov",
+    "name": "Lydia Chassaniol",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/chassaniol.xml"
+   }
+  ],
+  "15": [
+   {
+    "email": "bwilliams@senate.ms.gov",
+    "name": "Bart Williams",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/williams.xml"
+   }
+  ],
+  "16": [
+   {
+    "email": "aturner@senate.ms.gov",
+    "name": "Angela Turner-Ford",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/turner-ford.xml"
+   }
+  ],
+  "17": [
+   {
+    "email": "cyounger@senate.ms.gov",
+    "name": "Chuck Younger",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/younger.xml"
+   }
+  ],
+  "18": [
+   {
+    "email": "ltaylor@senate.ms.gov",
+    "name": "Lane Taylor",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/taylor.xml"
+   }
+  ],
+  "19": [
+   {
+    "email": "kblackwell@senate.ms.gov",
+    "name": "Kevin Blackwell",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/blackwell.xml"
+   }
+  ],
+  "2": [
+   {
+    "email": "tgillespie-isom@senate.ms.gov",
+    "name": "Theresa Gillespie Isom",
+    "party": "Democratic",
+    "url": null
+   }
+  ],
+  "20": [
+   {
+    "email": "jharkins@senate.ms.gov",
+    "name": "Josh Harkins",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/harkins.xml"
+   }
+  ],
+  "21": [
+   {
+    "email": "bblackmon@senate.ms.gov",
+    "name": "Bradford Blackmon",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/blackmon.xml"
+   }
+  ],
+  "22": [
+   {
+    "email": "jthomas@senate.ms.gov",
+    "name": "Joseph Thomas",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/thomas.xml"
+   }
+  ],
+  "23": [
+   {
+    "email": "bhopson@senate.ms.gov",
+    "name": "Briggs Hopson",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/hopson.xml"
+   }
+  ],
+  "24": [
+   {
+    "email": "jpope@senate.ms.gov",
+    "name": "Justin Pope",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/pope.xml"
+   }
+  ],
+  "25": [
+   {
+    "email": "wmichel@senate.ms.gov",
+    "name": "Walter Michel",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/michel.xml"
+   }
+  ],
+  "26": [
+   {
+    "email": "kmumford@senate.ms.gov",
+    "name": "Kamesha Mumford",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/mumford.xml"
+   }
+  ],
+  "27": [
+   {
+    "email": "hfrazier@senate.ms.gov",
+    "name": "Hillman Frazier",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/frazier.xml"
+   }
+  ],
+  "28": [
+   {
+    "email": "snorwood@senate.ms.gov",
+    "name": "Sollie Norwood",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/norwood.xml"
+   }
+  ],
+  "29": [
+   {
+    "email": "dblount@senate.ms.gov",
+    "name": "David Blount",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/blount.xml"
+   }
+  ],
+  "3": [
+   {
+    "email": "kchism@senate.ms.gov",
+    "name": "Kathy Chism",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/chism.xml"
+   }
+  ],
+  "30": [
+   {
+    "email": "dkirby@senate.ms.gov",
+    "name": "Dean Kirby",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/Kirby.xml"
+   }
+  ],
+  "31": [
+   {
+    "email": "tmccaughn@senate.ms.gov",
+    "name": "Tyler McCaughn",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/mccaughn.xml"
+   }
+  ],
+  "32": [
+   {
+    "email": "rhickman@senate.ms.gov",
+    "name": "Rod Hickman",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/hickman.xml"
+   }
+  ],
+  "33": [
+   {
+    "email": "jtate@senate.ms.gov",
+    "name": "Jeff Tate",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/tate.xml"
+   }
+  ],
+  "34": [
+   {
+    "email": "jbarnett@senate.ms.gov",
+    "name": "Juan Barnett",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/barnett.xml"
+   }
+  ],
+  "35": [
+   {
+    "email": "aberry@senate.ms.gov",
+    "name": "Andy Berry",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/berry.xml"
+   }
+  ],
+  "36": [
+   {
+    "email": "brhodes@senate.ms.gov",
+    "name": "Brian Rhodes",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/rhodes.xml"
+   }
+  ],
+  "37": [
+   {
+    "email": "abutler@senate.ms.gov",
+    "name": "Albert Butler",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/butler.xml"
+   }
+  ],
+  "38": [
+   {
+    "email": "gbrumfield@senate.ms.gov",
+    "name": "Gary Brumfield",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/brumfield.xml"
+   }
+  ],
+  "39": [
+   {
+    "email": "jbarrett@senate.ms.gov",
+    "name": "Jason Barrett",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/barrett.xml"
+   }
+  ],
+  "4": [
+   {
+    "email": "rparks@senate.ms.gov",
+    "name": "Rita Parks",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/parks.xml"
+   }
+  ],
+  "40": [
+   {
+    "email": "ahill@senate.ms.gov",
+    "name": "Angela Hill",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/hill.xml"
+   }
+  ],
+  "41": [
+   {
+    "email": "jfillingane@senate.ms.gov",
+    "name": "Joey Fillingane",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/fillingane.xml"
+   }
+  ],
+  "42": [
+   {
+    "email": "dhartness@senate.ms.gov",
+    "name": "Don Hartness",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/hartness.xml"
+   }
+  ],
+  "43": [
+   {
+    "email": "ddebar@senate.ms.gov",
+    "name": "Dennis DeBar",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/debar.xml"
+   }
+  ],
+  "44": [
+   {
+    "email": "chjohnson@senate.ms.gov",
+    "name": "Chris Johnson",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/johnson_(87th).xml"
+   }
+  ],
+  "45": [
+   {
+    "email": "jdupree@senate.ms.gov",
+    "name": "Johnny DuPree",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/dupree.xml"
+   }
+  ],
+  "46": [
+   {
+    "email": "pladner@senate.ms.gov",
+    "name": "Philman Ladner",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/ladner.xml"
+   }
+  ],
+  "47": [
+   {
+    "email": "mseymour@senate.ms.gov",
+    "name": "Mike Seymour",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/seymour.xml"
+   }
+  ],
+  "48": [
+   {
+    "email": "mthompson@senate.ms.gov",
+    "name": "Mike Thompson",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/thompson.xml"
+   }
+  ],
+  "49": [
+   {
+    "email": "jcarter@senate.ms.gov",
+    "name": "Joel Carter",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/carter.xml"
+   }
+  ],
+  "5": [
+   {
+    "email": "dsparks@senate.ms.gov",
+    "name": "Daniel Sparks",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/sparks.xml"
+   }
+  ],
+  "50": [
+   {
+    "email": "sdelano@senate.ms.gov",
+    "name": "Scott DeLano",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/house/delano.xml"
+   }
+  ],
+  "51": [
+   {
+    "email": "jengland@senate.ms.gov",
+    "name": "Jeremy England",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/england.xml"
+   }
+  ],
+  "52": [
+   {
+    "email": "bwiggins@senate.ms.gov",
+    "name": "Brice Wiggins",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/wiggins.xml"
+   }
+  ],
+  "6": [
+   {
+    "email": "cmcmahan@senate.ms.gov",
+    "name": "Chad McMahan",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/mcmahan.xml"
+   }
+  ],
+  "7": [
+   {
+    "email": "hbryan@senate.ms.gov",
+    "name": "Hob Bryan",
+    "party": "Democratic",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/bryan.xml"
+   }
+  ],
+  "8": [
+   {
+    "email": "bsuber@senate.ms.gov",
+    "name": "Ben Suber",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/suber.xml"
+   }
+  ],
+  "9": [
+   {
+    "email": "nboyd@senate.ms.gov",
+    "name": "Nicole Boyd",
+    "party": "Republican",
+    "url": "https://billstatus.ls.state.ms.us/members/senate/boyd.xml"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

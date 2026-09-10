@@ -1,0 +1,602 @@
+[
+  {
+    "id": "retention-001",
+    "angle": "retention",
+    "subject": "A question about how long the scans are kept",
+    "body": "Dear {{officialName}},\n\nWhat unsettles me about the cameras near {{shortName}} is that they do not only look. They write, and what they write outlives the drive by some period nobody in {{city}} has explained to me. That period is the part I keep turning over. A scan of a driver who did nothing becomes a record of where that person was, and it sits there until something removes it.\n\nI am a student here, with no special standing beyond that, and I would be grateful if you could find out what the retention schedule says and who holds the authority to change it. If it is not written down anywhere, that tells me something too.\n\nMy own view is that the safest retention rule is not to collect at all. I would like the automated plate readers around campus taken down, and I hope you will approve no new ones.\n\nWhere do you stand?"
+  },
+  {
+    "id": "retention-002",
+    "angle": "retention",
+    "subject": "Worried about who can search the plate archive",
+    "body": "Dear {{officialName}},\n\nAccess is the part of this I rarely see anyone ask about, and it is the part that worries me most. A camera reading a plate is a small thing. The searchable history of every plate it has ever read is not, and around {{shortName}} that history grows every hour the equipment stays powered on.\n\nBefore the next renewal, I would like to know who holds credentials to that archive. Sworn officers in {{city}}, or support staff at the company? Those feel like different risks to me, and neither is visible to the people whose cars sit in the file.\n\nI think the honest answer lies further upstream. I would like the automated plate readers around campus taken out of service, with no new ones installed, and then the access question stops needing an answer.\n\nI am one student writing one letter. Would you tell me your position, and whether the access list could be made public?"
+  },
+  {
+    "id": "retention-003",
+    "angle": "retention",
+    "subject": "Are searches of the plate system written down anywhere",
+    "body": "Dear {{officialName}},\n\nA search log is cheap to keep, which is why its absence bothers me. If the plate reader system covering {{shortName}} records who ran each query and for what stated reason, someone ought to be reading those logs on a schedule. Where none of that is recorded, any claim about proper use becomes impossible for anyone outside to check.\n\nI would be grateful if you could establish, in writing, whether query logs exist for the readers in {{city}} and who outside the department looks at them. An internal review by the same office running the searches does not settle much, at least not for me.\n\nWhat I would really prefer is that the material stop being generated. I hope you will support taking the readers around campus down and holding the line against any expansion.\n\nA short reply from you would mean a lot to a student trying to follow this."
+  },
+  {
+    "id": "retention-004",
+    "angle": "retention",
+    "subject": "What would happen if the plate database leaked",
+    "body": "Dear {{officialName}},\n\nAny database worth building is worth stealing. A movement history covering much of the driving public in {{city}} would be worth a great deal to the wrong people, and the readers near {{shortName}} feed exactly that. Whether the storage sits with the company or with the department, the exposure lands on residents.\n\nI want to be careful here. I am not saying anything has gone wrong. My worry is narrower than that. Nobody has explained who would be notified, or how quickly, if the store were opened by someone who should not have it.\n\nThe surest protection for a record is not to hold one. I would like the automated plate readers around campus taken down, and I hope no replacements are approved afterward.\n\nI am a student, so I have no way to find this out myself. Would you say publicly where you stand on removal?"
+  },
+  {
+    "id": "retention-005",
+    "angle": "retention",
+    "subject": "Where the stored scans go if the company is sold",
+    "body": "Dear {{officialName}},\n\nContracts end. Companies get bought or wound up, and their assets travel with them. Scans collected around {{shortName}} live on systems the city does not own, which raises something I have not seen answered anywhere in {{state}}. What becomes of that archive when the vendor changes hands?\n\nIf the agreement does not require destruction at termination, then by default the records persist somewhere under terms written by people {{city}} never elected. That strikes me as an odd thing to leave unspecified, and it is the detail I keep coming back to.\n\nRather than see a better clause negotiated, I would like the collection to stop. I am asking you to work toward removing the automated plate readers around campus and to keep new ones from going up.\n\nCould you tell me your position, and whether a student can read the contract language somewhere?"
+  },
+  {
+    "id": "retention-006",
+    "angle": "retention",
+    "subject": "Is there a deletion schedule for campus area scans",
+    "body": "Dear {{officialName}},\n\nDeletion is the only part of a data system that protects anybody, and it seems to be the part nobody writes down. Around {{shortName}} the readers add records continuously. Something has to take them out again on a fixed clock, without an officer deciding case by case.\n\nMy question is narrow. Is there an automatic purge, and does it reach backups and exports as well as the live system? Those seem answerable, and I think the answers ought to be public in {{city}}.\n\nI would go further than the question, honestly. A purge schedule manages a problem that did not have to exist. I would like the automated plate readers around campus removed, and I hope you will approve no additional ones.\n\nI am a student and this is one letter, but I would be glad to hear your view either way, in writing if possible."
+  },
+  {
+    "id": "retention-007",
+    "angle": "retention",
+    "subject": "Who would answer to residents if the records leaked",
+    "body": "Dear {{officialName}},\n\nI would like a name, and I realize that is a blunt thing to ask for. If the archive of plate scans gathered near {{shortName}} were exposed tomorrow, which official in {{city}} would answer for it, and what would answering actually involve?\n\nMy fear is that responsibility has been divided thinly enough to disappear. The department can point toward the vendor, the vendor toward its terms of service, and drivers in the file have nobody left to point at. Accountability that cannot be located is what worries me here.\n\nSince that seems hard to repair on paper, I would rather the material stopped accumulating. I am asking you to support removing the automated plate readers around campus and to keep new installations off the table.\n\nI am a student, and I would value a reply telling me how you see it."
+  },
+  {
+    "id": "retention-008",
+    "angle": "retention",
+    "subject": "A record of everyone worries me on its own",
+    "body": "Dear {{officialName}},\n\nGood intentions do not change what a database is, and that is what keeps nagging at me. Once the readers around {{shortName}} have logged enough passing traffic, the resulting file takes on properties of its own. Someone with a grudge can search it. Lawyers can subpoena it in a custody fight. A copy takes seconds and can never be uncopied.\n\nNone of that requires anyone in {{city}} to act in bad faith. The risk comes from holding the material at all, quite apart from what anyone means to do with it.\n\nSo my request is the simplest reduction available. I would like the automated plate readers around campus removed, with no new ones approved nearby.\n\nIf you disagree, I would genuinely like to know what retention rules you would consider sufficient. I am a student trying to understand the reasoning."
+  },
+  {
+    "id": "retention-009",
+    "angle": "retention",
+    "subject": "A worry about sharing the scans collected in {{city}}",
+    "body": "Dear {{officialName}},\n\nData rarely stays where it was collected, and that is the thing I find hardest to sit with. Most plate reader platforms make sharing easy, sometimes by default, so a scan taken beside {{shortName}} can become searchable by an agency with no connection to {{state}}. That outcome follows from a box ticked in a settings panel.\n\nI would like to know which outside agencies can currently query records gathered here, and whether {{city}} approved each one individually. Publishing that list would tell residents more than describing it would. Sharing nobody has enumerated is sharing nobody can withdraw.\n\nThe underlying fix, as I see it, is to stop producing the records. I hope you will support removing the automated plate readers around campus and turning down any proposal to add more.\n\nI am a student here and would be grateful to know where you come down."
+  },
+  {
+    "id": "retention-010",
+    "angle": "retention",
+    "subject": "Could the storage policy itself be made public",
+    "body": "Dear {{officialName}},\n\nBefore the contract moves again, I would like to see the governing document itself, the one setting how long plate scans taken near {{shortName}} are stored and who may search them. A summary offered at a meeting is not the same thing, and it is the summary that residents usually get.\n\nPeople in {{city}} cannot weigh a rule they have never read. Officials cannot enforce one either. A policy that exists only as an understanding between a department and a company feels closer to a habit than to a rule.\n\nI should say plainly that publication alone would not settle my worry. My position is that the automated plate readers around campus should come out, and that none should be installed in their place.\n\nStill, the document should be released. Would you ask for that, and would you tell one student where you stand on removal?"
+  },
+  {
+    "id": "retention-011",
+    "angle": "retention",
+    "subject": "Stored scans and what civil lawyers can reach",
+    "body": "Dear {{officialName}},\n\nOnce a record exists, the people who can reach it are not only the ones anybody had in mind. A stored history of vehicle movements around {{shortName}} is discoverable material. Divorce attorneys want it. Insurance defense wants it. Anyone with a docket number and a reason has a path to it that the department cannot close.\n\nThat is not misuse. It is the ordinary working of a legal system meeting a database nobody planned to defend, and it worries me more than the policing use does.\n\nI would like {{city}} to consider whether it wants to run a permanent evidence locker on behalf of private litigants. My hope is that it does not. I am asking you to support removing the automated plate readers around campus and declining any new ones.\n\nIf you see it differently, a student here would still like to hear the reasoning."
+  },
+  {
+    "id": "retention-012",
+    "angle": "retention",
+    "subject": "How the archive is guarded against curious insiders",
+    "body": "Dear {{officialName}},\n\nEvery system with credentialed users eventually has a user who should not have looked. I mean that as a structural fact about access, not as an accusation about anyone in {{city}}. What I want to understand is what the plate reader system does about it, and whether a lookup of an ex partner or a neighbor would leave a trace that anyone reviews.\n\nSo I would ask what technical limits apply to a single account, and whether searches require a documented case number. I will stop there rather than guess at answers I do not have.\n\nHonestly, though, controls only shrink a risk that removal would end. I would like the readers around campus to come down, and I hope no further installations are approved.\n\nI am a student with one letter. Could you tell me your position, and whether the safeguards have ever been described publicly?"
+  },
+  {
+    "id": "retention-013",
+    "angle": "retention",
+    "subject": "Do backups keep the scans after deletion",
+    "body": "Dear {{officialName}},\n\nDeletion in a modern system is rarely as complete as the word suggests, and that gap is what concerns me. A record removed from a live index can survive in nightly backups, in replicas kept for failover, in an export someone pulled last month. Whatever schedule governs the readers near {{shortName}}, it means little unless it reaches every copy.\n\nI would like {{city}} to put a direct question to the vendor. When a scan reaches the end of its retention window, what exactly is destroyed, and what remains recoverable?\n\nThere is an easier alternative to that question, which is to stop making the copies. I am asking you to support taking the automated plate readers around campus out of service and installing no new ones.\n\nWould you tell a student whether you could back that, and whether the deletion process can be documented?"
+  },
+  {
+    "id": "retention-014",
+    "angle": "retention",
+    "subject": "Records held outside {{state}} and under whose law",
+    "body": "Dear {{officialName}},\n\nPhysical location still matters for data, whatever the marketing says. Scans taken beside {{shortName}} are almost certainly held on servers somewhere else, subject to legal process in a jurisdiction that never voted on any of this. A subpoena served where the servers sit need not pass through {{city}} at all.\n\nWhat troubles me is how quietly that moves control away from the officials residents can actually reach. You are one of them, which is why I am writing to you rather than to a company.\n\nMy request is that the automated plate readers around campus be removed and that no new ones be approved. A record held nowhere cannot be requested from anyone.\n\nI am a student and I may have some of this wrong. Would you share your position, and whether the storage location is specified in the contract?"
+  },
+  {
+    "id": "retention-015",
+    "angle": "retention",
+    "subject": "Who actually owns the scans under this contract",
+    "body": "Dear {{officialName}},\n\nOwnership sounds like a technicality until somebody tries to enforce it. If the contract covering the readers around {{shortName}} says the city owns the data, then {{city}} can order deletion and expect it to happen. Where the paperwork says the vendor owns or licenses the data, the city is a customer asking a favor.\n\nThose are very different positions, and my worry is that most people assume the first while the document says something nearer the second.\n\nI would be grateful if you could check which it is and say so publicly. Beyond that, my own position is that the automated plate readers around campus should be removed with no additional ones installed, which resolves the ownership question by ending it.\n\nWhat is your view, and could a student read the relevant section?"
+  },
+  {
+    "id": "retention-016",
+    "angle": "retention",
+    "subject": "Are these plate records public under {{state}} law",
+    "body": "Dear {{officialName}},\n\nThere is a tension in this that I cannot resolve on my own. Either the plate scans collected near {{shortName}} are public records under {{state}} law, in which case residents can request them and the privacy problem widens, or they are exempt, in which case oversight rests entirely on the department describing itself.\n\nNeither branch sits comfortably with me. Both follow from the decision to keep the records at all.\n\nI would like to know which position {{city}} takes and whether it has ever been tested. More than that, I would like the collection to stop. I hope you will support removing the automated plate readers around campus and turning down new installations.\n\nA short reply stating your position would mean something to a student here, even a disagreeing one."
+  },
+  {
+    "id": "retention-017",
+    "angle": "retention",
+    "subject": "Questions about how the plate store is secured",
+    "body": "Dear {{officialName}},\n\nSecurity claims are easy to make and hard for someone like me to check, which is why I would rather ask you than read a brochure. Is the archive of scans from around {{shortName}} encrypted at rest? Are accounts individually assigned rather than shared? Has any independent party examined the configuration, and did {{city}} see what came back?\n\nNone of those questions is meant as an attack. A competent operator should welcome them, and I would take a reluctance to answer as informative in its own way.\n\nThe strongest control available, though, is not to hold the data. I am asking you to support removal of the automated plate readers around campus and to oppose any expansion of the system.\n\nWould you tell a student where you stand, and whether these questions have been put to the vendor on the record?"
+  },
+  {
+    "id": "retention-018",
+    "angle": "retention",
+    "subject": "Alerts and saved searches may outlive the scans",
+    "body": "Dear {{officialName}},\n\nThe raw scans are only part of what gets stored, and the rest is what I keep worrying about. A system like the one running near {{shortName}} also generates alerts, saved searches, exported reports, and internal notes attached to a plate. Those derivative records can outlive the underlying scan and often fall outside whatever retention rule applies to it.\n\nA policy saying scans are purged on a schedule may therefore leave a durable shadow of the same information under a different label.\n\nI would like {{city}} to state whether its rule covers everything the platform produces or only the original reads. And I would like the whole question retired by removing the automated plate readers around campus, with no new ones approved.\n\nCould you reply to a student with your position, and with what the department says about derived records?"
+  },
+  {
+    "id": "retention-019",
+    "angle": "retention",
+    "subject": "Would residents be told if the archive were breached",
+    "body": "Dear {{officialName}},\n\nSuppose the worst case arrives. Someone reaches the plate archive who was never meant to, and the exposure includes drivers who live and work around {{shortName}}. What happens next, procedurally?\n\nI have looked and cannot find a public answer for {{city}}. Whether notification is required at all, and how quickly residents would learn of it, seems to live inside a contract most of us have never read. That silence is the part I find hard to accept.\n\nA plan for that day ought to exist before it is needed. My stronger preference is that the archive should not exist. I hope you will support removing the automated plate readers around campus and blocking further installations.\n\nA written reply telling one student your position, and whether a notification obligation is really in the agreement, would be welcome."
+  },
+  {
+    "id": "retention-020",
+    "angle": "retention",
+    "subject": "Could someone outside the department review the queries",
+    "body": "Dear {{officialName}},\n\nOversight that depends on self reporting does not reassure me. If the readers around {{shortName}} are going to keep running, then somebody outside the department should be examining the query logs and the retention practice regularly, and reporting to you in public rather than in a private briefing.\n\nAs {{officialTitle}}, you are in a position to ask for that. Very few residents are, and certainly no student is.\n\nI should be honest that an audit is my second choice. My first is that the automated plate readers around campus be removed and that no new ones go up anywhere near it, which would leave nothing to audit.\n\nWould you tell me which of those you could support, and whether any independent review has ever been carried out here?"
+  },
+  {
+    "id": "retention-021",
+    "angle": "retention",
+    "subject": "Stored scans add up to a picture of a life",
+    "body": "Dear {{officialName}},\n\nOne scan is trivia. A year of scans is a portrait, and that transformation is what I find alarming. The {{readersWithinMile}} readers within a mile of {{shortName}} do not need to follow anybody to produce a reliable picture of where a person sleeps and who they visit at odd hours. Retention performs the conversion.\n\nThat is why the storage period matters to me more than the cameras themselves. Short windows keep the record thin. Long windows build biographies of people nobody ever suspected of anything.\n\nSince I have not been shown the window, I would rather see the input removed. I am asking you to support taking the automated plate readers around campus out of service and approving no new ones in {{city}}.\n\nCould you tell a student what retention period the city permits, and where you personally stand on removal?"
+  },
+  {
+    "id": "retention-022",
+    "angle": "retention",
+    "subject": "Federal access to scans gathered near the campus",
+    "body": "Dear {{officialName}},\n\nLocal data does not stay local once it is queryable. Federal agencies routinely obtain access to state and municipal systems through task force arrangements, and residents whose plates were captured near {{shortName}} would get no notice when that happens.\n\nI am not asserting that any particular request has been made here. My concern is that the structure permits it and that {{city}} appears never to have settled in public whether it should.\n\nA record that exists will eventually be asked for. The only durable answer I can see is not to build it, so I am asking you to support removing the automated plate readers around campus and turning down further installations.\n\nCould you tell me whether any federal access arrangement covers this data, and what your own position on removal is? I am a student and would be grateful for either answer."
+  },
+  {
+    "id": "retention-023",
+    "angle": "retention",
+    "subject": "How long is the log of searches itself kept",
+    "body": "Dear {{officialName}},\n\nHere is a question I have not seen asked, even by people asking good ones. Suppose the plate reader system near {{shortName}} does log every search. How long does it keep the log?\n\nIf the logs expire sooner than the scans, then misuse discovered later could never be traced to anyone, and an audit trail that evaporates does not comfort me much.\n\nI would like {{city}} to publish both windows side by side, the retention for scans and the retention for the record of who looked at them. Better still, I would like the automated plate readers around campus removed with none installed in their place, and then neither window matters.\n\nWould you find out and reply? A student would also like to know whether you would vote for removal."
+  },
+  {
+    "id": "retention-024",
+    "angle": "retention",
+    "subject": "Is anyone named as custodian of this archive",
+    "body": "Dear {{officialName}},\n\nEvery serious records system has a named custodian, a person rather than an office, answerable for what the system holds and who has touched it. I cannot find one for the plate scans collected around {{shortName}}, and I have read what {{city}} publishes.\n\nWithout that name, requests go into a queue belonging to nobody, and concerns have no destination. Responsibility spread evenly across a department is responsibility I cannot see anybody carrying.\n\nSo either a custodian should be designated and named, or the archive is ungoverned. My preference is a third path. I would like the automated plate readers around campus removed and no new ones approved, and then the custodian question resolves itself.\n\nCould you reply with your view? I am a student, and this is the only way I have to ask."
+  },
+  {
+    "id": "retention-025",
+    "angle": "retention",
+    "subject": "The continuing cost of holding these scans safely",
+    "body": "Dear {{officialName}},\n\nStorage is never the whole bill, and I think that gets missed. Holding a growing archive of vehicle movements means paying for access control, monitoring, audit review, legal response, and eventually for whatever goes wrong. With {{readersInState}} readers operating across {{state}}, the aggregate obligation is not small, and the share around {{shortName}} is part of it.\n\nNone of that spending buys anything for the drivers in the file. They supply the data and carry the risk, which is the imbalance that bothers me.\n\nI would like {{city}} to stop paying to hold records it did not need to create. I hope you will support removing the automated plate readers around campus and declining any proposal to add more.\n\nIf you disagree, I would genuinely like to hear what the retention costs are and who reviewed them. Either way, a reply to a student would be appreciated."
+  },
+  {
+    "id": "retention-026",
+    "angle": "retention",
+    "subject": "Collecting less would worry me less than protecting more",
+    "body": "Dear {{officialName}},\n\nData minimization is an old principle and a boring one, which may be why it gets skipped. It says keep what you need for as long as you need it, and nothing else. The readers near {{shortName}} invert that. They capture everyone and sort out relevance afterward, if at all.\n\nNo amount of security spending repairs a design that begins with total capture. Protection becomes a tax on a decision made further upstream, and that is the part I would like reconsidered.\n\nSince {{role}} has authority over this contract, I am asking you to apply the principle directly. I would like the automated plate readers around campus removed, with no new ones installed anywhere nearby.\n\nWould you let a student know whether you could support that, and what retention rule the city applies today?"
+  },
+  {
+    "id": "retention-027",
+    "angle": "retention",
+    "subject": "The arrangement seems to have no visible end date",
+    "body": "Dear {{officialName}},\n\nSomething that renews quietly never gets reconsidered, and I suspect that is what is happening here. As far as I can tell, the arrangement covering the readers around {{shortName}} carries on unless someone in {{city}} affirmatively stops it. The retention practice carries on with it, unexamined, past the terms of the people who first approved it.\n\nA sunset would at least force a conversation. Somebody would have to justify the archive again in front of the public.\n\nI would rather skip that cycle altogether. My request is that the automated plate readers around campus be removed now and that no replacements be authorized.\n\nCould you tell me whether the agreement has a termination point, and whether you would support ending it? I am a student and would take a clear answer either way."
+  },
+  {
+    "id": "retention-028",
+    "angle": "retention",
+    "subject": "Exceptions that quietly swallow the retention rule",
+    "body": "Dear {{officialName}},\n\nMost retention policies contain a clause that undoes them. Records are deleted on schedule unless flagged, unless part of an investigation, unless subject to a hold. In practice a single flag can hold a scan indefinitely, and I doubt anyone counts how often flags are applied.\n\nSo the stated window for data collected near {{shortName}} may describe very little of what is actually stored. That gap is where my confidence in the whole arrangement goes.\n\nI would like {{city}} to disclose how many categories of exception exist and who may invoke them. Better yet, I would like the automated plate readers around campus removed and none approved in future, which makes the exceptions moot.\n\nWhat is your position, and would you ask for the policy text? A student here would be grateful for either."
+  },
+  {
+    "id": "retention-029",
+    "angle": "retention",
+    "subject": "Copies that leave the official system worry me",
+    "body": "Dear {{officialName}},\n\nAny system with an export button has copies living outside itself. A spreadsheet pulled for a case, a report emailed to a colleague, an extract sitting on a laptop that later gets sold or stolen. None of that is covered by whatever purge schedule governs the main archive of scans taken around {{shortName}}.\n\nThis is not a hypothetical failing by anyone in {{city}}. It is how every data platform behaves once real people use it, which is exactly why it unsettles me.\n\nRetention rules that bind only the central database do not reassure me. The reliable version is to stop collecting, so I am asking you to support removal of the automated plate readers around campus and to oppose new ones.\n\nCould you reply to a student with your position on that?"
+  },
+  {
+    "id": "retention-030",
+    "angle": "retention",
+    "subject": "Can a resident learn whether their plate is stored",
+    "body": "Dear {{officialName}},\n\nTry the question from the other direction and it looks worse. If someone in {{city}} wanted to know whether their own vehicle appears in the plate reader archive, and how often, what would they do? Who would they ask, and would they get an answer?\n\nAs far as I can determine there is no route at all. The system knows a great deal about residents, and residents are permitted to know nothing about the system. That asymmetry is the whole problem in miniature for me.\n\nI would like it closed by removing the automated plate readers around campus and approving no new ones, rather than by building a request process for a database I do not think should exist.\n\nWould you tell a student whether such a route exists, and where you stand on removal?"
+  },
+  {
+    "id": "retention-031",
+    "angle": "retention",
+    "subject": "Why keep scans of drivers who matched nothing",
+    "body": "Dear {{officialName}},\n\nThe overwhelming majority of plates read near {{shortName}} match nothing at all. No warrant, no alert, no reason for anyone to look. Those reads could be discarded the instant the comparison comes back clean, and the stated purpose of the system would be entirely intact.\n\nInstead they are kept. That choice is the real policy, and I have never seen it defended publicly in {{city}}, which is what prompted this letter.\n\nIf there is a good reason to retain non matching reads, I would honestly like to hear it. Absent one, I would like the automated plate readers around campus removed and no new ones approved.\n\nWould you ask for the justification, and would you tell a student your own position?"
+  },
+  {
+    "id": "retention-032",
+    "angle": "retention",
+    "subject": "What happens to the archive if the program ends",
+    "body": "Dear {{officialName}},\n\nSuppose {{city}} decided tomorrow to stop using plate readers. What would happen to everything already collected around {{shortName}}?\n\nMy expectation, absent a clause requiring otherwise, is that it stays exactly where it is. The cameras come down, the archive does not, and residents in it get the worst of both arrangements. Ending a program is not the same as ending its records, and that distinction is the one I would like taken seriously.\n\nSo I am asking for two things together. I would like the automated plate readers around campus removed with no new ones installed, and I would like certified destruction of what has already been gathered.\n\nWould you tell a student whether the current agreement addresses destruction at termination, and whether you would support removal?"
+  },
+  {
+    "id": "retention-033",
+    "angle": "retention",
+    "subject": "Once a scan is shared it cannot be recalled",
+    "body": "Dear {{officialName}},\n\nSharing runs one way, and that is what I keep getting stuck on. A file transferred to another agency, a copy synced into a regional platform, an extract handed to a partner under an agreement nobody publishes. Whatever {{city}} later decides about retention, those copies follow their own rules and their own clocks.\n\nSo the retention period that matters is not the one printed locally. It is the longest period observed by anyone who ever received a copy of a scan taken near {{shortName}}.\n\nI do not think that period is knowable, which is rather the point. I hope you will support removing the automated plate readers around campus and approving no additional ones.\n\nI am a student here, and I would like to hear your position, and whether the sharing arrangements have been reviewed by anyone you answer to."
+  },
+  {
+    "id": "retention-034",
+    "angle": "retention",
+    "subject": "Company staff who can see the campus archive",
+    "body": "Dear {{officialName}},\n\nSupport staff at a private company can usually see what they support. That is not a scandal, it is how technical maintenance works, but it means the archive of scans from around {{shortName}} is visible to people who do not work for {{city}}, do not answer to you, and were never vetted by anyone here. That combination is what worries me.\n\nWhat limits apply to them? Are their queries logged in the same trail as an officer's? I do not know, and I have not found anyone who does.\n\nI would rather the questions became unnecessary. My request is that the automated plate readers around campus be taken out of service and that no new ones be installed.\n\nPlease reply with your view, and with whatever the department can say about vendor side access. I am a student and would read it carefully."
+  },
+  {
+    "id": "retention-035",
+    "angle": "retention",
+    "subject": "Has the platform holding this data been tested",
+    "body": "Dear {{officialName}},\n\nSecurity is a claim until somebody tries to break it. Before the next payment goes out for the readers covering {{shortName}}, I would like to know whether {{city}} has ever seen the results of an independent test of the platform holding this data, or whether the assurance is simply the company's own word.\n\nA city that would not accept an unaudited financial statement should think twice about accepting an unaudited security posture for a database of resident movements. That comparison is what makes me uneasy.\n\nThe risk no test can remove, though, is the existence of the archive itself. I am asking you to support removing the automated plate readers around campus and approving no new installations.\n\nCould you tell a student what testing has been done, and where you personally stand?"
+  },
+  {
+    "id": "retention-036",
+    "angle": "retention",
+    "subject": "Retention settings that can change without a vote",
+    "body": "Dear {{officialName}},\n\nPolicies drift. A setting adjusted during an upgrade, a default changed by the vendor, a practice that becomes the rule because nobody ever wrote the rule down. If the retention window for scans taken near {{shortName}} can move without a decision by {{role}}, then I am not sure it counts as a policy at all.\n\nWhat I would like to know is whether any change requires public action, or whether it happens inside a configuration screen residents never see.\n\nGiven how easily such things shift, I would rather the underlying capability were removed. I hope you will support taking the automated plate readers around campus out of service and blocking new ones.\n\nWould you find out who controls that setting, and reply to a student with your own position?"
+  },
+  {
+    "id": "retention-037",
+    "angle": "retention",
+    "subject": "Shared logins would make the search trail useless",
+    "body": "Dear {{officialName}},\n\nA shared login destroys accountability quietly and completely. If several people in a unit use the same credentials to search the plate archive covering {{shortName}}, then every log entry points at a role rather than a person, and no review could ever conclude anything.\n\nI have no way to know whether that is the practice in {{city}}. You can find out, and I would be grateful if you did before the arrangement is renewed.\n\nMy actual request goes further than the credential question. I would like the automated plate readers around campus removed with no new ones approved, and then how accounts are issued stops mattering.\n\nWould you ask the department, and let a student know your position on removal?"
+  },
+  {
+    "id": "retention-038",
+    "angle": "retention",
+    "subject": "Searching the past without going before a judge",
+    "body": "Dear {{officialName}},\n\nSearching the past is a different thing from watching the present, and the difference is what alarms me. A camera reading a plate today tells an officer where a car is. An archive of everything the {{readersWithinMile}} readers near {{shortName}} have captured lets that officer reconstruct where a car has been for as long as the records survive, without ever going before a judge.\n\nRetention is what turns a traffic sensor into a time machine. As far as I can find, that conversion has never been debated publicly in {{city}}.\n\nRather than argue over which searches should require authorization, I would like the capability ended. I am asking you to support removing the automated plate readers around campus and installing no new ones.\n\nWhat is your position, and does any local rule govern historical searches? I am a student and would appreciate a plain answer."
+  },
+  {
+    "id": "retention-039",
+    "angle": "retention",
+    "subject": "Who would carry the cost of a compromise",
+    "body": "Dear {{officialName}},\n\nLiability tends to settle on whoever cannot move. If the store of plate scans covering {{shortName}} were compromised, the vendor would point to a limitation clause, and {{city}} would be left with the notification costs and with residents asking questions the city cannot answer.\n\nI would like to know whether anyone has priced that scenario, and whether the contract shifts any of it back to the company holding the data. My sense is that nobody has looked, and I would be glad to be wrong.\n\nMore simply, a risk you do not take costs nothing to insure. I am asking you to support removing the automated plate readers around campus and approving no new ones.\n\nPlease reply to a student with whether the indemnification terms have been reviewed, along with your own position."
+  },
+  {
+    "id": "retention-040",
+    "angle": "retention",
+    "subject": "Can anyone prove a stored scan was not altered",
+    "body": "Dear {{officialName}},\n\nStored records get used as evidence, so their integrity is not a side issue. Misreads happen. Entries can be edited. A scan pulled from an archive months after capture arrives with no independent way for anyone to confirm it was not altered, unless the system was built to prove that, and nobody in {{city}} has said whether it was.\n\nExpanding a database that courts rely on and that has never been validated in public is the part I would like reconsidered.\n\nI would rather not depend on assurances at all. I hope you will support removing the automated plate readers around campus and approving no further installations.\n\nWould you tell a student whether the system produces tamper evident records, and whether you would back removal?"
+  },
+  {
+    "id": "retention-041",
+    "angle": "retention",
+    "subject": "What makes this archive attractive to outsiders",
+    "body": "Dear {{officialName}},\n\nAttackers do not care about the purpose of a system. They care about what it contains, and a queryable record of where residents drive is valuable to anyone running a fraud or looking for a person who does not want to be found. The archive built by the readers near {{shortName}} carries that value from the day it starts filling, which is what frightens me.\n\nThe security question, then, is not whether {{city}} trusts its own officers. It is whether the storage can withstand attention nobody invited.\n\nSince I do not think anyone can promise that, I would rather the material did not exist. I hope you will support removing the automated plate readers around campus and approving no new ones.\n\nA reply with your position, and with any assurance the city has received in writing, would help a student make sense of this."
+  },
+  {
+    "id": "retention-042",
+    "angle": "retention",
+    "subject": "Are the photographs kept along with the plate numbers",
+    "body": "Dear {{officialName}},\n\nA plate read usually comes with an image. The vehicle, sometimes the occupants, whatever the camera caught in frame. Retention policies tend to discuss the alphanumeric record and stay quiet about the photograph, which is the part that identifies people rather than cars.\n\nFor the readers operating around {{shortName}}, I would like to know whether images are stored, for how long, and under the same rule as the text. It bothers me that I cannot answer this from anything public.\n\nThere is a simpler resolution than an answer. If the automated plate readers around campus were removed and no new ones added, there would be no image library to worry about, and that is what I am asking for.\n\nCould you tell a student what the city knows about image retention, and where you stand?"
+  },
+  {
+    "id": "retention-043",
+    "angle": "retention",
+    "subject": "The details stored beside each plate concern me",
+    "body": "Dear {{officialName}},\n\nWhat gets stored alongside a plate is often more revealing than the plate. Timestamp to the second, camera location, direction of travel, lane. Assembled over months, that material describes routines with a precision no officer could manage on foot, and it does so for every driver near {{shortName}} rather than for suspects.\n\nRetention policy ought to address the whole record and not just the identifier. I have not found anything from {{city}} that does, and I have looked in the places a student would know to look.\n\nMy request is that the collection stop rather than the schedule be refined. I hope you will support removing the automated plate readers around campus and turning down any new installations.\n\nWould you reply with your position, and with the policy text if it exists?"
+  },
+  {
+    "id": "retention-044",
+    "angle": "retention",
+    "subject": "Is there any proof the scans are really deleted",
+    "body": "Dear {{officialName}},\n\nSaying that data is deleted and showing that it was are different acts. For the records generated near {{shortName}}, {{city}} appears to rely entirely on the first. No certificate, no attestation from a third party, nothing a resident could inspect.\n\nIn any other area of municipal contracting, an unverified performance claim would be a finding. Here it seems to be the normal state of affairs, and that is what prompted me to write.\n\nI would like verification required if the program continues, and I would rather it did not continue. I am asking you to support removing the automated plate readers around campus and approving none in future.\n\nTell me, if you would, whether the city has ever received written confirmation of deletion, and what your position is on removal. A student would be glad of either."
+  },
+  {
+    "id": "retention-045",
+    "angle": "retention",
+    "subject": "Nearly everyone in this file is innocent",
+    "body": "Dear {{officialName}},\n\nAlmost everyone in that archive has done nothing at all. Staff driving to work, delivery drivers, parents collecting someone, residents of {{city}} who happen to live near a road with a camera on it. Their movements are stored because storing everything was easier than deciding.\n\nThe justification usually offered is that the records help solve serious crime. That may well be true. It does not explain to me why the innocent reads have to persist afterward, and I have not found a reason that survives a second question.\n\nI am asking you to end the practice rather than adjust it. I would like the automated plate readers around campus removed, with no new ones approved.\n\nWould you share your position, and the current retention rule if you can obtain it? I am a student and would read whatever you can send."
+  },
+  {
+    "id": "retention-046",
+    "angle": "retention",
+    "subject": "Could the company use these scans commercially",
+    "body": "Dear {{officialName}},\n\nSomething I would want to read before any renewal vote is the clause about secondary use. Can the company holding scans from around {{shortName}} use them to improve products, license derived analytics, or pass them to an affiliate? Silence in a contract usually resolves in favor of whoever drafted it, which is why the question worries me.\n\nResidents of {{city}} are not customers of that company and never agreed to anything.\n\nI would rather close the question by ending the collection. My request is that the automated plate readers around campus be removed and that no new ones be installed anywhere near it.\n\nCan you tell a student what the agreement says about secondary use, and whether you would support removal?"
+  },
+  {
+    "id": "retention-047",
+    "angle": "retention",
+    "subject": "Uses of a stored archive tend to expand",
+    "body": "Dear {{officialName}},\n\nA system approved for one purpose rarely stays there, and that pattern is what I expect here. Stolen vehicles first, then outstanding warrants, then parking enforcement, then requests from other departments who noticed a useful database sitting available. Each step is small and each is easier because the archive already exists.\n\nRetention is what makes the expansion possible. Without a stored history near {{shortName}}, there is nothing for a new purpose to attach itself to.\n\nSo I would ask you to treat the storage as the decision point. I hope you will support removing the automated plate readers around campus and approving no additional ones in {{city}}.\n\nWould you tell a student what uses are currently authorized, and where you stand on removal?"
+  },
+  {
+    "id": "retention-048",
+    "angle": "retention",
+    "subject": "A review by the reviewed does not reassure me",
+    "body": "Dear {{officialName}},\n\nAn audit performed by the audited reads to me as a report rather than a check. If anyone reviews searches against the plate archive covering {{shortName}}, that reviewer should sit outside the chain of command running the searches and should report to {{role}} in public session.\n\nWithout that separation, I cannot see how the finding is not decided before the review begins.\n\nI recognize that setting up genuine oversight takes work. Removing the cameras takes less. My request is that the automated plate readers around campus come out and that no new ones be approved, which leaves nothing needing supervision.\n\nWould you let a student know whether independent review exists today, and what your position is?"
+  },
+  {
+    "id": "retention-049",
+    "angle": "retention",
+    "subject": "Did anyone here ever vote on the storage period",
+    "body": "Dear {{officialName}},\n\nA specific procedural question, and I would be grateful for a specific answer. Was the retention period for plate reader data ever put to a vote in {{city}}, or was it inherited from a vendor default that nobody in office selected?\n\nIf it was voted on, the record should be easy to point me toward. Where no vote occurred, a decision affecting nearly every driver near {{shortName}} was made by a configuration file, and I find that genuinely troubling.\n\nEither way my position is the same. I would like the automated plate readers around campus removed, and no new ones installed.\n\nCould you check the record and reply, and tell a student how you would vote if removal came before you?"
+  },
+  {
+    "id": "retention-050",
+    "angle": "retention",
+    "subject": "Pausing collection while these questions stay open",
+    "body": "Dear {{officialName}},\n\nWhen a program cannot answer basic questions about its own records, stopping seems more reasonable to me than collecting while somebody drafts a memo. That is where things stand with the readers around {{shortName}}. Nobody has told the public how long scans live, who queries them, or what would happen if the store were exposed.\n\nCollection continues regardless, which means every day of delay adds permanently to the archive. That is the part I find hard to be patient about.\n\nSo I am asking for the outcome rather than an inquiry. I would like the automated plate readers around campus removed, and no new ones installed while the questions remain open or afterward.\n\nWould you tell a student whether you could support that, and what you have been told about retention?"
+  },
+  {
+    "id": "retention-051",
+    "angle": "retention",
+    "subject": "Claiming deletion is not the same as showing it",
+    "body": "Dear {{officialName}},\n\nThere is a gap between a policy and a practice, and only evidence closes it. The department can state a retention window for the plate scans taken near {{shortName}}, and I have no reason to think anybody is being untruthful, but nobody in {{city}} has been shown a mechanism that would reveal it if the window were quietly ignored.\n\nTrust without verification is fine between friends. As a basis for a database of resident movements, it makes me uneasy.\n\nMy preferred resolution skips the verification problem entirely. I would like the automated plate readers around campus taken out of service, with nothing installed to replace them.\n\nWould you say whether you could back that, and whether the city has any means of confirming deletion happens? I am a student and would welcome a plain answer."
+  },
+  {
+    "id": "retention-052",
+    "angle": "retention",
+    "subject": "Litigation holds could freeze these scans for years",
+    "body": "Dear {{officialName}},\n\nOnce litigation touches a system, deletion stops. A preservation obligation freezes records in place, sometimes for years, and it does not distinguish between the plates that mattered to the case and the rest of the archive gathered around {{shortName}}.\n\nThat means the effective retention period is set by whatever lawsuits happen to arrive, not by any policy {{city}} adopted, and a schedule that any filing can suspend does not feel like much of a safeguard to me.\n\nI would rather see the automated plate readers near campus decommissioned, with no new ones installed in their place.\n\nCan you tell me whether any hold is currently in effect on this data, and where you stand on removal? I am a student, and I would take either answer seriously."
+  },
+  {
+    "id": "retention-053",
+    "angle": "retention",
+    "subject": "Taking a camera down would not empty the database",
+    "body": "Dear {{officialName}},\n\nPeople assume the two things go together, and they do not. If a reader near {{shortName}} were unplugged this afternoon, everything it captured would remain in the archive under whatever rules already govern it, searchable by everyone who could search it yesterday.\n\nI mention this because partial measures get offered as compromises, and a relocated camera would change nothing about the store behind it. That is the outcome I would like to avoid.\n\nWhat I am asking for covers both halves. I would like the automated plate readers around campus removed, no new ones installed, and the deletion of what has already been collected.\n\nWould you reply with your position on each of those, and with whatever the city has been told about existing records? I am a student here and would be grateful."
+  },
+  {
+    "id": "retention-054",
+    "angle": "retention",
+    "subject": "Other systems that connect into the plate archive",
+    "body": "Dear {{officialName}},\n\nModern platforms connect to other platforms. Dispatch systems, records management, analytics tools, regional data hubs. Each connection is another door into the store of scans gathered around {{shortName}}, and each one carries its own logging, its own credentials, and its own idea of how long to keep a copy.\n\nA retention policy written for the main system does not travel across those connections, which is what makes me doubt the policy means much.\n\nI would like {{city}} to enumerate what is connected before anything further is signed. My own position is that the automated plate readers near campus should be pulled and none approved to replace them.\n\nCould you tell a student what integrations exist, and whether you would vote for removal?"
+  },
+  {
+    "id": "retention-055",
+    "angle": "retention",
+    "subject": "I do not think this data can be anonymous",
+    "body": "Dear {{officialName}},\n\nIf anyone offers reassurance that stored scans are anonymized, I would press on the word. A plate number links directly to a registered owner. Attach a location and a time and the record identifies a person as surely as a name would. Nothing about the record around {{shortName}} seems anonymous to me in any useful sense.\n\nAggregate counts can be anonymous. The underlying archive that the {{readersWithinMile}} readers near campus keep feeding is not.\n\nSo I would ask you to treat this as identified personal data and to act accordingly. I would like the cameras around campus taken down, with nothing installed in their place.\n\nWhat is your position, and has the city received any claim of anonymization in writing? I am a student and would like to read it if so."
+  },
+  {
+    "id": "retention-056",
+    "angle": "retention",
+    "subject": "Are matches and non matches kept for the same time",
+    "body": "Dear {{officialName}},\n\nOne reasonable design would keep matches and drop everything else at once. Whether the system covering {{shortName}} works that way is something {{city}} should be able to state in a sentence, and I have not managed to find the sentence.\n\nIf non matches are held for the same period as matches, then the rule was written for convenience rather than necessity, and that distinction seems worth putting to the department directly.\n\nI would go past the distinction to the source. I would like the automated plate readers around campus pulled, with no new ones authorized anywhere near it.\n\nWould you ask how the two categories are treated, and let a student know your own view on removal?"
+  },
+  {
+    "id": "retention-057",
+    "angle": "retention",
+    "subject": "Which law governs the stored campus plate records",
+    "body": "Dear {{officialName}},\n\nJurisdiction stops being an abstraction once data is involved. The scans taken near {{shortName}} may be held under the law of {{state}}, under the law of wherever the servers live, or under the terms of a private agreement that overrides the assumptions of both.\n\nResidents cannot even locate the relevant rule, let alone rely on it, and for a system this intrusive that seems like a poor foundation. It is the thing I would most like clarified.\n\nMy request avoids the tangle entirely. I would like the automated plate readers around campus withdrawn and nothing put in their place.\n\nI would be grateful for a straight answer on which law applies, and for your position on removing the cameras. I am a student, and this is simply my own view."
+  },
+  {
+    "id": "retention-058",
+    "angle": "retention",
+    "subject": "Old accounts that may still reach the records",
+    "body": "Dear {{officialName}},\n\nStaff leave. Accounts often do not. An officer who transfers out frequently keeps working credentials for months, because deprovisioning is nobody's urgent task in most systems I have read about.\n\nApplied to the archive of scans from around {{shortName}}, that means the set of people who can query resident movements may be larger than the set anyone could name, and I find that quietly alarming.\n\nAccess hygiene will never be perfect, so I would rather remove what the access reaches. I would like the plate reader program around campus ended, with nothing approved to replace it.\n\nWould you ask how account removal is handled, and tell me where you stand on ending the program? I am a student, and a short reply would go a long way."
+  },
+  {
+    "id": "retention-059",
+    "angle": "retention",
+    "subject": "Automatic renewal keeps the archive quietly growing",
+    "body": "Dear {{officialName}},\n\nInertia seems to be doing most of the work here. An agreement that renews on its own means the retention practice around {{shortName}} is never revisited, and the archive grows through terms of office without anyone affirmatively choosing it.\n\nDecisions that continue by default are the ones I think most need a deliberate look, and I would like you to force that look.\n\nWhen it comes, I hope you will vote the way I am asking. I would like the automated plate readers near campus taken out of service, and a commitment that no new ones go up in {{city}}.\n\nCould you tell a student when the agreement next comes up, and whether you would support ending it?"
+  },
+  {
+    "id": "retention-060",
+    "angle": "retention",
+    "subject": "What happens to someone who misuses the system",
+    "body": "Dear {{officialName}},\n\nRules without consequences are suggestions, and I cannot tell which of the two applies here. Assume for a moment that someone searched the archive covering {{shortName}} for a personal reason and it came to light. What would happen to that person, and would residents of {{city}} ever learn that it happened?\n\nMy guess is that the answer is internal at every stage, which would make the deterrent invisible to the public it is meant to protect.\n\nA system that cannot show its own enforcement should not be holding this material, in my view. I hope you will work to remove the automated plate readers around campus and to keep new ones from being approved.\n\nA reply setting out your position, and any published discipline policy, would help a student understand this better."
+  },
+  {
+    "id": "retention-061",
+    "angle": "retention",
+    "subject": "An annual report on searches would help residents",
+    "body": "Dear {{officialName}},\n\nIf a program touches this many people, I think it should report to them. A yearly statement covering the number of searches run against the archive around {{shortName}} and the number of outside agencies granted access would let residents of {{city}} judge the thing for themselves.\n\nNothing about that would compromise an investigation. Departments publish aggregate figures on far more sensitive work.\n\nI should add that reporting is not really what I want. My view is that the automated plate readers near campus should be removed with nothing installed to replace them, because that is the only step which reduces the risk rather than describing it.\n\nWould you support either, and could you tell a student which?"
+  },
+  {
+    "id": "retention-062",
+    "angle": "retention",
+    "subject": "Whether the city or the school holds these records",
+    "body": "Dear {{officialName}},\n\nDivided responsibility is how questions go unanswered, and it may be what is happening here. Readers around {{shortName}} may be operated by the municipality or by campus police under an agreement between them, and each arrangement can carry its own retention rule and its own access list.\n\nA resident trying to understand what is stored about them has no way to tell which door to knock on. As a student I have tried, and every office can point toward another.\n\nI would like {{city}} to state clearly which records it controls. Beyond that, my position is that the cameras around campus should come down and that no new ones should go up, whoever owns them.\n\nWould you clarify the arrangement, and tell me where you stand?"
+  },
+  {
+    "id": "retention-063",
+    "angle": "retention",
+    "subject": "Stored movements and people who have fled someone",
+    "body": "Dear {{officialName}},\n\nSome people cannot afford to have their movements written down anywhere. A person who has moved to get away from someone dangerous depends on the absence of a searchable trail, and a stored history of vehicle sightings around {{shortName}} is precisely such a trail waiting for the wrong query or the wrong breach.\n\nThat risk does not require anyone in {{city}} to behave badly. It only requires the record to exist and one person with access to be untrustworthy. Of everything about this program, it is what I think about most.\n\nNo retention schedule answers it fully. Removal does. I am asking you to have the automated plate readers around campus taken out, with none approved in future.\n\nWould you tell a student your position, and whether any protective process exists for people in that situation?"
+  },
+  {
+    "id": "retention-064",
+    "angle": "retention",
+    "subject": "Every week of delay adds permanently to the file",
+    "body": "Dear {{officialName}},\n\nThis is as much about timing as about policy. While the readers around {{shortName}} keep running, the archive keeps growing, and nothing added can be subtracted by a later decision unless somebody specifically orders deletion.\n\nA vote next year would remove the cameras. It would not remove the record of everyone who drove past them in the meantime, and that asymmetry is what makes me want to write now rather than later.\n\nSo I am asking for action rather than review. I would like you to move toward taking the automated plate readers near campus out of service, having the existing data destroyed, and approving no new installations.\n\nCould you reply with your position, and with any timeline the city is working to? I am a student and would appreciate knowing."
+  },
+  {
+    "id": "retention-065",
+    "angle": "retention",
+    "subject": "Having nothing to hide does not protect a database",
+    "body": "Dear {{officialName}},\n\nThe usual reply to privacy worries is that the innocent have nothing to fear. Set aside whether that is true. To me it answers the wrong question, because the risk from stored plate data does not come from what the department intends. It comes from what happens to the archive later, in the hands of whoever eventually reaches it.\n\nA person with nothing to hide still has an address and a daily routine they would rather not see published.\n\nSo I would ask you to weigh the storage rather than the intent. I would like the automated plate readers around campus removed, and I hope no new ones are approved in {{city}}.\n\nWhat is your position, and would you support putting the retention rules in public? I am a student and would read them."
+  },
+  {
+    "id": "retention-066",
+    "angle": "retention",
+    "subject": "Each copy starts its own retention clock",
+    "body": "Dear {{officialName}},\n\nA duplicate is a new record with a new life. When a scan taken near {{shortName}} is copied into a case file, an export, or another agency's system, the original may expire on schedule while the copy persists under different rules for as long as its holder likes.\n\nRetention policy, as usually written, governs only the first instance and says nothing about the descendants. That silence is what I find difficult.\n\nSince the copies cannot be tracked, I would rather stop making originals. I hope you will back the removal of the automated plate readers around campus and turn down authorization for any new ones.\n\nCould you tell a student whether {{city}} tracks downstream copies at all, and what your own position is?"
+  },
+  {
+    "id": "retention-067",
+    "angle": "retention",
+    "subject": "Was the company holding this data ever assessed",
+    "body": "Dear {{officialName}},\n\nDue diligence on a supplier usually covers price and references. When the supplier holds a movement history of residents, I would expect it to cover how that company secures the data and what becomes of the archive if the company fails.\n\nI have found nothing indicating {{city}} carried out that review before the readers around {{shortName}} went live. Perhaps it happened and was never published, which is nearly the same problem from where I sit.\n\nWhatever the answer, the exposure looks avoidable to me. I would like the automated plate readers near campus taken out of service, with nothing installed to replace them.\n\nWould you find out whether an assessment exists, and reply to a student with your position on removal?"
+  },
+  {
+    "id": "retention-068",
+    "angle": "retention",
+    "subject": "There seems to be no way to ask for deletion",
+    "body": "Dear {{officialName}},\n\nHere is a request no resident of {{city}} can currently make. Delete my scans. There is no form, no office, no process, and no obligation on anyone to comply, even though the record concerns a person nobody suspected of anything.\n\nCompare that with almost any commercial database, where at least a request mechanism exists. The public system is the one with no exit, and that inversion is what bothers me.\n\nCampaigning for a deletion form is not really what I want, though. I would rather the collection ended. I hope you will support removing the automated plate readers around campus and approving no new ones.\n\nWould you tell a student whether any removal process exists, and where you stand on the cameras themselves?"
+  },
+  {
+    "id": "retention-069",
+    "angle": "retention",
+    "subject": "Residents carry the risk while the company does not",
+    "body": "Dear {{officialName}},\n\nLook at how the risk is distributed and the arrangement starts to look strange. A company collects revenue and holds the data. {{city}} signs the contract and takes the reputational exposure. Drivers near {{shortName}} supply the records without agreeing to anything, then absorb whatever follows if the archive is misused or exposed.\n\nI doubt that allocation would survive scrutiny in any other procurement, and it is the part I would most like you to look at.\n\nI am asking you to correct it in the only direction I trust. I would like the automated plate readers around campus removed, with no new ones installed.\n\nIf you think the balance is defensible, I would honestly like to hear why. Either way, a student here would value your position on removal."
+  },
+  {
+    "id": "retention-070",
+    "angle": "retention",
+    "subject": "What the agreement says about liability worries me",
+    "body": "Dear {{officialName}},\n\nContract language decides who suffers when something breaks. If the agreement covering the readers around {{shortName}} caps the company's liability at the value of the contract, then its worst case is a refund while the city's worst case has no ceiling.\n\nThat is a normal commercial term and, to me, a poor fit for a database of resident movements.\n\nI would like the clause read aloud in public before any renewal. Better still, I would like the arrangement ended. My request is that the automated plate readers near campus be removed and that nothing be approved to take their place.\n\nCould you tell a student what the liability terms actually say, and whether you would support removal?"
+  },
+  {
+    "id": "retention-071",
+    "angle": "retention",
+    "subject": "Was the storage period simply a product default",
+    "body": "Dear {{officialName}},\n\nSoftware ships with defaults, and defaults become policy when nobody intervenes. My suspicion, and I hold it loosely, is that the storage period applied to scans from the readers near {{shortName}} was chosen by a product team rather than by anyone accountable to residents of {{city}}.\n\nIf I have that wrong, the correction should be easy and I would welcome it. Should I have it right, a decision affecting everyone who drives through the area was made by a company with no stake in the outcome.\n\nEither way I want the same thing. I would like the automated plate readers around campus pulled, with no new ones approved.\n\nWould you find out who set the retention window, and reply to a student with your position on removal?"
+  },
+  {
+    "id": "retention-072",
+    "angle": "retention",
+    "subject": "The city has become the keeper of sensitive data",
+    "body": "Dear {{officialName}},\n\nSigning up for a plate reader program made {{city}} the keeper of a sensitive personal dataset, whether or not the decision was ever framed that way. Duties come with that role. Securing the store, controlling access, responding when something goes wrong, and answering to the people whose lives are recorded in it.\n\nMunicipalities take on that role rarely and deliberately. This one seems to have taken it on as a side effect of buying cameras, and that is what concerns me.\n\nThe cleanest way out is to stop being the holder. I would like the automated plate readers around campus removed, with nothing to replace them.\n\nWould you tell a student whether the city treats these records as it treats other sensitive data, and where you stand on removal?"
+  },
+  {
+    "id": "retention-073",
+    "angle": "retention",
+    "subject": "The archive will outlast everyone who approved it",
+    "body": "Dear {{officialName}},\n\nTerms end. Administrations change. Whatever assurances were given when the readers around {{shortName}} were installed belong to people who may not be in office when the assurances matter, and the archive does not expire alongside them.\n\nSo the practical worry is what the data will be used for by officials nobody has met yet, under rules nobody has written yet.\n\nI would rather not leave that inheritance in place. I hope you will support removing the automated plate readers near campus and blocking new installations in {{city}}.\n\nCould you reply with your position, and with whatever binding retention commitment exists in writing rather than in assurance? I am a student, and written commitments are the only kind I can check."
+  },
+  {
+    "id": "retention-074",
+    "angle": "retention",
+    "subject": "Without an expiry rule the records are permanent",
+    "body": "Dear {{officialName}},\n\nSilence about deletion amounts to a decision to keep things forever. If no rule specifies when scans from around {{shortName}} are destroyed, then permanence is the default, and I doubt anyone in {{city}} would defend permanence if it were stated plainly.\n\nSo I would like it stated plainly. Would you ask the department to name the expiry rule in writing, or to confirm that none exists?\n\nAfter that, I would like the readers gone. My request is that the automated plate readers around campus be removed and that none be installed in their place.\n\nWill you put the question to the department and tell a student both the answer and your own position?"
+  },
+  {
+    "id": "retention-075",
+    "angle": "retention",
+    "subject": "What survives when the system is upgraded",
+    "body": "Dear {{officialName}},\n\nUpgrades are where records quietly persist. When a platform is migrated, the old database is usually kept for a while in case the transfer went wrong, and that copy is rarely covered by the retention rule applied to the live system.\n\nApplied to the scans collected around {{shortName}}, it means the archive may have older layers than anyone in {{city}} realizes.\n\nI cannot verify any of this from outside, which is part of what I am trying to say. A student has no way in. I hope you will support taking the automated plate readers near campus out of service and approving no new ones.\n\nWould you ask whether legacy copies exist, and let me know your position on removal?"
+  },
+  {
+    "id": "retention-076",
+    "angle": "retention",
+    "subject": "Can you actually look inside this system yourself",
+    "body": "Dear {{officialName}},\n\nOversight requires the ability to look, so I would like to know what you can see. Can {{role}} examine what the plate reader system holds and who has searched it, or does that require the cooperation of the department being overseen?\n\nIf it is the second, then the oversight is nominal, and residents of {{city}} are relying on a check that does not function. That possibility is what worries me most about the whole arrangement.\n\nTesting it would be worth doing, and reporting the result worth more. Past that lies the outcome I actually want, which is removal of the automated plate readers around campus with no new ones installed.\n\nCould you tell a student what access you have, and whether you would support removal?"
+  },
+  {
+    "id": "retention-077",
+    "angle": "retention",
+    "subject": "Keeping only what is necessary, and showing why",
+    "body": "Dear {{officialName}},\n\nNecessity is the standard I would want to govern this, and it is testable. For each category of record the readers near {{shortName}} produce, somebody should be able to state what it is needed for and how long that need lasts. Anything failing the test should not be stored.\n\nMy expectation is that most of what is retained could not pass, because it was never evaluated in those terms. I would be pleased to be shown otherwise.\n\nRather than run the exercise, though, I would end the collection. I hope you will back the removal of the automated plate readers around campus and oppose any new installations.\n\nWould you ask for a necessity justification, and tell a student where you stand?"
+  },
+  {
+    "id": "retention-078",
+    "angle": "retention",
+    "subject": "Terms that can change without the city being told",
+    "body": "Dear {{officialName}},\n\nPrivate terms can shift underneath a public contract. If the arrangement covering the readers around {{shortName}} incorporates a company's standard terms by reference, then that company can alter how data is handled by publishing a new version, and {{city}} may learn about it afterward or not at all.\n\nThat is ordinary commercial practice, and it seems to me an extraordinary thing to accept for a database of resident movements.\n\nI would like the incorporation clause examined. More than that, I would like the automated plate readers near campus removed with no new ones approved.\n\nWhat is your position, and could you find out whether the terms are incorporated by reference? I am a student and would be glad of a short answer."
+  },
+  {
+    "id": "retention-079",
+    "angle": "retention",
+    "subject": "Does deletion reach what was built from the scans",
+    "body": "Dear {{officialName}},\n\nModels remember what the data taught them. If the platform holding scans from around {{shortName}} builds travel profiles or vehicle fingerprints on top of them, deleting the underlying reads may leave those derived products fully intact.\n\nA retention policy silent on that point protects the raw material while releasing the conclusions, which strikes me as the wrong way round.\n\nI would like {{city}} to ask directly whether deletion reaches derived data. And I would like the question rendered pointless by removing the automated plate readers around campus and installing none in their place.\n\nCould you put that to the department and reply with both the answer and your own view on removal? I am a student and would follow up politely if that helps."
+  },
+  {
+    "id": "retention-080",
+    "angle": "retention",
+    "subject": "A written answer on storage before the budget vote",
+    "body": "Dear {{officialName}},\n\nTiming matters for this one. Before the next budget cycle commits money to the plate reader program, I would like the public to have a written statement of how long scans taken near {{shortName}} are held and who can search them. A verbal reassurance during a meeting cannot be checked afterward.\n\nFunding a system whose retention practice has never been documented seems like an odd sequence of events to me.\n\nMy own position, for the record, is that no amount should be committed at all. I would like the automated plate readers around campus removed, and no new ones installed.\n\nWould you request the written statement, and tell a student how you intend to vote?"
+  },
+  {
+    "id": "retention-081",
+    "angle": "retention",
+    "subject": "Queries from outside {{state}} against local scans",
+    "body": "Dear {{officialName}},\n\nA searchable archive does not respect state lines. If agencies elsewhere can run queries against scans collected near {{shortName}}, then conduct that is lawful here could be investigated from a place where it is not, using records {{city}} paid to create.\n\nNothing in that sentence is a claim that it has happened. The plumbing simply allows it, and constraining what plumbing allows is what a policy is for. The possibility is what keeps my attention on this.\n\nSince the plumbing is hard to police, I would rather the source were removed. I hope you will support taking the automated plate readers around campus out of service and approving none to replace them.\n\nWould you tell a student whether out of state access is possible under the current arrangement, and what your position on removal is?"
+  },
+  {
+    "id": "retention-082",
+    "angle": "retention",
+    "subject": "Storage time matters more than the camera count",
+    "body": "Dear {{officialName}},\n\nSet the argument about cameras aside for a moment. What determines how invasive this program is, more than the count or the placement of the equipment, is how long the output survives. Reads discarded at once amount to a checkpoint. Storage without end turns the same equipment into a surveillance archive.\n\nThe {{readersWithinMile}} readers near {{shortName}} are the visible part. Storage behind them is the part that matters, and the part I never hear discussed in {{city}}.\n\nMy conclusion is that the dial should be turned to zero. I would like the automated plate readers around campus removed, with no new ones installed.\n\nWhere do you come down, and what is the current storage period? I am a student and would be grateful to know both."
+  },
+  {
+    "id": "retention-083",
+    "angle": "retention",
+    "subject": "Which body oversees this data in {{city}}",
+    "body": "Dear {{officialName}},\n\nA plain organizational question. Which body has responsibility for overseeing how plate reader records are stored and searched here, and when did it last meet on the subject?\n\nIf the answer is that no such body exists, then the program has been running without supervision, and the growth of the archive around {{shortName}} has never been examined by anyone with authority to stop it. That would trouble me more than any single detail of the policy.\n\nCreating an oversight structure would take months. Removing the cameras would take less. I am asking you to support removal of the automated plate readers around campus and to oppose new installations.\n\nCould you name the responsible body, or confirm there is none, and give a student your position?"
+  },
+  {
+    "id": "retention-084",
+    "angle": "retention",
+    "subject": "A map of where these scans travel would help",
+    "body": "Dear {{officialName}},\n\nI would like to see a diagram. An actual map showing where scans from around {{shortName}} are stored and which parties can reach each copy would tell you more than any paragraph of description. Any competent operator already has one, and if none exists, that absence is itself the finding.\n\nResidents of {{city}} are being asked to trust a system nobody has drawn, and as a student I have no way to draw it myself.\n\nSo I would like the map produced and published, and I would like something more besides. The automated plate readers near campus should be removed, and no new ones should be installed.\n\nWill you request the documentation, and tell me where you stand on removal?"
+  },
+  {
+    "id": "retention-085",
+    "angle": "retention",
+    "subject": "Subcontractors who may reach the stored scans",
+    "body": "Dear {{officialName}},\n\nThe company on the contract is rarely the only company involved. Cloud hosting, managed security, offshore support, analytics partners. Each of those may touch the archive of scans collected around {{shortName}} without ever appearing in a document anyone in {{city}} has read.\n\nA retention promise made by the vendor binds the vendor. Whether it binds a subcontractor depends on paperwork nobody has shown the public, and that uncertainty is what I am writing about.\n\nI would rather not chase the chain at all. I hope you will support removing the automated plate readers around campus and approving no new ones.\n\nCould you find out whether subcontractors are disclosed under the agreement, and tell a student your position?"
+  },
+  {
+    "id": "retention-086",
+    "angle": "retention",
+    "subject": "Cheap storage makes old scans easy to keep",
+    "body": "Dear {{officialName}},\n\nCheap storage changes behavior. When keeping data costs almost nothing, organizations keep it, and archived copies of old scans from the readers near {{shortName}} may sit in low cost storage long after the working system has moved on.\n\nThe economics push in one direction, and only an enforced rule pushes back. I have not seen evidence of such a rule in {{city}}, and I would be relieved to be shown one.\n\nSo I am asking for the measure that does not depend on anyone resisting the economics. I would like the automated plate readers around campus removed, with none installed afterward.\n\nWould you ask whether archived copies exist, and reply to a student with your own position?"
+  },
+  {
+    "id": "retention-087",
+    "angle": "retention",
+    "subject": "What the public was told against what was signed",
+    "body": "Dear {{officialName}},\n\nCompare two documents and you learn a great deal. There is what was said publicly when the readers around {{shortName}} were proposed, and there is what the signed agreement actually requires about storage and access. Nobody in {{city}} has put them side by side in front of residents.\n\nIf they match, publishing both costs nothing and settles the argument. Should they differ, I imagine you would want to know before the next vote.\n\nMy position does not depend on the comparison. I would like the automated plate readers near campus removed, with no new ones going up.\n\nWould you release both documents, and tell a student how you would vote?"
+  },
+  {
+    "id": "retention-088",
+    "angle": "retention",
+    "subject": "Funding a system you may not be able to inspect",
+    "body": "Dear {{officialName}},\n\nBudget authority is not the same as operational knowledge, and that gap seems to be where this program lives. {{role}} approves the money for the readers around {{shortName}} while the retention rules and the access list are set elsewhere and reported to nobody.\n\nBeing asked to fund a system you cannot inspect looks like an uncomfortable position, and it is the one I would like you to push back on.\n\nYou can close the gap by ending the appropriation. I am asking you to support removing the automated plate readers around campus and to approve no new installations.\n\nWould you tell a student what information you currently receive about this system, and whether you would back removal?"
+  },
+  {
+    "id": "retention-089",
+    "angle": "retention",
+    "subject": "Asking the storage question on the record",
+    "body": "Dear {{officialName}},\n\nOne question, asked on the record, would clarify more than any amount of correspondence. How long are plate scans from around {{shortName}} kept, and who may search them during that period?\n\nStaff have answered variations of this in general terms, as far as I can tell, and general terms are what let the practice stay unexamined. A written answer entered into the minutes would be much harder to revise later.\n\nI want the answer, and I would also like the program ended. I would like the automated plate readers around campus removed, with no new ones installed in {{city}}.\n\nWould you put the question formally, and let a student know your own view?"
+  },
+  {
+    "id": "retention-090",
+    "angle": "retention",
+    "subject": "What does as long as necessary actually mean here",
+    "body": "Dear {{officialName}},\n\nWatch for the phrase that does no work. Retention policies frequently say data is kept as long as necessary, which sounds responsible and commits to nothing, because necessity gets judged by the same people who want the data.\n\nIf that language governs the scans taken near {{shortName}}, then there is no limit at all, only a word standing where a limit should be. Residents of {{city}} deserve a period they can hold somebody to.\n\nBetter yet, I think they deserve not to be in the file. I hope you will support removal of the automated plate readers around campus, with no new ones approved.\n\nCould you tell a student what the policy language is, and where you stand?"
+  },
+  {
+    "id": "retention-091",
+    "angle": "retention",
+    "subject": "What a leaked movement history would let someone do",
+    "body": "Dear {{officialName}},\n\nThink about what a leaked location history enables rather than what it reveals. Which car belongs to which address. When a house is reliably empty. The route a person takes at the same hour on a weekday. That is operational information for anyone with bad intentions, and it comes out of the archive the readers near {{shortName}} keep filling.\n\nResidents of {{city}} would carry those consequences personally while the institutions involved carry a press statement. That imbalance is what I find hardest.\n\nI would like the exposure ended rather than managed. My request is that the automated plate readers around campus be removed and that no new ones be approved.\n\nCould you reply with your position, and with whatever the city has been promised about protecting this data? I am a student and would read it closely."
+  },
+  {
+    "id": "retention-092",
+    "angle": "retention",
+    "subject": "Nobody was asked to be in this database",
+    "body": "Dear {{officialName}},\n\nConsent is missing from every part of this, and that absence is what I keep returning to. A person driving near {{shortName}} is not asked, cannot decline, and has no way to learn afterward that a record was made. The only choice available is to avoid the roads, which is not really a choice.\n\nA commercial database built that way would face a serious legal problem. For a public one, it seems to be the design.\n\nWhere consent is impossible, collecting less feels like the responsible move. I am asking you to support removing the automated plate readers around campus and installing none in their place.\n\nWould you tell a student your position, and whether {{city}} has ever published what it collects and keeps?"
+  },
+  {
+    "id": "retention-093",
+    "angle": "retention",
+    "subject": "How the archive could be used in an emergency",
+    "body": "Dear {{officialName}},\n\nExceptions get written during calm periods and used during difficult ones. If the plate archive covering {{shortName}} can be searched more broadly during a declared emergency, then the retention question becomes urgent, because everything stored is available under whatever rules apply on the worst day.\n\nA database built for ordinary policing turns into something else under pressure, and the material that makes that possible is the material already saved. That sequence is what worries me.\n\nSo the safeguard I trust is the empty shelf. I hope you will back removing the automated plate readers around campus and turning down any new installations in {{city}}.\n\nWhat is your position, and are there emergency provisions in the current policy? I am a student and would like to read them if there are."
+  },
+  {
+    "id": "retention-094",
+    "angle": "retention",
+    "subject": "One careless account could expose the whole archive",
+    "body": "Dear {{officialName}},\n\nSecurity is decided by the weakest participant rather than the average one. Every person with credentials to the plate reader system covering {{shortName}} is a possible route in, through a reused password or a convincing message on a bad morning. The archive cannot tell an intruder from a legitimate session.\n\nThis is not a criticism of any individual in {{city}}. It is arithmetic, and it gets worse as the number of accounts grows, which is why I wanted to raise it with you.\n\nRemoving the data removes the prize. I would like the automated plate readers around campus taken out of service, with none installed afterward.\n\nWould you tell a student how many people hold access, and whether you would support removal?"
+  },
+  {
+    "id": "retention-095",
+    "angle": "retention",
+    "subject": "Putting the storage limit into the contract itself",
+    "body": "Dear {{officialName}},\n\nA policy on a web page can be edited on a quiet afternoon. Terms in a signed agreement cannot. If {{city}} means to hold the vendor to any storage limit for scans taken near {{shortName}}, I think that limit belongs in the contract with a remedy attached, rather than in a document the company controls.\n\nAnything weaker reads to me as a preference dressed up as a rule.\n\nMy own preference is stronger still. I would like the automated plate readers around campus taken out of service, with nothing approved to replace them.\n\nWould you check whether the retention limit appears in the agreement, and reply to a student with your position on removal?"
+  },
+  {
+    "id": "retention-096",
+    "angle": "retention",
+    "subject": "Getting the data back if the city walks away",
+    "body": "Dear {{officialName}},\n\nExit terms decide who holds the leverage. Should {{city}} choose not to renew, is there a defined process for retrieving or destroying the scans gathered around {{shortName}}, and does the city have any way to enforce it against a company that would rather keep the archive?\n\nWithout that, non renewal would end the service while leaving the record in private hands indefinitely, which is the outcome I would least like to see.\n\nThe cleanest version ends both at once. I am asking you to support removing the automated plate readers around campus with no new ones approved, and to require written confirmation that the existing data has been destroyed.\n\nCould you tell a student what the exit provisions say, and where you stand?"
+  },
+  {
+    "id": "retention-097",
+    "angle": "retention",
+    "subject": "The stored scans look like a standing liability",
+    "body": "Dear {{officialName}},\n\nTreat this as a risk question and it gets simpler. The archive of plate reads near {{shortName}} is an asset to nobody and an exposure to the city every day it exists. It generates obligations without generating revenue, and its worst case is far larger than its best case.\n\nAny other municipal holding with that profile would be wound down on advice from counsel, which is why I find its continuation puzzling rather than sinister.\n\nI am asking for the same treatment here. I would like the automated plate readers around campus removed and no new ones installed, and then the exposure goes to nothing.\n\nWould you raise this as a liability question and let a student know your view?"
+  },
+  {
+    "id": "retention-098",
+    "angle": "retention",
+    "subject": "Would you support a public session on storage",
+    "body": "Dear {{officialName}},\n\nThis seems to deserve a session of its own rather than a line item buried in a longer agenda. Storage periods, access lists, audit practice, and destruction procedures for the records gathered around {{shortName}} are all matters residents of {{city}} could reasonably weigh in on, and none of them has been aired.\n\nA hearing would surface things a letter from a student cannot.\n\nI will state my position now so it is not a surprise later. I would like the automated plate readers around campus removed, and no new ones approved anywhere near it.\n\nWould you support scheduling such a session, and would you tell me how you would vote on removal?"
+  },
+  {
+    "id": "retention-099",
+    "angle": "retention",
+    "subject": "Two questions about the plate reader archive",
+    "body": "Dear {{officialName}},\n\nTwo questions, and I will keep them short.\n\nFirst, how long are the scans collected around {{shortName}} retained, and is that period set by {{city}} or by the company operating the system? Second, is every search of that archive logged in a way that someone outside the department can review?\n\nI have not been able to answer either from public sources, which seems like a problem for a program funded with public money, and it is why a student is writing to you about it.\n\nMy position does not depend on the answers. I would like the automated plate readers around campus taken out, with none installed in their place.\n\nA reply on the two questions and on your own position would be genuinely useful to me."
+  },
+  {
+    "id": "retention-100",
+    "angle": "retention",
+    "subject": "Removal would settle every question about storage",
+    "body": "Dear {{officialName}},\n\nEvery difficult question about this program dissolves at the same point. How long records are kept, who may search them, what happens when the company is acquired, who answers if the store is breached. All of it becomes moot the moment the collection stops.\n\nThat is the unusual feature of surveillance data, at least as I understand it. The problems are not weighed against the benefits so much as created by the decision to retain.\n\nWith {{readersInState}} readers now operating across {{state}}, the accumulation is not slowing on its own. I hope you will support removing the automated plate readers around campus and approving no new ones in {{city}}.\n\nI would like to know your position, and as one student I will take a clear no as a real answer."
+  }
+]

@@ -1,0 +1,1267 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Mariannette Miller-Meeks",
+    "party": "Republican",
+    "phone": "202-225-6576",
+    "url": "https://millermeeks.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Ashley Hinson",
+    "party": "Republican",
+    "phone": "202-225-2911",
+    "url": "https://hinson.house.gov"
+   }
+  ],
+  "3": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Zachary (Zach) Nunn",
+    "party": "Republican",
+    "phone": "202-225-5476",
+    "url": "https://nunn.house.gov"
+   }
+  ],
+  "4": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Randy Feenstra",
+    "party": "Republican",
+    "phone": "202-225-4426",
+    "url": "https://feenstra.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.grassley.senate.gov/contact",
+   "email": null,
+   "name": "Charles Grassley",
+   "party": "Republican",
+   "phone": "202-224-3744",
+   "url": "https://www.grassley.senate.gov"
+  },
+  {
+   "contactForm": "https://www.ernst.senate.gov/public/index.cfm/contact",
+   "email": null,
+   "name": "Joni Ernst",
+   "party": "Republican",
+   "phone": "202-224-3254",
+   "url": "https://www.ernst.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "j.d.scholten@legis.iowa.gov",
+    "name": "J.D. Scholten",
+    "party": "Democratic",
+    "url": "https://eepurl.com/ihfkwH"
+   }
+  ],
+  "10": [
+   {
+    "email": "john.wills@legis.iowa.gov",
+    "name": "John Wills",
+    "party": "Republican",
+    "url": "https://iowahouserepublicans.nationbuilder.com/reps"
+   }
+  ],
+  "100": [
+   {
+    "email": "blaine.watkins@legis.iowa.gov",
+    "name": "Blaine Watkins",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=28966"
+   }
+  ],
+  "11": [
+   {
+    "email": "craig.williams@legis.iowa.gov",
+    "name": "Craig Williams",
+    "party": "Republican",
+    "url": "https://www.iowasenaterepublicans.com/senators/craig-williams/"
+   }
+  ],
+  "12": [
+   {
+    "email": "steven.holt@legis.iowa.gov",
+    "name": "Steven Holt",
+    "party": "Republican",
+    "url": "https://iowahouserepublicans.nationbuilder.com/reps"
+   }
+  ],
+  "13": [
+   {
+    "email": "travis.sitzmann@legis.iowa.gov",
+    "name": "Travis Sitzmann",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37378"
+   }
+  ],
+  "14": [
+   {
+    "email": "jacob.bossman@legis.iowa.gov",
+    "name": "Jacob Bossman",
+    "party": "Republican",
+    "url": "https://iowahouserepublicans.nationbuilder.com/reps"
+   }
+  ],
+  "15": [
+   {
+    "email": "matt.windschitl@legis.iowa.gov",
+    "name": "Matt Windschitl",
+    "party": "Republican",
+    "url": "https://iowahouserepublicans.nationbuilder.com/admin/sites/2/pages/30/preview?browser_id=default&logged_in=0&theme_id=5cf7e407c294800185b6c2c2"
+   }
+  ],
+  "16": [
+   {
+    "email": "david.sieck@legis.iowa.gov",
+    "name": "David Sieck",
+    "party": "Republican",
+    "url": "https://iowahouserepublicans.nationbuilder.com/reps"
+   }
+  ],
+  "17": [
+   {
+    "email": "devon.wood@legis.iowa.gov",
+    "name": "Devon Wood",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33968&ga=90"
+   }
+  ],
+  "18": [
+   {
+    "email": "tom.moore@legis.iowa.gov",
+    "name": "Tom Moore",
+    "party": "Republican",
+    "url": "https://iowahouserepublicans.nationbuilder.com/reps"
+   }
+  ],
+  "19": [
+   {
+    "email": "brent.siegrist@legis.iowa.gov",
+    "name": "Brent Siegrist",
+    "party": "Republican",
+    "url": "https://iowahouserepublicans.nationbuilder.com/reps"
+   }
+  ],
+  "2": [
+   {
+    "email": "robert.henderson@legis.iowa.gov",
+    "name": "Bob Henderson",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33964&ga=90"
+   }
+  ],
+  "20": [
+   {
+    "email": "josh.turek@legis.iowa.gov",
+    "name": "Josh Turek",
+    "party": "Democratic",
+    "url": "https://eepurl.com/ihe76n"
+   }
+  ],
+  "21": [
+   {
+    "email": "brooke.boden@legis.iowa.gov",
+    "name": "Brooke Boden",
+    "party": "Republican",
+    "url": "https://brookeforiowa.us7.list-manage.com/subscribe?u=2729c18ae239c6270f597da67&id=dbd3dab3ff"
+   }
+  ],
+  "22": [
+   {
+    "email": "samantha.fett@legis.iowa.gov",
+    "name": "Samantha Fett",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37379"
+   }
+  ],
+  "23": [
+   {
+    "email": "ray.sorensen@legis.iowa.gov",
+    "name": "Bubba Sorensen",
+    "party": "Republican",
+    "url": "https://iowa.us20.list-manage.com/subscribe?u=bf8ea8a70bdafa528d6feb893&id=cf761d2cb3"
+   }
+  ],
+  "24": [
+   {
+    "email": "sam.wengryn@legis.iowa.gov",
+    "name": "Sam Wengryn",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37380"
+   }
+  ],
+  "25": [
+   {
+    "email": "hans.wilz@legis.iowa.gov",
+    "name": "Hans Wilz",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33970&ga=90"
+   }
+  ],
+  "26": [
+   {
+    "email": "austin.harris@legis.iowa.gov",
+    "name": "Austin Harris",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33971&ga=90"
+   }
+  ],
+  "27": [
+   {
+    "email": "kenan.judge@legis.iowa.gov",
+    "name": "Kenan Judge",
+    "party": "Democratic",
+    "url": "https://eepurl.com/gXSavj"
+   }
+  ],
+  "28": [
+   {
+    "email": "david.young@legis.iowa.gov",
+    "name": "David Young",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33972&ga=90"
+   }
+  ],
+  "29": [
+   {
+    "email": "brian.meyer@legis.iowa.gov",
+    "name": "Brian Meyer",
+    "party": "Democratic",
+    "url": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=6377&ga=89"
+   }
+  ],
+  "3": [
+   {
+    "email": "tom.jeneary@legis.iowa.gov",
+    "name": "Tom Jeneary",
+    "party": "Republican",
+    "url": "https://iowahouserepublicans.nationbuilder.com/reps"
+   }
+  ],
+  "30": [
+   {
+    "email": "megan.srinivas@legis.iowa.gov",
+    "name": "Megan Srinivas",
+    "party": "Democratic",
+    "url": "https://eepurl.com/ihe76f"
+   }
+  ],
+  "31": [
+   {
+    "email": "mary.madison@legis.iowa.gov",
+    "name": "Mary Madison",
+    "party": "Democratic",
+    "url": "https://eepurl.com/ihfkwv"
+   }
+  ],
+  "32": [
+   {
+    "email": "jennifer.konfrst@legis.iowa.gov",
+    "name": "Jennifer Konfrst",
+    "party": "Democratic",
+    "url": "https://eepurl.com/gXUjrH"
+   }
+  ],
+  "33": [
+   {
+    "email": "ruth.ann.gaines@legis.iowa.gov",
+    "name": "Ruth Ann Gaines",
+    "party": "Democratic",
+    "url": "https://eepurl.com/gXMYEr"
+   }
+  ],
+  "34": [
+   {
+    "email": "rob.johnson@legis.iowa.gov",
+    "name": "Rob Johnson",
+    "party": "Democratic",
+    "url": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37381"
+   }
+  ],
+  "35": [
+   {
+    "email": "sean.bagniewski@legis.iowa.gov",
+    "name": "Sean Bagniewski",
+    "party": "Democratic",
+    "url": "https://eepurl.com/ihfkvX"
+   }
+  ],
+  "36": [
+   {
+    "email": "austin.baeth@legis.iowa.gov",
+    "name": "Austin Baeth",
+    "party": "Democratic",
+    "url": "https://eepurl.com/ihfkvT"
+   }
+  ],
+  "37": [
+   {
+    "email": "barb.kniffmcculla@legis.iowa.gov",
+    "name": "Barb Kniff McCulla",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33977&ga=90"
+   }
+  ],
+  "38": [
+   {
+    "email": "jon.dunwell@legis.iowa.gov",
+    "name": "Jon Dunwell",
+    "party": "Republican",
+    "url": "https://iowahouserepublicans.nationbuilder.com/reps"
+   }
+  ],
+  "39": [
+   {
+    "email": "rick.olson@legis.iowa.gov",
+    "name": "Rick Olson",
+    "party": "Democratic",
+    "url": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=776&ga=89"
+   }
+  ],
+  "4": [
+   {
+    "email": "skyler.wheeler@legis.iowa.gov",
+    "name": "Skyler Wheeler",
+    "party": "Republican",
+    "url": "https://iowahouserepublicans.nationbuilder.com/reps"
+   }
+  ],
+  "40": [
+   {
+    "email": "bill.gustoff@legis.iowa.gov",
+    "name": "Bill Gustoff",
+    "party": "Republican",
+    "url": "https://eepurl.com/h6jOxr"
+   }
+  ],
+  "41": [
+   {
+    "email": "ryan.weldon@legis.iowa.gov",
+    "name": "Ryan Weldon",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37382"
+   }
+  ],
+  "42": [
+   {
+    "email": "heather.matson@legis.iowa.gov",
+    "name": "Heather Matson",
+    "party": "Democratic",
+    "url": "https://eepurl.com/ihfkwz"
+   }
+  ],
+  "43": [
+   {
+    "email": "eddie.andrews@legis.iowa.gov",
+    "name": "Eddie Andrews",
+    "party": "Republican",
+    "url": "https://iowahouserepublicans.nationbuilder.com/reps"
+   }
+  ],
+  "44": [
+   {
+    "email": "larry.mcburney@legis.iowa.gov",
+    "name": "Larry McBurney",
+    "party": "Democratic",
+    "url": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37383"
+   }
+  ],
+  "45": [
+   {
+    "email": "brian.lohse@legis.iowa.gov",
+    "name": "Brian Lohse",
+    "party": "Republican",
+    "url": "https://gop.us20.list-manage.com/subscribe?u=871f3d222fc2ae8e3dd8b683a&id=5f02846a39"
+   }
+  ],
+  "46": [
+   {
+    "email": "dan.gehlbach@legis.iowa.gov",
+    "name": "Dan Gehlbach",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33980&ga=90"
+   }
+  ],
+  "47": [
+   {
+    "email": "carter.nordman@legis.iowa.gov",
+    "name": "Carter Nordman",
+    "party": "Republican",
+    "url": "https://iowahouserepublicans.nationbuilder.com/reps"
+   }
+  ],
+  "48": [
+   {
+    "email": "chad.behn@legis.iowa.gov",
+    "name": "Chad Behn",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37384"
+   }
+  ],
+  "49": [
+   {
+    "email": "beth.wessel-kroeschell@legis.iowa.gov",
+    "name": "Beth Wessel-Kroeschell",
+    "party": "Democratic",
+    "url": "https://eepurl.com/gXNo2T"
+   }
+  ],
+  "5": [
+   {
+    "email": "zachary.dieken@legis.iowa.gov",
+    "name": "Zach Dieken",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33965&ga=90"
+   }
+  ],
+  "50": [
+   {
+    "email": "ross.wilburn@legis.iowa.gov",
+    "name": "Ross Wilburn",
+    "party": "Democratic",
+    "url": "https://eepurl.com/gXMQCb"
+   }
+  ],
+  "51": [
+   {
+    "email": "brett.barker@legis.iowa.gov",
+    "name": "Brett Barker",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37386"
+   }
+  ],
+  "52": [
+   {
+    "email": "david.blom@legis.iowa.gov",
+    "name": "David Blom",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=25125"
+   }
+  ],
+  "53": [
+   {
+    "email": "dean.fisher@legis.iowa.gov",
+    "name": "Dean Fisher",
+    "party": "Republican",
+    "url": "https://www.deanfisher.com"
+   }
+  ],
+  "54": [
+   {
+    "email": "joshua.meggers@legis.iowa.gov",
+    "name": "Josh Meggers",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33981&ga=90"
+   }
+  ],
+  "55": [
+   {
+    "email": "shannon.latham@legis.iowa.gov",
+    "name": "Shannon Latham",
+    "party": "Republican",
+    "url": "https://iowahouserepublicans.nationbuilder.com/reps"
+   }
+  ],
+  "56": [
+   {
+    "email": "mark.thompson@legis.iowa.gov",
+    "name": "Mark Thompson",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33982&ga=90"
+   }
+  ],
+  "57": [
+   {
+    "email": "pat.grassley@legis.iowa.gov",
+    "name": "Pat Grassley",
+    "party": "Republican",
+    "url": "https://iowahouserepublicans.com/members/pat-grassley"
+   }
+  ],
+  "58": [
+   {
+    "email": "charley.thomson@legis.iowa.gov",
+    "name": "Charley Thomson",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33983&ga=90"
+   }
+  ],
+  "59": [
+   {
+    "email": "christian.hermanson@legis.iowa.gov",
+    "name": "Christian Hermanson",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37387"
+   }
+  ],
+  "6": [
+   {
+    "email": "megan.jones@legis.iowa.gov",
+    "name": "Megan Jones",
+    "party": "Republican",
+    "url": "https://www.jonesforiowa.com"
+   }
+  ],
+  "60": [
+   {
+    "email": "jane.bloomingdale@legis.iowa.gov",
+    "name": "Jane Bloomingdale",
+    "party": "Republican",
+    "url": "https://iowahouserepublicans.nationbuilder.com/reps"
+   }
+  ],
+  "61": [
+   {
+    "email": "timi.brown-powers@legis.iowa.gov",
+    "name": "Timi Brown-Powers",
+    "party": "Democratic",
+    "url": "https://eepurl.com/gXSzO1"
+   }
+  ],
+  "62": [
+   {
+    "email": "jerome.amosjr@legis.iowa.gov",
+    "name": "Jerome Amos",
+    "party": "Democratic",
+    "url": "https://eepurl.com/ihfkvP"
+   }
+  ],
+  "63": [
+   {
+    "email": "michael.bergan@legis.iowa.gov",
+    "name": "Michael Bergan",
+    "party": "Republican",
+    "url": "https://iowa.us4.list-manage.com/subscribe?u=cda8d4cec739450efbb093a0a&id=09e9bff453"
+   }
+  ],
+  "64": [
+   {
+    "email": "jason.gearhart@legis.iowa.gov",
+    "name": "Jason Gearhart",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37388"
+   }
+  ],
+  "65": [
+   {
+    "email": "shannon.lundgren@legis.iowa.gov",
+    "name": "Shannon Lundgren",
+    "party": "Republican",
+    "url": "https://facebook.us14.list-manage.com/subscribe?u=2aece3f2f1c3b4cc01a0cc692&id=8fc149e435"
+   }
+  ],
+  "66": [
+   {
+    "email": "steven.bradley@legis.iowa.gov",
+    "name": "Steve Bradley",
+    "party": "Republican",
+    "url": "https://iowahouserepublicans.nationbuilder.com/reps"
+   }
+  ],
+  "67": [
+   {
+    "email": "craig.johnson@legis.iowa.gov",
+    "name": "Craig Johnson",
+    "party": "Republican",
+    "url": "https://eepurl.com/gSVn0f"
+   }
+  ],
+  "68": [
+   {
+    "email": "chad.ingels@legis.iowa.gov",
+    "name": "Chad Ingels",
+    "party": "Republican",
+    "url": "https://iowa.us7.list-manage.com/subscribe?u=2ab7b475cd3c7661510125056&id=4b2e51f33d"
+   }
+  ],
+  "69": [
+   {
+    "email": "tom.determann@legis.iowa.gov",
+    "name": "Tom Determann",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33984&ga=90"
+   }
+  ],
+  "7": [
+   {
+    "email": "wendy.larson@legis.iowa.gov",
+    "name": "Wendy Larson",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator?personID=39538"
+   }
+  ],
+  "70": [
+   {
+    "email": "norlin.mommsen@legis.iowa.gov",
+    "name": "Norlin Mommsen",
+    "party": "Republican",
+    "url": "https://iowahouserepublicans.nationbuilder.com/reps"
+   }
+  ],
+  "71": [
+   {
+    "email": "lindsay.james@legis.iowa.gov",
+    "name": "Lindsay James",
+    "party": "Democratic",
+    "url": "https://eepurl.com/gXSDkT"
+   }
+  ],
+  "72": [
+   {
+    "email": "jennifer.smith@legis.iowa.gov",
+    "name": "Jennifer Smith",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37389"
+   }
+  ],
+  "73": [
+   {
+    "email": "elizabeth.wilson@legis.iowa.gov",
+    "name": "Elizabeth Wilson",
+    "party": "Democratic",
+    "url": "https://eepurl.com/ihOgIP"
+   }
+  ],
+  "74": [
+   {
+    "email": "eric.gjerde@legis.iowa.gov",
+    "name": "Eric Gjerde",
+    "party": "Democratic",
+    "url": "https://eepurl.com/hn8I8P"
+   }
+  ],
+  "75": [
+   {
+    "email": "bob.kressig@legis.iowa.gov",
+    "name": "Bob Kressig",
+    "party": "Democratic",
+    "url": "https://iowa.us19.list-manage.com/subscribe?u=9f68e4c04f9646e4baeec6d78&id=77ff2ca7e5"
+   }
+  ],
+  "76": [
+   {
+    "email": "derek.wulf@legis.iowa.gov",
+    "name": "Derek Wulf",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33986&ga=90"
+   }
+  ],
+  "77": [
+   {
+    "email": "jeff.cooling@legis.iowa.gov",
+    "name": "Jeff Cooling",
+    "party": "Democratic",
+    "url": "https://eepurl.com/ihfkv5"
+   }
+  ],
+  "78": [
+   {
+    "email": "angel.ramirez@legis.iowa.gov",
+    "name": "Angel Ramirez",
+    "party": "Democratic",
+    "url": "https://www.legis.iowa.gov/legislators/legislator?personID=6145"
+   }
+  ],
+  "79": [
+   {
+    "email": "tracy.ehlert@legis.iowa.gov",
+    "name": "Tracy Ehlert",
+    "party": "Democratic",
+    "url": "https://eepurl.com/gXOgt9"
+   }
+  ],
+  "8": [
+   {
+    "email": "ann.meyer@legis.iowa.gov",
+    "name": "Ann Meyer",
+    "party": "Republican",
+    "url": "https://iowahouserepublicans.nationbuilder.com/reps"
+   }
+  ],
+  "80": [
+   {
+    "email": "aime.wichtendahl@legis.iowa.gov",
+    "name": "Aime Wichtendahl",
+    "party": "Democratic",
+    "url": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37390"
+   }
+  ],
+  "81": [
+   {
+    "email": "daniel.gosa@legis.iowa.gov",
+    "name": "Dan Gosa",
+    "party": "Democratic",
+    "url": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37391"
+   }
+  ],
+  "82": [
+   {
+    "email": "bobby.kaufmann@legis.iowa.gov",
+    "name": "Bobby Kaufmann",
+    "party": "Republican",
+    "url": "https://iowahouserepublicans.nationbuilder.com/reps"
+   }
+  ],
+  "83": [
+   {
+    "email": "cindy.golding@legis.iowa.gov",
+    "name": "Cindy Golding",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33990&ga=90"
+   }
+  ],
+  "84": [
+   {
+    "email": "thomas.gerhold@legis.iowa.gov",
+    "name": "Tom Gerhold",
+    "party": "Republican",
+    "url": "https://iowahouserepublicans.nationbuilder.com/reps"
+   }
+  ],
+  "85": [
+   {
+    "email": "amy.nielsen@legis.iowa.gov",
+    "name": "Amy Nielsen",
+    "party": "Democratic",
+    "url": "https://eepurl.com/gXNTL1"
+   }
+  ],
+  "86": [
+   {
+    "email": "david.jacoby@legis.iowa.gov",
+    "name": "Dave Jacoby",
+    "party": "Democratic",
+    "url": "https://eepurl.com/gXMR_X"
+   }
+  ],
+  "87": [
+   {
+    "email": "jeff.shipley@legis.iowa.gov",
+    "name": "Jeff Shipley",
+    "party": "Republican",
+    "url": "https://iowahouserepublicans.nationbuilder.com/reps"
+   }
+  ],
+  "88": [
+   {
+    "email": "helena.hayes@legis.iowa.gov",
+    "name": "Helena Hayes",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33991&ga=90"
+   }
+  ],
+  "89": [
+   {
+    "email": "elinor.levin@legis.iowa.gov",
+    "name": "Elinor Levin",
+    "party": "Democratic",
+    "url": "https://eepurl.com/ihfkwn"
+   }
+  ],
+  "9": [
+   {
+    "email": "henry.stone@legis.iowa.gov",
+    "name": "Henry Stone",
+    "party": "Republican",
+    "url": "https://iowa.us7.list-manage.com/subscribe?u=b7d249185b0959748eda3cd67&id=04fa01942f"
+   }
+  ],
+  "90": [
+   {
+    "email": "adam.zabner@legis.iowa.gov",
+    "name": "Adam Zabner",
+    "party": "Democratic",
+    "url": "https://eepurl.com/ihe76H"
+   }
+  ],
+  "91": [
+   {
+    "email": "judd.lawler@legis.iowa.gov",
+    "name": "Judd Lawler",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37392"
+   }
+  ],
+  "92": [
+   {
+    "email": "heather.hora@legis.iowa.gov",
+    "name": "Heather Hora",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33995&ga=90"
+   }
+  ],
+  "93": [
+   {
+    "email": "gary.mohr@legis.iowa.gov",
+    "name": "Gary Mohr",
+    "party": "Republican",
+    "url": "https://facebook.us4.list-manage.com/subscribe?u=4f656da8e0485e1a4a8032e0f&id=f0dd08c637"
+   }
+  ],
+  "94": [
+   {
+    "email": "mike.vondran@legis.iowa.gov",
+    "name": "Mike Vondran",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33996&ga=90"
+   }
+  ],
+  "95": [
+   {
+    "email": "taylor.collins@legis.iowa.gov",
+    "name": "Taylor Collins",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=27618&ga=90"
+   }
+  ],
+  "96": [
+   {
+    "email": "mark.cisneros@legis.iowa.gov",
+    "name": "Mark Cisneros",
+    "party": "Republican",
+    "url": "https://gmail.us7.list-manage.com/subscribe?u=85fcfa7dcbbb7c52a233de778&id=e13efc9ee4"
+   }
+  ],
+  "97": [
+   {
+    "email": "ken.croken@legis.iowa.gov",
+    "name": "Ken Croken",
+    "party": "Democratic",
+    "url": "https://eepurl.com/ihfkwb"
+   }
+  ],
+  "98": [
+   {
+    "email": "monica.kurth@legis.iowa.gov",
+    "name": "Monica Kurth",
+    "party": "Democratic",
+    "url": "https://eepurl.com/gXNhsX"
+   }
+  ],
+  "99": [
+   {
+    "email": "matthew.rinker@legis.iowa.gov",
+    "name": "Matt Rinker",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33998&ga=90"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/ia.csv"
+ },
+ "state": "IA",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "catelin.drey@legis.iowa.gov",
+    "name": "Catelin Drey",
+    "party": "Democratic",
+    "url": "https://www.legis.iowa.gov/legislators/legislator?personID=39183"
+   }
+  ],
+  "10": [
+   {
+    "email": "dan.dawson@legis.iowa.gov",
+    "name": "Dan Dawson",
+    "party": "Republican",
+    "url": "https://www.iowasenaterepublicans.com/senators/dan-dawson/"
+   }
+  ],
+  "12": [
+   {
+    "email": "amy.sinclair@legis.iowa.gov",
+    "name": "Amy Sinclair",
+    "party": "Republican",
+    "url": "https://www.iowasenaterepublicans.com/senators/amy-sinclair/"
+   }
+  ],
+  "13": [
+   {
+    "email": "cherielynn.westrich@legis.iowa.gov",
+    "name": "Cherielynn Westrich",
+    "party": "Republican",
+    "url": "https://iowasenaterepublicans.com/senators/cherielynn-westrich/"
+   }
+  ],
+  "14": [
+   {
+    "email": "sarah.trone.garriott@legis.iowa.gov",
+    "name": "Sarah Garriott",
+    "party": "Democratic",
+    "url": "https://mailchi.mp/legis/trone-garriott"
+   }
+  ],
+  "15": [
+   {
+    "email": "tony.bisignano@legis.iowa.gov",
+    "name": "Tony Bisignano",
+    "party": "Democratic",
+    "url": "https://mailchi.mp/legis/bisignano"
+   }
+  ],
+  "16": [
+   {
+    "email": "renee.hardman@legis.iowa.gov",
+    "name": "Renee Hardman",
+    "party": "Democratic",
+    "url": "https://www.legis.iowa.gov/legislators/legislator?personID=39593"
+   }
+  ],
+  "17": [
+   {
+    "email": "izaah.knox@legis.iowa.gov",
+    "name": "Izaah Knox",
+    "party": "Democratic",
+    "url": "https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=34010"
+   }
+  ],
+  "18": [
+   {
+    "email": "janet.petersen@legis.iowa.gov",
+    "name": "Janet Petersen",
+    "party": "Democratic",
+    "url": "https://mailchi.mp/legis/petersen"
+   }
+  ],
+  "19": [
+   {
+    "email": "ken.rozenboom@legis.iowa.gov",
+    "name": "Ken Rozenboom",
+    "party": "Republican",
+    "url": "https://www.iowasenaterepublicans.com/senators/ken-rozenboom/"
+   }
+  ],
+  "2": [
+   {
+    "email": "jeff.taylor@legis.iowa.gov",
+    "name": "Jeff Taylor",
+    "party": "Republican",
+    "url": "https://iowasenaterepublicans.com/senators/jeff-taylor/"
+   }
+  ],
+  "20": [
+   {
+    "email": "mike.pike@legis.iowa.gov",
+    "name": "Mike Pike",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37458"
+   }
+  ],
+  "21": [
+   {
+    "email": "mike.bousselot@legis.iowa.gov",
+    "name": "Mike Bousselot",
+    "party": "Republican",
+    "url": "https://www.iowasenaterepublicans.com/senators/mike-bousselot/"
+   }
+  ],
+  "22": [
+   {
+    "email": "matt.blake@legis.iowa.gov",
+    "name": "Matt Blake",
+    "party": "Democratic",
+    "url": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37460"
+   }
+  ],
+  "23": [
+   {
+    "email": "jack.whitver@legis.iowa.gov",
+    "name": "Jack Whitver",
+    "party": "Republican",
+    "url": "https://www.iowasenaterepublicans.com/senators/jack-whitver/"
+   }
+  ],
+  "24": [
+   {
+    "email": "jesse.green@legis.iowa.gov",
+    "name": "Jesse Green",
+    "party": "Republican",
+    "url": "https://iowasenaterepublicans.com/senators/jesse-green/"
+   }
+  ],
+  "25": [
+   {
+    "email": "herman.quirmbach@legis.iowa.gov",
+    "name": "Herman Quirmbach",
+    "party": "Democratic",
+    "url": "https://www.legis.iowa.gov/legislators/legislator?personID=161"
+   }
+  ],
+  "26": [
+   {
+    "email": "kara.warme@legis.iowa.gov",
+    "name": "Kara Warme",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37462"
+   }
+  ],
+  "27": [
+   {
+    "email": "annette.sweeney@legis.iowa.gov",
+    "name": "Annette Sweeney",
+    "party": "Republican",
+    "url": "https://www.iowasenaterepublicans.com/senators/annette-sweeney/"
+   }
+  ],
+  "28": [
+   {
+    "email": "dennis.guth@legis.iowa.gov",
+    "name": "Dennis Guth",
+    "party": "Republican",
+    "url": "https://www.iowasenaterepublicans.com/senators/dennis-guth/"
+   }
+  ],
+  "29": [
+   {
+    "email": "sandy.salmon@legis.iowa.gov",
+    "name": "Sandy Salmon",
+    "party": "Republican",
+    "url": "https://www.iowasenaterepublicans.com/senators/sandy-salmon/"
+   }
+  ],
+  "3": [
+   {
+    "email": "lynn.evans@legis.iowa.gov",
+    "name": "Lynn Evans",
+    "party": "Republican",
+    "url": "https://iowasenaterepublicans.com/senators/lynn-evans/"
+   }
+  ],
+  "30": [
+   {
+    "email": "doug.campbell@legis.iowa.gov",
+    "name": "Doug Campbell",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37463"
+   }
+  ],
+  "31": [
+   {
+    "email": "bill.dotzler@legis.iowa.gov",
+    "name": "Bill Dotzler",
+    "party": "Democratic",
+    "url": "https://mailchi.mp/legis/dotzler"
+   }
+  ],
+  "32": [
+   {
+    "email": "mike.klimesh@legis.iowa.gov",
+    "name": "Mike Klimesh",
+    "party": "Republican",
+    "url": "https://iowasenaterepublicans.com/senators/mike-klimesh/"
+   }
+  ],
+  "33": [
+   {
+    "email": "carrie.koelker@legis.iowa.gov",
+    "name": "Carrie Koelker",
+    "party": "Republican",
+    "url": "https://www.iowasenaterepublicans.com/senators/carrie-koelker/"
+   }
+  ],
+  "34": [
+   {
+    "email": "dan.zumbach@legis.iowa.gov",
+    "name": "Dan Zumbach",
+    "party": "Republican",
+    "url": "https://www.iowasenaterepublicans.com/senators/dan-zumbach/"
+   }
+  ],
+  "35": [
+   {
+    "email": "mike.zimmer@legis.iowa.gov",
+    "name": "Mike Zimmer",
+    "party": "Democratic",
+    "url": "https://www.legis.iowa.gov/legislators/legislator?personID=37960"
+   }
+  ],
+  "36": [
+   {
+    "email": "thomas.townsend@legis.iowa.gov",
+    "name": "Tom Townsend",
+    "party": "Democratic",
+    "url": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37465"
+   }
+  ],
+  "37": [
+   {
+    "email": "molly.donahue@legis.iowa.gov",
+    "name": "Molly Donahue",
+    "party": "Democratic",
+    "url": "https://eepurl.com/gXN_ff"
+   }
+  ],
+  "38": [
+   {
+    "email": "dave.sires@legis.iowa.gov",
+    "name": "Dave Sires",
+    "party": "Republican",
+    "url": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37464"
+   }
+  ],
+  "39": [
+   {
+    "email": "liz.bennett@legis.iowa.gov",
+    "name": "Liz Bennett",
+    "party": "Democratic",
+    "url": "https://eepurl.com/gXSfzr"
+   }
+  ],
+  "4": [
+   {
+    "email": "tim.kraayenbrink@legis.iowa.gov",
+    "name": "Tim Kraayenbrink",
+    "party": "Republican",
+    "url": "https://www.iowasenaterepublicans.com/senators/tim-kraayenbrink/"
+   }
+  ],
+  "40": [
+   {
+    "email": "art.staed@legis.iowa.gov",
+    "name": "Art Staed",
+    "party": "Democratic",
+    "url": "https://eepurl.com/gXSMIH"
+   }
+  ],
+  "41": [
+   {
+    "email": "kerry.gruenhagen@legis.iowa.gov",
+    "name": "Kerry Gruenhagen",
+    "party": "Republican",
+    "url": "https://www.iowasenaterepublicans.com/senators/kerry-gruenhagen/"
+   }
+  ],
+  "42": [
+   {
+    "email": "charlie.mcclintock@legis.iowa.gov",
+    "name": "Charlie McClintock",
+    "party": "Republican",
+    "url": "https://iowasenaterepublicans.com/senators/charlie-mcclintock/"
+   }
+  ],
+  "43": [
+   {
+    "email": "zach.wahls@legis.iowa.gov",
+    "name": "Zach Wahls",
+    "party": "Democratic",
+    "url": "https://mailchi.mp/legis/wahls"
+   }
+  ],
+  "44": [
+   {
+    "email": "adrian.dickey@legis.iowa.gov",
+    "name": "Adrian Dickey",
+    "party": "Republican",
+    "url": "https://iowasenaterepublicans.com/senators/adrian-dickey/"
+   }
+  ],
+  "45": [
+   {
+    "email": "janice.weiner@legis.iowa.gov",
+    "name": "Janice Weiner",
+    "party": "Democratic",
+    "url": "https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=34011"
+   }
+  ],
+  "46": [
+   {
+    "email": "dawn.driscoll@legis.iowa.gov",
+    "name": "Dawn Driscoll",
+    "party": "Republican",
+    "url": "https://iowasenaterepublicans.com/senators/dawn-driscoll/"
+   }
+  ],
+  "47": [
+   {
+    "email": "scott.webster@legis.iowa.gov",
+    "name": "Scott Webster",
+    "party": "Republican",
+    "url": "https://iowasenaterepublicans.com/senators/scott-webster/"
+   }
+  ],
+  "48": [
+   {
+    "email": "mark.lofgren@legis.iowa.gov",
+    "name": "Mark Lofgren",
+    "party": "Republican",
+    "url": "https://www.iowasenaterepublicans.com/senators/mark-lofgren/"
+   }
+  ],
+  "49": [
+   {
+    "email": "cindy.winckler@legis.iowa.gov",
+    "name": "Cindy Winckler",
+    "party": "Democratic",
+    "url": "https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=44"
+   }
+  ],
+  "5": [
+   {
+    "email": "david.rowley@legis.iowa.gov",
+    "name": "Dave Rowley",
+    "party": "Republican",
+    "url": "https://iowasenaterepublicans.com/senators/dave-rowley/"
+   }
+  ],
+  "50": [
+   {
+    "email": "jeff.reichman@legis.iowa.gov",
+    "name": "Jeff Reichman",
+    "party": "Republican",
+    "url": "https://iowasenaterepublicans.com/senators/jeff-reichman/"
+   }
+  ],
+  "6": [
+   {
+    "email": "jason.schultz@legis.iowa.gov",
+    "name": "Jason Schultz",
+    "party": "Republican",
+    "url": "https://www.iowasenaterepublicans.com/senators/jason-schultz/"
+   }
+  ],
+  "7": [
+   {
+    "email": "kevin.alons@legis.iowa.gov",
+    "name": "Kevin Alons",
+    "party": "Republican",
+    "url": "https://iowasenaterepublicans.com/senators/kevin-alons/"
+   }
+  ],
+  "8": [
+   {
+    "email": "mark.costello@legis.iowa.gov",
+    "name": "Mark Costello",
+    "party": "Republican",
+    "url": "https://www.iowasenaterepublicans.com/senators/mark-costello/"
+   }
+  ],
+  "9": [
+   {
+    "email": "tom.shipley@legis.iowa.gov",
+    "name": "Tom Shipley",
+    "party": "Republican",
+    "url": "https://www.iowasenaterepublicans.com/senators/tom-shipley/"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

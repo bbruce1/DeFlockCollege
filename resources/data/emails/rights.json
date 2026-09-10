@@ -1,0 +1,602 @@
+[
+  {
+    "id": "rights-001",
+    "angle": "rights",
+    "subject": "What worries me about the readers near {{shortName}}",
+    "body": "Dear {{officialName}},\n\nThe part that unsettles me is the order in which things happen. An officer who follows a car is expected to have a reason before the following starts. The plate readers running near {{shortName}} work the other way around, recording everyone first and locating a reason, if one ever appears, afterward.\n\nAbout {{readersWithinMile}} of them sit within a mile of campus, and not one is aimed at a suspect. Each is aimed at whoever happens to use a public road, which here means students and neighbors who have never been accused of anything.\n\nI am one student with one letter, so I am not pretending to speak for the whole road. Even so, I would like to see those cameras come down and no new ones go up. Would you tell me where you land on that? Thank you for reading."
+  },
+  {
+    "id": "rights-002",
+    "angle": "rights",
+    "subject": "A question about what precedes a search of the archive",
+    "body": "Dear {{officialName}},\n\nMy question is narrow. Before anyone runs a search against the stored plate data collected around {{shortName}}, what has to be true first? Does it take a warrant, or nothing beyond a working login?\n\nThe answer troubles me as much as the cameras do. A record of where ordinary drivers were on ordinary days is protected only by the rule governing who may open it, and an informal rule tends to bend under pressure from whoever asks urgently enough.\n\nI could not find a published answer, and that gap is part of what worries me. My hope is that the readers around campus are removed and none added, so the archive stops growing while the question sits unsettled. Could you tell me what standard applies now, and whether removal is something you could support? A student asking gets further with you than with a form."
+  },
+  {
+    "id": "rights-003",
+    "angle": "rights",
+    "subject": "Being on a public road never felt like agreement",
+    "body": "Dear {{officialName}},\n\nUsing a public street has never meant agreeing to be catalogued, at least not in any sense I recognize. Being visible to a passing stranger seems to me a different condition from being entered into a database that remembers and can be replayed months later.\n\nThe plate readers near {{shortName}} treat those two things as identical. Because a car is visible in public, the reasoning runs, recording it costs nothing. That argument would carry a great deal of weight in a lot of places, and I do not think it was ever made in front of the people it applies to.\n\nI drive and walk those roads as a student here, with no more say than anyone else. What I would ask of you as {{officialTitle}} is support for taking the readers around campus out and adding none in their place. Would you be willing to say publicly how you see it?"
+  },
+  {
+    "id": "rights-004",
+    "angle": "rights",
+    "subject": "Whether a resident can learn if their plate was queried",
+    "body": "Dear {{officialName}},\n\nSuppose someone in {{city}} wanted to know whether their own vehicle had ever been looked up in the plate reader system. Is there a process they could actually use, or only a policy stating that one exists?\n\nIf no real answer is available, then the people being recorded cannot check whether the record was used against them. A file its subject may never inspect is a file that can be misused quietly, and that stays true however careful the current staff are. Staff change. Systems outlast them.\n\nAround {{readersWithinMile}} readers sit within a mile of {{shortName}}, capturing people under no investigation at all. I would rather see them removed, with none installed to replace them, than see an appeals process built around them. As a student here I would be grateful to know whether you support removal, and whether you would say so on the record."
+  },
+  {
+    "id": "rights-005",
+    "angle": "rights",
+    "subject": "Proportion between the problem and these cameras",
+    "body": "Dear {{officialName}},\n\nEvery enforcement tool gets weighed against what it costs the people it touches, and this is the weighing I keep getting stuck on. Plate readers around {{shortName}} collect the movements of an entire population in order to find the few vehicles that are actually wanted. The people whose data is kept are not the target and gain nothing from being in the file.\n\nProportion is a judgment you were elected to make, not one a student can make for you. A method that found the same car while recording only that car would be a far smaller intrusion for the same result, and I have not seen anyone explain why the larger one is needed.\n\nWith {{readersInState}} of these cameras across {{state}}, the aggregate is not small. I would like the readers around campus removed and no new ones installed. Would you tell me whether you agree?"
+  },
+  {
+    "id": "rights-006",
+    "angle": "rights",
+    "subject": "How long ordinary movement stays on file",
+    "body": "Dear {{officialName}},\n\nHow long does a plate read stay on file when it matches nothing? That single answer tells you most of what you would want to know about the system operating around {{shortName}}, and I have not managed to find it.\n\nIf an unmatched read is discarded within the hour, the cameras are a checking tool. Held for months or years, they become an archive of ordinary movement built out of people who were never suspected and never asked. The retention window is where a public safety device quietly turns into a history of a town.\n\nResidents should not have to guess at that figure, and neither should a student writing to you about it. My preference is plainer than a retention debate: I hope the readers around campus can be taken out and none added. Could you tell me your position?"
+  },
+  {
+    "id": "rights-007",
+    "angle": "rights",
+    "subject": "Who else can query the plate data near campus",
+    "body": "Dear {{officialName}},\n\nWhich agencies can search the plate data gathered around {{shortName}} concerns me more than how many cameras there are. Once a record exists, the question stops being who built it and becomes who may put questions to it.\n\nSharing arrangements tend to be signed at staff level and reviewed rarely. A resident of {{city}} whose car passes a camera has no way to know which departments, in which states, can later pull that read or for what purpose. Nobody was asked, so the scope can widen without anyone having a chance to object.\n\nAs {{role}}, you are in a position to close the question at its source. I am asking that the readers around campus be removed and that none be installed to replace them. Would you support that, and can you say who currently holds query access? A student would find either answer useful."
+  },
+  {
+    "id": "rights-008",
+    "angle": "rights",
+    "subject": "One sighting compared with a pattern of movement",
+    "body": "Dear {{officialName}},\n\nOne photograph of a car on a road reveals almost nothing. Collected day after day and sorted by plate and time, the same photographs reveal where a person sleeps and who they visit. The plate readers around {{shortName}} produce the second thing while being described as the first, and that gap is what bothers me.\n\nNobody agreed to the pattern. A driver passing a camera has consented to nothing beyond being seen for a moment by whoever was standing there, and the system converts that moment into a durable line in a history.\n\nThe people in that history are not suspects, and most never will be. As a student who uses those roads, I would like {{city}} to remove the readers near campus and put no new ones up. Could you let me know where you land on this?"
+  },
+  {
+    "id": "rights-009",
+    "angle": "rights",
+    "subject": "A lasting record of people under no suspicion",
+    "body": "Dear {{officialName}},\n\nPeople have always been visible to each other in public, and memory has always been the limit on that visibility. A neighbor who saw your car forgets. The database does not, and it can be asked about a day everyone else stopped thinking about long ago.\n\nReaders operating around {{shortName}} remove that limit for people under no suspicion. Their ordinary movement becomes searchable well after the fact, held against the possibility that somebody will eventually want to look.\n\nA lasting record of the uninvolved strikes me as a strange thing for a city to keep, and I do not think it was ever put to the people who are in it. I am a student here, which gives me an interest rather than any authority. I would like the cameras around campus removed and no replacements installed. As {{officialTitle}}, would you support that?"
+  },
+  {
+    "id": "rights-010",
+    "angle": "rights",
+    "subject": "Reason first and recording second",
+    "body": "Dear {{officialName}},\n\nThe ordinary order of things puts the reason before the search. Something happens, suspicion attaches to someone, and only then does the state begin gathering. Plate readers reverse that sequence around {{shortName}} by gathering from everyone in advance and locating the reason afterward.\n\nA reversal like that is easy to accept one camera at a time and hard to undo once {{readersWithinMile}} of them are running within a mile of a campus. Nearly all the people recorded are students and neighbors going about a normal day.\n\nNone of this comes from wanting the city to be soft on crime. My hope is that the gathering follows the suspicion rather than preceding it, which in practice means taking the readers around campus out and installing none. Would you tell me whether you agree with the principle? I would rather hear a real disagreement than nothing."
+  },
+  {
+    "id": "rights-011",
+    "angle": "rights",
+    "subject": "Whether plate reader queries are logged and reviewed",
+    "body": "Dear {{officialName}},\n\nWhen a query is run against the plate data collected near {{shortName}}, is a log kept? Does anyone read that log who did not run the query?\n\nSystems that record the public tend to be governed by rules binding only the people already inclined to follow them. Without an audit that someone outside the department genuinely reviews, a lookup of a former partner or a political opponent looks exactly like a lookup in a real case. The data cannot tell them apart, and that is what worries me.\n\nThe risk exists because the archive covers people suspected of nothing. Take the archive away and the risk leaves with it. I am a student asking you to support removing the readers around campus and installing no new ones in {{city}}. What is your position?"
+  },
+  {
+    "id": "rights-012",
+    "angle": "rights",
+    "subject": "The archive exists before any crime does",
+    "body": "Dear {{officialName}},\n\nMost investigative tools get switched on after something has happened. Plate readers around {{shortName}} run continuously, filling a record that exists before any crime does and that consists almost entirely of people who will never be connected to one.\n\nBuilding the file first changes what the file is for. Once it exists, every future question becomes a question of access rather than a question of whether to collect, and access rules seem far easier to loosen than collection decisions are to reverse.\n\nThere are roughly {{readersInState}} of these cameras across {{state}} now. Growth of that kind does not really get debated; it accumulates. As a student who ends up in the local portion of it, I would like {{city}} to remove the ones around campus and install none going forward. Could you tell me whether you would vote that way?"
+  },
+  {
+    "id": "rights-013",
+    "angle": "rights",
+    "subject": "Nobody asked the drivers being recorded",
+    "body": "Dear {{officialName}},\n\nNobody asked the drivers. That is the plainest description I can give of how plate readers came to operate around {{shortName}}, and as a student living here it is the part that stays with me.\n\nA person who is recorded has no role in the decision and cannot decline to use the road. The claim that public space carries no expectation of privacy is doing an enormous amount of work in this arrangement, and I do not think it has been tested against the people it affects.\n\nWhat I would ask of you as {{officialTitle}} is support for having the readers around campus removed and for a commitment to install no new ones. If you disagree, I would genuinely like to know the reasoning, because I have not found it stated anywhere the public can read it."
+  },
+  {
+    "id": "rights-014",
+    "angle": "rights",
+    "subject": "Targeted surveillance and blanket collection differ",
+    "body": "Dear {{officialName}},\n\nTwo very different practices get called surveillance, and conflating them is what I find hardest to accept here. Following a named suspect is bounded by a reason and ends when the reason does. Recording every plate that passes a fixed point is bounded by nothing except storage.\n\nAround {{shortName}}, the second kind is what got installed. It does not become the first kind because the stated purpose is narrow, since the collection stays universal whatever the policy page says the purpose is.\n\nIf the department needs a particular vehicle found, there are ways to look for that vehicle without keeping a record of everyone else who drove past. I am a student asking that the readers around campus be removed and that no new ones go up. Would you share your position with me, even briefly?"
+  },
+  {
+    "id": "rights-015",
+    "angle": "rights",
+    "subject": "Asking about the plate readers around {{shortName}}",
+    "body": "Dear {{officialName}},\n\nA short letter, and a clear request. I would like the automated plate readers around {{shortName}} to come down, and I hope {{city}} installs no more of them.\n\nMy reason is not complicated. These cameras collect from people suspected of nothing and keep what they collect in a form that can be searched later. A person who has done nothing has no way to stay out of that file and no way to check what is in it.\n\nGood policing has never required a standing record of where everyone drove, as far as I can tell. Whatever the readers add at the margin, the price is a lasting log of ordinary movement belonging to students and neighbors who never agreed to any of it.\n\nI would appreciate a straight answer on whether you support removal."
+  },
+  {
+    "id": "rights-016",
+    "angle": "rights",
+    "subject": "Students recorded without being suspected of anything",
+    "body": "Dear {{officialName}},\n\nStudents at {{school}} are among the most heavily recorded people in {{city}} and among the least consulted. They pass the same few roads several times a day, so the plate readers near campus build unusually detailed pictures of them, and almost none of those students are under investigation for anything.\n\nBeing young and transient does not seem to me to make someone a fair subject for a standing record. Many will leave after a few years, and the file will stay behind, still searchable by whoever holds it then.\n\nI am one of those students, so I have an interest here, though the principle would hold for any neighborhood. I would like the readers around campus taken out and no new ones installed. Would you tell me where you stand, and whether the matter is likely to come before {{role}}?"
+  },
+  {
+    "id": "rights-017",
+    "angle": "rights",
+    "subject": "Turning the nothing to hide answer around",
+    "body": "Dear {{officialName}},\n\nThe usual response to worries about plate readers is that innocent people have nothing to fear. Turn that around and it stops reassuring me. If the recorded population is overwhelmingly innocent, then the system is chiefly a record of innocent people, and its defenders are arguing that such a record is harmless precisely because of who it covers.\n\nHarm from a file like that would not arrive as a knock at the door. It would arrive as a query nobody outside the department sees, made about a person who will never be told it happened.\n\nThere are about {{readersWithinMile}} readers within a mile of {{shortName}} gathering exactly that kind of record. Speaking as a student who is in it, I would like them removed and no new ones installed. Could you tell me whether you could support that?"
+  },
+  {
+    "id": "rights-018",
+    "angle": "rights",
+    "subject": "Whether not collecting should be the default in {{city}}",
+    "body": "Dear {{officialName}},\n\nIn a free place, movement goes unrecorded by default, unless some reason exists to record it. Plate readers flip that default. Everything is captured, and the case for keeping any particular capture never has to be made, because nobody is required to make one.\n\nDefaults matter because they decide who carries the burden. Under the current arrangement, a student at {{shortName}} who objects has to justify not being recorded, which feels backwards to me given how the relationship between residents and a city usually runs.\n\nRestoring the older default around campus would mean removing the readers there and installing none in future. As {{officialTitle}}, would you support that? A direct answer either way would help me more than a general statement, and I am grateful for your time."
+  },
+  {
+    "id": "rights-019",
+    "angle": "rights",
+    "subject": "Where the cost of a wrong plate match lands",
+    "body": "Dear {{officialName}},\n\nAny system that reads plates automatically will sometimes read one incorrectly. The consequence of that error does not land on the department. It lands on a driver who was doing nothing wrong, in the form of a stop that begins with an officer already believing something about the car.\n\nThat burden exists only because the system scans people who were never suspects. A driver who was never going to be investigated cannot be wrongly matched if nothing is scanning the road in the first place.\n\nI am a student asking {{city}} to remove the plate readers around {{shortName}} and to install no new ones. Whatever the technology adds, the risk of it settles on residents who did not volunteer to carry any of it. Would you tell me your position on removal?"
+  },
+  {
+    "id": "rights-020",
+    "angle": "rights",
+    "subject": "Plate data crossing city and county lines",
+    "body": "Dear {{officialName}},\n\nPlate data rarely stays where it was collected, and that is the part I find hardest to sit with. Networks link cameras across cities and counties, so a read taken near {{shortName}} can become a line in a record held far outside {{state}} and governed by rules {{city}} did not write.\n\nFor a person suspected of nothing, that is a real loss of control. They cannot know which system holds the read, and they had no chance to object before it left.\n\nLocal officials can genuinely control only the collection point. Once collection stops, the sharing question answers itself. As a student here, I am asking that the readers around campus be removed and that none be added, and I would like to know whether you would support that when it next comes up."
+  },
+  {
+    "id": "rights-021",
+    "angle": "rights",
+    "subject": "The reads that match nothing and are kept anyway",
+    "body": "Dear {{officialName}},\n\nA plate read that matches no alert is a record of an innocent person going somewhere. Keeping it serves no immediate purpose, so the only reason to keep it is the hope that it becomes useful against someone later.\n\nThat hope is what makes the arrangement a form of collection in advance, and it is the piece I keep turning over. A camera near {{shortName}} does not decide whom to watch. It watches everyone and leaves the sorting to whoever comes asking, possibly long after the drivers involved have forgotten the trip.\n\nRather than argue over how many days of storage would be acceptable, I would ask you to support the simpler outcome. I am a student who would like the readers around campus removed and no new ones installed. Could you let me know whether that is something you could back?"
+  },
+  {
+    "id": "rights-022",
+    "angle": "rights",
+    "subject": "A hot list does not explain keeping everyone else",
+    "body": "Dear {{officialName}},\n\nWhen plate readers are defended, the example is always a stolen car or a missing person. Those are real uses, and each involves a specific plate the department already wants. What I cannot follow is why readings for every other vehicle need to be stored at all.\n\nThe justification covers a sliver of the collection and ends up defending the whole of it. Around {{shortName}}, residents who match no alert land in a file built on a rationale that has nothing to do with them.\n\nI would rather {{city}} not run the system than try to police the gap between the reason and the practice. As a student here, I am asking for the readers near campus to be removed and for no new ones to be installed. Do you see it that way, and would you say so publicly?"
+  },
+  {
+    "id": "rights-023",
+    "angle": "rights",
+    "subject": "Pulling a driver's whole history from stored reads",
+    "body": "Dear {{officialName}},\n\nThere is a difference between checking whether one plate passed one camera and pulling every recorded sighting of a vehicle across a long stretch of time. The second is a portrait of a person's life, assembled without their knowledge, and it is the possibility that worries me.\n\nDoes {{city}} apply a higher standard to that second kind of request? If the same login performs both, then the harder question was answered by default rather than decided.\n\nReaders around {{shortName}} make that portrait possible for people accused of nothing, which is nearly everyone in the file. I am a student asking that the cameras there be removed and that none be installed in their place. I would appreciate hearing whether you support removal, and what standard governs a full history request today."
+  },
+  {
+    "id": "rights-024",
+    "angle": "rights",
+    "subject": "Looking for the written policy on plate data queries",
+    "body": "Dear {{officialName}},\n\nIs there a written policy governing who may search the plate reader data collected around {{shortName}}, and can a resident read it without filing a formal request? I have tried and come up short.\n\nWhen that answer is hard to get, the system is running on trust rather than on rules. Trust is a fine thing between people and a poor foundation for a database holding the movements of a whole population, most of whom will never be suspected of anything.\n\nI am not accusing anyone of misuse. My worry is structural and would apply to any department holding a record like this. The cleanest resolution I can see is to stop building the record. Would you support removing the readers around campus and installing no new ones, and could you point a student toward the current policy?"
+  },
+  {
+    "id": "rights-025",
+    "angle": "rights",
+    "subject": "Who outside the department can reach stored reads",
+    "body": "Dear {{officialName}},\n\nHere is a question I could not answer from public sources. Does the data collected by the plate readers near {{shortName}} sit on equipment {{city}} controls, and can anyone outside the department reach it?\n\nThe answer changes what the system is, which is why I keep asking it. A record of ordinary movement held by a private operator is governed by whatever the agreement happens to say, and the people in the record were never party to that agreement and cannot renegotiate it.\n\nNone of the residents captured by these cameras chose to be in anyone's dataset. Removing the readers around campus and installing no new ones would resolve the question without a policy fight. Would you support that, and can you tell a student who holds the data now?"
+  },
+  {
+    "id": "rights-026",
+    "angle": "rights",
+    "subject": "Systems built for one purpose get used for others",
+    "body": "Dear {{officialName}},\n\nRecords that exist for one reason tend to get used for others once that becomes convenient. Plate data gathered around {{shortName}} to find wanted vehicles could later serve any purpose someone can attach a justification to, and every expansion tends to look small at the moment it happens.\n\nThe people in the file cannot object to those expansions, since they never learn about them. Their only protection is a policy that can be amended by the same office that wrote it.\n\nCollection itself therefore seems to me the thing to address. Take the readers around campus down and install no new ones, and future purposes have nothing left to draw on. That is what I am asking for as a student here. Would you tell me whether you could support it?"
+  },
+  {
+    "id": "rights-027",
+    "angle": "rights",
+    "subject": "Was there ever a moment to say no to these",
+    "body": "Dear {{officialName}},\n\nWere the people of {{city}} told before these cameras were installed, and was there any point at which someone could have said no?\n\nI ask because a decision to record everyone who uses a road seems like the kind of thing that belongs in public rather than in a procurement file. The subjects of the recording are residents accused of nothing, and they are the only party to the arrangement with no representation in it.\n\nAbout {{readersWithinMile}} readers now operate within a mile of {{shortName}}. Whatever process produced them, I would like to see it reversed, with the cameras removed and no new ones installed. Could you tell me how the original decision was made, and where you stand on undoing it? A student would rather hear a real answer than none."
+  },
+  {
+    "id": "rights-028",
+    "angle": "rights",
+    "subject": "Surveillance is easier to install than to remove",
+    "body": "Dear {{officialName}},\n\nInstalling a camera takes an afternoon. Removing one, after a department has built its habits around the data, takes a political decision nobody wants to be first to make. That asymmetry is why the moment to be careful seems to me to be early.\n\nAround {{shortName}} the readers are already running, capturing people suspected of nothing, and the archive gets deeper every day the question waits. Waiting does not feel like a neutral choice here.\n\nAs {{officialTitle}}, you could push for the readers around campus to be removed and for no more to be installed. That is what I would ask of you as a student who uses those roads. If you think the balance falls the other way, I would like to hear why, stated in terms of what the recorded population gets in exchange."
+  },
+  {
+    "id": "rights-029",
+    "angle": "rights",
+    "subject": "What the plate readers set a precedent for",
+    "body": "Dear {{officialName}},\n\nOnce a city accepts that everyone's movement may be recorded because it might someday help, the same argument becomes available for the next system and the one after that. Each will be defended in the same terms, and each will apply to residents suspected of nothing.\n\nThat is a slope I would rather name before the next proposal reaches {{city}}. The principle at stake is whether ordinary life gets logged by default, and the readers around {{shortName}} are where the question is being answered right now without much discussion.\n\nAs a student here, my request is that the cameras near campus be removed and that none be installed going forward. Would you tell me whether you could support that, and whether you see the precedent the way I do? I may well be reading it too darkly."
+  },
+  {
+    "id": "rights-030",
+    "angle": "rights",
+    "subject": "How little effort it takes to look a driver up",
+    "body": "Dear {{officialName}},\n\nPractical protection around any archive comes down to how much effort a search takes. Difficult searches happen only when someone believes the case warrants the trouble. A search that takes seconds happens because it is available.\n\nPlate data collected around {{shortName}} is searchable in seconds, and that is what I find worrying. Every resident in it sits a few keystrokes away from a summary of where they have been, and none of them are suspects. Convenience of that kind erodes the informal restraint that once limited what could realistically be gathered about a person.\n\nI would like {{city}} to remove the readers around campus and install none in their place. As a student I have no standing beyond being in the file. Would you say whether you support removal, and whether any approval is required before a search is run?"
+  },
+  {
+    "id": "rights-031",
+    "angle": "rights",
+    "subject": "Recording the uninvolved in order to find the few",
+    "body": "Dear {{officialName}},\n\nPlate readers around {{shortName}} record people in order to find people. Almost everyone recorded belongs to the first group and will never belong to the second.\n\nAccepting that trade means accepting that ordinary residents should be catalogued in advance so a search is easier later. That is a large thing to concede, and it seems to me to have been conceded quietly.\n\nI understand the appeal of the tool. My worry is not about police work but about the idea that a whole population should be entered into a database as a precondition for it.\n\nI would like the readers around campus removed, and no new ones installed. That is a student's view, offered for what it is worth. Would you tell me where you stand on it?"
+  },
+  {
+    "id": "rights-032",
+    "angle": "rights",
+    "subject": "Watching a road and remembering it are not the same",
+    "body": "Dear {{officialName}},\n\nAn officer parked on a road watches it. A camera that reads plates remembers it, and the remembering is what seems to me to change the relationship between a city and the people who live in it.\n\nWhat a person does in public has always been observable in the moment and unrecoverable afterward. Readers around {{shortName}} make the afterward permanent for people suspected of nothing, so their past stays available to anyone with access, indefinitely.\n\nNo resident agreed to that, and none can withdraw from it while still using the roads. As a student who cannot either, I would like {{city}} to remove the readers near campus and to install no new ones. Would you be willing to say publicly whether you support that?"
+  },
+  {
+    "id": "rights-033",
+    "angle": "rights",
+    "subject": "The word public is carrying a lot of weight here",
+    "body": "Dear {{officialName}},\n\nThe defense of plate readers rests almost entirely on one word. Because a road is public, the argument goes, anything visible from it may be recorded and stored without limit.\n\nStretch that word far enough and it covers far more than I think anyone meant when the phrase entered common use. A person driving to work is public in the sense of being visible. Being visible has never meant being indexed and retrievable years later by someone who was not there.\n\nCameras around {{shortName}} depend on that stretch. As a student here I would like {{city}} to remove them and install no new ones, so the question stops being settled by a single word. Could you tell me whether you read it the same way, or where you think I have gone wrong?"
+  },
+  {
+    "id": "rights-034",
+    "angle": "rights",
+    "subject": "The recorded cannot see who is recording them",
+    "body": "Dear {{officialName}},\n\nSurveillance of this kind runs in one direction, and the imbalance is what concerns me. Cameras around {{shortName}} know a great deal about the people who drive past, while those people know almost nothing about the cameras, including who reads the data and on what grounds.\n\nAsymmetry like that seems worth attention even when everyone involved is acting well. A resident cannot weigh a risk they cannot see, and cannot raise a concern about a search they were never told about.\n\nRemoving the readers around campus and installing no new ones would end that imbalance rather than manage it. As {{role}}, would you support such a step? A clear answer either way would help this student more than a general assurance would."
+  },
+  {
+    "id": "rights-035",
+    "angle": "rights",
+    "subject": "Movement reveals who a person spends time with",
+    "body": "Dear {{officialName}},\n\nWhere a car goes says a great deal about who a person is close to. A record of repeated trips is a record of relationships, assembled without anyone having decided those relationships were worth investigating.\n\nPlate readers near {{shortName}} build that record about residents who have done nothing to warrant attention. The information was not gathered because of suspicion; suspicion, if it ever arrives, gets to draw on material collected long beforehand.\n\nThat ordering seems wrong to me regardless of who currently holds the data, and I am a student rather than anyone with expertise in this. My request is that the readers around campus be removed and that {{city}} install no more of them. Would you tell me whether that is something you could support?"
+  },
+  {
+    "id": "rights-036",
+    "angle": "rights",
+    "subject": "Visitors and families end up in the file too",
+    "body": "Dear {{officialName}},\n\nPeople captured by the readers around {{shortName}} are not only residents of {{city}}. Parents driving in for a weekend and anyone simply passing through are recorded on identical terms, with no notice and no connection to any investigation.\n\nA visitor has even less recourse than a resident, which is the part I find hardest to defend. They will never see a policy and have no local official to write to about it. The archive grows on people whose only relationship with the city is having used a road in it.\n\nRemoving the cameras around campus and installing none in their place would settle this cleanly, and that is what I am asking for as a student here. Would you tell me whether you support removal? I would be glad of a short reply."
+  },
+  {
+    "id": "rights-037",
+    "angle": "rights",
+    "subject": "Whose record is my own movement",
+    "body": "Dear {{officialName}},\n\nA question that seems simple and turns out not to be. When a camera near {{shortName}} records my car, whose record is that?\n\nI produced the movement. Someone else owns the file and decides both how long it lives and who may read it. I cannot correct it or delete it, and nobody tells me when it is used. Very few other records about a person work that way, which is why it nags at me.\n\nThe imbalance is tolerable only if you assume the subject will never be harmed by it, and that is an assumption rather than a safeguard. As a student here, I would like {{city}} to remove the readers around campus and install no new ones. Would you let me know whether you agree, and who holds the data as things stand?"
+  },
+  {
+    "id": "rights-038",
+    "angle": "rights",
+    "subject": "Adding cameras seems like a public decision",
+    "body": "Dear {{officialName}},\n\nEach new plate reader extends a record of people suspected of nothing, and each tends to be approved as a routine matter rather than as a decision about surveillance. That is what I would like you to look at.\n\nAcross {{state}} there are now roughly {{readersInState}} of these cameras. Nobody chose that total. It accumulated through a long series of small approvals, none of which was framed as a choice about whether residents should be catalogued while going about their day.\n\nI am a student asking that {{city}} reverse the ones around {{shortName}} and commit to installing no new ones. Would you support treating any future proposal as a public decision, and would you support removal now? Either answer would tell me something worth knowing."
+  },
+  {
+    "id": "rights-039",
+    "angle": "rights",
+    "subject": "No published standard for searching the archive",
+    "body": "Dear {{officialName}},\n\nWhen I went looking for the rules that govern searches of the plate data collected around {{shortName}}, I found nothing a resident could actually read. The absence of a published standard is itself informative, and it is where my concern starts.\n\nA record of where people drove is either governed by a rule strong enough to publish or governed by practice. Practice changes without notice and leaves nothing for a resident to point to when they want to know what protects them.\n\nSince the population in that file is overwhelmingly people under no suspicion, the protection matters more than usual. I would rather see the readers around campus removed and none installed than see a standard written after the fact. Where do you stand, and does a written standard exist? A student would be grateful to read it."
+  },
+  {
+    "id": "rights-040",
+    "angle": "rights",
+    "subject": "What would justify recording every passing driver",
+    "body": "Dear {{officialName}},\n\nHere is a question I would put to anyone who supports these cameras, and I mean it sincerely. What would have to be true for recording every passing driver to be justified, and is it true in {{city}}?\n\nI ask because the standard normally runs the other way. Government explains why it needs to gather something about a person, and the person does not have to explain why they would rather not be gathered. Around {{shortName}} that burden seems to have quietly switched sides.\n\nIf the case for the readers can be made, I would like to see it made in those terms and in public. Failing that, I hope the cameras come down and that no new ones go up. Would you tell a student which of those you think applies?"
+  },
+  {
+    "id": "rights-041",
+    "angle": "rights",
+    "subject": "A plain worry about the campus plate readers",
+    "body": "Dear {{officialName}},\n\nMy worry is short. Cameras around {{shortName}} gather information about people who have done nothing, and they gather it before anyone has a reason to want it.\n\nEverything else follows from that. Retention limits and access rules are attempts to manage a problem that would not exist if the collection had never started, and they are written by the same offices the limits apply to.\n\nSo my request skips the middle. I would like the readers around campus removed, and no new ones installed in {{city}}. A student has no special standing here, though the roads are used by everyone, and nobody using them was asked.\n\nIf you would rather regulate than remove, I would still like to know that, along with the reasoning behind it. Thank you for hearing me out."
+  },
+  {
+    "id": "rights-042",
+    "angle": "rights",
+    "subject": "Evidence of a crime and an inventory of everyone",
+    "body": "Dear {{officialName}},\n\nEvidence is gathered about an event. An inventory is gathered about a population. Plate readers around {{shortName}} produce the second and get discussed as though they produced the first, and that substitution is what concerns me.\n\nThe difference does not feel like a technicality. Gathering evidence has a natural stopping point, because the event is finite. An inventory has no such point, since the population keeps moving and the file keeps growing, while the people in it did nothing to enter it.\n\nWith roughly {{readersWithinMile}} readers within a mile of campus, the inventory here is thorough. I am a student asking that they be removed and that {{city}} install no new ones. Would you tell me whether you could support that?"
+  },
+  {
+    "id": "rights-043",
+    "angle": "rights",
+    "subject": "Records held on people who moved away",
+    "body": "Dear {{officialName}},\n\nStudents who graduate leave {{city}}. Whatever the plate readers recorded about them stays behind, and I cannot find any moment at which someone reviews that file and decides it no longer serves a purpose.\n\nThe result is a slowly accumulating record of people with no remaining connection to the city and no practical way to ask about it. None of them were suspected of anything while they lived here, and distance has given them no more control than they had before.\n\nA record like that persists because deleting it takes a decision and keeping it does not. I would rather stop adding to it. I hope you will support removing the readers around {{shortName}} and installing no new ones. Where do you stand?"
+  },
+  {
+    "id": "rights-044",
+    "angle": "rights",
+    "subject": "Knowing you are recorded changes ordinary trips",
+    "body": "Dear {{officialName}},\n\nSomeone who knows their movements are logged behaves slightly differently, even with nothing to conceal. That effect is hard to measure and easy to dismiss, and I still think it is real.\n\nAround {{shortName}} the logging applies to everyone using the roads, so whatever caution it produces falls on people suspected of nothing. They pay a small cost continuously in exchange for a benefit they will almost certainly never see.\n\nNobody intended that, I assume. My point is that a city should not need its residents to feel watched in order to function. If the readers around campus came out and none were installed, the question would resolve itself. That is what one student is asking for. Would you share your position?"
+  },
+  {
+    "id": "rights-045",
+    "angle": "rights",
+    "subject": "Your own vehicle sits in the same file",
+    "body": "Dear {{officialName}},\n\nHere is something I keep coming back to. Your own vehicle is in this system on the same terms as everyone else's, and every trip past a camera near {{shortName}} is recorded and retained, available to whoever can run a query.\n\nI raise it as a test of the principle and nothing more. A system that seems reasonable applied to strangers can read differently applied to yourself, and that difference is a decent sign nobody really consented in the first place.\n\nPeople in {{city}} who are recorded have all done nothing. That is the whole of my concern. As a student here, I hope you will support removing the readers around campus and installing no new ones, and I would be glad to hear whether you will."
+  },
+  {
+    "id": "rights-046",
+    "angle": "rights",
+    "subject": "A surveillance decision that never reached a vote",
+    "body": "Dear {{officialName}},\n\nDecisions that change the relationship between residents and their government usually go through some public process. Installing equipment that records every passing vehicle around {{shortName}} appears to have gone through a purchasing one instead, and that is what prompted this letter.\n\nIt matters because of who carries the consequence. The people recorded are not offenders and not parties to any case. They are constituents whose ordinary movement became a data source with no moment at which they could weigh in.\n\nAs {{officialTitle}}, you could put the question where it belongs. I am a student asking that the readers around campus come out and that {{city}} install no new ones. Would you tell me whether you support that, and how the original approval happened?"
+  },
+  {
+    "id": "rights-047",
+    "angle": "rights",
+    "subject": "A standard residents could actually read",
+    "body": "Dear {{officialName}},\n\nWhatever governs access to the stored plate reads ought to be short enough to publish and clear enough for a resident to follow. As things stand I cannot tell whether searching the archive requires a case number or nothing in particular.\n\nUncertainty of that kind is not neutral, and it is the part that worries me. It falls entirely on the people in the file, who are overwhelmingly drivers with no involvement in anything, and it leaves them unable to judge whether they are protected at all.\n\nRather than publish rules for a system I would rather did not exist, I would ask you to support removing the readers around {{shortName}} and installing none in future. Could you tell this student your position, and whether any standard is currently written down?"
+  },
+  {
+    "id": "rights-048",
+    "angle": "rights",
+    "subject": "A checkpoint on every road would be refused",
+    "body": "Dear {{officialName}},\n\nPicture a checkpoint on every road into campus, stopping each car to note the plate and the time. Most people in {{city}} would object at once, and I do not think the objection would really be about the delay.\n\nPlate readers do the same work without the stopping, which removes the friction and leaves the recording intact. Absence of inconvenience is why the practice went unchallenged, as far as I can tell, not absence of intrusion. Drivers are logged either way, and either way they are suspected of nothing.\n\nI would ask you to judge the cameras by what they collect rather than by how little they interrupt. As a student I would like the readers around {{shortName}} removed, with none installed in their place. Would you tell me where you stand?"
+  },
+  {
+    "id": "rights-049",
+    "angle": "rights",
+    "subject": "Collecting now in order to search later",
+    "body": "Dear {{officialName}},\n\nReaders around {{shortName}} are not really searching anyone today. They are making it possible to search everyone tomorrow, using a record built while nobody had any reason to look.\n\nA search of a person's past movements is a serious thing whenever it happens. Doing the gathering years in advance does not make it less serious to my mind; it moves the moment of intrusion somewhere the person will never notice.\n\nThat is the whole of my concern, and it does not depend on anyone behaving badly. I hope you will support removing the plate readers around campus and installing no new ones in {{city}}. If you see it differently, I would like to understand why, and as a student writing on my own I would appreciate a reply either way."
+  },
+  {
+    "id": "rights-050",
+    "angle": "rights",
+    "subject": "The scale of plate reading across {{state}}",
+    "body": "Dear {{officialName}},\n\nThere are around {{readersInState}} automated plate readers in {{state}}, and about {{readersWithinMile}} of them sit within a mile of {{shortName}}. Those figures describe a network rather than a set of separate tools, and the network is what worries me.\n\nOne camera records a moment. Many of them, linked, record a route, and the person whose route is captured has done nothing that would justify following them for a block, let alone across a state.\n\nScale is the part that never gets voted on, because each camera arrives on its own. As a student here I would like {{city}} to remove the ones near campus and install no more. Would you tell me whether you could support that, and whether the total is something you have looked at?"
+  },
+  {
+    "id": "rights-051",
+    "angle": "rights",
+    "subject": "Whether searches are limited to open investigations",
+    "body": "Dear {{officialName}},\n\nDoes any rule limit searches of the plate archive to open investigations, and does anyone check that the limit is being kept?\n\nI ask because the value of a rule depends entirely on enforcement. A requirement that exists on paper and is never verified protects the department's reputation rather than the people in the file, and those people are almost all residents who have done nothing.\n\nAround {{shortName}} the collection runs continuously, so the archive keeps offering more to search. Rules that were adequate for a small file get strained by a large one. I would rather see the readers removed and none installed than rely on a limit I cannot watch being applied. Would you tell me your position, and whether such a limit exists? A student would be glad of either."
+  },
+  {
+    "id": "rights-052",
+    "angle": "rights",
+    "subject": "Uses that have nothing to do with public safety",
+    "body": "Dear {{officialName}},\n\nOnce a movement record exists, requests arrive from places nobody anticipated. Civil disputes and outside agencies with their own priorities all have reasons to want it, and each request will look defensible on its own.\n\nThe people whose movements get handed over are no part of any of it. They were recorded near {{shortName}} for a stated purpose and end up serving purposes they were never told about, without ever having been suspected of anything. That drift is what I find hard to accept.\n\nRemoving the cameras is the only limit that does not depend on the discretion of whoever is asked. As a student I would like {{city}} to take the readers around campus down and add no new ones. Would you tell me whether you agree, and what purposes the data may currently serve?"
+  },
+  {
+    "id": "rights-053",
+    "angle": "rights",
+    "subject": "Treating every driver as a possible lead",
+    "body": "Dear {{officialName}},\n\nBehind these cameras sits a premise: any driver might turn out to be relevant. Under that premise, the right response to an ordinary person on an ordinary road is to record them in case.\n\nMost of us assume the opposite. A person is left alone until some reason appears not to leave them alone, and the reason has to come first. Readers near {{shortName}} run on the reverse assumption about roughly everyone in {{city}}, and that reversal is what troubles me.\n\nWhich premise the city operates on is a choice, and right now it seems to be getting made by default. As a student here I would ask you to support removing the readers around campus and installing no new ones. Would you be willing to state your view?"
+  },
+  {
+    "id": "rights-054",
+    "angle": "rights",
+    "subject": "Roads are shared ground rather than a place of consent",
+    "body": "Dear {{officialName}},\n\nPublic roads are shared ground rather than a place people enter under terms. Nobody signs anything at the city line, and no version of travel avoids the cameras, so the claim that drivers have accepted the recording does not survive much examination.\n\nAgreement requires an alternative, as I understand it. A student at {{shortName}} who would rather not be logged has no other way to get where they are going, which makes the recording imposed rather than accepted.\n\nBecause the people affected cannot decline, the decision rests with you. My request is that the readers around campus be removed and no new ones installed. Could you tell me whether that is something you would support, or where you think the reasoning fails?"
+  },
+  {
+    "id": "rights-055",
+    "angle": "rights",
+    "subject": "What a resident is told when they ask",
+    "body": "Dear {{officialName}},\n\nI tried to find out how the plate reader data near {{shortName}} is handled, and what came back was general reassurance rather than specifics. That gap seems worth your attention independent of what you think about the cameras themselves.\n\nA person who is recorded ought to be able to learn the retention period and the conditions for a search without persistence or a formal filing. When only determined people can get answers, the system is accountable to determined people rather than to everyone in it.\n\nEveryone in it, here, means drivers suspected of nothing. As a student I would like the readers around campus removed and no new installations in {{city}}. Would you tell me where you stand? I would be grateful for something specific."
+  },
+  {
+    "id": "rights-056",
+    "angle": "rights",
+    "subject": "A log of vehicles is also a log of gatherings",
+    "body": "Dear {{officialName}},\n\nA record of vehicles by place and time is also a record of who gathered where. That holds whether or not anyone means to use it that way, and it applies to any gathering people drive to, including political and religious ones.\n\nThe people attending are not suspects. They took part in ordinary life and were recorded because a camera near {{shortName}} sits on the road they used to get there.\n\nWhatever safeguards exist today, it is the capability that concerns me, and capability outlasts policy. As a student here I hope you will support removing the readers around campus and installing no new ones. I would appreciate knowing your position, and I would read a contrary argument carefully if you have one."
+  },
+  {
+    "id": "rights-057",
+    "angle": "rights",
+    "subject": "Whether a person can ask for their reads deleted",
+    "body": "Dear {{officialName}},\n\nIf a resident of {{city}} asked for the plate reads tied to their vehicle to be deleted, what would happen? My guess is that no mechanism exists and the request would go nowhere, though I would be glad to be wrong.\n\nThat leaves people holding no control over data about themselves that they cannot see or remove, kept by an office they never dealt with. The justification for holding it is that it might matter someday, which is not something anyone can argue against.\n\nSince the archive is built from people suspected of nothing, the cleanest fix I can see is to stop building it. I hope you will support removing the readers around {{shortName}} and installing no new ones. Would you let a student know your position?"
+  },
+  {
+    "id": "rights-058",
+    "angle": "rights",
+    "subject": "Whether removing the readers has ever been considered",
+    "body": "Dear {{officialName}},\n\nHas anyone in {{city}} government proposed taking the plate readers out? I ask genuinely, because the public discussion I can find is entirely about adding or keeping them, never about whether the collection was justified to begin with.\n\nA program that records residents suspected of nothing ought to face that question periodically. Without a review, the arrangement continues by inertia, and inertia seems a poor reason to hold a lasting record of people's movements.\n\nSo I am asking you to raise it. I would like the readers around {{shortName}} removed, and no new ones installed. If a review is already scheduled, I would like to know when, and whether you would support removal at it. A student would be glad of the date either way."
+  },
+  {
+    "id": "rights-059",
+    "angle": "rights",
+    "subject": "Nothing about this arrangement gets reviewed",
+    "body": "Dear {{officialName}},\n\nMost things a city buys are eventually reconsidered. Plate readers seem to be an exception. Once installed they simply run, and the question of whether they should keep running never quite reaches anyone's agenda.\n\nMeanwhile the record deepens. Every day the cameras near {{shortName}} add entries about people not suspected of anything, and each entry outlives the reason it was collected, since there was no particular reason in the first place.\n\nI would rather see a decision than a default. As a student here I am asking that the readers around campus be removed and that {{city}} install no new ones. Would you tell me whether you could support that, and whether any review of the program exists?"
+  },
+  {
+    "id": "rights-060",
+    "angle": "rights",
+    "subject": "Asking your position on the campus readers",
+    "body": "Dear {{officialName}},\n\nI would like to know where you stand, and I will keep the reasoning brief.\n\nAutomated plate readers around {{shortName}} record everyone who drives past. The recorded population is almost entirely people under no investigation, and the record is kept in case a reason to consult it turns up later. Whether that is acceptable strikes me as a judgment about ordinary residents rather than about crime.\n\nMy own view, as one student, is that it is not, and that the roughly {{readersWithinMile}} cameras within a mile of campus should come out, with none installed to replace them.\n\nCould you tell me your position on removal? A single line would be more useful to me than a general statement about public safety, and I would be grateful for it."
+  },
+  {
+    "id": "rights-061",
+    "angle": "rights",
+    "subject": "Suspicion used to be something a person earned",
+    "body": "Dear {{officialName}},\n\nSuspicion used to be something a person earned through their own conduct. Automated plate readers seem to replace that with a standing condition. Everyone driving near {{shortName}} is recorded, and the record waits to see whether anyone ever becomes interesting.\n\nNone of this requires bad intent from the people running it, and I am not suggesting any. The design itself treats the population as a pool to be drawn from, and the drawing happens without the knowledge of anyone in the pool.\n\nI would ask you to defend the older arrangement. I hope the readers around campus can be removed and that {{city}} installs no new ones. Whether you agree or not, I would like to hear your reasoning, since the question rarely gets addressed directly in public and a student has few other ways to ask."
+  },
+  {
+    "id": "rights-062",
+    "angle": "rights",
+    "subject": "The camera cannot tell who is innocent",
+    "body": "Dear {{officialName}},\n\nA plate reader has no way to distinguish a wanted vehicle from a commuter until after it has recorded both. Collection comes first and sorting comes later, so the uninvolved are gathered as a condition of the system working at all.\n\nBetter software would not change that, since gathering everything is how the design is meant to work. The same holds for the roughly {{readersWithinMile}} cameras within a mile of {{shortName}}.\n\nWhen a practice requires recording the uninvolved in order to function, the question of whether to have it seems to belong to elected officials rather than to a department. As a student I am asking you to answer it by supporting removal of the readers around campus and no new installations. Would you?"
+  },
+  {
+    "id": "rights-063",
+    "angle": "rights",
+    "subject": "Trusting current staff is not quite a safeguard",
+    "body": "Dear {{officialName}},\n\nMost defenses of plate readers come down to confidence in the people currently running them. That confidence may well be warranted. What I cannot get past is that it is not a safeguard, because the archive will outlast every person now responsible for it.\n\nA record of where residents drove, held for years, will eventually be managed by people nobody has met and used under rules nobody has written yet. The residents in it were never suspected of anything and will have no more say then than they have today.\n\nDurable protection comes from not holding the record. I hope you will support removing the readers around {{shortName}} and installing no new ones in {{city}}. A direct reply about where you stand would mean a lot to one student."
+  },
+  {
+    "id": "rights-064",
+    "angle": "rights",
+    "subject": "A record that outlives its own reason",
+    "body": "Dear {{officialName}},\n\nEvery entry in the plate archive was created without a reason attached to it. No case number sits on a read of an ordinary commuter, and nothing anywhere says why it was kept. The absence of a reason never seems to cause it to be discarded.\n\nRecords normally work the other way. Something gets documented because it matters, and when it stops mattering it goes. Around {{shortName}} the documenting comes first and the mattering may never arrive at all.\n\nA city holding files on residents for no articulated reason seems worth questioning even to people who like the technology. As a student here I would like the readers near campus removed and no new installations. Would you tell me your view?"
+  },
+  {
+    "id": "rights-065",
+    "angle": "rights",
+    "subject": "A serious search seems to call for a serious reason",
+    "body": "Dear {{officialName}},\n\nNobody would accept a rule letting an officer look through a resident's home because it might turn something up. The reason has to come first, and it has to be strong enough to convince someone other than the person who wants to look.\n\nSearching a person's stored movements is not identical to that, though it sits closer than the casual treatment of plate data suggests. It shows where somebody was across weeks, drawn from a file they never agreed to join.\n\nAround {{shortName}} that file is being filled with people suspected of nothing, including a good many students. I would like {{city}} to remove the readers around campus and install no new ones. Would you tell me whether you could support that?"
+  },
+  {
+    "id": "rights-066",
+    "angle": "rights",
+    "subject": "Having to travel is not the same as agreeing",
+    "body": "Dear {{officialName}},\n\nPeople drive because they have to. Work and family obligations are not choices in any meaningful sense, so treating the resulting movement as voluntary exposure seems to me to get the situation backwards.\n\nA person who cannot avoid a road cannot really be said to have agreed to what happens on it. Plate readers near {{shortName}} record that unavoidable movement and keep it, without anyone in {{city}} having been asked whether the trade was acceptable.\n\nMy own judgment, for what a student's judgment is worth, is that it was not. I would like the cameras around campus removed, and no new ones installed. If you disagree, could you explain what the recorded population receives in return? I would rather have an answer than an assurance."
+  },
+  {
+    "id": "rights-067",
+    "angle": "rights",
+    "subject": "The most recorded people have the least say",
+    "body": "Dear {{officialName}},\n\nPeople captured most often by these cameras tend to be the ones who drive the same roads every day, and they are rarely the ones with the time or standing to object. Students at {{school}} fall squarely into that group.\n\nA system whose costs land on people without much voice, in exchange for benefits claimed on behalf of everyone, seems to me to deserve a harder look than it usually gets. None of those recorded are under investigation. They are simply predictable.\n\nAs {{role}}, you can act for people who are unlikely to show up and argue. I hope you will support removing the readers around {{shortName}} and installing no new ones, and I would be glad to know whether that is a position you could take."
+  },
+  {
+    "id": "rights-068",
+    "angle": "rights",
+    "subject": "Whether any search request has ever been turned down",
+    "body": "Dear {{officialName}},\n\nOne useful test of whether a rule is real is whether it has ever stopped anything. Has any request to search the plate data collected around {{shortName}} been turned down, and does anyone track that?\n\nIf every request is granted, then the standard is doing no work, and the residents in the file are protected only by the habits of whoever holds it. Those residents are almost entirely people with no involvement in any case.\n\nI would rather remove the question than measure it. As a student here I am asking that {{city}} take the readers around campus out and install no new ones. Could you tell me whether refusals are tracked, and whether you would support removal?"
+  },
+  {
+    "id": "rights-069",
+    "angle": "rights",
+    "subject": "Internal rules the public never sees",
+    "body": "Dear {{officialName}},\n\nRules governing a police database are often internal documents rather than public ones. That arrangement might be fine for routine procedure. It sits badly with me for a system recording residents who have done nothing, since those residents cannot evaluate a rule they are not permitted to read.\n\nAround {{shortName}} the recording is continuous and the rules are opaque to the people it affects. Trust is being asked for in one direction only.\n\nWhat I want is simpler than disclosure. I would like the readers around campus removed, with none installed in their place. Would you support that? If not, would you at least push for the governing rules to be published so residents and students can judge them for themselves?"
+  },
+  {
+    "id": "rights-070",
+    "angle": "rights",
+    "subject": "Removal would take nothing from ordinary residents",
+    "body": "Dear {{officialName}},\n\nIf the readers around {{shortName}} came down tomorrow, I do not think anybody outside an investigation would lose a thing. The people who would notice are the ones who query the archive, and the people who would benefit are everyone whose movements stop being recorded.\n\nThat asymmetry seems worth weighing. A program whose costs fall on the uninvolved and whose benefits are described in general terms ought to justify itself specifically, and I have not found that justification stated anywhere public in {{city}}.\n\nAs a student I am asking for removal of the cameras around campus and no new installations. Would you tell me your position, and whether the program has ever been evaluated against what it costs the people recorded?"
+  },
+  {
+    "id": "rights-071",
+    "angle": "rights",
+    "subject": "A camera aimed at a road is aimed at everyone",
+    "body": "Dear {{officialName}},\n\nWhen surveillance is aimed at a person, its limits are built in. The device follows one subject and stops when that subject is cleared. A camera aimed at a road has no subject, so it has no natural end and no way to exclude anybody.\n\nThat is the design running near {{shortName}} right now, and it is what makes me uneasy. Every driver becomes a subject for as long as the equipment operates, with no decision ever having been made about them individually.\n\nDecisions about individuals are what keep surveillance proportionate, as I understand it. Since the readers make none, I am a student asking that they be removed around campus and that {{city}} install no new ones. Would you let me know whether you agree?"
+  },
+  {
+    "id": "rights-072",
+    "angle": "rights",
+    "subject": "Everyone becomes a person of interest by default",
+    "body": "Dear {{officialName}},\n\nThe phrase person of interest used to describe a small group. Under a system that records every passing plate, the category quietly widens to include everyone who drives near {{shortName}}, because anyone in the archive can be looked up the moment a reason is offered.\n\nWidening of that kind never gets announced. It happens through the existence of the file, and it reaches people who would be startled to learn they were in it. I was.\n\nA smaller archive is a smaller problem, and no archive is none. I hope you will support removing the readers around campus and installing no new ones in {{city}}. Would you tell this student where you stand, and whether the matter is before you now?"
+  },
+  {
+    "id": "rights-073",
+    "angle": "rights",
+    "subject": "Passengers never chose to be in the record",
+    "body": "Dear {{officialName}},\n\nPlates identify vehicles, and a vehicle usually carries people who made no decision about it. Anyone riding with a friend near {{shortName}} enters the record through someone else's car, with no notice and no connection to whatever the system was meant to address.\n\nHousehold vehicles work the same way. One plate can stand in for several people's movements, and none of them are suspected of anything.\n\nThat reach seems hard to bound with policy, since the data does not know who was inside. As a student who rides with friends as often as I drive, I would like {{city}} to remove the readers around campus and install no new ones. Would you tell me whether you could support that?"
+  },
+  {
+    "id": "rights-074",
+    "angle": "rights",
+    "subject": "Building an archive for whoever comes next",
+    "body": "Dear {{officialName}},\n\nA decision to collect is also a decision about people who are not yet in office. Whatever restraint governs the plate data around {{shortName}} today, the archive itself will still be sitting there under later administrations with different priorities.\n\nResidents recorded in it cannot revisit their situation when those priorities change. They were logged years earlier on a road they had to use, having been suspected of nothing, and the file does not expire when the reasons for it do.\n\nCaution about that seems worth more to me than confidence about the present. I hope you will support removing the readers around campus and installing no new ones in {{city}}. A student would like to know whether you see the long term the same way."
+  },
+  {
+    "id": "rights-075",
+    "angle": "rights",
+    "subject": "This concern does not belong to one party",
+    "body": "Dear {{officialName}},\n\nWorrying about blanket plate collection is not a partisan position, and I would make the same argument to anyone holding your office. The question is whether a government should keep a searchable record of where ordinary people went, and that does not sort neatly by party.\n\nAround {{shortName}} the record is being built on residents suspected of nothing. Whatever someone thinks about policing generally, being catalogued in advance seems a separate matter and can be weighed on its own terms.\n\nSo I am asking, as one student, for removal of the readers around campus and a commitment to install no new ones. Could you tell me your position? A clear disagreement would be better than no answer at all."
+  },
+  {
+    "id": "rights-076",
+    "angle": "rights",
+    "subject": "The safety framing leaves out the people recorded",
+    "body": "Dear {{officialName}},\n\nDiscussions of plate readers usually weigh the benefit to investigations against nothing at all. The cost side of the ledger stays blank, because the people paying it are not in the room and do not know they are paying.\n\nThose people are the drivers near {{shortName}} whose movements get recorded and stored. What they give up is small on any given day and considerable across years, and none of them were asked to contribute it.\n\nA fair accounting would put that on the page. My own conclusion, as a student rather than an expert, is that the balance does not hold, and that {{city}} should remove the readers around campus and install no new ones. Would you tell me whether you weigh it differently, and how?"
+  },
+  {
+    "id": "rights-077",
+    "angle": "rights",
+    "subject": "There is no way to opt out of this one",
+    "body": "Dear {{officialName}},\n\nEvery other data collection I run into has some form of refusal attached, however awkward. Plate readers have none. A resident of {{city}} who does not want their movements recorded has no setting to change and no form to file.\n\nThe absence of refusal is usually reserved for things required of everyone for a specific and stated reason. Nothing about a student driving to campus fits that description, and the people affected are suspected of nothing.\n\nWhere refusal is impossible, the decision has to be made collectively or not at all. I am asking that it be made in favor of removing the readers around {{shortName}} and installing no new ones. Would you support that, or tell me why the comparison does not hold?"
+  },
+  {
+    "id": "rights-078",
+    "angle": "rights",
+    "subject": "What happens to the reads after a case closes",
+    "body": "Dear {{officialName}},\n\nWhen an investigation that used the plate archive ends, what becomes of the reads pulled for it, and what becomes of all the reads that were never relevant?\n\nMy suspicion is that nothing happens and the file simply continues. If so, the archive holds information about uninvolved drivers long after the only stated purpose has been satisfied, and those drivers have no way to learn any of it.\n\nStorage is cheap, which removes the practical pressure that used to limit how much a government kept about people. Without that pressure, the limit has to be a decision. I would like the decision to be removal of the readers around {{shortName}} and no new installations. Where do you stand? A student would be grateful for a plain answer."
+  },
+  {
+    "id": "rights-079",
+    "angle": "rights",
+    "subject": "Weighing the campus readers against what they cost",
+    "body": "Dear {{officialName}},\n\nProportion is the whole of my concern here, so let me put it plainly. Around {{readersWithinMile}} plate readers operate within a mile of {{shortName}}, recording every vehicle that passes, with no distinction drawn between a wanted car and a student driving to class.\n\nThe benefit is real and narrow, since it applies to the small set of plates someone is already looking for. The cost is broad and continuous, since it applies to everyone else and accrues quietly across years.\n\nNormally we do not accept broad costs for narrow benefits when a narrower method exists. Looking for a specific vehicle does not require keeping a record of every other vehicle.\n\nI would like the readers around campus removed, and no new ones installed. I would appreciate your position in writing."
+  },
+  {
+    "id": "rights-080",
+    "angle": "rights",
+    "subject": "Hoping the campus plate readers come down",
+    "body": "Dear {{officialName}},\n\nThe request is straightforward, so I will not pad it. I would like the automated plate readers around {{shortName}} taken down, and I hope {{city}} installs no further ones.\n\nMy reason is the population they capture. Almost everyone recorded is a person going about a lawful day who will never be connected to any investigation, and the recording happens before anybody has grounds to be interested in them.\n\nRules about access might soften that. They cannot fix the underlying arrangement, under which residents and students are entered into a searchable file as a matter of routine.\n\nI would be grateful for a direct answer on whether you support removal, even a brief one. Thank you for taking the time to read this."
+  },
+  {
+    "id": "rights-081",
+    "angle": "rights",
+    "subject": "Noting every envelope that passes through town",
+    "body": "Dear {{officialName}},\n\nSuppose a city kept a log of the outside of every envelope moving through it, recording sender and destination without opening anything. No private words would be read, and I think most people would still find the arrangement hard to accept.\n\nPlate readers seem to work along similar lines. They record the outside of a trip rather than its content, and the accumulation still describes a life. Around {{shortName}} that accumulation covers residents who have given nobody a reason to look.\n\nThe familiar answer is that no message was read. Mine is that the pattern was the message. I hope you will support removing the readers around campus and installing no new ones in {{city}}, and I would be glad to hear from you either way. A student is easy to ignore, so I appreciate the reading."
+  },
+  {
+    "id": "rights-082",
+    "angle": "rights",
+    "subject": "A guard writing down every name at the door",
+    "body": "Dear {{officialName}},\n\nA person stationed at a doorway writing down the name of everyone who enters would be understood as surveillance immediately, even though the doorway is public and the names are visible.\n\nAutomation makes the same practice feel administrative, and that is what unsettles me. Readers near {{shortName}} do that work along every road they cover, continuously, for people who have no idea their arrival was noted.\n\nFamiliarity is not consent, and efficiency is not justification. What I am asking, as a student here, is that {{city}} remove the cameras around campus and install no new ones. If you think the doorway comparison is unfair, I would honestly like to hear why, and a reply either way would be welcome."
+  },
+  {
+    "id": "rights-083",
+    "angle": "rights",
+    "subject": "The archive worries me because it is useful",
+    "body": "Dear {{officialName}},\n\nWhatever makes these cameras attractive is also what makes them worrying to me. A record of everyone's movements is genuinely useful, which is exactly why pressure to use it will keep arriving from directions nobody has anticipated.\n\nUseful records get consulted. Around {{shortName}} the record consists of people suspected of nothing, so every future use starts from a base of the uninvolved and works outward from there.\n\nLimiting use is a promise, while limiting collection is a fact. I would rather have the fact. As a student here I hope you will support removing the readers around campus and installing no new ones in {{city}}. Could you tell me where you stand?"
+  },
+  {
+    "id": "rights-084",
+    "angle": "rights",
+    "subject": "How far back a single query can reach",
+    "body": "Dear {{officialName}},\n\nWhen someone searches the plate archive near {{shortName}}, how far into the past can that search go? A day is one kind of tool. Years of stored history are a different kind of thing entirely, and the difference does not feel like a technical detail.\n\nDepth determines what a search reveals. Enough history turns a set of sightings into a routine, and routines describe people who have never been accused of anything more precisely than most of them would be comfortable with.\n\nI could not find this published for {{city}}, and I doubt many students or residents know the answer. My preference is removal rather than a shorter window. I would like the readers around campus taken out, with no new ones installed. What is your position, and how far back does the data go?"
+  },
+  {
+    "id": "rights-085",
+    "angle": "rights",
+    "subject": "Whether anyone outside the department approves a search",
+    "body": "Dear {{officialName}},\n\nOne question decides most of what matters to me here. Before the plate archive around {{shortName}} is searched, does anybody outside the requesting department approve it?\n\nInternal approval is not nothing, and it is also not independent. The same office that wants the answer decides whether the request is proper, while the person whose movements are being examined is never told and never represented.\n\nSince nearly everyone in that archive is under no suspicion, an outside check would seem the minimum. My own preference is simpler than a review process. I would like the readers around campus removed, and I hope {{city}} installs no new ones. Could you tell a student what approval is required today, and whether you support removal?"
+  },
+  {
+    "id": "rights-086",
+    "angle": "rights",
+    "subject": "Who reviews the plate reader policy and how often",
+    "body": "Dear {{officialName}},\n\nWho reviews the policy governing these cameras, and how often? Does any part of that review consider the people being recorded rather than the effectiveness of the tool?\n\nMy guess is that the review, where it happens at all, asks whether the system helped and not whether the collection was warranted. Those seem like separate questions to me, and only the second one concerns residents of {{city}} who are suspected of nothing.\n\nA program can be effective and still amount to more intrusion than the situation calls for. I would ask you to weigh that and to support removing the readers around {{shortName}}, with no new ones installed. Would you tell this student your view, and who conducts the review?"
+  },
+  {
+    "id": "rights-087",
+    "angle": "rights",
+    "subject": "Students are constituents while they are here",
+    "body": "Dear {{officialName}},\n\nStudents at {{school}} live in {{city}} for years at a stretch, and the plate readers treat them like everyone else while the political process largely does not. Being temporary should not mean being recorded without recourse.\n\nWhat I am raising is not really a student grievance, though. The recording covers permanent residents on identical terms, and none of them agreed to it either. Being on a road is being on a road, whoever you happen to be.\n\nI would like the readers around campus removed and no new ones installed. Would you tell me whether you support that, and whether {{role}} has taken any position on the program? I would be grateful for whatever you can say."
+  },
+  {
+    "id": "rights-088",
+    "angle": "rights",
+    "subject": "A commitment not to install more readers",
+    "body": "Dear {{officialName}},\n\nBeyond removal, there is a commitment I would like to ask you for, and it costs nothing to make. I hope you will say publicly that you will not support installing further plate readers in {{city}}.\n\nWithout such a commitment the count drifts upward, since each addition is small and each gets decided separately. People who are recorded never appear in that process. They learn about the cameras, if at all, by noticing one on a pole.\n\nExisting readers around {{shortName}} should come out for the same reason, to my mind. Recording people suspected of nothing seems the wrong default for a city to hold. Would you make both commitments, and may a student quote your answer?"
+  },
+  {
+    "id": "rights-089",
+    "angle": "rights",
+    "subject": "Whether movement records reach private parties",
+    "body": "Dear {{officialName}},\n\nCan the plate data collected around {{shortName}} reach anyone outside government, whether through a contract or some partnership arrangement?\n\nI ask because the people in that record have no relationship with any such party and no way to object to a transfer they will never hear about. Their movements were captured on a public road while they were suspected of nothing, and the file has been travelling ever since.\n\nA question like this has a clean answer if nothing is collected. I am a student asking that {{city}} remove the readers near campus and install no new ones. Would you tell me who can currently receive the data, and whether you would support removal? Either half of that would help."
+  },
+  {
+    "id": "rights-090",
+    "angle": "rights",
+    "subject": "A movement archive is a target for other people",
+    "body": "Dear {{officialName}},\n\nAny stored record eventually faces the question of who might obtain it without permission. A file describing where residents of {{city}} drive would be valuable to people well outside the purposes it was created for, and that possibility stays with me.\n\nResidents carrying that risk did nothing to take it on. They drove past a camera near {{shortName}} while suspected of nothing, and the exposure that followed was decided by someone else on their behalf.\n\nRisk of that kind cannot be fully managed, only avoided. As a student here I am asking that the readers around campus be removed and that none be installed in future. Would you tell me whether you would support that, and whether the risk has ever been assessed publicly?"
+  },
+  {
+    "id": "rights-091",
+    "angle": "rights",
+    "subject": "Forgetting used to be built into public life",
+    "body": "Dear {{officialName}},\n\nForgetting has always done quiet work in a free society. Most of what people do in public disappears within hours, and that disappearance is what makes ordinary life feel unsupervised.\n\nPlate readers end it for anyone who drives. Around {{shortName}} a trip taken today stays retrievable long after everyone involved has moved on, and the people in that record were never suspected of anything to begin with.\n\nReplacing forgetting with lasting storage seems a serious change to make without asking anyone. As a student here I would like {{city}} to remove the readers around campus and install no new ones. Would you let me know your position, and whether you think residents were ever consulted about this?"
+  },
+  {
+    "id": "rights-092",
+    "angle": "rights",
+    "subject": "Ordinary routes turned into data points",
+    "body": "Dear {{officialName}},\n\nCommuting is about the least remarkable thing a person does, which is what makes recording it strange to me. There is nothing to find in most of these reads, and they are kept anyway.\n\nAround {{shortName}} the cameras convert unremarkable trips into durable entries about identifiable people. Nobody decided that any particular resident merited that. The equipment simply records whatever passes.\n\nWhen the justification for keeping a record is that it might matter later, everything qualifies and nothing gets excluded. I would ask you to support removing the readers around campus and installing no new ones in {{city}}. Could you tell me whether you agree with the principle, and how you would vote? I am one student, and I would still like to know."
+  },
+  {
+    "id": "rights-093",
+    "angle": "rights",
+    "subject": "Asking for a yes or no on the campus readers",
+    "body": "Dear {{officialName}},\n\nI will ask directly, since a staffer's time is short. Do you support removing the automated plate readers around {{shortName}} and installing no new ones in {{city}}?\n\nMy reason for asking is simple. Those cameras record people who are not suspected of anything and make the record searchable by people the recorded will never meet. Everything else about the program follows from that arrangement, at least as I understand it.\n\nA yes tells me you see the same problem, and a no tells me where my argument still needs work. Either answer would be more useful to this student than a description of how the technology works, so I would appreciate a plain reply."
+  },
+  {
+    "id": "rights-094",
+    "angle": "rights",
+    "subject": "Restraint is a decision a city gets to make",
+    "body": "Dear {{officialName}},\n\nCapability arrives whether or not anyone wanted it. What a city does with that capability is a decision, and choosing not to use something available seems to me a legitimate choice rather than a failure of nerve.\n\nCameras that read plates could be pointed at every road in {{city}} tomorrow. Around {{shortName}} a version of that is already running, applied to residents and students who have given nobody grounds for interest in them.\n\nRestraint here would mean removing the readers near campus and installing no new ones. I would like to know whether you would defend that choice publicly, and whether you think the current arrangement was ever really chosen at all."
+  },
+  {
+    "id": "rights-095",
+    "angle": "rights",
+    "subject": "What the cameras assume about the people here",
+    "body": "Dear {{officialName}},\n\nEvery surveillance decision carries an assumption about the people it covers. Recording every driver assumes that any of them might need to be looked up, which strikes me as a strange thing for a city to assume about its own residents.\n\nAround {{shortName}} the assumption applies continuously and without exception. Nobody is excluded for good behavior and nobody is included for bad, since the equipment does not know the difference and does not need to.\n\nAssumptions like that shape how a government sees the people it serves. As a student here I am asking you to set this one aside by supporting removal of the readers around campus and no new installations in {{city}}. Would you tell me where you stand?"
+  },
+  {
+    "id": "rights-096",
+    "angle": "rights",
+    "subject": "Which authority controls the readers around campus",
+    "body": "Dear {{officialName}},\n\nCould you tell me which authority controls the plate readers on the roads around {{shortName}}, and whether {{city}} policy applies to all of them?\n\nI ask because a student trying to understand their own exposure runs into a boundary problem quickly. Different roads may fall under different bodies, and the record still ends up in the same searchable pile regardless of who owns the pole.\n\nWhatever the answer, the people being recorded are the same people, and they are suspected of nothing. My request is that the readers around campus be removed and that no new ones be installed, whichever authority is responsible. Would you support that, and can you say who I should write to next?"
+  },
+  {
+    "id": "rights-097",
+    "angle": "rights",
+    "subject": "Where the burden of explanation ought to sit",
+    "body": "Dear {{officialName}},\n\nResidents are being asked to explain why they object to being recorded. That seems to me the wrong way round. A program gathering information about people who have done nothing ought to carry the burden of showing why the gathering is necessary at all.\n\nSo far the case for the readers around {{shortName}} has been made in generalities, while the intrusion is specific and lands on identifiable people in a database.\n\nUntil the case is made properly and in public, I would rather the collection stopped. I hope the cameras around campus come out and that {{city}} installs no new ones. Would you tell a student whether you agree about where the burden sits, and what your position on removal is?"
+  },
+  {
+    "id": "rights-098",
+    "angle": "rights",
+    "subject": "No notice is given to the people recorded",
+    "body": "Dear {{officialName}},\n\nNobody recorded by these cameras is ever told. There is no notification at the time and none if the record is later searched, so far as I can determine.\n\nSilence like that would be unremarkable for a system covering suspects. It is harder for me to accept in one covering everybody, since the people affected cannot raise a concern about something they do not know happened.\n\nAround {{shortName}} the practice covers everybody, students included. I would like {{city}} to remove the readers there and install no new ones. Would you tell me whether any notice is given at present, and whether you support removal? A brief answer would be enough, and welcome."
+  },
+  {
+    "id": "rights-099",
+    "angle": "rights",
+    "subject": "The totals across {{state}} put this in perspective",
+    "body": "Dear {{officialName}},\n\nSomething about the total clarifies this for me. Roughly {{readersInState}} automated plate readers now operate in {{state}}, gathering from a population that is, in almost its entirety, not under investigation.\n\nNo single decision produced that number, and no single official could undo it. What you can affect is the portion near {{shortName}}, where about {{readersWithinMile}} of them stand within a mile of a campus full of students who never agreed to any of it.\n\nRemoving those, and adding none, would be a real limit rather than a gesture. Would you support it? I would like a clear answer, and I would also like to know whether the totals have ever been reported to {{role}}."
+  },
+  {
+    "id": "rights-100",
+    "angle": "rights",
+    "subject": "Why the collection itself is what troubles me",
+    "body": "Dear {{officialName}},\n\nStrip away the details and one thing remains for me. Automated plate readers record people in advance of any reason to record them, and around {{shortName}} that means residents and students who have done nothing get entered into a file they cannot see.\n\nEvery other argument about this program sits downstream of that. Retention limits and oversight are ways of managing a collection that I do not think should have begun, and each depends on rules that can change without the recorded ever hearing about it.\n\nSo the request stays simple. I would like the readers around campus removed, and no new ones installed in {{city}}. Would you tell me plainly whether that is a position you could support?"
+  }
+]

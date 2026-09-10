@@ -1,0 +1,789 @@
+{
+ "federalHouse": {
+  "0": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Harriet Hageman",
+    "party": "Republican",
+    "phone": "202-225-2311",
+    "url": "https://hageman.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.barrasso.senate.gov/public/index.cfm/contact-form",
+   "email": null,
+   "name": "John Barrasso",
+   "party": "Republican",
+   "phone": "202-224-6441",
+   "url": "https://www.barrasso.senate.gov"
+  },
+  {
+   "contactForm": "https://www.lummis.senate.gov/contact/contact-form/",
+   "email": null,
+   "name": "Cynthia Lummis",
+   "party": "Republican",
+   "phone": "202-224-3424",
+   "url": "https://www.lummis.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "chip.neiman@wyoleg.gov",
+    "name": "Chip Neiman",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2070"
+   }
+  ],
+  "10": [
+   {
+    "email": "justin.fornstrom@wyoleg.gov",
+    "name": "Justin Fornstrom",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2025/H/2146"
+   }
+  ],
+  "11": [
+   {
+    "email": "jacob.wasserburger@wyoleg.gov",
+    "name": "Jacob Wasserburger",
+    "party": "Republican",
+    "url": "https://wyoleg.gov/Legislators/2025/H/2139"
+   }
+  ],
+  "12": [
+   {
+    "email": "clarence.styvar@wyoleg.gov",
+    "name": "Clarence Styvar",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2051"
+   }
+  ],
+  "13": [
+   {
+    "email": "ken.chestek@wyoleg.gov",
+    "name": "Ken Chestek",
+    "party": "Democratic",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2095"
+   }
+  ],
+  "14": [
+   {
+    "email": "trey.sherwood@wyoleg.gov",
+    "name": "Trey Sherwood",
+    "party": "Democratic",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2072"
+   }
+  ],
+  "15": [
+   {
+    "email": "pam.thayer@wyoleg.gov",
+    "name": "Pam Thayer",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2025/H/2119"
+   }
+  ],
+  "16": [
+   {
+    "email": "mike.yin@wyoleg.gov",
+    "name": "Mike Yin",
+    "party": "Democratic",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2054"
+   }
+  ],
+  "17": [
+   {
+    "email": "jt.larson@wyoleg.gov",
+    "name": "J.T. Larson",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2096"
+   }
+  ],
+  "18": [
+   {
+    "email": "scott.heiner@wyoleg.gov",
+    "name": "Scott Heiner",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2074"
+   }
+  ],
+  "19": [
+   {
+    "email": "joe.webb@wyoleg.gov",
+    "name": "Joe Webb",
+    "party": "Republican",
+    "url": "https://wyoleg.gov/Legislators/2025/H/2120"
+   }
+  ],
+  "2": [
+   {
+    "email": "jd.williams@wyoleg.gov",
+    "name": "J.D. Williams",
+    "party": "Republican",
+    "url": "https://www.jdforstatehouse.com/"
+   }
+  ],
+  "20": [
+   {
+    "email": "mike.schmid@wyoleg.gov",
+    "name": "Mike Schmid",
+    "party": "Republican",
+    "url": "https://wyoleg.gov/Legislators/2025/H/2121"
+   }
+  ],
+  "21": [
+   {
+    "email": "mckay.erickson@wyoleg.gov",
+    "name": "McKay Erickson",
+    "party": "Republican",
+    "url": "https://wyoleg.gov/Legislators/2025/R/2122"
+   }
+  ],
+  "22": [
+   {
+    "email": "andrew.byron@wyoleg.gov",
+    "name": "Andrew Byron",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2099"
+   }
+  ],
+  "23": [
+   {
+    "email": "liz.storer@wyoleg.gov",
+    "name": "Liz Storer",
+    "party": "Democratic",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2100"
+   }
+  ],
+  "24": [
+   {
+    "email": "nina.webber@wyoleg.gov",
+    "name": "Nina Webber",
+    "party": "Republican",
+    "url": "https://wyoleg.gov/Legislators/2025/H/2123"
+   }
+  ],
+  "25": [
+   {
+    "email": "paul.hoeft@wyoleg.gov",
+    "name": "Paul Hoeft",
+    "party": "Republican",
+    "url": "https://wyoleg.gov/Legislators/2025/H/2124"
+   }
+  ],
+  "26": [
+   {
+    "email": "dalton.banks@wyoleg.gov",
+    "name": "Dalton Banks",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2101"
+   }
+  ],
+  "27": [
+   {
+    "email": "martha.lawley@wyoleg.gov",
+    "name": "Martha Lawley",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2102"
+   }
+  ],
+  "28": [
+   {
+    "email": "john.winter@wyoleg.gov",
+    "name": "John Winter",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2056"
+   }
+  ],
+  "29": [
+   {
+    "email": "ken.pendergraft@wyoleg.gov",
+    "name": "Ken Pendergraft",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2103"
+   }
+  ],
+  "3": [
+   {
+    "email": "abby.angelos@wyoleg.gov",
+    "name": "Abby Angelos",
+    "party": "Republican",
+    "url": "https://en.wikipedia.org/wiki/Abby_Angelos"
+   }
+  ],
+  "30": [
+   {
+    "email": "tom.kelly@wyoleg.gov",
+    "name": "Tom Kelly",
+    "party": "Republican",
+    "url": "https://wyoleg.gov/Legislators/2025/H/2125"
+   }
+  ],
+  "31": [
+   {
+    "email": "john.bear@wyoleg.gov",
+    "name": "John Bear",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2075"
+   }
+  ],
+  "32": [
+   {
+    "email": "ken.clouston@wyoleg.gov",
+    "name": "Ken Clouston",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2104"
+   }
+  ],
+  "33": [
+   {
+    "email": "ivan.posey@wyoleg.gov",
+    "name": "Ivan Posey",
+    "party": "Democratic",
+    "url": "https://www.poseyforhd33.com/"
+   }
+  ],
+  "34": [
+   {
+    "email": "pepper.ottman@wyoleg.gov",
+    "name": "Pepper Ottman",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2076"
+   }
+  ],
+  "35": [
+   {
+    "email": "tony.locke@wyoleg.gov",
+    "name": "Tony Locke",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2106"
+   }
+  ],
+  "36": [
+   {
+    "email": "art.washut@wyoleg.gov",
+    "name": "Art Washut",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2058"
+   }
+  ],
+  "37": [
+   {
+    "email": "steve.harshman@wyoleg.gov",
+    "name": "Steve Harshman",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/717"
+   }
+  ],
+  "38": [
+   {
+    "email": "jayme.lien@wyoleg.gov",
+    "name": "Jayme Lien",
+    "party": "Republican",
+    "url": "https://wyoleg.gov/Legislators/2025/H/2126"
+   }
+  ],
+  "39": [
+   {
+    "email": "cody.wylie@wyoleg.gov",
+    "name": "Cody Wylie",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2107"
+   }
+  ],
+  "4": [
+   {
+    "email": "jeremy.haroldson@wyoleg.gov",
+    "name": "Jeremy Haroldson",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2071"
+   }
+  ],
+  "40": [
+   {
+    "email": "marilyn.connolly@wyoleg.gov",
+    "name": "Marilyn Connolly",
+    "party": "Republican",
+    "url": "https://wyoleg.gov/Legislators/2025/H/2127"
+   }
+  ],
+  "41": [
+   {
+    "email": "gary.brown@wyoleg.gov",
+    "name": "Gary Brown",
+    "party": "Republican",
+    "url": "https://wyoleg.gov/Legislators/2025/H/2140"
+   }
+  ],
+  "42": [
+   {
+    "email": "rob.geringer@wyoleg.gov",
+    "name": "Rob Geringer",
+    "party": "Republican",
+    "url": "https://wyoleg.gov/Legislators/2025/H/2142"
+   }
+  ],
+  "43": [
+   {
+    "email": "ann.lucas@wyoleg.gov",
+    "name": "Ann Lucas",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2025/H/2128"
+   }
+  ],
+  "44": [
+   {
+    "email": "lee.filer@wyoleg.gov",
+    "name": "Lee Filer",
+    "party": "Republican",
+    "url": "https://legisweb.state.wy.us/LegislatorSummary/LegDetail.aspx?LegID=1990"
+   }
+  ],
+  "45": [
+   {
+    "email": "karlee.provenza@wyoleg.gov",
+    "name": "Karlee Provenza",
+    "party": "Democratic",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2080"
+   }
+  ],
+  "46": [
+   {
+    "email": "ocean.andrew@wyoleg.gov",
+    "name": "Ocean Andrew",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2081"
+   }
+  ],
+  "47": [
+   {
+    "email": "bob.davis@wyoleg.gov",
+    "name": "Bob Davis",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2110"
+   }
+  ],
+  "48": [
+   {
+    "email": "darin.mccann@wyoleg.gov",
+    "name": "Darin McCann",
+    "party": "Republican",
+    "url": "https://wyoleg.gov/Legislators/2025/H/2130"
+   }
+  ],
+  "49": [
+   {
+    "email": "robert.wharff@wyoleg.gov",
+    "name": "Bob Wharff",
+    "party": "Republican",
+    "url": "https://wyoleg.gov/Legislators/2021/R/2082"
+   }
+  ],
+  "5": [
+   {
+    "email": "scott.smith@wyoleg.gov",
+    "name": "Scott Smith",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2093"
+   }
+  ],
+  "50": [
+   {
+    "email": "rachel.rodriguez-williams@wyoleg.gov",
+    "name": "Rachel Rodriguez-Williams",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2083"
+   }
+  ],
+  "51": [
+   {
+    "email": "laurie.bratten@wyoleg.gov",
+    "name": "Laurie Bratten",
+    "party": "Republican",
+    "url": "https://wyoleg.gov/Legislators/2025/H/2131"
+   }
+  ],
+  "52": [
+   {
+    "email": "reuben.tarver@wyoleg.gov",
+    "name": "Reuben Tarver",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2112"
+   }
+  ],
+  "53": [
+   {
+    "email": "chris.knapp@wyoleg.gov",
+    "name": "Chris Knapp",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2086"
+   }
+  ],
+  "54": [
+   {
+    "email": "lloyd.larsen@wyoleg.gov",
+    "name": "Lloyd Larsen",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/1988"
+   }
+  ],
+  "55": [
+   {
+    "email": "joel.guggenmos@wyoleg.gov",
+    "name": "Joel Guggenmos",
+    "party": "Republican",
+    "url": "https://wyoleg.gov/Legislators/2025/H/2132"
+   }
+  ],
+  "56": [
+   {
+    "email": "elissa.campbell@wyoleg.gov",
+    "name": "Elissa Campbell",
+    "party": "Republican",
+    "url": "https://wyoleg.gov/Legislators/2025/H/2133"
+   }
+  ],
+  "57": [
+   {
+    "email": "julie.jarvis@wyoleg.gov",
+    "name": "Julie Jarvis",
+    "party": "Republican",
+    "url": "https://wyoleg.gov/Legislators/2025/H/2134"
+   }
+  ],
+  "58": [
+   {
+    "email": "bill.allemand@wyoleg.gov",
+    "name": "Bill Allemand",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2114"
+   }
+  ],
+  "59": [
+   {
+    "email": "jr.riggins@wyoleg.gov",
+    "name": "J.R. Riggins",
+    "party": "Republican",
+    "url": "https://wyoleg.gov/Legislators/2025/H/2135"
+   }
+  ],
+  "6": [
+   {
+    "email": "tomi.strock@wyoleg.gov",
+    "name": "Tomi Strock",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2094"
+   }
+  ],
+  "60": [
+   {
+    "email": "marlene.brady@wyoleg.gov",
+    "name": "Marlene Brady",
+    "party": "Republican",
+    "url": "https://wyoleg.gov/Legislators/2025/H/2143"
+   }
+  ],
+  "61": [
+   {
+    "email": "daniel.singh@wyoleg.gov",
+    "name": "Daniel Singh",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2116"
+   }
+  ],
+  "62": [
+   {
+    "email": "kevin.campbell@wyoleg.gov",
+    "name": "Kevin Campbell",
+    "party": "Republican",
+    "url": "https://wyoleg.gov/Legislators/2025/H/2136"
+   }
+  ],
+  "7": [
+   {
+    "email": "bob.nicholas@wyoleg.gov",
+    "name": "Bob Nicholas",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/1980"
+   }
+  ],
+  "8": [
+   {
+    "email": "steve.johnson@wyoleg.gov",
+    "name": "Steve Johnson",
+    "party": "Republican",
+    "url": "https://wyoleg.gov/Legislators/2025/H/2118"
+   }
+  ],
+  "9": [
+   {
+    "email": "landon.brown@wyoleg.gov",
+    "name": "Landon Brown",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2034"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/wy.csv"
+ },
+ "state": "WY",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "ogden.driskill@wyoleg.gov",
+    "name": "Ogden Driskill",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/S/1972"
+   }
+  ],
+  "10": [
+   {
+    "email": "gary.crum@wyoleg.gov",
+    "name": "Gary Crum",
+    "party": "Republican",
+    "url": "https://wyoleg.gov/Legislators/2025/S/2144"
+   }
+  ],
+  "11": [
+   {
+    "email": "larry.hicks@wyoleg.gov",
+    "name": "Larry Hicks",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/S/1963"
+   }
+  ],
+  "12": [
+   {
+    "email": "john.kolb@wyoleg.gov",
+    "name": "John Kolb",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/S/2066"
+   }
+  ],
+  "13": [
+   {
+    "email": "stacy.jones@wyoleg.gov",
+    "name": "Stacy Jones",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/S/2088"
+   }
+  ],
+  "14": [
+   {
+    "email": "laura.pearson@wyoleg.gov",
+    "name": "Laura Pearson",
+    "party": "Republican",
+    "url": "https://wyoleg.gov/Legislators/2025/R/2138"
+   }
+  ],
+  "15": [
+   {
+    "email": "wendy.schuler@wyoleg.gov",
+    "name": "Wendy Schuler",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/S/2062"
+   }
+  ],
+  "16": [
+   {
+    "email": "dan.dockstader@wyoleg.gov",
+    "name": "Dan Dockstader",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/S/1048"
+   }
+  ],
+  "17": [
+   {
+    "email": "mike.gierau@wyoleg.gov",
+    "name": "Mike Gierau",
+    "party": "Democratic",
+    "url": "https://www.wyoleg.gov/Legislators/2023/S/2027"
+   }
+  ],
+  "18": [
+   {
+    "email": "tim.french@wyoleg.gov",
+    "name": "Tim French",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/S/2067"
+   }
+  ],
+  "19": [
+   {
+    "email": "dan.laursen@wyoleg.gov",
+    "name": "Dan Laursen",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/S/2006"
+   }
+  ],
+  "2": [
+   {
+    "email": "brian.boner@wyoleg.gov",
+    "name": "Brian Boner",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/S/2021"
+   }
+  ],
+  "20": [
+   {
+    "email": "ed.cooper@wyoleg.gov",
+    "name": "Ed Cooper",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/S/2068"
+   }
+  ],
+  "21": [
+   {
+    "email": "bo.biteman@wyoleg.gov",
+    "name": "Bo Biteman",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2018/H/2044"
+   }
+  ],
+  "22": [
+   {
+    "email": "barry.crago@wyoleg.gov",
+    "name": "Barry Crago",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/H/2078"
+   }
+  ],
+  "23": [
+   {
+    "email": "eric.barlow@wyoleg.gov",
+    "name": "Eric Barlow",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/S/1995"
+   }
+  ],
+  "24": [
+   {
+    "email": "troy.mckeown@wyoleg.gov",
+    "name": "Troy McKeown",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/S/2069"
+   }
+  ],
+  "25": [
+   {
+    "email": "cale.case@wyoleg.gov",
+    "name": "Cale Case",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/S/945"
+   }
+  ],
+  "26": [
+   {
+    "email": "tim.salazar@wyoleg.gov",
+    "name": "Tim Salazar",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/S/2028"
+   }
+  ],
+  "27": [
+   {
+    "email": "bill.landen@wyoleg.gov",
+    "name": "Bill Landen",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/S/434"
+   }
+  ],
+  "28": [
+   {
+    "email": "jim.anderson@wyoleg.gov",
+    "name": "Jim Anderson",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/S/1985"
+   }
+  ],
+  "29": [
+   {
+    "email": "bob.ide@wyoleg.gov",
+    "name": "Bob Ide",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/S/2089"
+   }
+  ],
+  "3": [
+   {
+    "email": "cheri.steinmetz@wyoleg.gov",
+    "name": "Cheri Steinmetz",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/S/2011"
+   }
+  ],
+  "30": [
+   {
+    "email": "charles.scott@wyoleg.gov",
+    "name": "Charles Scott",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/S/294"
+   }
+  ],
+  "31": [
+   {
+    "email": "evie.brennan@wyoleg.gov",
+    "name": "Evie Brennan",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/S/2090"
+   }
+  ],
+  "4": [
+   {
+    "email": "tara.nethercott@wyoleg.gov",
+    "name": "Tara Nethercott",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/S/2029"
+   }
+  ],
+  "5": [
+   {
+    "email": "lynn.hutchings@wyoleg.gov",
+    "name": "Lynn Hutchings",
+    "party": "Republican",
+    "url": "https://www.hutchingsforsenate.com/"
+   }
+  ],
+  "6": [
+   {
+    "email": "taft.love@wyoleg.gov",
+    "name": "Taft Love",
+    "party": "Republican",
+    "url": "https://wyoleg.gov/Legislators/2026/R/2145"
+   }
+  ],
+  "7": [
+   {
+    "email": "stephan.pappas@wyoleg.gov",
+    "name": "Stephan Pappas",
+    "party": "Republican",
+    "url": "https://www.wyoleg.gov/Legislators/2023/S/2008"
+   }
+  ],
+  "8": [
+   {
+    "email": "jared.olsen@wyoleg.gov",
+    "name": "Jared Olsen",
+    "party": "Republican",
+    "url": "https://www.olsenforwyoming.com/"
+   }
+  ],
+  "9": [
+   {
+    "email": "chris.rothfuss@wyoleg.gov",
+    "name": "Chris Rothfuss",
+    "party": "Democratic",
+    "url": "https://www.wyoleg.gov/Legislators/2023/S/1971"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

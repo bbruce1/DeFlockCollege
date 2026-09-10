@@ -25,3 +25,21 @@ _ide_helper.php
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+# Every environment variant, however it is named. A backup copy of .env is
+# still a copy of .env, and this repository is public.
+.env.*
+!.env.example
+*.env
+*.pem
+*.key
+auth.json
+
+# Chapter files carry ownership records and creator-supplied contact details.
+# Local test data must never be published.
+/storage/app/chapters/
+/storage/app/states/
+/storage/app/rotation/
+
+# Vite writes this when the dev server runs; it points at a local port.
+/public/hot

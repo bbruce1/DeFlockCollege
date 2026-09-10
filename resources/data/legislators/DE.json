@@ -1,0 +1,541 @@
+{
+ "federalHouse": {
+  "0": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Sarah McBride",
+    "party": "Democrat",
+    "phone": "202-225-4165",
+    "url": "https://mcbride.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.coons.senate.gov/contact",
+   "email": null,
+   "name": "Christopher Coons",
+   "party": "Democrat",
+   "phone": "202-224-5042",
+   "url": "https://www.coons.senate.gov"
+  },
+  {
+   "contactForm": null,
+   "email": null,
+   "name": "Lisa Blunt Rochester",
+   "party": "Democrat",
+   "phone": "202-224-2441",
+   "url": "https://www.bluntrochester.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "nnamdi.chukwuocha@delaware.gov",
+    "name": "Nnamdi Chukwuocha",
+    "party": "Democratic",
+    "url": "https://housedems.delaware.gov/members/house-district-1/"
+   }
+  ],
+  "10": [
+   {
+    "email": "melanie.rosslevin@delaware.gov",
+    "name": "Melanie Ross Levin",
+    "party": "Democratic",
+    "url": "https://housedems.delaware.gov/members/house-district-10/"
+   }
+  ],
+  "11": [
+   {
+    "email": "jeff.spiegelman@delaware.gov",
+    "name": "Jeff Spiegelman",
+    "party": "Republican",
+    "url": "https://housegop.delaware.gov/members/house-district-11/"
+   }
+  ],
+  "12": [
+   {
+    "email": "krista.griffith@delaware.gov",
+    "name": "Krista Griffith",
+    "party": "Democratic",
+    "url": "https://housedems.delaware.gov/members/house-district-12/"
+   }
+  ],
+  "13": [
+   {
+    "email": "deshanna.neal@delaware.gov",
+    "name": "DeShanna Neal",
+    "party": "Democratic",
+    "url": "https://housedems.delaware.gov/members/house-district-13/"
+   }
+  ],
+  "14": [
+   {
+    "email": "claire.snyder-hall@delaware.gov",
+    "name": "Claire Snyder-Hall",
+    "party": "Democratic",
+    "url": "https://housedems.delaware.gov/members/house-district-14/"
+   }
+  ],
+  "15": [
+   {
+    "email": "kamela.smith@delaware.gov",
+    "name": "Kam Smith",
+    "party": "Democratic",
+    "url": "https://housedems.delaware.gov/members/house-district-15/"
+   }
+  ],
+  "16": [
+   {
+    "email": "franklind.cooke@delaware.gov",
+    "name": "Frank Cooke",
+    "party": "Democratic",
+    "url": "https://housedems.delaware.gov/members/house-district-16/"
+   }
+  ],
+  "17": [
+   {
+    "email": "melissa.minorbrown@delaware.gov",
+    "name": "Melissa Minor-Brown",
+    "party": "Democratic",
+    "url": "https://housedems.delaware.gov/members/house-district-17/"
+   }
+  ],
+  "18": [
+   {
+    "email": "sophie.phillips@delaware.gov",
+    "name": "Sophie Phillips",
+    "party": "Democratic",
+    "url": "https://housedems.delaware.gov/members/house-district-18/"
+   }
+  ],
+  "19": [
+   {
+    "email": "kimberly.williams@delaware.gov",
+    "name": "Kim Williams",
+    "party": "Democratic",
+    "url": "https://housedems.delaware.gov/members/house-district-19/"
+   }
+  ],
+  "2": [
+   {
+    "email": "stephaniet.bolden@delaware.gov",
+    "name": "Stephanie Bolden",
+    "party": "Democratic",
+    "url": "https://housedems.delaware.gov/members/house-district-2/"
+   }
+  ],
+  "20": [
+   {
+    "email": "alonna.berry@delaware.gov",
+    "name": "Alonna Berry",
+    "party": "Democratic",
+    "url": "https://housedems.delaware.gov/members/house-district-20/"
+   }
+  ],
+  "21": [
+   {
+    "email": "frank.burns@delaware.gov",
+    "name": "Frank Burns",
+    "party": "Democratic",
+    "url": "https://housedems.delaware.gov/members/house-district-21/"
+   }
+  ],
+  "22": [
+   {
+    "email": "michael.f.smith@delaware.gov",
+    "name": "Mike Smith",
+    "party": "Republican",
+    "url": "https://housegop.delaware.gov/members/house-district-22/"
+   }
+  ],
+  "23": [
+   {
+    "email": "mara.gorman@delaware.gov",
+    "name": "Mara Gorman",
+    "party": "Democratic",
+    "url": "https://housedems.delaware.gov/members/house-district-23/"
+   }
+  ],
+  "24": [
+   {
+    "email": "edward.osienski@delaware.gov",
+    "name": "Ed Osienski",
+    "party": "Democratic",
+    "url": "https://housedems.delaware.gov/members/house-district-24/"
+   }
+  ],
+  "25": [
+   {
+    "email": "cyndie.romer@delaware.gov",
+    "name": "Cyndie Romer",
+    "party": "Democratic",
+    "url": "https://housedems.delaware.gov/members/house-district-25/"
+   }
+  ],
+  "26": [
+   {
+    "email": "madinah.wilson-anton@delaware.gov",
+    "name": "Madinah Wilson-Anton",
+    "party": "Democratic",
+    "url": "https://housedems.delaware.gov/members/house-district-26/"
+   }
+  ],
+  "27": [
+   {
+    "email": "eric.morrison@delaware.gov",
+    "name": "Eric Morrison",
+    "party": "Democratic",
+    "url": "https://housedems.delaware.gov/members/house-district-27/"
+   }
+  ],
+  "28": [
+   {
+    "email": "william.carson@delaware.gov",
+    "name": "Bill Carson",
+    "party": "Democratic",
+    "url": "https://housedems.delaware.gov/members/house-district-28/"
+   }
+  ],
+  "29": [
+   {
+    "email": "william.bush@delaware.gov",
+    "name": "Bill Bush",
+    "party": "Democratic",
+    "url": "https://housedems.delaware.gov/members/house-district-29/"
+   }
+  ],
+  "3": [
+   {
+    "email": "josue.ortega@delaware.gov",
+    "name": "Josue Ortega",
+    "party": "Democratic",
+    "url": "https://housedems.delaware.gov/members/house-district-3/"
+   }
+  ],
+  "30": [
+   {
+    "email": "shannon.morris@delaware.gov",
+    "name": "Shannon Morris",
+    "party": "Republican",
+    "url": "https://housegop.delaware.gov/members/house-district-30/"
+   }
+  ],
+  "31": [
+   {
+    "email": "sean.lynn@delaware.gov",
+    "name": "Sean Lynn",
+    "party": "Democratic",
+    "url": "https://housedems.delaware.gov/members/house-district-31/"
+   }
+  ],
+  "32": [
+   {
+    "email": "kerrievelyn.harris@delaware.gov",
+    "name": "Kerri Harris",
+    "party": "Democratic",
+    "url": "https://housedems.delaware.gov/members/house-district-32/"
+   }
+  ],
+  "33": [
+   {
+    "email": "charles.postles@delaware.gov",
+    "name": "Charles Postles",
+    "party": "Republican",
+    "url": "https://housegop.delaware.gov/members/house-district-33/"
+   }
+  ],
+  "34": [
+   {
+    "email": "lyndon.yearick@delaware.gov",
+    "name": "Lyndon Yearick",
+    "party": "Republican",
+    "url": "https://housegop.delaware.gov/members/house-district-34/"
+   }
+  ],
+  "35": [
+   {
+    "email": "jesse.vanderwende@delaware.gov",
+    "name": "Jesse Vanderwende",
+    "party": "Republican",
+    "url": "https://housegop.delaware.gov/members/house-district-35/"
+   }
+  ],
+  "36": [
+   {
+    "email": "bryan.shupe@delaware.gov",
+    "name": "Bryan Shupe",
+    "party": "Republican",
+    "url": "https://housegop.delaware.gov/members/house-district-36/"
+   }
+  ],
+  "37": [
+   {
+    "email": "valerie.jonesgiltner@delaware.gov",
+    "name": "Valerie Giltner",
+    "party": "Republican",
+    "url": "https://housegop.delaware.gov/members/house-district-37/"
+   }
+  ],
+  "38": [
+   {
+    "email": "ronald.gray@delaware.gov",
+    "name": "Ron Gray",
+    "party": "Republican",
+    "url": "https://housegop.delaware.gov/members/house-district-38/"
+   }
+  ],
+  "39": [
+   {
+    "email": "daniel.short@delaware.gov",
+    "name": "Danny Short",
+    "party": "Republican",
+    "url": "https://housegop.delaware.gov/members/house-district-39/"
+   }
+  ],
+  "4": [
+   {
+    "email": "jeff.hilovsky@delaware.gov",
+    "name": "Jeff Hilovsky",
+    "party": "Republican",
+    "url": "https://housegop.delaware.gov/members/house-district-4/"
+   }
+  ],
+  "40": [
+   {
+    "email": "timothy.dukes@delaware.gov",
+    "name": "Tim Dukes",
+    "party": "Republican",
+    "url": "https://housegop.delaware.gov/members/house-district-40/"
+   }
+  ],
+  "41": [
+   {
+    "email": "rich.collins@delaware.gov",
+    "name": "Rich Collins",
+    "party": "Republican",
+    "url": "https://housegop.delaware.gov/members/house-district-41/"
+   }
+  ],
+  "5": [
+   {
+    "email": "kendra.johnson@delaware.gov",
+    "name": "Kendra Johnson",
+    "party": "Democratic",
+    "url": "https://housedems.delaware.gov/members/house-district-5/"
+   }
+  ],
+  "6": [
+   {
+    "email": "debra.heffernan@delaware.gov",
+    "name": "Debra Heffernan",
+    "party": "Democratic",
+    "url": "https://housedems.delaware.gov/members/house-district-6/"
+   }
+  ],
+  "7": [
+   {
+    "email": "larry.lambert@delaware.gov",
+    "name": "Larry Lambert",
+    "party": "Democratic",
+    "url": "https://housedems.delaware.gov/members/house-district-7/"
+   }
+  ],
+  "8": [
+   {
+    "email": "rae.moore@delaware.gov",
+    "name": "Rae Moore",
+    "party": "Democratic",
+    "url": "https://housedems.delaware.gov/members/house-district-8/"
+   }
+  ],
+  "9": [
+   {
+    "email": "kevin.hensley@delaware.gov",
+    "name": "Kevin Hensley",
+    "party": "Republican",
+    "url": "https://housegop.delaware.gov/members/house-district-9/"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/de.csv"
+ },
+ "state": "DE",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "1": [
+   {
+    "email": "daniel.cruce@delaware.gov",
+    "name": "Dan Cruce",
+    "party": "Democratic",
+    "url": "https://senatedems.delaware.gov/members/senate-district-1/"
+   }
+  ],
+  "10": [
+   {
+    "email": "stephanie.hansen@delaware.gov",
+    "name": "Stephanie Hansen",
+    "party": "Democratic",
+    "url": "https://legis.delaware.gov/AssemblyMember/150/Hansen"
+   }
+  ],
+  "11": [
+   {
+    "email": "bryan.townsend@delaware.gov",
+    "name": "Bryan Townsend",
+    "party": "Democratic",
+    "url": "https://legis.delaware.gov/AssemblyMember/150/Townsend"
+   }
+  ],
+  "12": [
+   {
+    "email": "nicole.poore@delaware.gov",
+    "name": "Nicole Poore",
+    "party": "Democratic",
+    "url": "https://legis.delaware.gov/AssemblyMember/150/Poore"
+   }
+  ],
+  "13": [
+   {
+    "email": "marie.pinkney@delaware.gov",
+    "name": "Marie Pinkney",
+    "party": "Democratic",
+    "url": "https://legis.delaware.gov/AssemblyMember/151/Pinkney"
+   }
+  ],
+  "14": [
+   {
+    "email": "kyra.hoffner@delaware.gov",
+    "name": "Kyra Hoffner",
+    "party": "Democratic",
+    "url": "https://legis.delaware.gov/AssemblyMember/152/Hoffner"
+   }
+  ],
+  "15": [
+   {
+    "email": "dave.lawson@delaware.gov",
+    "name": "Dave Lawson",
+    "party": "Republican",
+    "url": "https://legis.delaware.gov/AssemblyMember/150/Lawson"
+   }
+  ],
+  "16": [
+   {
+    "email": "eric.buckson@delaware.gov",
+    "name": "Eric Buckson",
+    "party": "Republican",
+    "url": "https://legis.delaware.gov/AssemblyMember/152/Buckson"
+   }
+  ],
+  "17": [
+   {
+    "email": "trey.paradee@delaware.gov",
+    "name": "Trey Paradee",
+    "party": "Democratic",
+    "url": "https://legis.delaware.gov/AssemblyMember/150/Paradee"
+   }
+  ],
+  "18": [
+   {
+    "email": "david.l.wilson@delaware.gov",
+    "name": "Dave Wilson",
+    "party": "Republican",
+    "url": "https://legis.delaware.gov/AssemblyMember/150/Wilson"
+   }
+  ],
+  "19": [
+   {
+    "email": "brian.pettyjohn@delaware.gov",
+    "name": "Brian Pettyjohn",
+    "party": "Republican",
+    "url": "https://legis.delaware.gov/AssemblyMember/150/Pettyjohn"
+   }
+  ],
+  "2": [
+   {
+    "email": "darius.brown@delaware.gov",
+    "name": "Darius Brown",
+    "party": "Democratic",
+    "url": "https://legis.delaware.gov/AssemblyMember/150/Brown"
+   }
+  ],
+  "20": [
+   {
+    "email": "gerald.hocker@delaware.gov",
+    "name": "Gerald Hocker",
+    "party": "Republican",
+    "url": "https://legis.delaware.gov/AssemblyMember/150/Hocker"
+   }
+  ],
+  "21": [
+   {
+    "email": "bryant.richardson@delaware.gov",
+    "name": "Bryant Richardson",
+    "party": "Republican",
+    "url": "https://legis.delaware.gov/AssemblyMember/151/Richardson"
+   }
+  ],
+  "3": [
+   {
+    "email": "elizabeth.lockman@delaware.gov",
+    "name": "Tizzy Lockman",
+    "party": "Democratic",
+    "url": "https://legis.delaware.gov/AssemblyMember/150/Lockman"
+   }
+  ],
+  "4": [
+   {
+    "email": "laura.sturgeon@delaware.gov",
+    "name": "Laura Sturgeon",
+    "party": "Democratic",
+    "url": "https://legis.delaware.gov/AssemblyMember/150/Sturgeon"
+   }
+  ],
+  "5": [
+   {
+    "email": "ray.seigfried@delaware.gov",
+    "name": "Ray Seigfried",
+    "party": "Democratic",
+    "url": "https://senatedems.delaware.gov/members/senate-district-5/"
+   }
+  ],
+  "6": [
+   {
+    "email": "russell.huxtable@delaware.gov",
+    "name": "Russ Huxtable",
+    "party": "Democratic",
+    "url": "https://legis.delaware.gov/AssemblyMember/152/Huxtable"
+   }
+  ],
+  "7": [
+   {
+    "email": "spiros.mantzavinos@delaware.gov",
+    "name": "Spiros Mantzavinos",
+    "party": "Democratic",
+    "url": "https://legis.delaware.gov/AssemblyMember/151/Mantzavinos"
+   }
+  ],
+  "8": [
+   {
+    "email": "david.sokola@delaware.gov",
+    "name": "Dave Sokola",
+    "party": "Democratic",
+    "url": "https://legis.delaware.gov/AssemblyMember/150/Sokola"
+   }
+  ],
+  "9": [
+   {
+    "email": "john.walsh@delaware.gov",
+    "name": "Jack Walsh",
+    "party": "Democratic",
+    "url": "https://legis.delaware.gov/AssemblyMember/150/Walsh"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}

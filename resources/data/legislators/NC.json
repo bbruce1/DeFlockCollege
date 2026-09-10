@@ -1,0 +1,1527 @@
+{
+ "federalHouse": {
+  "1": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Donald Davis",
+    "party": "Democrat",
+    "phone": "202-225-3101",
+    "url": "https://dondavis.house.gov"
+   }
+  ],
+  "10": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Pat Harrigan",
+    "party": "Republican",
+    "phone": "202-225-2576",
+    "url": "https://harrigan.house.gov"
+   }
+  ],
+  "11": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Charles (Chuck) Edwards",
+    "party": "Republican",
+    "phone": "202-225-6401",
+    "url": "https://edwards.house.gov"
+   }
+  ],
+  "12": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Alma Adams",
+    "party": "Democrat",
+    "phone": "202-225-1510",
+    "url": "https://adams.house.gov"
+   }
+  ],
+  "13": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Brad Knott",
+    "party": "Republican",
+    "phone": "202-225-4531",
+    "url": "https://knott.house.gov"
+   }
+  ],
+  "14": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Tim Moore",
+    "party": "Republican",
+    "phone": "202-225-5634",
+    "url": "https://timmoore.house.gov"
+   }
+  ],
+  "2": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Deborah Ross",
+    "party": "Democrat",
+    "phone": "202-225-3032",
+    "url": "https://ross.house.gov"
+   }
+  ],
+  "3": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Gregory Murphy",
+    "party": "Republican",
+    "phone": "202-225-3415",
+    "url": "https://murphy.house.gov"
+   }
+  ],
+  "4": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Valerie Foushee",
+    "party": "Democrat",
+    "phone": "202-225-1784",
+    "url": "https://foushee.house.gov"
+   }
+  ],
+  "5": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Virginia Foxx",
+    "party": "Republican",
+    "phone": "202-225-2071",
+    "url": "https://foxx.house.gov"
+   }
+  ],
+  "6": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Addison McDowell",
+    "party": "Republican",
+    "phone": "202-225-3065",
+    "url": "https://mcdowell.house.gov"
+   }
+  ],
+  "7": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "David Rouzer",
+    "party": "Republican",
+    "phone": "202-225-2731",
+    "url": "https://rouzer.house.gov"
+   }
+  ],
+  "8": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Mark Harris",
+    "party": "Republican",
+    "phone": "202-225-1976",
+    "url": "https://markharris.house.gov"
+   }
+  ],
+  "9": [
+   {
+    "contactForm": null,
+    "email": null,
+    "name": "Richard Hudson",
+    "party": "Republican",
+    "phone": "202-225-3715",
+    "url": "https://hudson.house.gov"
+   }
+  ]
+ },
+ "federalSenate": [
+  {
+   "contactForm": "https://www.tillis.senate.gov/public/index.cfm/email-me",
+   "email": null,
+   "name": "Thom Tillis",
+   "party": "Republican",
+   "phone": "202-224-6342",
+   "url": "https://www.tillis.senate.gov"
+  },
+  {
+   "contactForm": "https://www.budd.senate.gov/contact/",
+   "email": null,
+   "name": "Ted Budd",
+   "party": "Republican",
+   "phone": "202-224-3154",
+   "url": "https://www.budd.senate.gov"
+  }
+ ],
+ "lower": {
+  "1": [
+   {
+    "email": "edward.goodwin@ncleg.gov",
+    "name": "Ed Goodwin",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/744"
+   }
+  ],
+  "10": [
+   {
+    "email": "john.bell@ncleg.gov",
+    "name": "John Bell",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/661"
+   }
+  ],
+  "100": [
+   {
+    "email": "julia.greenfield@ncleg.gov",
+    "name": "Julia Greenfield",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/829"
+   }
+  ],
+  "101": [
+   {
+    "email": "carolyn.logan@ncleg.gov",
+    "name": "Carolyn Logan",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/750"
+   }
+  ],
+  "102": [
+   {
+    "email": "becky.carney@ncleg.gov",
+    "name": "Becky Carney",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/322"
+   }
+  ],
+  "103": [
+   {
+    "email": "laura.budd@ncleg.gov",
+    "name": "Laura Budd",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/796"
+   }
+  ],
+  "104": [
+   {
+    "email": "brandon.lofton@ncleg.gov",
+    "name": "Brandon Lofton",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/751"
+   }
+  ],
+  "105": [
+   {
+    "email": "tricia.cotham@ncleg.gov",
+    "name": "Tricia Cotham",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/817"
+   }
+  ],
+  "106": [
+   {
+    "email": "carla.cunningham@ncleg.gov",
+    "name": "Carla Cunningham",
+    "party": "Independent",
+    "url": "https://www.ncleg.gov/Members/Biography/H/642"
+   }
+  ],
+  "107": [
+   {
+    "email": "aisha.dew@ncleg.gov",
+    "name": "Aisha Dew",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/836"
+   }
+  ],
+  "108": [
+   {
+    "email": "john.torbett@ncleg.gov",
+    "name": "John Torbett",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/606"
+   }
+  ],
+  "109": [
+   {
+    "email": "donnie.loftis@ncleg.gov",
+    "name": "Donnie Loftis",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/788"
+   }
+  ],
+  "11": [
+   {
+    "email": "allison.dahle@ncleg.gov",
+    "name": "Allison Dahle",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/740"
+   }
+  ],
+  "110": [
+   {
+    "email": "kelly.hastings@ncleg.gov",
+    "name": "Kelly Hastings",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/618"
+   }
+  ],
+  "111": [
+   {
+    "email": "paul.scott@ncleg.gov",
+    "name": "Paul Scott",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/841"
+   }
+  ],
+  "112": [
+   {
+    "email": "jordan.lopez@ncleg.gov",
+    "name": "Jordan Lopez",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/835"
+   }
+  ],
+  "113": [
+   {
+    "email": "jake.johnson@ncleg.gov",
+    "name": "Jake Johnson",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/762"
+   }
+  ],
+  "114": [
+   {
+    "email": "eric.ager@ncleg.gov",
+    "name": "Eric Ager",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/819"
+   }
+  ],
+  "115": [
+   {
+    "email": "lindsey.prather@ncleg.gov",
+    "name": "Lindsey Prather",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/809"
+   }
+  ],
+  "116": [
+   {
+    "email": "brian.turner@ncleg.gov",
+    "name": "Brian Turner",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/696"
+   }
+  ],
+  "117": [
+   {
+    "email": "jennifer.balkcom@ncleg.gov",
+    "name": "Jennifer Balkcom",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/820"
+   }
+  ],
+  "118": [
+   {
+    "email": "mark.pless@ncleg.gov",
+    "name": "Mark Pless",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/773"
+   }
+  ],
+  "119": [
+   {
+    "email": "anna.ferguson@ncleg.gov",
+    "name": "Anna Ferguson",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/1003"
+   }
+  ],
+  "12": [
+   {
+    "email": "chris.humphrey@ncleg.gov",
+    "name": "Chris Humphrey",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/747"
+   }
+  ],
+  "120": [
+   {
+    "email": "karl.gillespie@ncleg.gov",
+    "name": "Karl Gillespie",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/771"
+   }
+  ],
+  "13": [
+   {
+    "email": "celeste.cairns@ncleg.gov",
+    "name": "Celeste Cairns",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/797"
+   }
+  ],
+  "14": [
+   {
+    "email": "wyatt.gable@ncleg.gov",
+    "name": "Wyatt Gable",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/837"
+   }
+  ],
+  "15": [
+   {
+    "email": "phil.shepard@ncleg.gov",
+    "name": "Phil Shepard",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/628"
+   }
+  ],
+  "16": [
+   {
+    "email": "carson.smith@ncleg.gov",
+    "name": "Carson Smith",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/755"
+   }
+  ],
+  "17": [
+   {
+    "email": "frank.iler@ncleg.gov",
+    "name": "Frank Iler",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/598"
+   }
+  ],
+  "18": [
+   {
+    "email": "deb.butler@ncleg.gov",
+    "name": "Deb Butler",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/730"
+   }
+  ],
+  "19": [
+   {
+    "email": "charles.miller@ncleg.gov",
+    "name": "Charlie Miller",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/778"
+   }
+  ],
+  "2": [
+   {
+    "email": "ray.jeffers@ncleg.gov",
+    "name": "Ray Jeffers",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/805"
+   }
+  ],
+  "20": [
+   {
+    "email": "ted.davis@ncleg.gov",
+    "name": "Ted Davis",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/637"
+   }
+  ],
+  "21": [
+   {
+    "email": "ya.liu@ncleg.gov",
+    "name": "Ya Liu",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/806"
+   }
+  ],
+  "22": [
+   {
+    "email": "william.brisson@ncleg.gov",
+    "name": "William Brisson",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/558"
+   }
+  ],
+  "23": [
+   {
+    "email": "shelly.willingham@ncleg.gov",
+    "name": "Shelly Willingham",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/700"
+   }
+  ],
+  "24": [
+   {
+    "email": "dante.pittman@ncleg.gov",
+    "name": "Dante Pittman",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/839"
+   }
+  ],
+  "25": [
+   {
+    "email": "allen.chesser@ncleg.gov",
+    "name": "Allen Chesser",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/799"
+   }
+  ],
+  "26": [
+   {
+    "email": "donna.white@ncleg.gov",
+    "name": "Donna White",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/728"
+   }
+  ],
+  "27": [
+   {
+    "email": "rodney.pierce@ncleg.gov",
+    "name": "Rodney Pierce",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/838"
+   }
+  ],
+  "28": [
+   {
+    "email": "larry.strickland@ncleg.gov",
+    "name": "Larry Strickland",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/727"
+   }
+  ],
+  "29": [
+   {
+    "email": "vernetta.alston@ncleg.gov",
+    "name": "Vernetta Alston",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/765"
+   }
+  ],
+  "3": [
+   {
+    "email": "steve.tyson@ncleg.gov",
+    "name": "Steve Tyson",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/774"
+   }
+  ],
+  "30": [
+   {
+    "email": "marcia.morey@ncleg.gov",
+    "name": "Marcia Morey",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/732"
+   }
+  ],
+  "31": [
+   {
+    "email": "zack.hawkins@ncleg.gov",
+    "name": "Zack Hawkins",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/742"
+   }
+  ],
+  "32": [
+   {
+    "email": "bryan.cohn@ncleg.gov",
+    "name": "Bryan Cohn",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/827"
+   }
+  ],
+  "33": [
+   {
+    "email": "monika.johnson-hostler@ncleg.gov",
+    "name": "Monika Johnson-Hostler",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/834"
+   }
+  ],
+  "34": [
+   {
+    "email": "tim.longest@ncleg.gov",
+    "name": "Tim Longest",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/818"
+   }
+  ],
+  "35": [
+   {
+    "email": "mike.schietzelt@ncleg.gov",
+    "name": "Mike Schietzelt",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/840"
+   }
+  ],
+  "36": [
+   {
+    "email": "julie.vonhaefen@ncleg.gov",
+    "name": "Julie von Haefen",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/758"
+   }
+  ],
+  "37": [
+   {
+    "email": "erin.pare@ncleg.gov",
+    "name": "Erin Par\u00e9",
+    "party": "Republican",
+    "url": "https://reperinpare.com/home"
+   }
+  ],
+  "38": [
+   {
+    "email": "abe.jones@ncleg.gov",
+    "name": "Abe Jones",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/780"
+   }
+  ],
+  "39": [
+   {
+    "email": "james.roberson@ncleg.gov",
+    "name": "James Roberson",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/786"
+   }
+  ],
+  "4": [
+   {
+    "email": "jimmy.dixon@ncleg.gov",
+    "name": "Jimmy Dixon",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/613"
+   }
+  ],
+  "40": [
+   {
+    "email": "phillip.rubin@ncleg.gov",
+    "name": "Phil Rubin",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/844"
+   }
+  ],
+  "41": [
+   {
+    "email": "maria.cervania@ncleg.gov",
+    "name": "Maria Cervania",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/798"
+   }
+  ],
+  "42": [
+   {
+    "email": "mike.colvin@ncleg.gov",
+    "name": "Mike Colvin",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/831"
+   }
+  ],
+  "43": [
+   {
+    "email": "diane.wheatley@ncleg.gov",
+    "name": "Diane Wheatley",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/785"
+   }
+  ],
+  "44": [
+   {
+    "email": "charles.smith@ncleg.gov",
+    "name": "Charles Smith",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/813"
+   }
+  ],
+  "45": [
+   {
+    "email": "frances.jackson@ncleg.gov",
+    "name": "Frances Jackson",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/803"
+   }
+  ],
+  "46": [
+   {
+    "email": "brenden.jones@ncleg.gov",
+    "name": "Brenden Jones",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/723"
+   }
+  ],
+  "47": [
+   {
+    "email": "john.lowery@ncleg.gov",
+    "name": "John Lowery",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/1001"
+   }
+  ],
+  "48": [
+   {
+    "email": "garland.pierce@ncleg.gov",
+    "name": "Garland Pierce",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/497"
+   }
+  ],
+  "49": [
+   {
+    "email": "cynthia.ball@ncleg.gov",
+    "name": "Cynthia Ball",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/711"
+   }
+  ],
+  "5": [
+   {
+    "email": "bill.ward@ncleg.gov",
+    "name": "Bill Ward",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/816"
+   }
+  ],
+  "50": [
+   {
+    "email": "renee.price@ncleg.gov",
+    "name": "Ren\u00e9e Price",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/810"
+   }
+  ],
+  "51": [
+   {
+    "email": "john.sauls@ncleg.gov",
+    "name": "John Sauls",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/393"
+   }
+  ],
+  "52": [
+   {
+    "email": "ben.moss@ncleg.gov",
+    "name": "Ben Moss",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/784"
+   }
+  ],
+  "53": [
+   {
+    "email": "howard.penny@ncleg.gov",
+    "name": "Howard Penny",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/768"
+   }
+  ],
+  "54": [
+   {
+    "email": "robert.reives@ncleg.gov",
+    "name": "Robert Reives",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/684"
+   }
+  ],
+  "55": [
+   {
+    "email": "mark.brody@ncleg.gov",
+    "name": "Mark Brody",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/663"
+   }
+  ],
+  "56": [
+   {
+    "email": "allen.buansi@ncleg.gov",
+    "name": "Allen Buansi",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/790"
+   }
+  ],
+  "57": [
+   {
+    "email": "tracy.clark@ncleg.gov",
+    "name": "Tracy Clark",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/822"
+   }
+  ],
+  "58": [
+   {
+    "email": "amos.quick@ncleg.gov",
+    "name": "Amos Quick",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/725"
+   }
+  ],
+  "59": [
+   {
+    "email": "alan.branson@ncleg.gov",
+    "name": "Alan Branson",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/821"
+   }
+  ],
+  "6": [
+   {
+    "email": "joe.pike@ncleg.gov",
+    "name": "Joe Pike",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/808"
+   }
+  ],
+  "60": [
+   {
+    "email": "amanda.cook@ncleg.gov",
+    "name": "Amanda Cook",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/1002"
+   }
+  ],
+  "61": [
+   {
+    "email": "pricey.harrison@ncleg.gov",
+    "name": "Pricey Harrison",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/504"
+   }
+  ],
+  "62": [
+   {
+    "email": "john.blust@ncleg.gov",
+    "name": "John Blust",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/234"
+   }
+  ],
+  "63": [
+   {
+    "email": "stephen.ross@ncleg.gov",
+    "name": "Stephen Ross",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/812"
+   }
+  ],
+  "64": [
+   {
+    "email": "dennis.riddell@ncleg.gov",
+    "name": "Dennis Riddell",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/665"
+   }
+  ],
+  "65": [
+   {
+    "email": "reece.pyrtle@ncleg.gov",
+    "name": "Reece Pyrtle",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/787"
+   }
+  ],
+  "66": [
+   {
+    "email": "sarah.crawford@ncleg.gov",
+    "name": "Sarah Crawford",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/800"
+   }
+  ],
+  "67": [
+   {
+    "email": "cody.huneycutt@ncleg.gov",
+    "name": "Cody Huneycutt",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/833"
+   }
+  ],
+  "68": [
+   {
+    "email": "david.willis@ncleg.gov",
+    "name": "David Willis",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/779"
+   }
+  ],
+  "69": [
+   {
+    "email": "dean.arp@ncleg.gov",
+    "name": "Dean Arp",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/640"
+   }
+  ],
+  "7": [
+   {
+    "email": "matthew.winslow@ncleg.gov",
+    "name": "Matthew Winslow",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/776"
+   }
+  ],
+  "70": [
+   {
+    "email": "brian.biggs@ncleg.gov",
+    "name": "Brian Biggs",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/793"
+   }
+  ],
+  "71": [
+   {
+    "email": "kanika.brown@ncleg.gov",
+    "name": "Kanika Brown",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/795"
+   }
+  ],
+  "72": [
+   {
+    "email": "amber.baker@ncleg.gov",
+    "name": "Amber Baker",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/782"
+   }
+  ],
+  "73": [
+   {
+    "email": "jonathan.almond@ncleg.gov",
+    "name": "Jonathan Almond",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/843"
+   }
+  ],
+  "74": [
+   {
+    "email": "jeff.zenger@ncleg.gov",
+    "name": "Jeff Zenger",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/775"
+   }
+  ],
+  "75": [
+   {
+    "email": "donny.lambeth@ncleg.gov",
+    "name": "Donny Lambeth",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/646"
+   }
+  ],
+  "76": [
+   {
+    "email": "harry.warren@ncleg.gov",
+    "name": "Harry Warren",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/630"
+   }
+  ],
+  "77": [
+   {
+    "email": "julia.howard@ncleg.gov",
+    "name": "Julia Howard",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/53"
+   }
+  ],
+  "78": [
+   {
+    "email": "neal.jackson@ncleg.gov",
+    "name": "Neal Jackson",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/804"
+   }
+  ],
+  "79": [
+   {
+    "email": "keith.kidwell@ncleg.gov",
+    "name": "Keith Kidwell",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/749"
+   }
+  ],
+  "8": [
+   {
+    "email": "gloristine.brown@ncleg.gov",
+    "name": "Gloristine Brown",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/794"
+   }
+  ],
+  "80": [
+   {
+    "email": "sam.watford@ncleg.gov",
+    "name": "Sam Watford",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/687"
+   }
+  ],
+  "81": [
+   {
+    "email": "larry.potts@ncleg.gov",
+    "name": "Larry Potts",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/724"
+   }
+  ],
+  "82": [
+   {
+    "email": "brian.echevarria@ncleg.gov",
+    "name": "Brian Echevarria",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/828"
+   }
+  ],
+  "83": [
+   {
+    "email": "grant.campbell@ncleg.gov",
+    "name": "Grant Campbell",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/830"
+   }
+  ],
+  "84": [
+   {
+    "email": "jeffrey.mcneely@ncleg.gov",
+    "name": "Jeff McNeely",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/761"
+   }
+  ],
+  "85": [
+   {
+    "email": "dudley.greene@ncleg.gov",
+    "name": "Dudley Greene",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/777"
+   }
+  ],
+  "86": [
+   {
+    "email": "hugh.blackwell@ncleg.gov",
+    "name": "Hugh Blackwell",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/580"
+   }
+  ],
+  "87": [
+   {
+    "email": "destin.hall@ncleg.gov",
+    "name": "Destin Hall",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/719"
+   }
+  ],
+  "88": [
+   {
+    "email": "mary.belk@ncleg.gov",
+    "name": "Mary Belk",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/713"
+   }
+  ],
+  "89": [
+   {
+    "email": "mitchell.setzer@ncleg.gov",
+    "name": "Mitchell Setzer",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/149"
+   }
+  ],
+  "9": [
+   {
+    "email": "timothy.reeder@ncleg.gov",
+    "name": "Tim Reeder",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/811"
+   }
+  ],
+  "90": [
+   {
+    "email": "dan.kiger@ncleg.gov",
+    "name": "Dan Kiger",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/1004"
+   }
+  ],
+  "91": [
+   {
+    "email": "kyle.hall@ncleg.gov",
+    "name": "Kyle Hall",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/704"
+   }
+  ],
+  "92": [
+   {
+    "email": "terry.brown@ncleg.gov",
+    "name": "Terry Brown",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/783"
+   }
+  ],
+  "93": [
+   {
+    "email": "ray.pickett@ncleg.gov",
+    "name": "Ray Pickett",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/772"
+   }
+  ],
+  "94": [
+   {
+    "email": "blair.eddins@ncleg.gov",
+    "name": "Blair Eddins",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/825"
+   }
+  ],
+  "95": [
+   {
+    "email": "todd.carver@ncleg.gov",
+    "name": "Todd Carver",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/842"
+   }
+  ],
+  "96": [
+   {
+    "email": "jay.adams@ncleg.gov",
+    "name": "Jay Adams",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/697"
+   }
+  ],
+  "97": [
+   {
+    "email": "heather.rhyne@ncleg.gov",
+    "name": "Heather Rhyne",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/823"
+   }
+  ],
+  "98": [
+   {
+    "email": "beth.helfrich@ncleg.gov",
+    "name": "Beth Gardner Helfrich",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/H/832"
+   }
+  ],
+  "99": [
+   {
+    "email": "nasif.majeed@ncleg.gov",
+    "name": "Nasif Majeed",
+    "party": "Independent",
+    "url": "https://www.ncleg.gov/Members/Biography/H/752"
+   }
+  ]
+ },
+ "lowerTitle": "State Representative",
+ "sources": {
+  "federal": "https://unitedstates.github.io/congress-legislators/legislators-current.csv",
+  "state": "https://data.openstates.org/people/current/nc.csv"
+ },
+ "state": "NC",
+ "unicameral": false,
+ "updated": "2026-09-09",
+ "upper": {
+  "10": [
+   {
+    "email": "benton.sawrey@ncleg.gov",
+    "name": "Benton Sawrey",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/S/445"
+   }
+  ],
+  "11": [
+   {
+    "email": "lisa.barnes@ncleg.gov",
+    "name": "Lisa Barnes",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/S/427"
+   }
+  ],
+  "12": [
+   {
+    "email": "jim.burgin@ncleg.gov",
+    "name": "Jim Burgin",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/S/412"
+   }
+  ],
+  "13": [
+   {
+    "email": "lisa.grafstein@ncleg.gov",
+    "name": "Lisa Grafstein",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/S/439"
+   }
+  ],
+  "14": [
+   {
+    "email": "dan.blue@ncleg.gov",
+    "name": "Dan Blue",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/S/268"
+   }
+  ],
+  "15": [
+   {
+    "email": "jay.chaudhuri@ncleg.gov",
+    "name": "Jay Chaudhuri",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/S/395"
+   }
+  ],
+  "16": [
+   {
+    "email": "gale.adcock@ncleg.gov",
+    "name": "Gale Adcock",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/S/436"
+   }
+  ],
+  "17": [
+   {
+    "email": "sydney.batch@ncleg.gov",
+    "name": "Sydney Batch",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/S/434"
+   }
+  ],
+  "18": [
+   {
+    "email": "haseeb.fatmi@ncleg.gov",
+    "name": "Haseeb Fatmi",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/S/1002"
+   }
+  ],
+  "19": [
+   {
+    "email": "val.applewhite@ncleg.gov",
+    "name": "Val Applewhite",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/S/440"
+   }
+  ],
+  "2": [
+   {
+    "email": "norman.sanderson@ncleg.gov",
+    "name": "Norman Sanderson",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/S/375"
+   }
+  ],
+  "20": [
+   {
+    "email": "natalie.murdock@ncleg.gov",
+    "name": "Natalie Murdock",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/S/422"
+   }
+  ],
+  "21": [
+   {
+    "email": "tom.mcinnis@ncleg.gov",
+    "name": "Tom McInnis",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/S/389"
+   }
+  ],
+  "22": [
+   {
+    "email": "sophia.chitlik@ncleg.gov",
+    "name": "Sophia Chitlik",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/S/449"
+   }
+  ],
+  "23": [
+   {
+    "email": "jonah.garson@ncleg.gov",
+    "name": "Jonah Garson",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/S/1001"
+   }
+  ],
+  "24": [
+   {
+    "email": "danny.britt@ncleg.gov",
+    "name": "Danny Britt",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/S/399"
+   }
+  ],
+  "25": [
+   {
+    "email": "amy.galey@ncleg.gov",
+    "name": "Amy Galey",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/S/429"
+   }
+  ],
+  "26": [
+   {
+    "email": "phil.berger@ncleg.gov",
+    "name": "Phil Berger",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/S/64"
+   }
+  ],
+  "27": [
+   {
+    "email": "michael.garrett@ncleg.gov",
+    "name": "Michael Garrett",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/S/414"
+   }
+  ],
+  "28": [
+   {
+    "email": "gladys.robinson@ncleg.gov",
+    "name": "Gladys Robinson",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/S/364"
+   }
+  ],
+  "29": [
+   {
+    "email": "david.craven@ncleg.gov",
+    "name": "Dave Craven",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/S/423"
+   }
+  ],
+  "3": [
+   {
+    "email": "bob.brinson@ncleg.gov",
+    "name": "Bob Brinson",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/S/448"
+   }
+  ],
+  "30": [
+   {
+    "email": "steve.jarvis@ncleg.gov",
+    "name": "Steve Jarvis",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/S/430"
+   }
+  ],
+  "31": [
+   {
+    "email": "dana.jones@ncleg.gov",
+    "name": "Dana Jones",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/S/449"
+   }
+  ],
+  "32": [
+   {
+    "email": "paul.lowe@ncleg.gov",
+    "name": "Paul Lowe",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/S/394"
+   }
+  ],
+  "33": [
+   {
+    "email": "carl.ford@ncleg.gov",
+    "name": "Carl Ford",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/S/410"
+   }
+  ],
+  "34": [
+   {
+    "email": "chris.measmer@ncleg.gov",
+    "name": "Chris Measmer",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/S/455"
+   }
+  ],
+  "35": [
+   {
+    "email": "todd.johnson@ncleg.gov",
+    "name": "Todd Johnson",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/S/406"
+   }
+  ],
+  "36": [
+   {
+    "email": "eddie.settle@ncleg.gov",
+    "name": "Eddie Settle",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/S/446"
+   }
+  ],
+  "37": [
+   {
+    "email": "vickie.sawyer@ncleg.gov",
+    "name": "Vickie Sawyer",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/S/405"
+   }
+  ],
+  "38": [
+   {
+    "email": "mujtaba.mohammed@ncleg.gov",
+    "name": "Mujtaba Mohammed",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/S/417"
+   }
+  ],
+  "39": [
+   {
+    "email": "deandrea.salvador@ncleg.gov",
+    "name": "DeAndrea Salvador",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/S/431"
+   }
+  ],
+  "4": [
+   {
+    "email": "buck.newton@ncleg.gov",
+    "name": "Buck Newton",
+    "party": "Republican",
+    "url": "https://www.ncga.state.nc.us/gascripts/members/viewMember.pl?sChamber=Senate&nUserID=362"
+   }
+  ],
+  "40": [
+   {
+    "email": "joyce.waddell@ncleg.gov",
+    "name": "Joyce Waddell",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/S/393"
+   }
+  ],
+  "41": [
+   {
+    "email": "caleb.theodros@ncleg.gov",
+    "name": "Caleb Theodros",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/S/451"
+   }
+  ],
+  "42": [
+   {
+    "email": "woodson.bradley@ncleg.gov",
+    "name": "Woodson Bradley",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/S/454"
+   }
+  ],
+  "43": [
+   {
+    "email": "brad.overcash@ncleg.gov",
+    "name": "Brad Overcash",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/S/444"
+   }
+  ],
+  "44": [
+   {
+    "email": "ted.alexander@ncleg.gov",
+    "name": "Ted Alexander",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/S/416"
+   }
+  ],
+  "45": [
+   {
+    "email": "mark.hollo@ncleg.gov",
+    "name": "Mark Hollo",
+    "party": "Republican",
+    "url": "https://www.ncga.state.nc.us/gascripts/members/viewMember.pl?sChamber=House&nUserID=619"
+   }
+  ],
+  "46": [
+   {
+    "email": "warren.daniel@ncleg.gov",
+    "name": "Warren Daniel",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/S/295"
+   }
+  ],
+  "47": [
+   {
+    "email": "ralph.hise@ncleg.gov",
+    "name": "Ralph Hise",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/S/298"
+   }
+  ],
+  "48": [
+   {
+    "email": "tim.moffitt@ncleg.gov",
+    "name": "Tim Moffitt",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/H/623"
+   }
+  ],
+  "49": [
+   {
+    "email": "julie.mayfield@ncleg.gov",
+    "name": "Julie Mayfield",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/S/432"
+   }
+  ],
+  "5": [
+   {
+    "email": "kandie.smith@ncleg.gov",
+    "name": "Kandie Smith",
+    "party": "Democratic",
+    "url": "https://www.ncleg.gov/Members/Biography/S/447"
+   }
+  ],
+  "50": [
+   {
+    "email": "kevin.corbin@ncleg.gov",
+    "name": "Kevin Corbin",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/S/433"
+   }
+  ],
+  "6": [
+   {
+    "email": "michael.lazzara@ncleg.gov",
+    "name": "Michael Lazzara",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/S/426"
+   }
+  ],
+  "7": [
+   {
+    "email": "michael.lee@ncleg.gov",
+    "name": "Michael Lee",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/S/387"
+   }
+  ],
+  "8": [
+   {
+    "email": "bill.rabon@ncleg.gov",
+    "name": "Bill Rabon",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/S/303"
+   }
+  ],
+  "9": [
+   {
+    "email": "brent.jackson@ncleg.gov",
+    "name": "Brent Jackson",
+    "party": "Republican",
+    "url": "https://www.ncleg.gov/Members/Biography/S/281"
+   }
+  ]
+ },
+ "upperTitle": "State Senator"
+}
