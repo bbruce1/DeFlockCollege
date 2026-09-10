@@ -43,6 +43,29 @@ final readonly class Slug
         'up',
     ];
 
+    /**
+     * A regex matching any label that is a valid chapter address.
+     *
+     * Used to constrain the wildcard subdomain route, so that www and the other
+     * reserved labels fall through to the ordinary site instead of being looked
+     * up as chapters. Derived from the same list the creation rules use, so the
+     * two cannot drift apart.
+     */
+    public static function subdomainPattern(): string
+    {
+        $reserved = implode('|', array_map(
+            static fn (string $name): string => preg_quote($name, '/'),
+            array_unique(self::RESERVED),
+        ));
+
+        // The guard ends on "not followed by another label character" rather
+        // than on "$": the pattern is compiled into the middle of a host regex,
+        // where "$" means the end of "www.deflock.school", not the end of the
+        // label. Anchored that way it never fired, and www was matched as a
+        // chapter. This also keeps "apple" legal while "app" is reserved.
+        return '(?!(?:'.$reserved.')(?![a-z0-9-]))[a-z0-9][a-z0-9-]{0,30}[a-z0-9]';
+    }
+
     private function __construct(public string $value) {}
 
     public static function fromString(string $raw): self

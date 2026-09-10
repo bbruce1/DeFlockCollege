@@ -3,6 +3,7 @@
 declare(strict_types=1);
 
 use App\Http\Controllers\AdminController;
+use App\Chapters\Slug;
 use App\Http\Controllers\ChapterController;
 use App\Http\Controllers\CoverageController;
 use App\Http\Controllers\ChapterCreationController;
@@ -100,14 +101,17 @@ Route::patch('/{slug}', [ChapterEditController::class, 'update'])
  * page declares that so search engines do not split the two.
  *
  * Registered before the path form, and only when an apex is configured. It
- * cannot shadow the apex itself, which has no leading label to match, and
- * reserved names like "www" are refused by the slug rules.
+ * cannot shadow the apex itself, which has no leading label to match, and the
+ * pattern excludes every reserved label so www.deflock.school reaches the front
+ * page rather than being looked up as a chapter named "www".
  */
 if ($apex = config('app.domain')) {
-    Route::domain('{slug}.'.$apex)->group(function (): void {
-        Route::get('/', [ChapterController::class, 'show'])->name('chapters.subdomain');
-        Route::get('/edit', [ChapterEditController::class, 'edit'])->name('chapters.subdomain.edit');
-    });
+    Route::domain('{slug}.'.$apex)
+        ->where(['slug' => Slug::subdomainPattern()])
+        ->group(function (): void {
+            Route::get('/', [ChapterController::class, 'show'])->name('chapters.subdomain');
+            Route::get('/edit', [ChapterEditController::class, 'edit'])->name('chapters.subdomain.edit');
+        });
 }
 
 /*
