@@ -1,6 +1,7 @@
 import type { Chapter } from '@/templates/contract';
-import { FIXED } from '@/templates/contract';
+import { FIXED, SPARSE_MAX } from '@/templates/contract';
 import type { Skin } from '@/templates/skins';
+import { Link } from '@inertiajs/react';
 import { ActionLink } from '@/Chapter/Button';
 
 /**
@@ -20,10 +21,17 @@ export default function Hero({
     skin: Skin;
 }) {
     const { readersWithinMile, readersInState } = chapter.survey;
-    // Three states, not two: counted and found, counted and found none, and
-    // never counted. The last must not be printed as either of the others.
+    // Four states, not two: a real ring, a ring too thin to lead with, counted
+    // and found none, and never counted. Each says something different and none
+    // may be printed as another.
     const surveyed = readersWithinMile !== null;
-    const mapped = surveyed && readersWithinMile > 0;
+    const mapped = surveyed && readersWithinMile > SPARSE_MAX;
+    // Zero belongs here too. Opening on "no plate readers are mapped near you"
+    // hands the reader a reason to stop reading, and an unmapped campus usually
+    // means nobody has surveyed it rather than that it is clear. The numbers
+    // section below still says plainly that none are mapped, and offers the
+    // link to map one — so the page states it, just not as its first sentence.
+    const sparse = surveyed && readersWithinMile <= SPARSE_MAX;
     // Null when OpenStreetMap could not be reached for the statewide figure.
     // Zero is a measurement; absent is not, and the page says neither.
     const statewide = readersInState === null ? null : readersInState.toLocaleString();
@@ -52,8 +60,14 @@ export default function Hero({
     // Never asserts a ring that is not there: with nothing mapped the page says
     // so and points at the statewide figure instead. With the statewide figure
     // unavailable too, it simply says less.
+    //
+    // One or two readers is the awkward case. Leading on it undersells the
+    // argument — "1 automated plate reader is mapped within a mile" reads as
+    // reassurance — so the statewide figure leads instead. The campus count is
+    // not contradicted, just not the headline: saying "none" here would be a
+    // lie, and the numbers section below still reports it exactly.
     const standfirst = mapped ? (
-        <p style={standfirstStyle}>
+        <p className="hero-standfirst" style={standfirstStyle}>
             <strong style={{ color: 'var(--accent)', fontWeight: 700 }}>
                 {readersWithinMile} automated plate readers
             </strong>{' '}
@@ -61,23 +75,34 @@ export default function Hero({
             {statewide ? `, and ${statewide} across ${stateName}` : ''}. They photograph
             every passing car and keep the record either way.
         </p>
+    ) : sparse && statewide ? (
+        <p className="hero-standfirst" style={standfirstStyle}>
+            <strong style={{ color: 'var(--accent)', fontWeight: 700 }}>
+                {statewide} automated plate readers
+            </strong>{' '}
+            are mapped across {stateName}, and campuses are where they go next. They
+            photograph every passing car and keep the record either way.
+        </p>
+    ) : sparse && readersWithinMile! > 0 ? (
+        <p className="hero-standfirst" style={standfirstStyle}>
+            <strong style={{ color: 'var(--accent)', fontWeight: 700 }}>
+                {readersWithinMile} automated plate {readersWithinMile === 1 ? 'reader' : 'readers'}
+            </strong>{' '}
+            {readersWithinMile === 1 ? 'is' : 'are'} mapped within a mile of{' '}
+            {chapter.shortName}. They photograph every passing car and keep the record
+            either way.
+        </p>
     ) : !surveyed ? (
-        <p style={standfirstStyle}>
+        <p className="hero-standfirst" style={standfirstStyle}>
             Automated plate readers photograph every passing car around{' '}
             {chapter.shortName} and keep the record either way
             {statewide ? `. ${statewide} are mapped across ${stateName}` : ''}. This page
             is where students here organise about it.
         </p>
-    ) : statewide ? (
-        <p style={standfirstStyle}>
-            No plate readers are mapped within a mile of {chapter.shortName} yet, but{' '}
-            <strong style={{ color: 'var(--accent)', fontWeight: 700 }}>
-                {statewide} are mapped across {stateName}
-            </strong>
-            , and campuses are where they go next.
-        </p>
     ) : (
-        <p style={standfirstStyle}>
+        // Nothing mapped nearby and no statewide figure either: there is no
+        // stronger number to lead with, so the page says what it knows.
+        <p className="hero-standfirst" style={standfirstStyle}>
             No plate readers are mapped within a mile of {chapter.shortName} yet. They
             photograph every passing car and keep the record either way, and campuses are
             where they go next.
@@ -86,12 +111,18 @@ export default function Hero({
 
     // With no figure at all there is no number to set large, and a giant blank
     // over the label "cameras within a mile" is worse than no number.
+    //
+    // Which figure is shown decides the label under it. Deriving both from one
+    // flag is what stops a statewide number appearing over "within a mile".
+    const figureIsStatewide = !mapped && statewide !== null;
+
     const headlineFigure = mapped
         ? readersWithinMile!.toLocaleString()
         : (statewide ?? (surveyed ? readersWithinMile!.toLocaleString() : null));
 
     const bigNumber = headlineFigure === null ? null : (
         <div
+            className="hero-figure"
             style={{
                 fontFamily: 'var(--data)',
                 fontSize: 'clamp(4.5rem, 20vw, 11rem)',
@@ -112,9 +143,9 @@ export default function Hero({
                     lineHeight: 1.5,
                 }}
             >
-                {mapped || !statewide
-                    ? 'cameras within a mile of campus'
-                    : `cameras mapped across ${stateName}`}
+                {figureIsStatewide
+                    ? `cameras mapped across ${stateName}`
+                    : 'cameras within a mile of campus'}
             </div>
         </div>
     );
@@ -122,7 +153,7 @@ export default function Hero({
     // Spacing lives on the wrapper, never on the button: a button that carries
     // its own margin drags one layout's spacing into every other place it is used.
     const cta = (
-        <div style={{ marginTop: 'clamp(1.8rem, 4vw, 2.6rem)' }}>
+        <div className="hero-cta" style={{ marginTop: 'clamp(1.8rem, 4vw, 2.6rem)' }}>
             {/*
               * Points at the emails, which is the whole reason the page exists.
               * The target moved when the action rail was folded into that
@@ -132,6 +163,27 @@ export default function Hero({
             <ActionLink href="#officials" large>
                 {FIXED.heroCta}
             </ActionLink>
+
+            {/*
+              * A way out for somebody who landed on the wrong campus. A chapter
+              * page is often the first thing a person sees of the network, and
+              * without this the only route onward is the browser's back button.
+              */}
+            <p style={{ margin: '1rem 0 0' }}>
+                <Link
+                    href="/"
+                    style={{
+                        fontFamily: 'var(--data)',
+                        fontSize: '0.8rem',
+                        letterSpacing: '0.06em',
+                        color: 'var(--ink-soft)',
+                        textDecorationColor: 'var(--line)',
+                        textUnderlineOffset: '0.25em',
+                    }}
+                >
+                    Not your chapter? Go home
+                </Link>
+            </p>
         </div>
     );
 
@@ -174,7 +226,7 @@ export default function Hero({
               * a media query — nor be overridden by one.
               */}
             <div
-                className={split ? 'hero-split' : undefined}
+                className={split ? 'hero-frame hero-split' : 'hero-frame'}
                 style={{
                     width: '100%',
                     maxWidth: '68rem',

@@ -60,7 +60,16 @@ final class VerificationController extends Controller
         // link is asking about the chapter that already exists, so short
         // circuiting on the same condition would make re-verifying the school
         // address — the documented way back into a chapter — impossible.
-        if ($purpose === 'create' && $chapter = $this->chapters->findByDomain($domain)) {
+        //
+        // Never for a district address. One domain there covers every high
+        // school in a county, so an existing chapter says nothing about whether
+        // this student's school has one. They are shown the list instead, on
+        // the screen after this.
+        if (
+            $purpose === 'create'
+            && ! $domain->isDistrict()
+            && $chapter = $this->chapters->findByDomain($domain)
+        ) {
             return back()->with('existing', [
                 'slug' => $chapter->slug,
                 'shortName' => $chapter->shortName,
@@ -91,7 +100,13 @@ final class VerificationController extends Controller
         }
 
         // Identical wording regardless of what exists at that domain.
-        return back()->with('status', "Check {$email}. The link works for "
+        //
+        // Spam is named first because that is usually where it is. The mail
+        // comes from outside the university, carries a link, and asks for an
+        // action, which is the shape a campus filter is tuned to catch — so a
+        // student told only to "check their email" concludes it never arrived.
+        return back()->with('status', "Sent to {$email} — check your spam or junk "
+            .'folder, which is where school filters usually put it. The link works for '
             .VerificationTicket::LIFETIME_MINUTES.' minutes.');
     }
 
@@ -106,6 +121,12 @@ final class VerificationController extends Controller
         VerificationTicket $ticket,
     ): string {
         $token = $ticket->toToken();
+
+        // A district address cannot say which school it means, so it is asked.
+        // The chooser sends it onward by itself when there is nothing to pick.
+        if ($domain->isDistrict()) {
+            return route('chapters.choose', ['ticket' => $token, 'purpose' => $purpose]);
+        }
 
         if ($purpose === 'edit' && $chapter = $this->chapters->findByDomain($domain)) {
             return route('chapters.edit', ['slug' => $chapter->slug, 'ticket' => $token]);

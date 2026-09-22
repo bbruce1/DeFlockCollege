@@ -79,6 +79,27 @@ final class VerificationFlowTest extends TestCase
         Mail::assertSent(VerificationLink::class, fn ($mail) => $mail->hasTo('baker@stanford.edu'));
     }
 
+    /**
+     * The mail comes from outside the university, carries a link and asks for
+     * an action, so campus filters routinely hold it. A student told only to
+     * check their email concludes it never arrived and gives up on the spot.
+     */
+    public function test_the_confirmation_says_where_the_mail_usually_lands(): void
+    {
+        $status = $this->post(route('verify.send'), ['email' => 'baker@stanford.edu'])
+            ->assertSessionHas('status')
+            ->getSession()
+            ->get('status');
+
+        $this->assertStringContainsString('baker@stanford.edu', $status);
+        $this->assertMatchesRegularExpression('/\bspam\b/i', $status, 'Spam is not named.');
+        $this->assertStringContainsString(
+            (string) VerificationTicket::LIFETIME_MINUTES,
+            $status,
+            'The window the link is good for is not stated.'
+        );
+    }
+
     public function test_a_domain_with_a_chapter_is_told_rather_than_mailed(): void
     {
         // Sending a link here would only end at this same message, and chapters

@@ -97,6 +97,40 @@ final class ChapterRepository
         return $chapters;
     }
 
+    /**
+     * Every chapter started from this domain.
+     *
+     * One for a university, where the domain is the school. Many for a school
+     * district, where one domain covers every high school in a county.
+     *
+     * @return list<Chapter>
+     */
+    public function allByDomain(SchoolDomain $domain): array
+    {
+        return array_values(array_filter(
+            $this->all(),
+            static fn (Chapter $chapter): bool => $chapter->ownerDomainMatches($domain),
+        ));
+    }
+
+    /**
+     * A chapter already standing on this campus, if any.
+     *
+     * A district address covers every school in a county, so the domain cannot
+     * say whether a school already has a page. The campus can: two chapters a
+     * few dozen metres apart are the same school, whoever started them.
+     */
+    public function findNear(CampusPoint $point, float $metres): ?Chapter
+    {
+        foreach ($this->all() as $chapter) {
+            if ($chapter->survey->point->metresTo($point) <= $metres) {
+                return $chapter;
+            }
+        }
+
+        return null;
+    }
+
     /** The chapter started from this domain, if any. One school, one chapter. */
     public function findByDomain(SchoolDomain $domain): ?Chapter
     {

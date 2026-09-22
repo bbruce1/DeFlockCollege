@@ -233,6 +233,105 @@
 
 
 
+/*
+  The FAQ on a chapter page.
+
+  The padding lives on the summary, not on the details around it. With it on the
+  wrapper the card had a dead border of padding that looked pressable and was
+  not, so a reader had to hit the words themselves.
+*/
+.cfaq {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius, 0);
+    overflow: hidden;
+    transition:
+        border-color 140ms ease,
+        background-color 140ms ease;
+}
+
+.cfaq:hover {
+    border-color: color-mix(in srgb, var(--accent) 55%, var(--line));
+}
+
+.cfaq[open] {
+    border-color: color-mix(in srgb, var(--accent) 45%, var(--line));
+}
+
+/* The whole width of the card, so every part of the row opens it. */
+.cfaq > summary {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 1.05rem 1.2rem;
+    cursor: pointer;
+    font-family: var(--display);
+    font-weight: 700;
+    font-size: 1rem;
+    line-height: 1.35;
+    list-style: none;
+    transition: background-color 140ms ease;
+    -webkit-tap-highlight-color: transparent;
+}
+
+/* Both spellings: one hides the triangle in WebKit, the other everywhere else. */
+.cfaq > summary::-webkit-details-marker {
+    display: none;
+}
+
+.cfaq > summary::marker {
+    content: '';
+}
+
+.cfaq > summary:hover {
+    background: color-mix(in srgb, var(--accent) 7%, transparent);
+}
+
+.cfaq > summary:active {
+    background: color-mix(in srgb, var(--accent) 12%, transparent);
+}
+
+.cfaq > summary:focus-visible {
+    outline: 3px solid var(--signal);
+    outline-offset: -3px;
+}
+
+/*
+  Turns as the card opens, which is the only moving part. The angle itself is
+  set inline by the component; what lives here is the resting state and the
+  easing that carries it between the two.
+*/
+.cfaq-mark {
+    flex: none;
+    width: 0.7rem;
+    height: 0.7rem;
+    margin-top: 0.3rem;
+    border-right: 2px solid var(--accent);
+    border-bottom: 2px solid var(--accent);
+    transform: rotate(45deg);
+    transform-origin: center;
+    transition: transform 180ms ease;
+}
+
+.cfaq-answer {
+    margin: 0;
+    padding: 0 1.2rem 1.15rem;
+    color: var(--ink-soft);
+    font-size: 0.95rem;
+    line-height: 1.65;
+}
+
+/*
+  No height animation.
+
+  Transitioning ::details-content looked right and left the card clipped at its
+  closed height when opened by a real click, so the answer never appeared. An
+  FAQ that hides its answers to gain an easing curve is a bad trade, and this
+  project's standing rule is that content is readable before anything animates.
+  The marker turning is the moving part; opening is instant and correct.
+*/
+
 @media (prefers-reduced-motion: reduce) {
     .cbtn {
         transition: none;
@@ -241,6 +340,12 @@
     .cbtn:hover,
     .cbtn:active {
         transform: none;
+    }
+
+    .cfaq,
+    .cfaq > summary,
+    .cfaq-mark {
+        transition: none;
     }
 }
 
@@ -280,5 +385,129 @@
 @media (prefers-reduced-motion: no-preference) {
     html {
         scroll-behavior: smooth;
+    }
+}
+
+/* Zoom controls on the network map. Square, quiet, and thumb-sized. */
+.map-zoom {
+    width: 2.9rem;
+    height: 2.9rem;
+    display: grid;
+    place-items: center;
+    /* Solid rather than translucent: these sit over a nearly black map, and a
+       washed-out control on a dark ground is one nobody finds. */
+    border: 1px solid var(--color-net);
+    background: color-mix(in srgb, var(--color-net) 12%, var(--color-void));
+    box-shadow: 0 0 0 1px color-mix(in srgb, var(--color-void) 70%, transparent);
+    color: var(--color-net);
+    font-family: var(--font-data);
+    font-size: 1.35rem;
+    font-weight: 600;
+    line-height: 1;
+    cursor: pointer;
+    transition: background 160ms, color 160ms;
+}
+
+.map-zoom:hover,
+.map-zoom:focus-visible {
+    background: var(--color-net);
+    color: var(--color-void);
+}
+
+/*
+ * The hero shares its screen with the state behind it.
+ *
+ * The field is nudged right on a wide viewport, so the words are held to the
+ * column that clears — otherwise a long school name runs back across the shape
+ * and the graphic is covered by the one thing that was meant to sit beside it.
+ * Below that width there is only one column, and the text takes it.
+ */
+@media (min-width: 1024px) {
+    .hero-frame:not(.hero-split) > div {
+        max-width: 33rem;
+    }
+}
+
+/*
+ * Skin motion.
+ *
+ * Every rule here sits inside `prefers-reduced-motion: no-preference`, so the
+ * default state of the page — the one a reader gets when motion is off, when
+ * the media query is unsupported, or when anything at all goes wrong — is the
+ * finished one. Nothing below reveals content; it only moves content that is
+ * already there.
+ *
+ * The `rise` family does hold its opening frame (`both`), so its text fades in
+ * over about half a second when motion is on. That is a visible entrance, not a
+ * hidden element: it is driven entirely by CSS, it finishes on its own whether
+ * or not any script runs, and it does not exist at all under reduced motion.
+ * The failure this guards against is content left invisible because an observer
+ * never fired — which is why nothing here is triggered from JavaScript.
+ */
+@media (prefers-reduced-motion: no-preference) {
+    /* rise — the quiet one: type settles into place. */
+    .motion-rise h1,
+    .motion-rise .hero-standfirst,
+    .motion-rise .hero-cta {
+        animation: skin-rise 620ms cubic-bezier(0.2, 0.7, 0.3, 1) both;
+    }
+
+    .motion-rise .hero-standfirst { animation-delay: 90ms; }
+    .motion-rise .hero-cta { animation-delay: 180ms; }
+
+    @keyframes skin-rise {
+        from { opacity: 0; transform: translateY(14px); }
+        to { opacity: 1; transform: none; }
+    }
+
+    /* sweep — a line of light crosses the headline once, like a scanner. */
+    .motion-sweep h1 {
+        background-image: linear-gradient(
+            100deg,
+            transparent 35%,
+            color-mix(in srgb, var(--accent) 55%, transparent) 50%,
+            transparent 65%
+        );
+        background-size: 240% 100%;
+        background-repeat: no-repeat;
+        animation: skin-sweep 2.6s ease-in-out 400ms 1;
+    }
+
+    @keyframes skin-sweep {
+        from { background-position: 180% 0; }
+        to { background-position: -80% 0; }
+    }
+
+    /* flicker — a CRT settling, on the rule rather than the words. */
+    .motion-flicker .hero-cta {
+        animation: skin-flicker 3.2s steps(1, end) 1;
+    }
+
+    @keyframes skin-flicker {
+        0%, 100% { opacity: 1; }
+        4% { opacity: 0.72; }
+        6% { opacity: 1; }
+        11% { opacity: 0.85; }
+        13% { opacity: 1; }
+    }
+
+    /* drift — the texture behind the page moves, the page does not. */
+    .motion-drift .skin-texture {
+        animation: skin-drift 42s linear infinite;
+    }
+
+    @keyframes skin-drift {
+        from { background-position: 0 0; }
+        to { background-position: 88px 88px; }
+    }
+
+    /* bloom — the accent breathes under the number it belongs to. */
+    .motion-bloom .hero-figure {
+        animation: skin-bloom 5.5s ease-in-out infinite;
+    }
+
+    @keyframes skin-bloom {
+        0%, 100% { text-shadow: 0 0 0 transparent; }
+        50% { text-shadow: 0 0 26px color-mix(in srgb, var(--accent) 40%, transparent); }
     }
 }

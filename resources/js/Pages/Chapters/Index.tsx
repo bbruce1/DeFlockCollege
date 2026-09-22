@@ -19,7 +19,7 @@ export default function Index({ chapters }: { chapters: Chapter[] }) {
                                     aria-hidden="true"
                                     className={`h-2 w-2 ${chapter.status === 'live' ? 'bg-signal' : 'bg-faint'}`}
                                 />
-                                <a href={`/${chapter.slug}`} className="flex-1 text-lg no-underline hover:text-net">
+                                <a href={chapter.url} className="flex-1 text-lg no-underline hover:text-net">
                                     {chapter.schoolName}
                                 </a>
                                 <span className="annot">

@@ -9,6 +9,7 @@ use App\Chapters\ChapterRepository;
 use App\Chapters\EditKey;
 use App\Mail\EditKeyIssued;
 use App\Chapters\EditPass;
+use App\Chapters\MeetingInput;
 use App\Chapters\Ownership;
 use App\Chapters\SchoolColours;
 use App\Chapters\SocialHandle;
@@ -255,6 +256,11 @@ final class ChapterEditController extends Controller
             'officials.*.email' => ['nullable', 'string', 'max:180'],
             'officials.*.url' => ['nullable', 'string', 'max:300'],
             'officials.*.role' => ['nullable', 'string', 'max:40'],
+            'meetings' => ['nullable', 'array', 'max:8'],
+            'meetings.*.date' => ['nullable', 'string', 'max:10'],
+            'meetings.*.time' => ['nullable', 'string', 'max:5'],
+            'meetings.*.place' => ['nullable', 'string', 'max:140'],
+            'meetings.*.note' => ['nullable', 'string', 'max:200'],
         ]);
 
         try {
@@ -287,6 +293,10 @@ final class ChapterEditController extends Controller
                 ? OfficialInput::sanitiseAll($validated['officials'] ?? [])
                 : $chapter->officials;
 
+            $meetings = $request->exists('meetings')
+                ? MeetingInput::sanitiseAll($validated['meetings'] ?? [])
+                : $chapter->meetings;
+
             $colours = $request->exists('primaryColour') || $request->exists('secondaryColour')
                 ? SchoolColours::fromInput(
                     $validated['primaryColour'] ?? null,
@@ -310,6 +320,7 @@ final class ChapterEditController extends Controller
             tiktok: $tiktok,
             petitionUrl: $petitionUrl,
             officials: $officials,
+            meetings: $meetings,
             editKeyHash: $chapter->editKeyHash,
             acknowledgedAt: $chapter->acknowledgedAt,
             colours: $colours,

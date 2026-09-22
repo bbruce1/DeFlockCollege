@@ -34,7 +34,7 @@ export const skins: Skin[] = [
         ink: '#f0ead8', inkSoft: '#97a2ab',
         accent: '#c7d59b', accentInk: '#12151a', signal: '#ff6a1f',
         display: ARCHIVO, body: ARCHIVO, data: MONO,
-        heroShape: 'number-first', texture: 'none', radius: 2, upperLabels: true,
+        heroShape: 'number-first', texture: 'none', motion: 'rise', radius: 2, upperLabels: true,
     },
     /**
      * A survey benchmark: a brass disc weathered into a concrete monument, its
@@ -46,7 +46,7 @@ export const skins: Skin[] = [
         ink: '#1d1c17', inkSoft: '#55534a',
         accent: '#7a5a1c', accentInk: '#ffffff', signal: '#a52a19',
         display: ARCHIVO, body: SERIF, data: MONO,
-        heroShape: 'banner', texture: 'noise', radius: 0, upperLabels: true,
+        heroShape: 'banner', texture: 'noise', motion: 'bloom', radius: 0, upperLabels: true,
     },
     /**
      * Machine-shop ochre: the oil-darkened enamel of an old engine lathe, with
@@ -58,7 +58,7 @@ export const skins: Skin[] = [
         ink: '#f4e8d0', inkSoft: '#b6a17e',
         accent: '#d9a441', accentInk: '#201a10', signal: '#ef4a2a',
         display: ARCHIVO, body: ARCHIVO, data: MONO,
-        heroShape: 'split', texture: 'none', radius: 4, upperLabels: true,
+        heroShape: 'split', texture: 'none', motion: 'rise', radius: 4, upperLabels: true,
     },
     /**
      * An industrial safety placard, weathered. Yellow is the field here rather
@@ -71,7 +71,7 @@ export const skins: Skin[] = [
         ink: '#17150c', inkSoft: '#5a4e14',
         accent: '#17150c', accentInk: '#ffffff', signal: '#c8102e',
         display: ARCHIVO, body: ARCHIVO, data: ARCHIVO,
-        heroShape: 'stack', texture: 'none', radius: 0, upperLabels: true,
+        heroShape: 'stack', texture: 'none', motion: 'rise', radius: 0, upperLabels: true,
     },
     /**
      * A railway signalling panel: blue-grey steel, a lamp matrix for the track
@@ -84,7 +84,7 @@ export const skins: Skin[] = [
         ink: '#e2edf3', inkSoft: '#92a7b3',
         accent: '#a9cfe2', accentInk: '#0e1a21', signal: '#ff4438',
         display: ARCHIVO, body: MONO, data: MONO,
-        heroShape: 'split', texture: 'dots', radius: 0, upperLabels: true,
+        heroShape: 'split', texture: 'dots', motion: 'drift', radius: 0, upperLabels: true,
     },
     /**
      * Laboratory apparatus: bench white, the faint green in borosilicate, and
@@ -97,7 +97,7 @@ export const skins: Skin[] = [
         ink: '#16201c', inkSoft: '#5c6a65',
         accent: '#123b96', accentInk: '#ffffff', signal: '#c02f22',
         display: SERIF, body: ARCHIVO, data: MONO,
-        heroShape: 'stack', texture: 'none', radius: 6, upperLabels: false,
+        heroShape: 'stack', texture: 'none', motion: 'rise', radius: 6, upperLabels: false,
     },
     /**
      * Strip-chart recorder paper: salmon stock, a printed grid, and a trace in
@@ -110,7 +110,7 @@ export const skins: Skin[] = [
         ink: '#2b1a14', inkSoft: '#7d5c50',
         accent: '#243b6b', accentInk: '#ffffff', signal: '#b81f14',
         display: ARCHIVO, body: ARCHIVO, data: MONO,
-        heroShape: 'number-first', texture: 'grid', radius: 0, upperLabels: false,
+        heroShape: 'number-first', texture: 'grid', motion: 'sweep', radius: 0, upperLabels: false,
     },
     /**
      * Utility locate marking: warm weathered asphalt, chalky stencil white, and
@@ -123,6 +123,6 @@ export const skins: Skin[] = [
         ink: '#eeece7', inkSoft: '#a6a29a',
         accent: '#2f8bd6', accentInk: '#171614', signal: '#f04a24',
         display: ARCHIVO, body: ARCHIVO, data: MONO,
-        heroShape: 'banner', texture: 'noise', radius: 0, upperLabels: true,
+        heroShape: 'banner', texture: 'noise', motion: 'bloom', radius: 0, upperLabels: true,
     },
 ];

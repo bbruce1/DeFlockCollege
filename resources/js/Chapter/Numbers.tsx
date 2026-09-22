@@ -1,4 +1,5 @@
 import type { Chapter } from '@/templates/contract';
+import { SPARSE_MAX } from '@/templates/contract';
 import Section from '@/Chapter/Section';
 import { ActionLink } from '@/Chapter/Button';
 
@@ -111,7 +112,30 @@ export default function Numbers({ chapter, stateName }: { chapter: Chapter; stat
             ? Math.round((flockCount / readersWithinMile) * 100)
             : 0;
 
+    /*
+     * One or two readers nearby is a true figure that reads as reassurance at
+     * display size. Where the statewide count is known it takes the headline
+     * and the campus figure moves down into the rows, reported exactly but no
+     * longer arguing against the page. Nothing is hidden and nothing is padded.
+     */
+    const leadWithState = readersWithinMile <= SPARSE_MAX && readersInState !== null;
+
+    const headline = leadWithState ? readersInState : readersWithinMile;
+    const headlineCaption = leadWithState
+        ? `automated plate readers are mapped across ${stateName}.`
+        : `automated plate ${readersWithinMile === 1 ? 'reader is' : 'readers are'} mapped `
+            + `within a mile of ${chapter.shortName}.`;
+
     const rows = [
+        ...(leadWithState
+            ? [
+                  {
+                      value: readersWithinMile.toLocaleString(),
+                      label: `within a mile of ${chapter.shortName}`,
+                      note: null,
+                  },
+              ]
+            : []),
         {
             value: (flockCount ?? 0).toLocaleString(),
             label: 'tagged Flock Safety',
@@ -119,7 +143,7 @@ export default function Numbers({ chapter, stateName }: { chapter: Chapter; stat
         },
         // Left out entirely rather than shown as a dash: a statistics block is
         // read as fact, and an empty slot in one reads as zero.
-        ...(readersInState === null
+        ...(readersInState === null || leadWithState
             ? []
             : [
                   {
@@ -144,7 +168,7 @@ export default function Numbers({ chapter, stateName }: { chapter: Chapter; stat
                             color: 'var(--accent)',
                         }}
                     >
-                        {readersWithinMile.toLocaleString()}
+                        {headline.toLocaleString()}
                     </div>
                     <p
                         style={{
@@ -154,7 +178,7 @@ export default function Numbers({ chapter, stateName }: { chapter: Chapter; stat
                             lineHeight: 1.45,
                         }}
                     >
-                        automated plate readers are mapped within a mile of {chapter.shortName}.
+                        {headlineCaption}
                     </p>
                 </div>
 

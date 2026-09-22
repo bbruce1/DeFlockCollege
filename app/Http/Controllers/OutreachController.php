@@ -9,6 +9,7 @@ use App\Chapters\States;
 use App\Officials\Official;
 use App\Officials\OfficialsDirectory;
 use App\Officials\OutreachLibrary;
+use App\Metrics\OutreachLog;
 use App\Officials\RotationCounter;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
@@ -36,6 +37,7 @@ final class OutreachController extends Controller
         private readonly OfficialsDirectory $directory,
         private readonly OutreachLibrary $letters,
         private readonly RotationCounter $rotation,
+        private readonly OutreachLog $outreach,
     ) {}
 
     public function show(Request $request, string $slug): JsonResponse
@@ -70,6 +72,11 @@ final class OutreachController extends Controller
             $rotation = $this->rotation->next($chapter->slug);
             $this->hold($request, $chapter->slug, $index, $rotation);
             $fresh = true;
+
+            // Counted on a fresh draw only. A reader who presses twice inside
+            // the hold window is one letter, not two, which is the difference
+            // between a number worth reading and one that flatters itself.
+            $this->outreach->record($chapter->slug);
         }
 
         $letter = $this->letters->letterFor(

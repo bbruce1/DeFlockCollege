@@ -29,7 +29,7 @@ export const skins: Skin[] = [
         ink: '#10201f', inkSoft: '#42585a',
         accent: '#14415c', accentInk: '#ffffff', signal: '#b0182b',
         display: ARCHIVO, body: SERIF, data: MONO,
-        heroShape: 'banner', texture: 'none', radius: 0, upperLabels: true,
+        heroShape: 'banner', texture: 'none', motion: 'rise', radius: 0, upperLabels: true,
     },
 
     /**
@@ -44,7 +44,7 @@ export const skins: Skin[] = [
         ink: '#1b1b19', inkSoft: '#5a574e',
         accent: '#2b4b8c', accentInk: '#ffffff', signal: '#c4005e',
         display: ARCHIVO, body: ARCHIVO, data: MONO,
-        heroShape: 'split', texture: 'dots', radius: 0, upperLabels: true,
+        heroShape: 'split', texture: 'dots', motion: 'drift', radius: 0, upperLabels: true,
     },
 
     /**
@@ -58,7 +58,7 @@ export const skins: Skin[] = [
         ink: '#14180f', inkSoft: '#4a5340',
         accent: '#4a2545', accentInk: '#ffffff', signal: '#9e1230',
         display: SERIF, body: ARCHIVO, data: MONO,
-        heroShape: 'stack', texture: 'none', radius: 2, upperLabels: false,
+        heroShape: 'stack', texture: 'none', motion: 'rise', radius: 2, upperLabels: false,
     },
 
     /**
@@ -73,7 +73,7 @@ export const skins: Skin[] = [
         ink: '#221c2b', inkSoft: '#5c5568',
         accent: '#47276f', accentInk: '#ffffff', signal: '#c1003a',
         display: SERIF, body: SERIF, data: MONO,
-        heroShape: 'stack', texture: 'noise', radius: 0, upperLabels: true,
+        heroShape: 'stack', texture: 'noise', motion: 'bloom', radius: 0, upperLabels: true,
     },
 
     /**
@@ -88,7 +88,7 @@ export const skins: Skin[] = [
         ink: '#131917', inkSoft: '#4b5654',
         accent: '#17453a', accentInk: '#ffffff', signal: '#af1d2f',
         display: SERIF, body: SERIF, data: SERIF,
-        heroShape: 'number-first', texture: 'none', radius: 0, upperLabels: true,
+        heroShape: 'number-first', texture: 'none', motion: 'rise', radius: 0, upperLabels: true,
     },
 
     /**
@@ -102,7 +102,7 @@ export const skins: Skin[] = [
         ink: '#eceef1', inkSoft: '#9aa3ad',
         accent: '#c9ac70', accentInk: '#17130b', signal: '#ff2d5e',
         display: ARCHIVO, body: SERIF, data: MONO,
-        heroShape: 'split', texture: 'none', radius: 0, upperLabels: false,
+        heroShape: 'split', texture: 'none', motion: 'rise', radius: 0, upperLabels: false,
     },
 
     /**
@@ -117,7 +117,7 @@ export const skins: Skin[] = [
         ink: '#f4f5f6', inkSoft: '#bec3c7',
         accent: '#e8e6e0', accentInk: '#26292b', signal: '#ffb627',
         display: ARCHIVO, body: ARCHIVO, data: MONO,
-        heroShape: 'banner', texture: 'noise', radius: 3, upperLabels: false,
+        heroShape: 'banner', texture: 'noise', motion: 'bloom', radius: 3, upperLabels: false,
     },
 
     /**
@@ -132,6 +132,6 @@ export const skins: Skin[] = [
         ink: '#f2e9e6', inkSoft: '#b79e9e',
         accent: '#d8c79c', accentInk: '#1c1216', signal: '#ff5252',
         display: SERIF, body: SERIF, data: MONO,
-        heroShape: 'number-first', texture: 'none', radius: 1, upperLabels: true,
+        heroShape: 'number-first', texture: 'none', motion: 'rise', radius: 1, upperLabels: true,
     },
 ];

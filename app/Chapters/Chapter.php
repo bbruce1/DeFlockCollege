@@ -40,6 +40,15 @@ final readonly class Chapter
          * cameras better than a national dataset does.
          */
         public array $officials = [],
+        /**
+         * Upcoming meetings, as [date, time, place, note], soonest first.
+         * Past ones are filtered when the page renders rather than deleted, so
+         * a creator does not lose a recurring slot by letting one lapse.
+         */
+        public array $meetings = [],
+        /** The campus's two colours, as hex. Seeded at creation, editable after. */
+        public string $colorPrimary = '#22d3ee',
+        public string $colorSecondary = '#f43f5e',
         /** bcrypt hash of the key shown once at creation. Never the key itself. */
         public string $editKeyHash = '',
         /** When the creator confirmed they had saved that key. */
@@ -103,6 +112,9 @@ final readonly class Chapter
             tiktok: $this->tiktok,
             petitionUrl: $this->petitionUrl,
             officials: $this->officials,
+            meetings: $this->meetings,
+            colorPrimary: $this->colorPrimary,
+            colorSecondary: $this->colorSecondary,
             editKeyHash: $hash,
             acknowledgedAt: $this->acknowledgedAt,
             colours: $this->colours,
@@ -115,6 +127,10 @@ final readonly class Chapter
     {
         return [
             'slug' => $this->slug,
+            // The subdomain when one is configured. A listing that linked to
+            // "/{slug}" sent every reader to the form the site redirects away
+            // from, and lost the address students actually share.
+            'url' => \App\Site\PageMeta::chapterUrl($this->slug),
             'schoolName' => $this->schoolName,
             'shortName' => $this->shortName,
             'state' => $this->state,
@@ -125,6 +141,9 @@ final readonly class Chapter
             'tiktok' => $this->tiktok,
             'petitionUrl' => $this->petitionUrl,
             'officials' => $this->officials,
+            'meetings' => $this->meetings,
+            'colorPrimary' => $this->colorPrimary,
+            'colorSecondary' => $this->colorSecondary,
             'editKeyHash' => $this->editKeyHash,
             'acknowledgedAt' => $this->acknowledgedAt,
             'colours' => $this->colours?->toArray(),
@@ -149,6 +168,9 @@ final readonly class Chapter
             tiktok: $data['tiktok'] ?? null,
             petitionUrl: $data['petitionUrl'] ?? null,
             officials: $data['officials'] ?? [],
+            meetings: $data['meetings'] ?? [],
+            colorPrimary: (string) ($data['colorPrimary'] ?? '#22d3ee'),
+            colorSecondary: (string) ($data['colorSecondary'] ?? '#f43f5e'),
             editKeyHash: (string) ($data['editKeyHash'] ?? ''),
             acknowledgedAt: $data['acknowledgedAt'] ?? null,
             colours: SchoolColours::fromArray($data['colours'] ?? null),
@@ -167,6 +189,10 @@ final readonly class Chapter
     {
         return [
             'slug' => $this->slug,
+            // The subdomain when one is configured. A listing that linked to
+            // "/{slug}" sent every reader to the form the site redirects away
+            // from, and lost the address students actually share.
+            'url' => \App\Site\PageMeta::chapterUrl($this->slug),
             'schoolName' => $this->schoolName,
             'shortName' => $this->shortName,
             'state' => $this->state,

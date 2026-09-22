@@ -87,11 +87,22 @@ export default function Privacy({ updated, contact, operator }: Props) {
                     </ul>
 
                     <p className="mt-2">
-                        We do not use advertising cookies, analytics cookies, pixels, fingerprinting,
-                        or any third-party tracking, and we do not build profiles of visitors.
+                        We do not use advertising cookies, analytics cookies, pixels, or
+                        fingerprinting, and we do not build advertising profiles of visitors.
                         Sending the letter from a chapter page opens your own email client — nothing
                         about that message reaches us, and reading a chapter page requires nothing
                         from you at all.
+                    </p>
+
+                    <p className="mt-2">
+                        We do use <strong className="text-glow">Microsoft Clarity</strong> to see
+                        which parts of these pages people actually use. It records how pages are
+                        interacted with — clicks, scrolls, and the like — and sends that to
+                        Microsoft. We run it with consent withheld, which means it sets{' '}
+                        <strong className="text-glow">no cookies</strong>; we checked. It keeps one
+                        key in your browser's session storage, which your browser discards when you
+                        close the tab. You can block it with any tracker blocker and the site works
+                        exactly the same.
                     </p>
                 </Section>
 

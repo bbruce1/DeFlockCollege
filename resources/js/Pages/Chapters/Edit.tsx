@@ -19,6 +19,15 @@ interface OfficialRow {
     role: string;
 }
 
+interface MeetingRow {
+    date: string;
+    time: string;
+    place: string;
+    note: string;
+}
+
+const EMPTY_MEETING: MeetingRow = { date: '', time: '', place: '', note: '' };
+
 const EMPTY_OFFICIAL: OfficialRow = { name: '', title: '', email: '', url: '', role: 'city-council' };
 
 /**
@@ -29,6 +38,47 @@ const EMPTY_OFFICIAL: OfficialRow = { name: '', title: '', email: '', url: '', r
  * or React hands the field back to the browser as an uncontrolled one and the
  * edit silently stops tracking what is typed into it.
  */
+/**
+ * The colour field, identical to the one in the create flow.
+ *
+ * Kept here rather than imported across pages because Create owns its own
+ * step layout; the markup is small and duplicating it is cheaper than a shared
+ * module that both pages have to agree on.
+ */
+function ColourField({
+    label,
+    value,
+    onChange,
+}: {
+    label: string;
+    value: string;
+    onChange: (value: string) => void;
+}) {
+    return (
+        <label className="grid gap-2">
+            <span className="annot font-semibold text-glow">{label}</span>
+            <span className="flex min-h-[3.25rem] items-center gap-3 border border-hair px-3 focus-within:border-net">
+                <input
+                    type="color"
+                    value={value}
+                    onChange={(e) => onChange(e.target.value)}
+                    style={{ height: '2.5rem', width: '3rem' }}
+                    className="cursor-pointer border-0 bg-transparent p-0"
+                    aria-label={`${label} colour`}
+                />
+                <input
+                    value={value}
+                    onChange={(e) => onChange(e.target.value)}
+                    className="w-full bg-transparent font-data text-sm uppercase focus-visible:outline-none"
+                    spellCheck={false}
+                    autoComplete="off"
+                    aria-label={`${label} colour hex`}
+                />
+            </span>
+        </label>
+    );
+}
+
 function asRow(official: Official): OfficialRow {
     return {
         name: official.name ?? '',
@@ -54,6 +104,16 @@ export default function Edit({ chapter, ticket, pass, minutesRemaining, roles }:
         pass,
         instagram: chapter.instagram ?? '',
         petitionUrl: chapter.petitionUrl ?? '',
+        // The chapter's own colours where it has them, white where it does not.
+        // White for both is what the create flow starts from, and the page reads
+        // it as "no palette chosen" rather than as a deliberate white.
+        primaryColour: chapter.colours?.primary ?? '#ffffff',
+        secondaryColour: chapter.colours?.secondary ?? '#ffffff',
+        meetings: (chapter.meetings ?? []).map((m) => ({
+            ...EMPTY_MEETING,
+            ...m,
+            time: m.time ?? '',
+        })) as MeetingRow[],
         officials: chapter.officials.length
             ? chapter.officials.map(asRow)
             : [{ ...EMPTY_OFFICIAL }],
@@ -71,6 +131,22 @@ export default function Edit({ chapter, ticket, pass, minutesRemaining, roles }:
             form.data.officials.map((official, i) =>
                 i === index ? { ...official, [field]: value } : official,
             ),
+        );
+    }
+
+    function setMeeting(index: number, field: keyof MeetingRow, value: string) {
+        form.setData(
+            'meetings',
+            form.data.meetings.map((meeting, i) =>
+                i === index ? { ...meeting, [field]: value } : meeting,
+            ),
+        );
+    }
+
+    function removeMeeting(index: number) {
+        form.setData(
+            'meetings',
+            form.data.meetings.filter((_, i) => i !== index),
         );
     }
 
@@ -98,6 +174,84 @@ export default function Edit({ chapter, ticket, pass, minutesRemaining, roles }:
                     }}
                     className="mt-10 grid gap-8"
                 >
+                    <section className="grid gap-4 border border-hair p-5">
+                        <div>
+                            <p className="annot text-net">Optional</p>
+                            <h2 className="mt-2 text-xl font-bold">When you meet</h2>
+                            <p className="mt-2 text-sm text-dim">
+                                Anything already past is hidden automatically, so a lapsed date
+                                does not sit on your page. Leave this empty and the section does
+                                not appear at all.
+                            </p>
+                        </div>
+
+                        {form.data.meetings.map((meeting, index) => (
+                            <div key={index} className="grid gap-3 border border-hair bg-panel p-4">
+                                <div className="grid gap-3 sm:grid-cols-2">
+                                    <label className="grid gap-1">
+                                        <span className="annot">Date</span>
+                                        <input
+                                            type="date"
+                                            value={meeting.date}
+                                            onChange={(e) => setMeeting(index, 'date', e.target.value)}
+                                            className="field"
+                                        />
+                                    </label>
+                                    <label className="grid gap-1">
+                                        <span className="annot">Time</span>
+                                        <input
+                                            type="time"
+                                            value={meeting.time}
+                                            onChange={(e) => setMeeting(index, 'time', e.target.value)}
+                                            className="field"
+                                        />
+                                    </label>
+                                </div>
+                                <label className="grid gap-1">
+                                    <span className="annot">Where</span>
+                                    <input
+                                        value={meeting.place}
+                                        onChange={(e) => setMeeting(index, 'place', e.target.value)}
+                                        className="field"
+                                        placeholder="Student Center, room 204"
+                                    />
+                                </label>
+                                <label className="grid gap-1">
+                                    <span className="annot">Anything else</span>
+                                    <input
+                                        value={meeting.note}
+                                        onChange={(e) => setMeeting(index, 'note', e.target.value)}
+                                        className="field"
+                                        placeholder="First one — no experience needed."
+                                    />
+                                </label>
+                                <button
+                                    type="button"
+                                    onClick={() => removeMeeting(index)}
+                                    className="justify-self-start text-sm text-faint"
+                                >
+                                    Remove
+                                </button>
+                            </div>
+                        ))}
+
+                        {form.data.meetings.length < 8 && (
+                            <button
+                                type="button"
+                                onClick={() =>
+                                    form.setData('meetings', [...form.data.meetings, { ...EMPTY_MEETING }])
+                                }
+                                className="btn btn-quiet justify-self-start"
+                            >
+                                Add a meeting
+                            </button>
+                        )}
+
+                        {errors?.meetings && (
+                            <p className="font-data text-sm text-signal">{errors.meetings}</p>
+                        )}
+                    </section>
+
                     <section className="grid gap-4">
                         <h2 className="text-xl font-bold">Who people should write to</h2>
                         <p className="text-sm text-dim">
@@ -218,12 +372,50 @@ export default function Edit({ chapter, ticket, pass, minutesRemaining, roles }:
                         ) : null}
                     </section>
 
+                    <section className="grid gap-4 border border-hair p-5">
+                        <div>
+                            <p className="annot">Optional</p>
+                            <h2 className="mt-2 text-xl font-bold">Your school colours</h2>
+                            <p className="mt-2 text-sm text-dim">
+                                Everything on the chapter page is built from these two. Leave them
+                                white and the page uses its own palette.
+                            </p>
+                        </div>
+
+                        <div className="grid gap-4 sm:grid-cols-2">
+                            <ColourField
+                                label="Primary"
+                                value={form.data.primaryColour}
+                                onChange={(v) => form.setData('primaryColour', v)}
+                            />
+                            <ColourField
+                                label="Secondary"
+                                value={form.data.secondaryColour}
+                                onChange={(v) => form.setData('secondaryColour', v)}
+                            />
+                        </div>
+
+                        {(errors?.primaryColour || errors?.secondaryColour) && (
+                            <p className="font-data text-sm text-signal">
+                                {errors.primaryColour ?? errors.secondaryColour}
+                            </p>
+                        )}
+                    </section>
+
                     <section className="grid gap-4 border border-dashed border-hair p-5">
                         <div>
                             <p className="annot text-faint">Optional</p>
                             <h2 className="mt-2 text-lg font-bold text-dim">A petition</h2>
                             <p className="mt-2 text-sm text-faint">
-                                Leave blank and the section does not appear on your page.
+                                Leave blank and the section does not appear on your page.{' '}
+                                <a
+                                    href="https://www.change.org/start-a-petition"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="text-net underline underline-offset-4"
+                                >
+                                    Start one on Change.org ↗
+                                </a>
                             </p>
                         </div>
 

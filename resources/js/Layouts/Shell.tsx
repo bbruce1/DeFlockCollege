@@ -8,7 +8,21 @@ import type { PropsWithChildren, ReactNode } from 'react';
  * assigned template, because a page that looks like every other chapter is the
  * thing this project replaced.
  */
-export default function Shell({ children, aside }: PropsWithChildren<{ aside?: ReactNode }>) {
+export default function Shell({
+    children,
+    aside,
+    bare = false,
+}: PropsWithChildren<{
+    aside?: ReactNode;
+    /**
+     * Drops the footer and lets the page own the screen.
+     *
+     * For the map, which is one full-bleed picture and nothing else. A footer
+     * under it would be a strip of links hanging below the fold with nothing
+     * between, and something to scroll to on a page whose wheel zooms.
+     */
+    bare?: boolean;
+}>) {
     return (
         <div className="min-h-screen bg-void">
             <div className="scanlines" aria-hidden="true" />
@@ -24,6 +38,8 @@ export default function Shell({ children, aside }: PropsWithChildren<{ aside?: R
                     <div className="flex items-center gap-6">
                         <nav className="flex items-center gap-6">
                             {[
+                                ['/map', 'Map'],
+                                ['/social', 'Social'],
                                 ['/about', 'About'],
                                 ['/contact', 'Contact'],
                             ].map(([href, label]) => (
@@ -43,12 +59,14 @@ export default function Shell({ children, aside }: PropsWithChildren<{ aside?: R
 
             <main className="relative z-10">{children}</main>
 
+            {bare ? null : (
             <footer className="mt-24 border-t border-hair">
                 <div className="shell grid gap-3 py-10">
                     <nav className="flex flex-wrap gap-x-6 gap-y-2">
                         {[
                             ['/about', 'About'],
                             ['/chapters', 'Chapters'],
+                            ['/social', 'Social'],
                             ['/contact', 'Contact'],
                             ['/terms', 'Terms'],
                             ['/privacy', 'Privacy'],
@@ -78,6 +96,7 @@ export default function Shell({ children, aside }: PropsWithChildren<{ aside?: R
                     </p>
                 </div>
             </footer>
+            )}
         </div>
     );
 }

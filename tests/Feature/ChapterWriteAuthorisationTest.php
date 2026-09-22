@@ -101,6 +101,38 @@ final class ChapterWriteAuthorisationTest extends TestCase
         $this->assertNull($this->reload(self::SLUG)->tiktok);
     }
 
+    /**
+     * The edit form had no colour fields at all, so a creator who picked the
+     * wrong two at creation could never change them. The controller always
+     * accepted them; only the page did not offer them.
+     */
+    public function test_an_owner_can_change_the_school_colours(): void
+    {
+        $this->patch('/'.self::SLUG, [
+            'pass' => EditPass::issue(self::SLUG)->toToken(),
+            'instagram' => 'deflock.authtest',
+            'primaryColour' => '#0d5c33',
+            'secondaryColour' => '#ffffff',
+        ])->assertSessionHasNoErrors();
+
+        $colours = $this->reload(self::SLUG)->colours;
+
+        $this->assertNotNull($colours);
+        $this->assertSame('#0d5c33', $colours->primary);
+        $this->assertSame('#ffffff', $colours->secondary);
+    }
+
+    /** The page has to arrive carrying what it is going to edit. */
+    public function test_the_edit_page_is_given_the_colours_it_edits(): void
+    {
+        $this->get('/'.self::SLUG.'/edit?pass='.EditPass::issue(self::SLUG)->toToken())
+            ->assertInertia(
+                fn ($page) => $page->component('Chapters/Edit')
+                    ->where('chapter.colours.primary', '#003057')
+                    ->where('chapter.colours.secondary', '#b3a369')
+            );
+    }
+
     private function reload(string $slug): Chapter
     {
         return app(ChapterRepository::class)->find(Slug::fromString($slug));

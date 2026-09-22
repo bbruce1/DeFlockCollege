@@ -28,9 +28,9 @@ final readonly class Slug
         'static', 'assets', 'cdn', 'img', 'images', 'media', 'files', 'download',
         'app', 'dev', 'staging', 'test', 'preview', 'beta', 'demo', 'docs', 'blog',
         'help', 'support', 'status', 'about', 'legal', 'privacy', 'terms', 'press',
-        'contact',
+        'contact', 'choose', 'nearby',
         'chapters', 'chapter', 'start', 'new', 'create', 'edit', 'verify', 'claim',
-        'map', 'maps', 'sitemap', 'robots', 'feed', 'rss', 'schools', 'school',
+        'map', 'maps', 'social', 'posts', 'post', 'sitemap', 'robots', 'feed', 'rss', 'schools', 'school',
         'login', 'signin', 'signup', 'account', 'auth', 'oauth', 'deflock', 'storage',
         // Paths the application itself answers. A chapter claiming one of these
         // would shadow a real endpoint.
@@ -38,6 +38,8 @@ final readonly class Slug
         // Registered by packages rather than by this application, and just as
         // capable of being shadowed.
         'sanctum',
+        // The debug-only preview route.
+        'debug',
         'unlock', 'acknowledge', 'welcome', 'recover-key', 'lock',
         // Registered by the framework's health check in bootstrap/app.php.
         'up',
@@ -106,6 +108,9 @@ final readonly class Slug
     public static function suggestFrom(string $source): string
     {
         $base = strtolower($source);
+        // A district domain is four labels, and only the first names the school:
+        // "fcps.k12.va.us" should suggest "fcps", not "fcps-k12-va-us".
+        $base = preg_replace('/\.k12\.[a-z]{2}\.us$/', '', $base) ?? $base;
         $base = preg_replace('/\.(edu|org|ac\.uk|com|net)$/', '', $base) ?? $base;
         $base = preg_replace('/[^a-z0-9]+/', '-', $base) ?? $base;
         $base = trim($base, '-');

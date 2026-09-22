@@ -15,7 +15,8 @@ export default function Commitment({
     id: string;
     headline: string;
     body: string;
-    tone?: 'signal';
+    /** 'warn' paints the headline the fixed warning red, never a school colour. */
+    tone?: 'warn';
 }) {
     return (
         <Section id={id}>
@@ -26,7 +27,7 @@ export default function Commitment({
                     lineHeight: 1.08,
                     letterSpacing: '-0.02em',
                     margin: '0 0 1rem',
-                    color: tone === 'signal' ? 'var(--signal)' : 'var(--ink)',
+                    color: tone === 'warn' ? 'var(--warn)' : 'var(--ink)',
                     textWrap: 'balance',
                 }}
             >

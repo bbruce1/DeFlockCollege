@@ -36,6 +36,7 @@ export default function Texture({ kind }: { kind: TextureKind }) {
 
     return (
         <div
+            className="skin-texture"
             aria-hidden="true"
             style={{
                 position: 'fixed',

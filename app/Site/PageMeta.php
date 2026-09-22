@@ -75,6 +75,20 @@ final readonly class PageMeta
         return $apex === '' ? rtrim(url('/'), '/') : 'https://www.'.$apex;
     }
 
+    /**
+     * A chapter's own address.
+     *
+     * The subdomain is the form students share, so every link to a chapter —
+     * a canonical tag, a listing on the front page — points there rather than
+     * at the path form, which only answers as well.
+     */
+    public static function chapterUrl(string $slug): string
+    {
+        $apex = (string) config('app.domain');
+
+        return $apex === '' ? rtrim(url('/'.$slug), '/') : 'https://'.$slug.'.'.$apex;
+    }
+
     /** A page reached only by a signed link, kept out of search and previews. */
     public static function private(string $title): self
     {

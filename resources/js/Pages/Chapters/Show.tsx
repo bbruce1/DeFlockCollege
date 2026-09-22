@@ -12,6 +12,13 @@ import Instagram from '@/Chapter/Instagram';
 import Petition from '@/Chapter/Petition';
 import Commitment from '@/Chapter/Commitment';
 import PageFooter from '@/Chapter/PageFooter';
+import Meetings from '@/Chapter/Meetings';
+import type { Meeting } from '@/Chapter/Meetings';
+import Carousel from '@/Chapter/Carousel';
+import Dossier from '@/Chapter/Dossier';
+import Evidence from '@/Chapter/Evidence';
+import Faq from '@/Chapter/Faq';
+import { PROBLEM } from '@/Chapter/content';
 
 /**
  * A chapter page.
@@ -32,11 +39,13 @@ export default function Show({
     officials,
     canonical,
     coverage,
-}: PageProps & { coverage: Coverage | null }) {
+    meetings,
+}: PageProps & { coverage: Coverage | null; meetings: Meeting[] }) {
     const skin = skinFor(chapter.slug, chapter.colours);
 
     return (
         <div
+            className={`motion-${skin.motion}`}
             style={{
                 ...skinVars(skin),
                 background: 'var(--bg)',
@@ -56,7 +65,11 @@ export default function Show({
             </Head>
 
             <Texture kind={skin.texture} />
-            {coverage ? <CoverageField coverage={coverage} /> : null}
+            {/*
+              * Pushed right so the hero has a column to itself. The state stays
+              * whole and at full size; it just stops sitting under the words.
+              */}
+            {coverage ? <CoverageField coverage={{ ...coverage, sideShift: 0.26 }} /> : null}
 
             <div style={{ position: 'relative', zIndex: 1 }}>
                 <Hero chapter={chapter} stateName={stateName} skin={skin} />
@@ -83,13 +96,44 @@ export default function Show({
 
                 <Officials chapter={chapter} officials={officials} stateName={stateName} />
 
+                {/*
+                  * After the asks, not before them. Someone who will only do one
+                  * thing should be given the email first; turning up in person is
+                  * a bigger commitment and belongs to the reader who is still
+                  * going after making it.
+                  */}
+                <Meetings meetings={meetings} />
+
                 <Numbers chapter={chapter} stateName={stateName} />
+
+                {/*
+                  * The case itself, for a reader who arrived knowing none of it.
+                  * It sits after the ask rather than before, so somebody who
+                  * already agrees is not made to read an argument first.
+                  */}
+                {/*
+                  * Turned one at a time rather than tiled. Six in a grid wrapped
+                  * to four and two, leaving the second row stranded.
+                  */}
+                <Carousel
+                    id="problem"
+                    label="The problem"
+                    headline="What a plate reader actually does."
+                    standfirst="It is not a speed camera, and it is not looking for you in particular. That is the part that matters."
+                    cards={PROBLEM}
+                />
+
+                <Evidence />
+
+                <Dossier />
+
+                <Faq />
 
                 <Commitment
                     id="conduct"
                     headline={FIXED.conduct.headline}
                     body={FIXED.conduct.body}
-                    tone="signal"
+                    tone="warn"
                 />
 
                 <Commitment

@@ -40,7 +40,8 @@ final class FrontendContractTest extends TestCase
     private const FRONTEND_CALLS = [
         ['POST', '/verify'],                          // Pages/Home.tsx
         ['POST', '/places'],                          // Pages/Chapters/Create.tsx
-        ['POST', '/districts'],                       // Pages/Chapters/Create.tsx
+        ['POST', '/nearby'],                          // Pages/Chapters/Create.tsx
+        ['POST', '/districts'],                       // kept for the edit flow
         ['POST', '/chapters'],                        // Pages/Chapters/Create.tsx
         ['POST', '/admin'],                           // Pages/Admin/Locked.tsx
         ['POST', '/admin/lock'],                      // Pages/Admin/Dashboard.tsx

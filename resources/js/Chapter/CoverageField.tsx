@@ -24,7 +24,56 @@ export interface Coverage {
     inset?: number;
     /** Cap on the field's longest edge in CSS pixels, or null for none. */
     maxPx?: number | null;
+    /** Multiplier on the fitted scale. 1 fits the frame; 2 is twice as close. */
+    zoom?: number;
+    /** Pan away from centre, in CSS pixels, applied after the zoom. */
+    panX?: number;
+    panY?: number;
+    /**
+     * Slides the field sideways as a fraction of the viewport width, but only
+     * where there is width to spare.
+     *
+     * A chapter page prints its headline over this. Centred, the words land on
+     * the middle of the state — the part with the most in it. Nudging the shape
+     * across clears a column for the text without shrinking either. On a narrow
+     * screen there is no room for two columns, so the shift is dropped rather
+     * than pushing half the state off the edge.
+     */
+    sideShift?: number;
+    /**
+     * Reports where each marker landed, in CSS pixels, whenever the layout
+     * changes. Pages that make the marks interactive need their screen
+     * positions, and deriving them a second time is how two things that must
+     * agree stop agreeing.
+     */
+    onLayout?: (placements: { x: number; y: number }[]) => void;
+    /**
+     * Reports the drawing transform whenever it changes.
+     *
+     * A page that wants to zoom towards a point has to convert that point into
+     * field coordinates and back, and only this component knows the scale it
+     * settled on. Handing it over beats having the caller guess at it.
+     */
+    onTransform?: (transform: {
+        scale: number;
+        offsetX: number;
+        offsetY: number;
+        /** The scale at zoom 1, before any multiplier. */
+        fitScale: number;
+        fieldWidth: number;
+        fieldHeight: number;
+    }) => void;
 }
+
+/**
+ * Fields already downloaded, by URL.
+ *
+ * Zooming changes the props this component keys its effect on, so the effect
+ * re-runs; without this it would fetch the whole country again on every step of
+ * the wheel. Keyed by URL, which already carries a revision, so a redrawn map
+ * misses the cache rather than going stale in it.
+ */
+const FIELD_CACHE = new Map<string, Field>();
 
 interface Field {
     points: number[];
@@ -147,8 +196,34 @@ export default function CoverageField({ coverage }: { coverage: Coverage }) {
                 scale = Math.min(scale, cap / Math.max(field.width, field.height));
             }
 
-            offsetX = (width - field.width * scale) / 2;
-            offsetY = (height - field.height * scale) / 2;
+            // Zoom multiplies the fitted scale, and the pan moves the result.
+            // Applied here rather than at the draw calls so the marker positions
+            // reported below travel with the picture instead of drifting off it.
+            const fitScale = scale;
+            scale *= coverage.zoom ?? 1;
+
+            // Wide enough for a headline beside the shape rather than on it.
+            const roomForTwoColumns = width >= 1024;
+            const shift = roomForTwoColumns ? width * (coverage.sideShift ?? 0) : 0;
+
+            offsetX = (width - field.width * scale) / 2 + (coverage.panX ?? 0) + shift;
+            offsetY = (height - field.height * scale) / 2 + (coverage.panY ?? 0);
+
+            coverage.onTransform?.({
+                scale,
+                offsetX,
+                offsetY,
+                fitScale,
+                fieldWidth: field.width,
+                fieldHeight: field.height,
+            });
+
+            coverage.onLayout?.(
+                coverage.markers.map((marker) => ({
+                    x: marker.x * scale + offsetX,
+                    y: marker.y * scale + offsetY,
+                })),
+            );
 
             // Dots are drawn at a fixed pixel radius, so when the field is
             // scaled down the grid falls closer together than the dots are
@@ -342,28 +417,37 @@ export default function CoverageField({ coverage }: { coverage: Coverage }) {
             start();
         }
 
-        fetch(coverage.url)
-            .then((response) => (response.ok ? response.json() : null))
-            .then((data: Field | null) => {
-                if (stopped) {
-                    return;
-                }
+        const cached = FIELD_CACHE.get(coverage.url);
 
-                if (!isDrawable(data)) {
-                    throw new Error('The coverage field is missing its points or its extent.');
-                }
+        if (cached) {
+            field = cached;
+            observer.observe(canvas);
+            start();
+        } else {
+            fetch(coverage.url)
+                .then((response) => (response.ok ? response.json() : null))
+                .then((data: Field | null) => {
+                    if (stopped) {
+                        return;
+                    }
 
-                field = data;
-                observer.observe(canvas);
-                start();
-            })
-            .catch((error: unknown) => {
-                // Decoration that cannot be fetched is simply absent, and the
-                // page is unchanged. It is still reported: a fetch chain that
-                // swallows everything also swallows a bug in the drawing, and
-                // that has already cost this project a blank field once.
-                console.error('Coverage field unavailable:', error);
-            });
+                    if (!isDrawable(data)) {
+                        throw new Error('The coverage field is missing its points or its extent.');
+                    }
+
+                    FIELD_CACHE.set(coverage.url, data);
+                    field = data;
+                    observer.observe(canvas);
+                    start();
+                })
+                .catch((error: unknown) => {
+                    // Decoration that cannot be fetched is simply absent, and the
+                    // page is unchanged. It is still reported: a fetch chain that
+                    // swallows everything also swallows a bug in the drawing, and
+                    // that has already cost this project a blank field once.
+                    console.error('Coverage field unavailable:', error);
+                });
+        }
 
         motionQuery.addEventListener('change', onMotionChange);
 

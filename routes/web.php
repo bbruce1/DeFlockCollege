@@ -6,18 +6,27 @@ use App\Http\Controllers\AdminController;
 use App\Chapters\Slug;
 use App\Http\Controllers\ChapterController;
 use App\Http\Controllers\CoverageController;
+use App\Http\Controllers\DebugPreviewController;
+use App\Http\Controllers\DistrictChoiceController;
 use App\Http\Controllers\ChapterCreationController;
 use App\Http\Controllers\ChapterEditController;
 use App\Http\Controllers\ChapterWelcomeController;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\OutreachController;
 use App\Http\Controllers\LegalController;
+use App\Http\Controllers\MapController;
+use App\Http\Controllers\SocialController;
 use App\Http\Controllers\VerificationController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', [HomeController::class, 'index'])->name('home');
 Route::get('/chapters', [ChapterController::class, 'index'])->name('chapters.index');
 
+Route::get('/map', [MapController::class, 'index'])->name('map');
+Route::get('/social', [SocialController::class, 'index'])->name('social');
+Route::get('/social/{post}', [SocialController::class, 'post'])
+    ->where('post', '[a-z0-9-]{1,40}')
+    ->name('social.post');
 Route::get('/about', [LegalController::class, 'about'])->name('about');
 Route::get('/contact', [LegalController::class, 'contact'])->name('contact');
 Route::get('/terms', [LegalController::class, 'terms'])->name('terms');
@@ -63,6 +72,14 @@ Route::post('/districts', [ChapterCreationController::class, 'districts'])
     ->middleware('throttle:30,60')
     ->name('districts.lookup');
 
+/*
+ * Asked when a campus is picked, so a clash is shown then rather than at the
+ * end. Local files only, so the limit is loose.
+ */
+Route::post('/nearby', [ChapterCreationController::class, 'nearby'])
+    ->middleware('throttle:60,60')
+    ->name('chapters.nearby');
+
 Route::post('/handle-check', [ChapterCreationController::class, 'checkHandle'])
     ->middleware('throttle:40,60')
     ->name('handle.check');
@@ -94,6 +111,25 @@ Route::post('/{slug}/recover-key', [ChapterEditController::class, 'recoverKey'])
 Route::patch('/{slug}', [ChapterEditController::class, 'update'])
     ->middleware('throttle:20,60')
     ->name('chapters.update');
+
+/*
+ * Which school, for an address that covers a whole district.
+ *
+ * Registered before the chapter catch-all, and "choose" is reserved so no
+ * chapter can claim it.
+ */
+Route::get('/choose', [DistrictChoiceController::class, 'show'])->name('chapters.choose');
+
+/*
+ * Looking at the create flow without sending yourself an email.
+ *
+ * Registered only in debug, because it mints a verification ticket without any
+ * verification. The controller refuses again on its own, so a route cache built
+ * while debugging cannot carry the bypass into production.
+ */
+if (config('app.debug') && ! app()->environment('production')) {
+    Route::get('/debug/start', [DebugPreviewController::class, 'start'])->name('debug.start');
+}
 
 /*
  * A chapter answers on both shapes: gt.deflock.school and deflock.school/gt.

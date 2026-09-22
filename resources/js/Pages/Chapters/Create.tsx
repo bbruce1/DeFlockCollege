@@ -1,6 +1,13 @@
 import { Head, Link, useForm } from '@inertiajs/react';
-import { useState } from 'react';
+import { forwardRef, useEffect, useMemo, useRef, useState } from 'react';
 import Shell from '@/Layouts/Shell';
+import PostDeck from '@/Posts/PostDeck';
+
+interface TakenCampus {
+    slug: string;
+    schoolName: string;
+    shortName: string;
+}
 
 interface PlaceResult {
     label: string;
@@ -18,60 +25,107 @@ interface Props {
     suggestedSlug: string;
     existing: { slug: string; shortName: string } | null;
     states: { code: string; name: string }[];
-    roles: { value: string; label: string }[];
     apex: string;
 }
 
-const STEPS = ['Your school', 'Where campus is', 'Who decides', 'Your channels', 'Generate'];
-
-const EMPTY_OFFICIAL = { name: '', title: '', email: '', url: '', role: 'city-council' };
-
-type OfficialRow = typeof EMPTY_OFFICIAL;
-
 /**
- * What the district lookup actually sends back.
+ * Start a chapter, one question at a time.
  *
- * The directory records a missing address as null rather than omitting it, and
- * every member of Congress has one: they publish a contact form instead of an
- * email. Declaring that honestly is what stops a null being spread into a form
- * whose fields are only ever strings.
+ * Shaped like an app rather than a form: a single question fills the screen, the
+ * action sits under the thumb, and nothing else competes for attention. The
+ * previous version put five headings and eleven fields on one page and asked a
+ * student to research their own city council in the middle of it.
+ *
+ * Nobody is asked for officials here. State and federal legislators are already
+ * attached to every chapter in that state when the page renders, and a creator
+ * who wants to add their city council can do it later from the edit screen.
+ * Making that a condition of finishing lost people at the step that mattered
+ * least.
+ *
+ * Everything is held in the browser and posted once at the end. There is no
+ * draft to resume and nothing is written until the last screen, so leaving
+ * halfway costs a student nothing and leaves us nothing to clean up.
  */
-type LookedUpOfficial = Partial<Record<keyof OfficialRow, string | null>>;
 
-/**
- * A looked-up office as a form row.
- *
- * Nulls become empty strings here and nowhere else. Spreading them in raw put a
- * null behind an input's `value` and under a `.trim()` on the next render,
- * which threw and took the whole create page down to a blank screen the moment
- * a campus was chosen.
- */
-/** An office reachable only through a web form: a link, and no address behind it. */
-function formOnly(official: OfficialRow): boolean {
-    return official.email.trim() === '' && official.url.trim() !== '';
+interface Step {
+    id: string;
+    /** The question, as a person would ask it. */
+    title: string;
+    /** One line under it. Never a paragraph. */
+    hint?: string;
+    /** Whether the step is answered well enough to move on. */
+    ready: (data: FormData, chosen: PlaceResult | null) => boolean;
+    /** Steps a creator is allowed to pass without answering. */
+    optional?: boolean;
+    /** For an optional step: whether anything has actually been entered. */
+    filled?: (data: FormData) => boolean;
 }
 
-function asRow(official: LookedUpOfficial): OfficialRow {
-    return {
-        name: official.name ?? '',
-        title: official.title ?? '',
-        email: official.email ?? '',
-        url: official.url ?? '',
-        role: official.role ?? EMPTY_OFFICIAL.role,
-    };
+interface FormData {
+    ticket: string;
+    schoolName: string;
+    shortName: string;
+    state: string;
+    city: string;
+    slug: string;
+    point: string;
+    instagram: string;
+    petitionUrl: string;
+    primaryColour: string;
+    secondaryColour: string;
+    /** Client-side only: the server does not validate it and never stores it. */
+    postsAcknowledged: boolean;
 }
 
-/**
- * Create a chapter, in five steps.
- *
- * Deliberately longer than it has to be. A page nobody maintains is worse than
- * no page, and the people who abandon this at step three were not going to run
- * a chapter — while the ones who finish it hand over the officials and the
- * accounts that make their page work on the day it goes live.
- *
- * Every step is held in the browser and posted once at the end. There is no
- * session and no draft on the server, so leaving halfway leaves nothing behind.
- */
+const SLUG_SHAPE = /^[a-z0-9][a-z0-9-]{0,30}[a-z0-9]$/;
+
+const STEPS: Step[] = [
+    {
+        id: 'school',
+        title: 'What school?',
+        hint: '',
+        ready: (d) => d.schoolName.trim().length >= 2 && d.shortName.trim().length >= 2,
+    },
+    {
+        id: 'campus',
+        title: 'Where is campus?',
+        hint: 'Search for it, then pick it from the list.',
+        ready: (d, chosen) => chosen !== null && d.point !== '' && d.state !== '' && d.city !== '',
+    },
+    {
+        id: 'colours',
+        title: 'What are your colours?',
+        hint: 'Your page and your posts get built in them.',
+        ready: (d) => /^#[0-9a-f]{6}$/i.test(d.primaryColour) && /^#[0-9a-f]{6}$/i.test(d.secondaryColour),
+    },
+    {
+        id: 'posts',
+        title: 'We make posts',
+        hint: '',
+        ready: (d) => d.postsAcknowledged,
+    },
+    {
+        id: 'instagram',
+        title: 'Instagram',
+        hint: 'This is crucial to how DeFlock builds virality and how you communicate.',
+        ready: (d) => d.instagram.trim().length >= 3,
+    },
+    {
+        id: 'petition',
+        title: 'Collecting signatures?',
+        hint: 'Optional. Paste a link and your page gets a petition block.',
+        ready: () => true,
+        optional: true,
+        filled: (d) => d.petitionUrl.trim() !== '',
+    },
+    {
+        id: 'address',
+        title: 'Pick your web address',
+        hint: 'It cannot be changed later.',
+        ready: (d) => SLUG_SHAPE.test(d.slug),
+    },
+];
+
 export default function Create({
     ticket,
     domain,
@@ -80,10 +134,9 @@ export default function Create({
     suggestedSlug,
     existing,
     states,
-    roles,
     apex,
 }: Props) {
-    const form = useForm({
+    const form = useForm<FormData>({
         ticket,
         schoolName: known?.schoolName ?? '',
         shortName: known?.shortName ?? '',
@@ -93,9 +146,12 @@ export default function Create({
         point: '',
         instagram: 'deflock.',
         petitionUrl: '',
-        primaryColour: '#1f6feb',
-        secondaryColour: '#f0b429',
-        officials: [{ ...EMPTY_OFFICIAL }],
+        // White, not a sample palette. A picker that opens on somebody else's
+        // blue and gold invites leaving them there, and a chapter wearing
+        // colours nobody chose is worse than one wearing none.
+        primaryColour: '#ffffff',
+        secondaryColour: '#ffffff',
+        postsAcknowledged: false,
     });
 
     const [step, setStep] = useState(0);
@@ -103,11 +159,59 @@ export default function Create({
     const [results, setResults] = useState<PlaceResult[]>([]);
     const [chosen, setChosen] = useState<PlaceResult | null>(null);
     const [searching, setSearching] = useState(false);
-
     const [searchError, setSearchError] = useState<string | null>(null);
-    const [lookingUp, setLookingUp] = useState(false);
-    const [prefilled, setPrefilled] = useState(0);
-    const [lookupFailed, setLookupFailed] = useState(false);
+    // A chapter already standing on the campus just picked. Checked here so it
+    // is shown while it can still be acted on, rather than at the last screen.
+    const [taken, setTaken] = useState<TakenCampus | null>(null);
+    const [checking, setChecking] = useState(false);
+
+    const current = STEPS[step];
+    const last = step === STEPS.length - 1;
+    // A campus that already has a chapter is not a campus this one can use, and
+    // the server will say so at submit. Saying it here saves five screens.
+    const ready =
+        current.ready(form.data, chosen) && !(current.id === 'campus' && (taken !== null || checking));
+
+    /**
+     * Moving to a step puts the cursor in it, on a device with a pointer.
+     *
+     * Not on a phone: taking focus there throws the keyboard up over the screen
+     * the moment it arrives, which on the Instagram step would cover the posts
+     * that are the reason for the screen. A thumb can choose its own moment.
+     */
+    const fieldRef = useRef<HTMLInputElement>(null);
+
+    useEffect(() => {
+        if (window.matchMedia('(pointer: fine)').matches) {
+            fieldRef.current?.focus();
+        }
+    }, [step]);
+
+    function next() {
+        if (!ready && !current.optional) {
+            return;
+        }
+
+        if (last) {
+            form.post('/chapters');
+
+            return;
+        }
+
+        setStep((n) => Math.min(STEPS.length - 1, n + 1));
+    }
+
+    function back() {
+        setStep((n) => Math.max(0, n - 1));
+    }
+
+    // Enter advances, which is what a keyboard expects of a one-field screen.
+    function onKeyDown(event: React.KeyboardEvent) {
+        if (event.key === 'Enter' && !event.shiftKey) {
+            event.preventDefault();
+            next();
+        }
+    }
 
     async function search() {
         setSearching(true);
@@ -150,32 +254,29 @@ export default function Create({
     function choose(place: PlaceResult) {
         setChosen(place);
         setResults([]);
+        setTaken(null);
         form.setData((data) => ({
             ...data,
             point: `${place.latitude},${place.longitude}`,
             state: place.state ?? data.state,
-            // From the structured address. The display name starts with the most
-            // specific part, so reading a town out of it lands on the street.
             city: place.city ?? data.city,
         }));
 
-        loadRepresentatives(place);
+        void checkCampus(`${place.latitude},${place.longitude}`);
     }
 
     /**
-     * Fills the officials step with the people who actually represent this
-     * campus, so the creator edits a list rather than researching one.
+     * Whether this campus already has a chapter.
      *
-     * A failure is shown rather than swallowed. This was silent once, and a
-     * broken route went unnoticed because the only symptom was an empty step
-     * that looked exactly like a working one.
+     * The server refuses a duplicate either way; this only decides whether that
+     * is learned now or after five more screens. A failure here is therefore
+     * not worth reporting: the answer arrives at submit regardless.
      */
-    async function loadRepresentatives(place: PlaceResult) {
-        setLookingUp(true);
-        setLookupFailed(false);
+    async function checkCampus(point: string) {
+        setChecking(true);
 
         try {
-            const response = await fetch('/districts', {
+            const response = await fetch('/nearby', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
@@ -184,91 +285,53 @@ export default function Create({
                         document.cookie.match(/XSRF-TOKEN=([^;]+)/)?.[1] ?? '',
                     ),
                 },
-                body: JSON.stringify({
-                    ticket,
-                    point: `${place.latitude},${place.longitude}`,
-                    state: place.state ?? '',
-                }),
+                body: JSON.stringify({ ticket, point }),
             });
 
-            if (!response.ok) {
-                setLookupFailed(true);
-
-                return;
+            if (response.ok) {
+                setTaken(((await response.json()).existing as TakenCampus | null) ?? null);
             }
-
-            const found: LookedUpOfficial[] = (await response.json()).officials ?? [];
-
-            if (found.length === 0) {
-                return;
-            }
-
-            form.setData('officials', [
-                ...found.map(asRow),
-                { ...EMPTY_OFFICIAL, role: 'city-council' },
-            ]);
-            setPrefilled(found.length);
         } catch {
-            setLookupFailed(true);
+            // Left to the server.
         } finally {
-            setLookingUp(false);
+            setChecking(false);
         }
     }
 
-    function removeOfficial(index: number) {
-        form.setData(
-            'officials',
-            form.data.officials.filter((_, i) => i !== index),
-        );
-    }
+    const handle = form.data.instagram.trim().replace(/^@/, '');
 
-    function setOfficial(index: number, field: keyof typeof EMPTY_OFFICIAL, value: string) {
-        form.setData(
-            'officials',
-            form.data.officials.map((official, i) =>
-                i === index ? { ...official, [field]: value } : official,
-            ),
-        );
-    }
-
-    const handle = form.data.instagram
-        .trim()
-        .replace(/^@/, '')
-        .replace(/^https?:\/\/(www\.)?instagram\.com\//i, '')
-        .replace(/\/.*$/, '');
-
-    // A listed official with no email is a button that opens an empty draft.
-    // Prefilled members of Congress are the exception: they publish a form
-    // instead of an address, and that arrives as a url.
-    const unreachable = form.data.officials.filter(
-        (o) => o.name.trim() !== '' && o.email.trim() === '' && (o.url ?? '').trim() === '',
+    const postInput = useMemo(
+        () => ({
+            schoolName: form.data.schoolName || 'Your school',
+            shortName: form.data.shortName || form.data.schoolName || 'Your school',
+            primary: form.data.primaryColour,
+            secondary: form.data.secondaryColour,
+            readersWithinMile: null,
+            address: `${form.data.slug || 'yourschool'}.${apex}`,
+        }),
+        [
+            form.data.schoolName,
+            form.data.shortName,
+            form.data.primaryColour,
+            form.data.secondaryColour,
+            form.data.slug,
+            apex,
+        ],
     );
-
-    const canAdvance = [
-        form.data.schoolName.length > 1 && form.data.shortName.length > 1 && form.data.slug.length > 1,
-        form.data.point !== '',
-        unreachable.length === 0,
-        form.data.instagram.trim().replace(/^deflock\./, '').length > 0,
-        true,
-    ][step];
 
     if (existing) {
         return (
             <Shell>
                 <Head title="This school already has a chapter" />
-                <div className="mx-auto max-w-2xl px-6 py-24">
-                    <h1 className="text-3xl font-bold">{existing.shortName} already has a chapter.</h1>
-                    <p className="mt-4 text-dim">
-                        One school, one chapter. If you think it has been abandoned or there is a
-                        problem with it, get in touch and it can be reassigned or taken down.
-                    </p>
-                    <Link
-                        href={`/${existing.slug}`}
-                        className="btn btn-primary mt-8 no-underline"
-                    >
-                        Go to the chapter
+                <section className="shell grid min-h-[70dvh] max-w-lg content-center gap-5 py-16">
+                    <h1 className="text-[clamp(1.8rem,6vw,2.6rem)] uppercase leading-[1.05]">
+                        {existing.shortName} already has a chapter
+                    </h1>
+                    <p className="text-dim">One school, one chapter. Yours is already up.</p>
+                    <Link href={`/${existing.slug}`} className="btn btn-primary justify-self-start">
+                        Go to it
                     </Link>
-                </div>
+                </section>
             </Shell>
         );
     }
@@ -277,483 +340,458 @@ export default function Create({
         <Shell>
             <Head title="Start a chapter" />
 
-            <div className="mx-auto max-w-2xl px-6 py-16">
-                <p className="font-mono text-xs uppercase tracking-[0.2em] text-faint">
-                    Verified as {domain} · link valid {minutesRemaining} more minutes
-                </p>
-                <h1 className="mt-4 text-4xl font-bold tracking-tight">Start a chapter</h1>
-
-                <ol className="mt-8 flex flex-wrap gap-x-2 gap-y-1 font-mono text-xs">
-                    {STEPS.map((label, index) => (
-                        <li
-                            key={label}
-                            className={
-                                index === step
-                                    ? 'text-net'
-                                    : index < step
-                                      ? 'text-dim'
-                                      : 'text-faint'
-                            }
-                        >
-                            {index + 1}. {label}
-                            {index < STEPS.length - 1 ? <span className="ml-2 text-faint">→</span> : null}
-                        </li>
-                    ))}
-                </ol>
-
-                <form
-                    onSubmit={(event) => {
-                        event.preventDefault();
-                        form.post('/chapters');
-                    }}
-                    className="mt-8 space-y-6"
-                >
-                    {step === 0 && (
-                        <>
-                            <p className="text-dim">
-                                {known
-                                    ? `We know ${domain} as ${known.schoolName}. Correct it if we have it wrong.`
-                                    : `We do not have ${domain} on file, so tell us which school it is.`}
-                            </p>
-                            <Field label="School name" error={form.errors.schoolName}>
-                                <input
-                                    value={form.data.schoolName}
-                                    onChange={(e) => form.setData('schoolName', e.target.value)}
-                                    className={inputClass}
-                                    placeholder="Georgia Institute of Technology"
-                                />
-                            </Field>
-                            <Field label="Short name" hint="What students actually call it." error={form.errors.shortName}>
-                                <input
-                                    value={form.data.shortName}
-                                    onChange={(e) => form.setData('shortName', e.target.value)}
-                                    className={inputClass}
-                                    placeholder="Georgia Tech"
-                                />
-                            </Field>
-                            <Field
-                                label="Web address"
-                                hint={`${form.data.slug || 'your-slug'}.${apex} and ${apex}/${form.data.slug || 'your-slug'}`}
-                                error={form.errors.slug}
-                            >
-                                <input
-                                    value={form.data.slug}
-                                    onChange={(e) => form.setData('slug', e.target.value)}
-                                    className={inputClass}
-                                />
-                            </Field>
-
-                            <fieldset className="border border-hair p-4">
-                                <legend className="px-2 text-sm font-bold">School colours</legend>
-                                <p className="text-sm text-dim">
-                                    Your page picks whichever of the two reads clearly against its
-                                    background, and keeps its own palette if neither does.
-                                </p>
-                                <div className="mt-4 grid gap-4 sm:grid-cols-2">
-                                    <ColourField
-                                        label="Primary"
-                                        value={form.data.primaryColour}
-                                        onChange={(value) => form.setData('primaryColour', value)}
-                                    />
-                                    <ColourField
-                                        label="Secondary"
-                                        value={form.data.secondaryColour}
-                                        onChange={(value) => form.setData('secondaryColour', value)}
-                                    />
-                                </div>
-                                {form.errors.primaryColour && (
-                                    <p className="mt-2 text-sm text-signal">
-                                        {form.errors.primaryColour}
-                                    </p>
-                                )}
-                            </fieldset>
-                        </>
-                    )}
-
-                    {step === 1 && (
-                        <>
-                            <p className="text-dim">
-                                We count the plate readers within a mile of the point you pick.
-                            </p>
-                            <div className="flex gap-2">
-                                <input
-                                    aria-label="Search for your campus"
-                                    value={term}
-                                    onChange={(e) => setTerm(e.target.value)}
-                                    onKeyDown={(e) => {
-                                        if (e.key === 'Enter') {
-                                            e.preventDefault();
-                                            search();
-                                        }
-                                    }}
-                                    className={inputClass}
-                                    placeholder="Georgia Tech, Atlanta"
-                                />
-                                <button
-                                    type="button"
-                                    onClick={search}
-                                    disabled={searching || term.trim().length < 3}
-                                    className="btn btn-quiet shrink-0"
-                                >
-                                    {searching ? 'Looking…' : 'Search'}
-                                </button>
-                            </div>
-
-                            {searchError ? <p className="text-sm text-signal">{searchError}</p> : null}
-
-                            {results.length > 0 ? (
-                                <ul className="space-y-1">
-                                    {results.map((place) => (
-                                        <li key={`${place.latitude},${place.longitude}`}>
-                                            <button
-                                                type="button"
-                                                onClick={() => choose(place)}
-                                                className="w-full rounded border border-hair px-3 py-2 text-left text-sm hover:border-net"
-                                            >
-                                                {place.label}
-                                            </button>
-                                        </li>
-                                    ))}
-                                </ul>
-                            ) : null}
-
-                            {chosen ? (
-                                <p className="rounded border border-net bg-net-wash px-3 py-2 text-sm">
-                                    Using <strong>{chosen.label}</strong>
-                                </p>
-                            ) : null}
-
-                            <div className="grid gap-6 sm:grid-cols-2">
-                                <Field label="State" error={form.errors.state}>
-                                    <select
-                                        value={form.data.state}
-                                        onChange={(e) => form.setData('state', e.target.value)}
-                                        className={inputClass}
-                                    >
-                                        <option value="">Choose a state</option>
-                                        {states.map((state) => (
-                                            <option key={state.code} value={state.code}>
-                                                {state.name}
-                                            </option>
-                                        ))}
-                                    </select>
-                                </Field>
-                                <Field label="City" error={form.errors.city}>
-                                    <input
-                                        value={form.data.city}
-                                        onChange={(e) => form.setData('city', e.target.value)}
-                                        className={inputClass}
-                                        placeholder="Atlanta"
-                                    />
-                                </Field>
-                            </div>
-                            {form.errors.point ? <p className="text-sm text-signal">{form.errors.point}</p> : null}
-                        </>
-                    )}
-
-                    {step === 2 && (
-                        <>
-                            {/*
-                              * Says what has already been done before asking for
-                              * anything, so a creator can see the gap is local
-                              * offices rather than wondering what is expected.
-                              */}
-                            <div className="rounded border border-hair-lit bg-panel p-4">
-                                <p className="text-sm font-bold text-glow">
-                                    We fill in state and federal legislators for you
-                                </p>
-                                <p className="mt-2 text-sm text-dim">
-                                    Your state senator, state representative and members of Congress
-                                    are added automatically from public records, based on where your
-                                    campus sits.
-                                </p>
-                                <p className="mt-2 text-sm text-dim">
-                                    What we cannot look up is local. If you want to add{' '}
-                                    <strong className="text-glow">city council members</strong>,
-                                    your sheriff, a police chief or campus administration, add them
-                                    here. Those are usually the people who signed for the cameras.
-                                </p>
-                            </div>
-
-                            {lookupFailed ? (
-                                <p className="text-sm text-signal">
-                                    Could not look up your representatives. Add them by hand below,
-                                    or go back a step and pick the campus again.
-                                </p>
-                            ) : null}
-
-                            {lookingUp ? (
-                                <p className="text-sm text-faint">
-                                    Looking up who represents this campus…
-                                </p>
-                            ) : null}
-
-                            {prefilled > 0 ? (
-                                <p className="rounded border border-net bg-net-wash px-3 py-2 text-sm">
-                                    Added the {prefilled} state and federal legislators who represent
-                                    this campus. Check them, fix anything wrong, and add your city
-                                    council below.
-                                </p>
-                            ) : (
-                                <p className="text-sm text-faint">
-                                    All optional, and you can add or change any of this later from
-                                    the edit button on your chapter page.
-                                </p>
-                            )}
-
-                            <p className="text-sm text-faint">
-                                Members of Congress do not publish email addresses. Those entries
-                                carry the official contact form instead, and your page links to it.
-                            </p>
-
-                            {form.data.officials.map((official, index) => (
-                                <div key={index} className="grid gap-3 rounded border border-hair p-4">
-                                    <div className="grid gap-3 sm:grid-cols-2">
-                                        <label className="grid gap-1">
-                                            <span className="annot">Role</span>
-                                            <select
-                                                value={official.role}
-                                                onChange={(e) => setOfficial(index, 'role', e.target.value)}
-                                                className={inputClass}
-                                            >
-                                                {roles.map((role) => (
-                                                    <option key={role.value} value={role.value}>
-                                                        {role.label}
-                                                    </option>
-                                                ))}
-                                            </select>
-                                        </label>
-                                        {/*
-                                          * Named for a screen reader as well as
-                                          * a sighted one: a placeholder is gone
-                                          * the moment anybody types, so on its
-                                          * own it leaves the field anonymous to
-                                          * exactly the reader who needs it most.
-                                          */}
-                                        <input
-                                            aria-label="Name"
-                                            value={official.name}
-                                            onChange={(e) => setOfficial(index, 'name', e.target.value)}
-                                            className={inputClass}
-                                            placeholder="Name"
-                                        />
-                                        <input
-                                            aria-label="Title"
-                                            value={official.title}
-                                            onChange={(e) => setOfficial(index, 'title', e.target.value)}
-                                            className={inputClass}
-                                            placeholder="City Councilmember, District 3"
-                                        />
-                                    </div>
-                                    {/*
-                                      * Locked only for an office that takes a
-                                      * form *instead of* an address. State
-                                      * legislators carry both a website and an
-                                      * email, and keying off the website alone
-                                      * froze their address too — on a step that
-                                      * asks the creator to check and fix what
-                                      * was looked up for them.
-                                      */}
-                                    <input
-                                        type="email"
-                                        aria-label="Email"
-                                        value={official.email}
-                                        onChange={(e) => setOfficial(index, 'email', e.target.value)}
-                                        className={inputClass}
-                                        placeholder={
-                                            formOnly(official)
-                                                ? 'Takes a web form instead of an email'
-                                                : 'Email (required)'
-                                        }
-                                        disabled={formOnly(official)}
-                                    />
-
-                                    {/*
-                                      * The step below tells a creator to remove
-                                      * a row it cannot use, and a handful of the
-                                      * shipped legislators arrive with no
-                                      * address and no form — so without this
-                                      * control that instruction pointed at
-                                      * nothing and the step could not be passed.
-                                      */}
-                                    {form.data.officials.length > 1 ? (
-                                        <button
-                                            type="button"
-                                            onClick={() => removeOfficial(index)}
-                                            className="justify-self-start text-sm text-faint"
-                                        >
-                                            Remove
-                                        </button>
-                                    ) : null}
-                                </div>
-                            ))}
-
-                            {form.data.officials.length < 6 ? (
-                                <button
-                                    type="button"
-                                    onClick={() => form.setData('officials', [...form.data.officials, { ...EMPTY_OFFICIAL }])}
-                                    className="btn btn-quiet"
-                                >
-                                    Add another office
-                                </button>
-                            ) : null}
-
-                            {unreachable.length > 0 ? (
-                                <p className="text-sm text-signal">
-                                    {unreachable.length === 1
-                                        ? `${unreachable[0].name.trim()} needs an email address.`
-                                        : `${unreachable.length} people still need an email address.`}{' '}
-                                    Without one, the button on your page opens an empty message.
-                                    Remove the row if you cannot find an address.
-                                </p>
-                            ) : null}
-
-                            {form.errors.officials ? (
-                                <p className="text-sm text-signal">{form.errors.officials}</p>
-                            ) : null}
-                        </>
-                    )}
-
-                    {step === 3 && (
-                        <>
-                            {/*
-                              * Two blocks, deliberately unalike. A student should be
-                              * able to tell at a glance which part they cannot skip.
-                              */}
-                            <section className="rounded border-2 border-net/60 bg-net/5 p-5">
-                                <p className="font-mono text-xs uppercase tracking-[0.16em] text-net">
-                                    Required
-                                </p>
-                                <h2 className="mt-2 text-xl font-bold">Instagram Account</h2>
-                                <p className="mt-2 text-sm text-dim">
-                                    Social media is vital to the virality of DeFlock. Please make an Instagram account for your chapter and link it here.
-                                </p>
-
-                                <div className="mt-4">
-                                    <Field label="Instagram handle" hint="Without the @" error={form.errors.instagram}>
-                                        <input
-                                            value={form.data.instagram}
-                                            onChange={(e) => form.setData('instagram', e.target.value)}
-                                            className={inputClass}
-                                            placeholder={`deflock.${form.data.slug || 'yourschool'}`}
-                                        />
-                                    </Field>
-                                </div>
-
-                                {handle ? (
-                                    <a
-                                        href={`https://instagram.com/${handle}`}
-                                        target="_blank"
-                                        rel="noopener noreferrer"
-                                        className="mt-3 inline-block text-sm text-net underline underline-offset-4"
-                                    >
-                                        Open instagram.com/{handle} to check it ↗
-                                    </a>
-                                ) : null}
-                            </section>
-
-                            <section className="rounded border border-dashed border-hair-lit p-5">
-                                <p className="font-mono text-xs uppercase tracking-[0.16em] text-faint">
-                                    Optional
-                                </p>
-                                <h2 className="mt-2 text-lg font-bold text-dim">
-                                    Petition
-                                </h2>
-                                <p className="mt-2 text-sm text-faint">
-                                    If your chapter is collecting signatures somewhere, paste the
-                                    link and your page gets a section for it.
-                                </p>
-
-                                <div className="mt-4">
-                                    <Field label="Petition link" error={form.errors.petitionUrl}>
-                                        <input
-                                            type="url"
-                                            value={form.data.petitionUrl}
-                                            onChange={(e) => form.setData('petitionUrl', e.target.value)}
-                                            className={inputClass}
-                                            placeholder="https://www.change.org/p/..."
-                                        />
-                                    </Field>
-                                </div>
-                            </section>
-                        </>
-                    )}
-
-                    {step === 4 && (
-                        <div className="space-y-4">
-                            <dl className="grid gap-2 rounded border border-hair p-5 text-sm">
-                                <Row label="School" value={form.data.schoolName} />
-                                <Row
-                                    label="Address"
-                                    value={`${form.data.slug}.${apex} and ${apex}/${form.data.slug}`}
-                                />
-                                <Row label="Campus" value={chosen?.label ?? form.data.point} />
-                                <Row label="Where" value={`${form.data.city}, ${form.data.state}`} />
-                                <Row
-                                    label="Officials"
-                                    value={`${form.data.officials.filter((o) => o.name.trim()).length} added`}
-                                />
-                                <Row
-                                    label="Colours"
-                                    value={`${form.data.primaryColour} / ${form.data.secondaryColour}`}
-                                />
-                                <Row label="Instagram" value={form.data.instagram || 'none yet'} />
-                                <Row label="Petition" value={form.data.petitionUrl ? 'linked' : 'none'} />
-                            </dl>
-
-                            <p className="text-sm text-faint">
-                                Generating runs two queries against OpenStreetMap and takes a few
-                                seconds. Nothing about you is stored beyond an irreversible record
-                                that this address owns this chapter.
-                            </p>
-
-                            <button
-                                type="submit"
-                                disabled={form.processing || !form.data.point}
-                                className="btn btn-primary w-full justify-center py-4 text-lg"
-                            >
-                                {form.processing ? 'Counting the readers…' : 'Generate the chapter'}
-                            </button>
-                        </div>
-                    )}
-
-                    {step < 4 ? (
-                        <div className="flex items-center justify-between pt-2">
-                            <button
-                                type="button"
-                                onClick={() => setStep((s) => Math.max(0, s - 1))}
-                                disabled={step === 0}
-                                className="btn btn-quiet disabled:opacity-30"
-                            >
-                                Back
-                            </button>
-                            <button
-                                type="button"
-                                onClick={() => setStep((s) => s + 1)}
-                                disabled={!canAdvance}
-                                className="btn btn-primary"
-                            >
-                                Continue
-                            </button>
-                        </div>
-                    ) : (
+            <div className="flex min-h-[calc(100dvh-3.5rem)] flex-col">
+                {/* Progress, and the only way back. */}
+                <div className="shell w-full pt-5">
+                    <div className="flex items-center gap-4">
                         <button
                             type="button"
-                            onClick={() => setStep(3)}
-                            className="rounded px-4 py-2 text-sm text-dim"
+                            onClick={back}
+                            disabled={step === 0}
+                            aria-label="Back"
+                            className="grid h-11 w-11 place-items-center border border-hair text-dim transition-colors hover:border-net hover:text-net disabled:opacity-30 disabled:hover:border-hair disabled:hover:text-dim"
                         >
-                            Back
+                            <span aria-hidden="true">←</span>
                         </button>
-                    )}
-                </form>
+
+                        <div className="flex flex-1 gap-1.5" role="presentation">
+                            {STEPS.map((s, index) => (
+                                <span
+                                    key={s.id}
+                                    className={`h-1 flex-1 transition-colors ${
+                                        index < step ? 'bg-net' : index === step ? 'bg-net/60' : 'bg-hair'
+                                    }`}
+                                />
+                            ))}
+                        </div>
+
+                        <span className="annot shrink-0 text-faint">
+                            {step + 1}/{STEPS.length}
+                        </span>
+                    </div>
+                </div>
+
+                {/* The question. One screen, one thing. */}
+                {/*
+                  * Centred with auto margins rather than justify-center: a flex
+                  * child that is taller than the box gets clipped at the top by
+                  * centring, and the Instagram step with its five posts is
+                  * taller than a phone. This centres a short step and scrolls a
+                  * long one.
+                  */}
+                <main className="shell flex w-full flex-1 flex-col pb-8 pt-10">
+                    {/*
+                      * Every step is centred. One question at a time on an
+                      * otherwise empty screen reads as a prompt; the same
+                      * question pinned to the left edge reads as a form, and this
+                      * is deliberately not a form. The posts step gets more room
+                      * because it holds a deck of cards rather than a field.
+                      */}
+                    <div
+                        className={`mx-auto my-auto w-full text-center ${
+                            current.id === 'posts' ? 'max-w-3xl' : 'max-w-xl'
+                        }`}
+                    >
+                        <h1 className="text-balance text-[clamp(1.9rem,7vw,3rem)] uppercase leading-[1.02]">
+                            {current.title}
+                        </h1>
+
+                        {current.hint ? (
+                            <p className="mt-3 text-dim">{current.hint}</p>
+                        ) : null}
+
+                        <div className="mt-8 grid gap-5" onKeyDown={onKeyDown}>
+                            {current.id === 'school' && (
+                                <>
+                                    <BigField
+                                        ref={fieldRef}
+                                        label="Full name"
+                                        value={form.data.schoolName}
+                                        onChange={(v) => form.setData('schoolName', v)}
+                                        placeholder="Georgia Institute of Technology"
+                                        error={form.errors.schoolName}
+                                    />
+                                    <BigField
+                                        label="What people call it"
+                                        value={form.data.shortName}
+                                        onChange={(v) => form.setData('shortName', v)}
+                                        placeholder="Georgia Tech"
+                                        error={form.errors.shortName}
+                                    />
+                                    <p className="annot text-faint">
+                                        Verified as {domain} · {minutesRemaining} minutes left
+                                    </p>
+                                </>
+                            )}
+
+                            {current.id === 'campus' && (
+                                <>
+                                    <div className="flex flex-col gap-3 sm:flex-row">
+                                        <input
+                                            ref={fieldRef}
+                                            value={term}
+                                            onChange={(e) => setTerm(e.target.value)}
+                                            placeholder="Georgia Tech, Atlanta"
+                                            aria-label="Search for your campus"
+                                            type="search"
+                                            inputMode="search"
+                                            autoComplete="off"
+                                            style={{ touchAction: 'manipulation' }}
+                                            className="field min-h-[3.25rem] flex-1 text-lg"
+                                        />
+                                        <button
+                                            type="button"
+                                            onClick={search}
+                                            disabled={searching || term.trim().length < 2}
+                                            className="btn btn-primary min-h-[3.25rem]"
+                                        >
+                                            {searching ? 'Searching' : 'Search'}
+                                        </button>
+                                    </div>
+
+                                    {searchError ? (
+                                        <p
+                                            role="alert"
+                                            className="border border-signal bg-signal/10 px-4 py-3 font-data text-sm text-signal"
+                                        >
+                                            {searchError}
+                                        </p>
+                                    ) : null}
+
+                                    {results.length > 0 ? (
+                                        <ul className="grid gap-px border border-hair bg-hair">
+                                            {results.map((place) => (
+                                                <li key={`${place.latitude},${place.longitude}`}>
+                                                    <button
+                                                        type="button"
+                                                        onClick={() => choose(place)}
+                                                        className="w-full bg-void px-4 py-4 text-left text-sm transition-colors hover:bg-panel active:scale-[0.995]"
+                                                    >
+                                                        {place.label}
+                                                    </button>
+                                                </li>
+                                            ))}
+                                        </ul>
+                                    ) : null}
+
+                                    {chosen && taken ? (
+                                        <div role="alert" className="border border-signal bg-signal/10 px-4 py-4">
+                                            <p className="annot text-signal">
+                                                This campus already has a chapter
+                                            </p>
+                                            <p className="mt-2 text-sm text-dim">
+                                                {taken.schoolName} is already here. If that is your
+                                                school, use its page rather than starting a second
+                                                one.
+                                            </p>
+                                            <a
+                                                href={`/${taken.slug}`}
+                                                className="mt-3 inline-block min-h-[2.75rem] bg-signal px-4 py-3 font-data text-sm font-semibold text-void no-underline"
+                                            >
+                                                Go to {taken.shortName}
+                                            </a>
+                                            <p className="mt-3 text-sm text-faint">
+                                                Genuinely a different school at the same address?{' '}
+                                                <a href="/contact" className="text-net underline underline-offset-4">
+                                                    Get in touch
+                                                </a>
+                                                .
+                                            </p>
+                                        </div>
+                                    ) : null}
+
+                                    {chosen && !taken ? (
+                                        <div className="border border-net bg-net-wash px-4 py-4">
+                                            <p className="annot text-net">
+                                                {checking ? 'Checking…' : 'Campus set'}
+                                            </p>
+                                            <p className="mt-1 text-sm">{chosen.label}</p>
+                                            <button
+                                                type="button"
+                                                onClick={() => {
+                                                    setChosen(null);
+                                                    setTaken(null);
+                                                    form.setData('point', '');
+                                                }}
+                                                className="mt-3 min-h-[2.75rem] font-data text-xs uppercase tracking-wider text-dim underline underline-offset-4 hover:text-net"
+                                            >
+                                                Pick a different one
+                                            </button>
+                                        </div>
+                                    ) : null}
+
+                                    {chosen && (!form.data.state || !form.data.city) ? (
+                                        <div className="grid gap-4 sm:grid-cols-2">
+                                            <label className="grid gap-2">
+                                                <span className="annot">State</span>
+                                                <select
+                                                    value={form.data.state}
+                                                    onChange={(e) => form.setData('state', e.target.value)}
+                                                    className="field min-h-[3.25rem]"
+                                                >
+                                                    <option value="">Choose</option>
+                                                    {states.map((s) => (
+                                                        <option key={s.code} value={s.code}>
+                                                            {s.name}
+                                                        </option>
+                                                    ))}
+                                                </select>
+                                            </label>
+                                            <BigField
+                                                label="City"
+                                                value={form.data.city}
+                                                onChange={(v) => form.setData('city', v)}
+                                                placeholder="Atlanta"
+                                            />
+                                        </div>
+                                    ) : null}
+                                </>
+                            )}
+
+                            {current.id === 'colours' && (
+                                <>
+                                    <div className="grid gap-4 sm:grid-cols-2">
+                                        <ColourField
+                                            label="Primary"
+                                            value={form.data.primaryColour}
+                                            onChange={(v) => form.setData('primaryColour', v)}
+                                        />
+                                        <ColourField
+                                            label="Secondary"
+                                            value={form.data.secondaryColour}
+                                            onChange={(v) => form.setData('secondaryColour', v)}
+                                        />
+                                    </div>
+
+                                    <div
+                                        className="grid aspect-[16/7] content-end gap-1 p-5"
+                                        style={{
+                                            background: form.data.primaryColour,
+                                            color: form.data.secondaryColour,
+                                        }}
+                                    >
+                                        <p className="annot" style={{ opacity: 0.85 }}>
+                                            {form.data.shortName || 'Your school'}
+                                        </p>
+                                        <p className="text-2xl font-semibold leading-tight">
+                                            You are being flocked
+                                        </p>
+                                    </div>
+                                    <p className="annot text-faint">
+                                        Your page adapts these so text stays readable on them.
+                                    </p>
+                                </>
+                            )}
+
+                            {current.id === 'posts' && (
+                                <div className="grid gap-6">
+                                    <p className="mx-auto max-w-[54ch] text-dim">
+                                        We make posts built
+                                        from your colors and your campus, with the captions
+                                        written.
+                                    </p>
+
+                                    <PostDeck
+                                        input={postInput}
+                                        handle={handle || `deflock.${form.data.slug || 'yourschool'}`}
+                                    />
+
+                                    {/*
+                                      * Said plainly, and worth being careful about: nothing here
+                                      * touches anybody's account. We make them; posting stays the
+                                      * creator's, which is also why the Instagram is theirs to make.
+                                      */}
+                                    <p className="mx-auto max-w-[54ch] border border-hair bg-panel px-4 py-3 text-sm text-dim">
+                                        <strong className="text-glow">We make them, and you post them and whatever else you want.</strong>{' '}
+                                    </p>
+
+                                    {form.data.postsAcknowledged ? (
+                                        <div className="mx-auto max-w-[54ch] border border-net bg-net-wash p-5">
+                                            <p className="annot text-net">Where to find them</p>
+                                            <h3 className="mt-2 text-lg uppercase">
+                                                Posts are at{' '}
+                                                <Link href="/social" className="text-net">
+                                                    deflock.school/social
+                                                </Link>
+                                            </h3>
+                                        </div>
+                                    ) : (
+                                        <button
+                                            type="button"
+                                            onClick={() => form.setData('postsAcknowledged', true)}
+                                            className="btn btn-primary justify-self-center"
+                                        >
+                                            I understand
+                                        </button>
+                                    )}
+                                </div>
+                            )}
+
+                            {current.id === 'instagram' && (
+                                <>
+                                    <BigField
+                                        ref={fieldRef}
+                                        label="Handle"
+                                        prefix="@"
+                                        value={form.data.instagram}
+                                        onChange={(v) => form.setData('instagram', v)}
+                                        placeholder={`deflock.${form.data.slug || 'yourschool'}`}
+                                        error={form.errors.instagram}
+                                    />
+
+                                    {handle ? (
+                                        <a
+                                            href={`https://instagram.com/${handle}`}
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                            className="justify-self-start font-data text-xs uppercase tracking-wider text-net underline underline-offset-4"
+                                        >
+                                            Check instagram.com/{handle} ↗
+                                        </a>
+                                    ) : null}
+
+                                </>
+                            )}
+
+                            {current.id === 'petition' && (
+                                <>
+                                    <BigField
+                                        ref={fieldRef}
+                                        label="Petition link"
+                                        type="url"
+                                        inputMode="url"
+                                        value={form.data.petitionUrl}
+                                        onChange={(v) => form.setData('petitionUrl', v)}
+                                        placeholder="https://www.change.org/p/…"
+                                        error={form.errors.petitionUrl}
+                                    />
+
+                                    {/*
+                                      * Asking for a link without saying where to
+                                      * get one is a dead end for anybody who has
+                                      * not made a petition before. It opens in a
+                                      * new tab so a half-finished chapter is not
+                                      * lost on the way.
+                                      */}
+                                    <p className="mx-auto max-w-[46ch] text-sm text-dim">
+                                        Do not have one yet?{' '}
+                                        <a
+                                            href="https://www.change.org/start-a-petition"
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                            className="text-net underline underline-offset-4"
+                                        >
+                                            Start one on Change.org ↗
+                                        </a>{' '}
+                                        then paste the link back here. You can also add it later
+                                        from the edit screen, so this is not the last chance.
+                                    </p>
+                                </>
+                            )}
+
+                            {current.id === 'address' && (
+                                <>
+                                    <BigField
+                                        ref={fieldRef}
+                                        label="Address"
+                                        value={form.data.slug}
+                                        onChange={(v) =>
+                                            form.setData('slug', v.toLowerCase().replace(/[^a-z0-9-]/g, ''))
+                                        }
+                                        placeholder="gatech"
+                                        error={form.errors.slug}
+                                    />
+
+                                    <div className="border border-hair px-4 py-4 font-data text-sm">
+                                        <p className="text-net">{form.data.slug || 'yourschool'}.{apex}</p>
+                                        <p className="mt-1 text-faint">
+                                            {apex}/{form.data.slug || 'yourschool'}
+                                        </p>
+                                    </div>
+
+                                    <dl className="grid gap-2 border border-hair px-4 py-4 text-sm">
+                                        <Row label="School" value={form.data.schoolName} />
+                                        <Row label="Campus" value={chosen?.label ?? form.data.point} />
+                                        <Row
+                                            label="Where"
+                                            value={`${form.data.city}, ${form.data.state}`}
+                                        />
+                                        <Row label="Instagram" value={handle ? `@${handle}` : 'none'} />
+                                        <Row
+                                            label="Petition"
+                                            value={form.data.petitionUrl ? 'linked' : 'none'}
+                                        />
+                                    </dl>
+
+                                    <p className="text-sm text-faint">
+                                        Your state and federal legislators are attached automatically.
+                                        You can add your city council from the edit screen once your
+                                        page is up.
+                                    </p>
+                                </>
+                            )}
+
+                            {Object.keys(form.errors).length > 0 ? (
+                                <p
+                                    role="alert"
+                                    className="border border-signal bg-signal/10 px-4 py-3 font-data text-sm text-signal"
+                                >
+                                    {Object.values(form.errors)[0]}
+                                </p>
+                            ) : null}
+                        </div>
+                    </div>
+                </main>
+
+                {/*
+                  * Under the thumb, and always in the same place — except on the
+                  * posts step before it has been acknowledged. There the only
+                  * thing to do is read the posts and press "I understand", and a
+                  * disabled Continue sitting under that is just a dead control
+                  * competing with the one that works.
+                  */}
+                <div
+                    className="sticky bottom-0 border-t border-hair bg-void/95 backdrop-blur"
+                    hidden={current.id === 'posts' && !form.data.postsAcknowledged}
+                >
+                    <div className="shell flex w-full items-center gap-3 py-4">
+                        {/*
+                          * One action, labelled for what it does. An optional
+                          * step is always passable, so a separate Skip button
+                          * next to an enabled Continue was two ways to do the
+                          * same thing — and the condition it was drawn under
+                          * meant it never appeared at all.
+                          */}
+                        <button
+                            type="button"
+                            onClick={next}
+                            disabled={(!ready && !current.optional) || form.processing}
+                            className="btn btn-primary min-h-[3.25rem] flex-1 text-base"
+                        >
+                            {form.processing
+                                ? 'Building your page'
+                                : last
+                                  ? 'Create my chapter'
+                                  : current.optional && !current.filled?.(form.data)
+                                    ? 'Skip this'
+                                    : 'Continue'}
+                        </button>
+                    </div>
+                </div>
             </div>
         </Shell>
     );
 }
 
-const inputClass = 'field w-full';
+function Row({ label, value }: { label: string; value: string }) {
+    return (
+        <div className="flex justify-between gap-4">
+            <dt className="annot text-faint">{label}</dt>
+            <dd className="m-0 text-right text-dim">{value || '—'}</dd>
+        </div>
+    );
+}
 
-/** A colour picker beside the hex, because creators arrive knowing one or the other. */
 function ColourField({
     label,
     value,
@@ -765,54 +803,97 @@ function ColourField({
 }) {
     return (
         <label className="grid gap-2">
-            <span className="text-sm font-bold">{label}</span>
-            <div className="flex items-center gap-2">
+            {/* Louder than the other field labels: these two name a choice
+                rather than describe an input. */}
+            <span className="annot font-semibold text-glow">{label}</span>
+            <span className="flex min-h-[3.25rem] items-center gap-3 border border-hair px-3 focus-within:border-net">
+                {/*
+                  * A colour input ignores height from a class in some browsers,
+                  * so it is set outright. At the default it renders about 20px
+                  * high, which is too small to hit with a thumb.
+                  */}
                 <input
                     type="color"
-                    value={/^#[0-9a-f]{6}$/i.test(value) ? value : '#000000'}
+                    value={value}
                     onChange={(e) => onChange(e.target.value)}
-                    className="h-10 w-12 shrink-0 cursor-pointer border border-hair bg-void"
-                    aria-label={`${label} colour picker`}
+                    style={{ height: '2.5rem', width: '3rem' }}
+                    className="cursor-pointer border-0 bg-transparent p-0"
+                    aria-label={`${label} colour`}
                 />
                 <input
                     value={value}
                     onChange={(e) => onChange(e.target.value)}
-                    className={inputClass + ' font-mono'}
-                    placeholder="#003057"
-                    maxLength={7}
+                    className="w-full bg-transparent font-data text-sm uppercase focus-visible:outline-none"
                     spellCheck={false}
+                    autoComplete="off"
+                    aria-label={`${label} colour hex`}
                 />
-            </div>
+            </span>
         </label>
     );
 }
 
-function Row({ label, value }: { label: string; value: string }) {
+/**
+ * One field, at the size a thumb expects.
+ *
+ * Forwards its ref so each step can take focus when it arrives, which is what
+ * makes a sequence of screens feel like an app rather than a paged form.
+ */
+const BigField = forwardRef<
+    HTMLInputElement,
+    {
+        label: string;
+        value: string;
+        onChange: (value: string) => void;
+        placeholder?: string;
+        error?: string;
+        type?: string;
+        prefix?: string;
+        autoComplete?: string;
+        inputMode?: 'text' | 'url' | 'search';
+        /** Off for handles and addresses, which are not prose. */
+        spellCheck?: boolean;
+    }
+>(function BigField(
+    {
+        label,
+        value,
+        onChange,
+        placeholder,
+        error,
+        type = 'text',
+        prefix,
+        autoComplete = 'off',
+        inputMode,
+        spellCheck = false,
+    },
+    ref,
+) {
     return (
-        <div className="flex justify-between gap-4">
-            <dt className="text-faint">{label}</dt>
-            <dd className="text-right font-mono">{value || 'not set'}</dd>
-        </div>
-    );
-}
+        <label className="grid gap-2 text-left">
+            <span className="annot">{label}</span>
 
-function Field({
-    label,
-    hint,
-    error,
-    children,
-}: {
-    label: string;
-    hint?: string;
-    error?: string;
-    children: React.ReactNode;
-}) {
-    return (
-        <label className="block">
-            <span className="text-sm font-bold">{label}</span>
-            {hint ? <span className="ml-2 font-mono text-xs text-faint">{hint}</span> : null}
-            <div className="mt-2">{children}</div>
-            {error ? <p className="mt-1 text-sm text-signal">{error}</p> : null}
+            <span className="flex items-center gap-1 border border-hair px-3 focus-within:border-net">
+                {prefix ? <span className="font-data text-dim">{prefix}</span> : null}
+                <input
+                    ref={ref}
+                    type={type}
+                    value={value}
+                    onChange={(e) => onChange(e.target.value)}
+                    placeholder={placeholder}
+                    autoComplete={autoComplete}
+                    inputMode={inputMode}
+                    spellCheck={spellCheck}
+                    style={{ touchAction: 'manipulation' }}
+                    className="min-h-[3.25rem] w-full bg-transparent text-lg placeholder:text-faint focus-visible:outline-none"
+                />
+            </span>
+
+            {error ? (
+                <span role="alert" className="font-data text-sm text-signal">
+                    {error}
+                </span>
+            ) : null}
         </label>
     );
-}
+});

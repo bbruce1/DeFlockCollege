@@ -57,6 +57,27 @@ final readonly class CampusPoint
         return new self((float) $parts[0], (float) $parts[1]);
     }
 
+    /**
+     * Great-circle distance to another point, in metres.
+     *
+     * Haversine rather than a flat approximation: the numbers here are small
+     * enough that either would do, but this one is right everywhere and costs
+     * nothing at the rate it is called.
+     */
+    public function metresTo(self $other): float
+    {
+        $earthRadius = 6_371_008.8;
+
+        $lat1 = deg2rad($this->latitude);
+        $lat2 = deg2rad($other->latitude);
+        $deltaLat = $lat2 - $lat1;
+        $deltaLon = deg2rad($other->longitude - $this->longitude);
+
+        $a = sin($deltaLat / 2) ** 2 + cos($lat1) * cos($lat2) * sin($deltaLon / 2) ** 2;
+
+        return 2 * $earthRadius * asin(min(1.0, sqrt($a)));
+    }
+
     public function toString(): string
     {
         return sprintf('%.5f,%.5f', $this->latitude, $this->longitude);

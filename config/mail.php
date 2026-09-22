@@ -116,7 +116,12 @@ return [
      * needs somewhere to write.
      */
     'reply_to' => [
-        'address' => env('MAIL_REPLY_TO_ADDRESS'),
+        // Falls back to the sending address rather than being absent. The
+        // verification mail attaches Reply-To and List-Unsubscribe only when
+        // this is set, and a filter counts the absence of both against the
+        // sender — so leaving this unconfigured silently costs deliverability
+        // on the one message this application sends.
+        'address' => env('MAIL_REPLY_TO_ADDRESS', env('MAIL_FROM_ADDRESS')),
         'name' => env('MAIL_REPLY_TO_NAME', 'DeFlock Campus'),
     ],
 

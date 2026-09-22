@@ -29,7 +29,7 @@ export const skins: Skin[] = [
         ink: '#191b20', inkSoft: '#565b66',
         accent: '#1d3f72', accentInk: '#ffffff', signal: '#c1272d',
         display: ARCHIVO, body: SERIF, data: MONO,
-        heroShape: 'banner', texture: 'none', radius: 2, upperLabels: true,
+        heroShape: 'banner', texture: 'none', motion: 'rise', radius: 2, upperLabels: true,
     },
     /**
      * Routed park-department signage: white lettering cut into a deep enamel
@@ -41,7 +41,7 @@ export const skins: Skin[] = [
         ink: '#13231a', inkSoft: '#4c6053',
         accent: '#1e5631', accentInk: '#ffffff', signal: '#cf2417',
         display: ARCHIVO, body: ARCHIVO, data: MONO,
-        heroShape: 'split', texture: 'none', radius: 4, upperLabels: true,
+        heroShape: 'split', texture: 'none', motion: 'rise', radius: 4, upperLabels: true,
     },
     /**
      * A student paper: newsprint grey, black type, and press red kept for the
@@ -54,7 +54,7 @@ export const skins: Skin[] = [
         ink: '#171614', inkSoft: '#56534c',
         accent: '#1a1a17', accentInk: '#f2f0ea', signal: '#cf1f24',
         display: SERIF, body: SERIF, data: MONO,
-        heroShape: 'stack', texture: 'noise', radius: 0, upperLabels: false,
+        heroShape: 'stack', texture: 'noise', motion: 'bloom', radius: 0, upperLabels: false,
     },
     /**
      * The card catalogue: typewritten drawer cards in a drab olive stock, and
@@ -66,7 +66,7 @@ export const skins: Skin[] = [
         ink: '#1b1a15', inkSoft: '#5c5a4d',
         accent: '#4b2e83', accentInk: '#ffffff', signal: '#b3141f',
         display: SERIF, body: SERIF, data: MONO,
-        heroShape: 'number-first', texture: 'dots', radius: 0, upperLabels: true,
+        heroShape: 'number-first', texture: 'dots', motion: 'drift', radius: 0, upperLabels: true,
     },
     /**
      * City seal and charter: the deep engraving teal of a municipal crest on
@@ -79,7 +79,7 @@ export const skins: Skin[] = [
         ink: '#101a1e', inkSoft: '#4c5e67',
         accent: '#0f4c5c', accentInk: '#ffffff', signal: '#cc2936',
         display: SERIF, body: ARCHIVO, data: MONO,
-        heroShape: 'split', texture: 'dots', radius: 8, upperLabels: false,
+        heroShape: 'split', texture: 'dots', motion: 'drift', radius: 8, upperLabels: false,
     },
     /**
      * A union banner: gold on a deep indigo field. The one mid-toned member of
@@ -92,7 +92,7 @@ export const skins: Skin[] = [
         ink: '#f1f4fb', inkSoft: '#a8b6d4',
         accent: '#e0a526', accentInk: '#1c1503', signal: '#ff6a5b',
         display: ARCHIVO, body: ARCHIVO, data: MONO,
-        heroShape: 'banner', texture: 'noise', radius: 4, upperLabels: true,
+        heroShape: 'banner', texture: 'noise', motion: 'bloom', radius: 4, upperLabels: true,
     },
     /**
      * Maroon and old gold on limestone. The gold is taken down until white
@@ -105,7 +105,7 @@ export const skins: Skin[] = [
         ink: '#291418', inkSoft: '#6b5257',
         accent: '#7d6218', accentInk: '#ffffff', signal: '#c0202e',
         display: SERIF, body: ARCHIVO, data: MONO,
-        heroShape: 'number-first', texture: 'none', radius: 2, upperLabels: true,
+        heroShape: 'number-first', texture: 'none', motion: 'rise', radius: 2, upperLabels: true,
     },
     /**
      * Civic modernism: poured concrete, slate wayfinding plates, stencilled
@@ -118,6 +118,6 @@ export const skins: Skin[] = [
         ink: '#15181a', inkSoft: '#4b4f52',
         accent: '#33474f', accentInk: '#ffffff', signal: '#c8102e',
         display: ARCHIVO, body: ARCHIVO, data: MONO,
-        heroShape: 'banner', texture: 'grid', radius: 0, upperLabels: true,
+        heroShape: 'banner', texture: 'grid', motion: 'sweep', radius: 0, upperLabels: true,
     },
 ];

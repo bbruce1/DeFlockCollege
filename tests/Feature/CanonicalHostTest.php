@@ -129,6 +129,40 @@ final class CanonicalHostTest extends TestCase
         $this->get('http://localhost/about')->assertOk();
     }
 
+    /**
+     * A listing that linked to "/{slug}" sent every reader through the path
+     * form rather than to the address the chapter is actually shared as.
+     */
+    public function test_listings_link_to_a_chapter_subdomain(): void
+    {
+        foreach (['/', '/chapters'] as $path) {
+            $this->get('http://www.'.self::APEX.$path)->assertInertia(
+                fn ($page) => $page->where(
+                    'chapters.0.url',
+                    'https://hosttest.'.self::APEX,
+                )
+            );
+        }
+    }
+
+    /** The front page is the one page whose job is to convert a stranger. */
+    public function test_the_front_page_carries_its_own_landing_meta(): void
+    {
+        $this->get('http://www.'.self::APEX.'/')->assertInertia(function ($page) {
+            $title = $page->toArray()['props']['meta']['title'];
+            $description = $page->toArray()['props']['meta']['description'];
+
+            $this->assertStringContainsString('DeFlock Campus', $title, 'The brand is missing.');
+
+            // What a search result and a link preview actually show.
+            $this->assertLessThanOrEqual(60, strlen($title), "Title is truncated: {$title}");
+            $this->assertLessThanOrEqual(158, strlen($description), 'Description is truncated.');
+            $this->assertGreaterThan(80, strlen($description), 'Description is too thin to be useful.');
+
+            return $page;
+        });
+    }
+
     private function seedChapter(): void
     {
         app(ChapterRepository::class)->save(new Chapter(

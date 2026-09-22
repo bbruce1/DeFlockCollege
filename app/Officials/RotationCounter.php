@@ -18,7 +18,9 @@ use InvalidArgumentException;
  * with the rest of the application.
  *
  * It is deliberately not a metric. It counts pages rendered, not letters sent,
- * and nothing here should be reported as the latter.
+ * and nothing here should be reported as the latter. Reporting lives in
+ * App\Metrics\OutreachLog, which records the same event with the dates
+ * attached; this stays a rotation offset and nothing more.
  */
 final class RotationCounter
 {

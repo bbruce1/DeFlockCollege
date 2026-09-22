@@ -61,6 +61,9 @@ final class ChapterController extends Controller
             // new state fixes every existing chapter in it at once.
             'officials' => $this->officialsFor($chapter, States::name($chapter->state)),
             'lookupUrl' => $this->officials->lookupUrl($chapter->state),
+            // Filtered here rather than in the browser: a meeting that has been
+            // and gone must not be on the page even if no script runs.
+            'meetings' => $this->upcoming($chapter->meetings),
             // Only where to fetch the field and where this campus sits in it.
             // The points themselves are far too large to inline in every page.
             'coverage' => $this->coverageFor($chapter),
@@ -77,6 +80,27 @@ final class ChapterController extends Controller
      *
      * @return list<array<string, mixed>>
      */
+    /**
+     * Meetings still to come, soonest first.
+     *
+     * Compared as plain dates rather than timestamps, so a meeting stays listed
+     * for the whole of its own day instead of disappearing at midnight that
+     * morning. Filtered here rather than in the browser: a date that has been
+     * and gone must be off the page before any script runs.
+     *
+     * @param  list<array<string, mixed>>  $meetings
+     * @return list<array<string, mixed>>
+     */
+    private function upcoming(array $meetings): array
+    {
+        $today = now()->toDateString();
+
+        return array_values(array_filter(
+            $meetings,
+            static fn (array $meeting): bool => ((string) ($meeting['date'] ?? '')) >= $today,
+        ));
+    }
+
     private function officialsFor(Chapter $chapter, string $stateName): array
     {
         $officials = [
@@ -155,10 +179,6 @@ final class ChapterController extends Controller
      */
     private function canonicalUrl(string $slug): string
     {
-        $apex = config('app.domain');
-
-        return $apex
-            ? 'https://'.$slug.'.'.$apex
-            : url('/'.$slug);
+        return PageMeta::chapterUrl($slug);
     }
 }

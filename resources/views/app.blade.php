@@ -50,6 +50,29 @@
             <meta name="twitter:image" content="{{ $meta['image'] }}">
         @endif
 
+        @if ($clarityId = config('services.clarity.id'))
+            {{--
+                Microsoft Clarity, with consent withheld before the tag loads.
+
+                `clarity('consent', false)` is queued ahead of the script so the
+                decision is already made by the time it initialises, rather than
+                a moment after it has had a chance to write. That is the
+                documented way to run it without cookies — and it is checked
+                rather than assumed; see the note in the privacy page.
+
+                Only the tracking id reaches the page, which is public by nature.
+            --}}
+            <script>
+                (function (c, l, a, r, i, t, y) {
+                    c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments); };
+                    c[a]('consent', false);
+                    t = l.createElement(r); t.async = 1;
+                    t.src = 'https://www.clarity.ms/tag/' + i;
+                    y = l.getElementsByTagName(r)[0]; y.parentNode.insertBefore(t, y);
+                })(window, document, 'clarity', 'script', @json($clarityId));
+            </script>
+        @endif
+
         <!-- Scripts -->
         @routes
         @viteReactRefresh

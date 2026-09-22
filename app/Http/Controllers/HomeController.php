@@ -7,6 +7,7 @@ namespace App\Http\Controllers;
 use App\Chapters\Chapter;
 use App\Chapters\ChapterRepository;
 use App\Maps\NationalMap;
+use App\Site\PageMeta;
 use Inertia\Inertia;
 use Inertia\Response;
 
@@ -24,6 +25,7 @@ final class HomeController extends Controller
         $rows = array_map(
             static fn (Chapter $chapter) => [
                 'slug' => $chapter->slug,
+                'url' => PageMeta::chapterUrl($chapter->slug),
                 'schoolName' => $chapter->schoolName,
                 'shortName' => $chapter->shortName,
                 'state' => $chapter->state,
@@ -34,6 +36,18 @@ final class HomeController extends Controller
         );
 
         return Inertia::render('Home', [
+            // The front page is the only page here whose job is to convert a
+            // stranger, so it says what the visitor gets rather than what the
+            // project is. Kept inside what a search result and a link preview
+            // actually show: the title fits 60 characters, the description 158,
+            // and neither is truncated mid-clause.
+            'meta' => PageMeta::make(
+                title: 'Get plate readers off your campus · '.PageMeta::SITE_NAME,
+                description: 'Automated plate readers are going up around US campuses. Get a '
+                    .'page mapping every one near yours, with one-click letters to the '
+                    .'officials who decide.',
+                path: '/',
+            )->toArray(),
             'chapters' => $rows,
             'liveCount' => count(array_filter($rows, fn ($c) => $c['status'] === 'live')),
             'coverage' => $this->coverage($chapters),

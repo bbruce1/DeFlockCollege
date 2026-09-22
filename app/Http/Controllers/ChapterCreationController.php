@@ -19,7 +19,6 @@ use App\Maps\SurveyBuilder;
 use App\Chapters\InstagramProbe;
 use App\Officials\LegislatorDirectory;
 use App\Officials\OfficialInput;
-use App\Officials\OfficialRole;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;
@@ -29,6 +28,7 @@ use Inertia\Inertia;
 use Inertia\Response;
 use InvalidArgumentException;
 use RuntimeException;
+use Throwable;
 
 /**
  * The create flow: verify, name, locate, generate.
@@ -73,7 +73,14 @@ final class ChapterCreationController extends Controller
         }
 
         // Now that control of the address is proved, saying what exists is safe.
-        $existing = $this->chapters->findByDomain($ticket->domain);
+        //
+        // Never for a district: an existing chapter there belongs to some other
+        // school in the county, and showing it as "yours" would send a student
+        // to a page for a school they do not attend. The chooser handles that
+        // case before this screen is ever reached.
+        $existing = $ticket->domain->isDistrict()
+            ? null
+            : $this->chapters->findByDomain($ticket->domain);
         $known = $ticket->domain->known();
 
         return Inertia::render('Chapters/Create', [
@@ -90,9 +97,6 @@ final class ChapterCreationController extends Controller
             'suggestedSlug' => $ticket->domain->suggestedSlug(),
             'existing' => $existing?->toPublicArray(),
             'states' => States::options(),
-            // The create form must classify an office the same way the edit
-            // form does, or every hand-typed official lands as "City council".
-            'roles' => OfficialRole::options(),
             'apex' => config('app.domain') ?: 'deflock.school',
         ]);
     }
@@ -136,6 +140,67 @@ final class ChapterCreationController extends Controller
      * as ordinary rows the creator can edit or delete, because the person who
      * walks the campus knows who actually signed for the cameras.
      */
+    /**
+     * The offices that already represent this campus, looked up here.
+     *
+     * A creator is never asked for these. They used to be fetched by the form
+     * and posted back, which meant a chapter's representatives depended on a
+     * step a student could rush through — and when that step was removed, every
+     * new chapter silently arrived with nobody to write to at all.
+     *
+     * A failed lookup costs the chapter its prefilled offices, not its
+     * existence: the Census is somebody else's service, and a student who has
+     * got this far should not lose their page to it. They can add offices from
+     * the edit screen, and a later refresh can fill them in.
+     *
+     * @return list<array<string, mixed>>
+     */
+    private function representativesFor(CampusPoint $point, string $state): array
+    {
+        try {
+            return $this->legislators->suggestFor($point, $state);
+        } catch (Throwable $e) {
+            report($e);
+
+            return [];
+        }
+    }
+
+    /**
+     * Whether a campus already has a chapter, asked when one is picked.
+     *
+     * The same rule store() applies, moved to the moment it can still be acted
+     * on: learning at the last screen that this school already has a page means
+     * filling in five of them first. Reads local files only, so unlike the other
+     * lookups here it costs an outside service nothing.
+     */
+    public function nearby(Request $request): JsonResponse
+    {
+        $validated = $request->validate([
+            'ticket' => ['required', 'string'],
+            'point' => ['required', 'string', 'max:64'],
+        ]);
+
+        try {
+            VerificationTicket::fromToken($validated['ticket']);
+            $point = CampusPoint::parse($validated['point']);
+        } catch (RuntimeException|InvalidArgumentException $e) {
+            return response()->json(['message' => $e->getMessage()], 422);
+        }
+
+        $nearby = $this->chapters->findNear($point, self::DUPLICATE_METRES);
+
+        // Chapters are public, so naming one gives away nothing that the
+        // chapter list does not already.
+        return response()->json([
+            'existing' => $nearby === null ? null : [
+                'slug' => $nearby->slug,
+                'schoolName' => $nearby->schoolName,
+                'shortName' => $nearby->shortName,
+            ],
+        ]);
+    }
+
     public function districts(Request $request): JsonResponse
     {
         $validated = $request->validate([
@@ -198,6 +263,15 @@ final class ChapterCreationController extends Controller
         return response()->json(['result' => $this->instagram->check($validated['handle'])]);
     }
 
+    /**
+     * How close counts as the same campus.
+     *
+     * Fifty metres is inside one building's footprint, so it catches a second
+     * student picking the same school off the map without catching two genuinely
+     * different schools that happen to share a site.
+     */
+    private const DUPLICATE_METRES = 50.0;
+
     public function store(Request $request): RedirectResponse
     {
         $validated = $request->validate([
@@ -235,7 +309,10 @@ final class ChapterCreationController extends Controller
         }
 
         try {
-            $officials = OfficialInput::sanitiseAll($validated['officials'] ?? []);
+            $officials = OfficialInput::sanitiseAll([
+                ...$this->representativesFor($point, $validated['state']),
+                ...($validated['officials'] ?? []),
+            ]);
             $instagram = SocialHandle::normalise($validated['instagram'] ?? null, 'instagram');
             $tiktok = SocialHandle::normalise($validated['tiktok'] ?? null, 'tiktok');
             $colours = SchoolColours::fromInput(
@@ -252,9 +329,23 @@ final class ChapterCreationController extends Controller
             ])->withInput();
         }
 
-        // One school, one chapter. The domain is the school's identity.
-        if ($existing = $this->chapters->findByDomain($ticket->domain)) {
+        // One school, one chapter — but a district domain is not one school. Every
+        // high school in the county shares it, so the rule that protects a
+        // university from duplicates would stop the second school in a district
+        // from ever having a page.
+        if (! $ticket->domain->isDistrict() && $existing = $this->chapters->findByDomain($ticket->domain)) {
             return redirect()->route('chapters.show', $existing->slug);
+        }
+
+        // What the domain cannot rule out, the campus can. Two chapters this
+        // close are the same school, whoever started them, and a district's
+        // second student would otherwise quietly duplicate the first.
+        if ($nearby = $this->chapters->findNear($point, self::DUPLICATE_METRES)) {
+            return back()->withErrors([
+                'point' => "{$nearby->schoolName} already has a chapter at this campus, at "
+                    ."/{$nearby->slug}. If that is your school, edit that page rather than "
+                    .'starting a second one. If it is genuinely a different school, get in touch.',
+            ])->withInput();
         }
 
         $key = 'chapter-build:'.Ownership::record($ticket->email);

@@ -13,6 +13,20 @@
 export type HeroShape = 'stack' | 'number-first' | 'split' | 'banner';
 export type Texture = 'none' | 'scanlines' | 'grid' | 'dots' | 'noise';
 
+/**
+ * How a skin moves.
+ *
+ * Entirely decorative, and defined so it cannot be otherwise: the animations
+ * live in the stylesheet behind `prefers-reduced-motion: no-preference`, and
+ * every element's resting style is the finished one. Nothing fades in from
+ * invisible, nothing waits on an observer, and with motion off — or CSS
+ * animation unsupported, or a script broken — the page is already correct.
+ *
+ * That is deliberate. Content hidden until an animation ran has been the most
+ * repeated bug in this project.
+ */
+export type Motion = 'rise' | 'sweep' | 'flicker' | 'drift' | 'bloom';
+
 export interface Skin {
     id: string;
     /** Palette. Every value is a colour; nothing here is a class name. */
@@ -30,6 +44,7 @@ export interface Skin {
     data: string;
     heroShape: HeroShape;
     texture: Texture;
+    motion: Motion;
     /** Corner radius in pixels, applied to surfaces and buttons. */
     radius: number;
     /** Whether labels are shouted or set normally. */
@@ -56,7 +71,7 @@ const BASE: Skin[] = [
         ink: '#e6f1f5', inkSoft: '#7f9199',
         accent: '#22d3ee', accentInk: '#04191d', signal: '#f43f5e',
         display: ARCHIVO, body: MONO, data: MONO,
-        heroShape: 'stack', texture: 'scanlines', radius: 0, upperLabels: true,
+        heroShape: 'stack', texture: 'scanlines', motion: 'flicker', radius: 0, upperLabels: true,
     },
     {
         id: 'dossier',
@@ -64,7 +79,7 @@ const BASE: Skin[] = [
         ink: '#17150f', inkSoft: '#6b6355',
         accent: '#1a3a8f', accentInk: '#ffffff', signal: '#b3261e',
         display: SERIF, body: SERIF, data: MONO,
-        heroShape: 'split', texture: 'none', radius: 2, upperLabels: true,
+        heroShape: 'split', texture: 'none', motion: 'rise', radius: 2, upperLabels: true,
     },
     {
         id: 'signal',
@@ -72,7 +87,7 @@ const BASE: Skin[] = [
         ink: '#eaf2ff', inkSoft: '#8195b8',
         accent: '#6d4aff', accentInk: '#ffffff', signal: '#ff5d73',
         display: ARCHIVO, body: ARCHIVO, data: MONO,
-        heroShape: 'number-first', texture: 'grid', radius: 14, upperLabels: false,
+        heroShape: 'number-first', texture: 'grid', motion: 'sweep', radius: 14, upperLabels: false,
     },
     {
         id: 'blueprint',
@@ -80,7 +95,7 @@ const BASE: Skin[] = [
         ink: '#e8f4ff', inkSoft: '#8fb4d0',
         accent: '#68d8ff', accentInk: '#04202f', signal: '#ffb020',
         display: ARCHIVO, body: ARCHIVO, data: MONO,
-        heroShape: 'banner', texture: 'grid', radius: 0, upperLabels: true,
+        heroShape: 'banner', texture: 'grid', motion: 'sweep', radius: 0, upperLabels: true,
     },
     {
         id: 'broadcast',
@@ -88,7 +103,7 @@ const BASE: Skin[] = [
         ink: '#f5f5f5', inkSoft: '#9a9a9a',
         accent: '#ffd400', accentInk: '#101010', signal: '#ff3b30',
         display: ARCHIVO, body: ARCHIVO, data: MONO,
-        heroShape: 'banner', texture: 'scanlines', radius: 0, upperLabels: true,
+        heroShape: 'banner', texture: 'scanlines', motion: 'flicker', radius: 0, upperLabels: true,
     },
     {
         id: 'manifest',
@@ -96,7 +111,7 @@ const BASE: Skin[] = [
         ink: '#111111', inkSoft: '#666660',
         accent: '#111111', accentInk: '#ffffff', signal: '#d32f2f',
         display: ARCHIVO, body: ARCHIVO, data: MONO,
-        heroShape: 'stack', texture: 'none', radius: 4, upperLabels: false,
+        heroShape: 'stack', texture: 'none', motion: 'rise', radius: 4, upperLabels: false,
     },
     {
         id: 'circuit',
@@ -104,7 +119,7 @@ const BASE: Skin[] = [
         ink: '#e4fff4', inkSoft: '#7ba997',
         accent: '#3ddc97', accentInk: '#04150f', signal: '#ff6b5e',
         display: ARCHIVO, body: ARCHIVO, data: MONO,
-        heroShape: 'number-first', texture: 'dots', radius: 8, upperLabels: true,
+        heroShape: 'number-first', texture: 'dots', motion: 'drift', radius: 8, upperLabels: true,
     },
     {
         id: 'surveil',
@@ -112,7 +127,7 @@ const BASE: Skin[] = [
         ink: '#ffeef2', inkSoft: '#b58995',
         accent: '#ff4d6d', accentInk: '#101010', signal: '#ffd166',
         display: ARCHIVO, body: ARCHIVO, data: MONO,
-        heroShape: 'split', texture: 'noise', radius: 18, upperLabels: false,
+        heroShape: 'split', texture: 'noise', motion: 'bloom', radius: 18, upperLabels: false,
     },
     {
         id: 'ledger',
@@ -120,7 +135,7 @@ const BASE: Skin[] = [
         ink: '#1c1a17', inkSoft: '#6f6a5f',
         accent: '#0f6b4f', accentInk: '#ffffff', signal: '#a8321f',
         display: ARCHIVO, body: SERIF, data: MONO,
-        heroShape: 'number-first', texture: 'none', radius: 2, upperLabels: true,
+        heroShape: 'number-first', texture: 'none', motion: 'rise', radius: 2, upperLabels: true,
     },
     {
         id: 'wireframe',
@@ -128,7 +143,7 @@ const BASE: Skin[] = [
         ink: '#111111', inkSoft: '#555555',
         accent: '#2563eb', accentInk: '#ffffff', signal: '#dc2626',
         display: ARCHIVO, body: ARCHIVO, data: MONO,
-        heroShape: 'stack', texture: 'dots', radius: 0, upperLabels: true,
+        heroShape: 'stack', texture: 'dots', motion: 'drift', radius: 0, upperLabels: true,
     },
 ];
 
@@ -183,7 +198,7 @@ export const SKINS: Skin[] = [...BASE, ...CONTRIBUTED]
 
 
 /** WCAG contrast ratio between two #rrggbb values. */
-function contrast(a: string, b: string): number {
+export function contrast(a: string, b: string): number {
     const [light, dark] = [luminance(a), luminance(b)].sort((x, y) => y - x);
 
     return (light + 0.05) / (dark + 0.05);
@@ -240,6 +255,48 @@ function toHex(h: number, s: number, l: number): string {
  * substitute one the school never picked. Silently swapping in the skin's own
  * accent is how a page ends up purple when somebody asked for red.
  */
+/**
+ * DeFlock's own blue. The only colour allowed onto a chapter page from outside
+ * the school, and only as the ground when the school gives one colour twice.
+ */
+const DEFLOCK_BLUE = '#22d3ee';
+
+/**
+ * The warning red, on every chapter regardless of its colours.
+ *
+ * "Never vandalize" is the one line on the page that is not the school talking.
+ * It is the promise that keeps this model defensible, and a warning that arrives
+ * in a school's own blue or gold does not read as a warning. This is deliberately
+ * outside the derived palette and must stay that way.
+ */
+export const WARNING_RED = '#f43f5e';
+
+/** The ground is the school's hue taken almost to black, so text sits on it. */
+const GROUND_LIGHTNESS = 0.05;
+
+const SURFACE_LIGHTNESS = 0.085;
+
+const LINE_LIGHTNESS = 0.17;
+
+/** Past this the ground stops being a backdrop and starts being a colour. */
+const GROUND_SATURATION = 0.24;
+
+/** Body text has to clear more than decoration does. */
+const INK_TARGET = 9;
+
+/**
+ * Rebuilds the entire palette from the two colours the creator gave.
+ *
+ * A skin used to supply the whole palette and this function replaced only the
+ * accent, which left every other slot — the ground, the rules, and above all
+ * `signal` — set to whatever the randomly assigned skin happened to carry.
+ * Every skin's signal is a red, and the texture layer washes the page in it, so
+ * a school that entered blue and white got a red page. Nothing here may
+ * introduce a hue the school did not ask for.
+ *
+ * Form still comes from the skin: type, hero shape, texture, radius. Only
+ * colour is taken over.
+ */
 export function withSchoolColours(skin: Skin, colours?: SchoolColours | null): Skin {
     if (!colours) {
         return skin;
@@ -253,16 +310,57 @@ export function withSchoolColours(skin: Skin, colours?: SchoolColours | null): S
         return skin;
     }
 
-    // Whichever of the two already reads best, then adjusted if it still falls
-    // short. Both being the same colour is fine; this just picks that one.
-    const preferred = chosen.sort((a, b) => contrast(b, skin.bg) - contrast(a, skin.bg))[0];
-    const accent = legibleAgainst(preferred, skin.bg);
+    const primary = chosen[0];
+    const secondary = chosen[1] ?? chosen[0];
+    const identical = primary.toLowerCase() === secondary.toLowerCase();
+
+    // A school that gives the same colour twice has no second hue to build a
+    // ground from. That, and only that, is when DeFlock's blue is allowed in.
+    const groundSource = identical ? DEFLOCK_BLUE : darkerOf(primary, secondary);
+    const [groundHue, groundSaturation] = toHsl(groundSource);
+    const chroma = Math.min(groundSaturation, GROUND_SATURATION);
+
+    const bg = toHex(groundHue, chroma, GROUND_LIGHTNESS);
+    const surface = toHex(groundHue, chroma, SURFACE_LIGHTNESS);
+    const line = toHex(groundHue, chroma, LINE_LIGHTNESS);
+
+    // The accent is whichever colour carries more of the school's identity —
+    // the more saturated one, since a school pairing a colour with white or
+    // black means the colour.
+    const accentSource = chromaOf(primary) >= chromaOf(secondary) ? primary : secondary;
+    const otherSource = accentSource === primary ? secondary : primary;
+
+    const accent = legibleAgainst(accentSource, bg);
+
+    // The cameras keep their own mark, but in the school's other colour rather
+    // than an imported red.
+    const signal = legibleAgainst(otherSource, bg, 4.5);
+
+    // Text is the ground's own hue carried to near-white. Still not a new
+    // colour: at this lightness it reads as white, which every school pairs with.
+    const ink = toHex(groundHue, Math.min(chroma, 0.12), 0.96);
+    const inkSoft = legibleAgainst(toHex(groundHue, Math.min(chroma, 0.18), 0.68), bg, INK_TARGET / 2);
 
     return {
         ...skin,
+        bg,
+        surface,
+        line,
+        ink,
+        inkSoft,
         accent,
         accentInk: legibleInkOn(accent),
+        signal,
     };
+}
+
+/** Saturation, used to tell a school's colour from the white it sits on. */
+function chromaOf(hex: string): number {
+    return toHsl(hex)[1];
+}
+
+function darkerOf(a: string, b: string): string {
+    return luminance(a) <= luminance(b) ? a : b;
 }
 
 /**
@@ -274,7 +372,7 @@ export function withSchoolColours(skin: Skin, colours?: SchoolColours | null): S
  * for, on the one control the whole page exists to get pressed. Where the soft
  * black falls short the label goes to true black, which always clears it.
  */
-function legibleInkOn(accent: string): string {
+export function legibleInkOn(accent: string): string {
     const soft = contrast('#101010', accent) >= contrast('#ffffff', accent) ? '#101010' : '#ffffff';
 
     if (contrast(soft, accent) >= 4.5) {
@@ -288,8 +386,8 @@ function legibleInkOn(accent: string): string {
  * Walks a colour's lightness until it clears 3:1 against the background,
  * keeping hue and saturation so it still reads as the school's colour.
  */
-function legibleAgainst(hex: string, background: string): string {
-    if (contrast(hex, background) >= 3) {
+function legibleAgainst(hex: string, background: string, target = 3): string {
+    if (contrast(hex, background) >= target) {
         return hex;
     }
 
@@ -312,7 +410,7 @@ function legibleAgainst(hex: string, background: string): string {
             bestContrast = ratio;
         }
 
-        if (ratio >= 3) {
+        if (ratio >= target) {
             return candidate;
         }
     }
@@ -346,6 +444,8 @@ export function skinVars(skin: Skin): React.CSSProperties {
         '--accent': skin.accent,
         '--accent-ink': skin.accentInk,
         '--signal': skin.signal,
+        // Fixed. Never derived from the school, never overridden by a skin.
+        '--warn': WARNING_RED,
         '--display': skin.display,
         '--body': skin.body,
         '--data': skin.data,

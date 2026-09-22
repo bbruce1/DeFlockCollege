@@ -8,6 +8,7 @@ use App\Chapters\ChapterRepository;
 use App\Chapters\StateCoverageRepository;
 use App\Maps\NationalMap;
 use App\Maps\StateBorders;
+use App\Metrics\OutreachLog;
 use App\Officials\OfficialsDirectory;
 use App\Officials\DistrictLookup;
 use App\Officials\LegislatorDirectory;
@@ -63,6 +64,12 @@ class AppServiceProvider extends ServiceProvider
         $this->app->singleton(
             OutreachLibrary::class,
             static fn (): OutreachLibrary => new OutreachLibrary(resource_path('data')),
+        );
+
+        // The metric vision.md says the project is judged on.
+        $this->app->singleton(
+            OutreachLog::class,
+            static fn (): OutreachLog => new OutreachLog(storage_path('app/metrics')),
         );
 
         $this->app->singleton(

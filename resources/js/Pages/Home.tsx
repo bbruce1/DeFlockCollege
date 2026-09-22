@@ -6,6 +6,8 @@ import CoverageField from '@/Chapter/CoverageField';
 
 interface ChapterRow {
     slug: string;
+    /** The chapter's own address — its subdomain where one is configured. */
+    url: string;
     schoolName: string;
     shortName: string;
     state: string;
@@ -87,8 +89,7 @@ export default function Home({ chapters, liveCount, coverage }: Props) {
                 </h1>
 
                 <p className="max-w-[46ch] text-lg text-dim">
-                    Verify a school email, tell us where campus is, and you have a page
-                    naming every plate reader around it and the offices that can take them down
+                    Verify a school email, tell us where campus is, and we'll make you a page.
                 </p>
 
                 {/* The whole ask is one field. */}
@@ -122,8 +123,7 @@ export default function Home({ chapters, liveCount, coverage }: Props) {
                     </div>
 
                     <p id="email-help" className="text-sm text-faint">
-                        A .edu or .org address. It proves you are actually at the school, and it is
-                        the only thing we ever ask for
+                        A .edu, a .org, or a school district address.
                     </p>
 
                     {errors?.email && (
@@ -176,7 +176,7 @@ export default function Home({ chapters, liveCount, coverage }: Props) {
                                 <span className="text-net">
                                     {coverage.readersNearby.toLocaleString()} plate readers
                                 </span>{' '}
-                                mapped within a mile of them
+                                mapped within a mile of them all
                             </>
                         )}
                     </p>
@@ -187,7 +187,6 @@ export default function Home({ chapters, liveCount, coverage }: Props) {
                 <section className="border-t border-hair py-20">
                     <div className="shell grid gap-10">
                         <div className="grid gap-4">
-                            <p className="annot text-net">How it works</p>
                             <h2 className="max-w-[18ch] text-[clamp(1.75rem,4vw,2.75rem)] uppercase">
                                 Five minutes to make a chapter
                             </h2>
@@ -245,7 +244,7 @@ export default function Home({ chapters, liveCount, coverage }: Props) {
                                             className={`h-2 w-2 ${chapter.status === 'live' ? 'bg-signal' : 'bg-faint'}`}
                                         />
                                         <a
-                                            href={`/${chapter.slug}`}
+                                            href={chapter.url}
                                             className="flex-1 text-lg no-underline hover:text-net"
                                         >
                                             {chapter.schoolName}

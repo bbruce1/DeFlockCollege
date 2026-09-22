@@ -35,4 +35,12 @@ return [
         ],
     ],
 
+    /*
+     * Microsoft Clarity. Absent by default, so a fresh clone and the test suite
+     * run with no third party in the page at all.
+     */
+    'clarity' => [
+        'id' => env('CLARITY_ID'),
+    ],
+
 ];

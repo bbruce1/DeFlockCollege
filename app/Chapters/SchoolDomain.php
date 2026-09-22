@@ -9,15 +9,34 @@ use InvalidArgumentException;
 /**
  * The school identity, derived from a verified email address.
  *
- * The gate is .edu or .org on the REGISTRABLE domain, not a suffix match:
+ * The gate is .edu, .org, or a US school district domain, applied to the
+ * REGISTRABLE domain rather than as a suffix match:
  * "evil-gatech.edu.attacker.com" ends in neither, but a careless check on the
- * wrong segment would accept it. The host is parsed into labels and the last two
- * are compared exactly. See security.md.
+ * wrong segment would accept it. The host is parsed into labels and compared
+ * exactly. See security.md.
+ *
+ * District domains are the reason the registrable domain is not simply the last
+ * two labels. Public high schools sit on "<district>.k12.<state>.us", where
+ * "k12.<state>.us" is a public suffix: taking two labels there would make every
+ * district in Virginia share the identity "va.us", so the first one to start a
+ * chapter would lock out all the others and could edit theirs. Four labels are
+ * kept for that shape.
  */
 final readonly class SchoolDomain
 {
     /** Only these are treated as institutional. */
     private const ALLOWED_TLDS = ['edu', 'org'];
+
+    /**
+     * The public suffix US school districts register under.
+     *
+     * Registration below it is administered rather than open, which is what
+     * makes it a usable proof of belonging in the way a .com never could. Bare
+     * ".us" stays refused: anybody can have one of those.
+     */
+    private const DISTRICT_LABEL = 'k12';
+
+    private const DISTRICT_TLD = 'us';
 
     /**
      * Domains we can name without asking. Everything else, including every high
@@ -91,6 +110,10 @@ final readonly class SchoolDomain
             throw new InvalidArgumentException('That email address has no usable domain.');
         }
 
+        if ($district = self::districtDomain($labels)) {
+            return new self($district);
+        }
+
         // The registrable domain is the last two labels. Comparing the TLD here,
         // rather than checking whether the host merely ends with ".edu", is what
         // rejects hosts like "gatech.edu.attacker.com".
@@ -99,8 +122,9 @@ final readonly class SchoolDomain
 
         if (! in_array($tld, self::ALLOWED_TLDS, true)) {
             throw new InvalidArgumentException(
-                'Chapters can only be started from a .edu or .org address, which is how '
-                .'we know you are actually at the school.'
+                'Chapters can only be started from a school address: .edu, .org, or a '
+                .'district address ending in .k12.'.self::DISTRICT_TLD.'. That is how we '
+                .'know you are actually at the school.'
             );
         }
 
@@ -109,6 +133,42 @@ final readonly class SchoolDomain
         }
 
         return new self("{$name}.{$tld}");
+    }
+
+    /**
+     * The district's own domain, for a host under "k12.<state>.us".
+     *
+     * Null when the host is not that shape, so the ordinary two-label rule
+     * applies. A deeper host like "mail.fcps.k12.va.us" still belongs to
+     * "fcps.k12.va.us": the district is the label directly above the suffix.
+     *
+     * @param  list<string>  $labels
+     */
+    private static function districtDomain(array $labels): ?string
+    {
+        if (count($labels) < 4) {
+            return null;
+        }
+
+        [$state, $tld] = [$labels[count($labels) - 2], $labels[count($labels) - 1]];
+
+        if ($tld !== self::DISTRICT_TLD || $labels[count($labels) - 3] !== self::DISTRICT_LABEL) {
+            return null;
+        }
+
+        // Checked against the real states, so "k12.zz.us" is not a free pass
+        // into a namespace nobody administers.
+        if (! States::exists($state)) {
+            return null;
+        }
+
+        $district = $labels[count($labels) - 4];
+
+        if ($district === '') {
+            return null;
+        }
+
+        return implode('.', [$district, self::DISTRICT_LABEL, $state, $tld]);
     }
 
     public static function isInstitutional(string $email): bool
@@ -120,6 +180,20 @@ final readonly class SchoolDomain
         } catch (InvalidArgumentException) {
             return false;
         }
+    }
+
+    /**
+     * Whether this domain covers a whole district rather than one school.
+     *
+     * A university domain is one institution, so one domain means one chapter.
+     * A district domain is not: Fairfax County runs about twenty-five high
+     * schools on fcps.k12.va.us, and treating that as one school would let the
+     * first student to arrive lock out every other school in the county.
+     */
+    public function isDistrict(): bool
+    {
+        return str_ends_with($this->registrable, '.'.self::DISTRICT_TLD)
+            && str_contains($this->registrable, '.'.self::DISTRICT_LABEL.'.');
     }
 
     public function isKnown(): bool

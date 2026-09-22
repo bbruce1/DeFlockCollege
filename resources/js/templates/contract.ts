@@ -25,14 +25,25 @@ export interface SchoolColours {
     secondaryIsDark: boolean;
 }
 
+export interface Meeting {
+    date: string;
+    time: string | null;
+    place: string;
+    note: string;
+}
+
 export interface Chapter {
     slug: string;
+    /** The chapter's own address — its subdomain where one is configured. */
+    url: string;
     schoolName: string;
     shortName: string;
     state: string;
     city: string;
     instagram: string | null;
     petitionUrl: string | null;
+    /** Every meeting the creator has entered, past ones included. */
+    meetings: Meeting[];
     status: 'live' | 'empty';
     colours: SchoolColours | null;
     officials: Official[];
@@ -91,3 +102,12 @@ export const FIXED = {
     ask: 'Removal of the readers, and a ban on new installations.',
 } as const;
 
+
+/**
+ * At or below this many readers within a mile, the campus figure stops being
+ * evidence and starts being an anticlimax — a giant "1" over "automated plate
+ * readers are mapped within a mile" argues against the page it sits on. The
+ * statewide figure leads instead; the campus one is still reported, just not
+ * set at display size.
+ */
+export const SPARSE_MAX = 2;

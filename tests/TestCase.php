@@ -6,6 +6,7 @@ namespace Tests;
 
 use App\Chapters\ChapterRepository;
 use App\Chapters\StateCoverageRepository;
+use App\Metrics\OutreachLog;
 use App\Officials\RotationCounter;
 use Illuminate\Foundation\Testing\TestCase as BaseTestCase;
 use Illuminate\Support\Facades\File;
@@ -34,6 +35,11 @@ abstract class TestCase extends BaseTestCase
         $this->app->singleton(
             StateCoverageRepository::class,
             fn (): StateCoverageRepository => new StateCoverageRepository($this->storageRoot.'/states'),
+        );
+
+        $this->app->singleton(
+            OutreachLog::class,
+            fn (): OutreachLog => new OutreachLog($this->storageRoot.'/metrics'),
         );
 
         $this->app->singleton(

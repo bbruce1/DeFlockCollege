@@ -36,13 +36,14 @@ final class VerificationLink extends Mailable
 
     public function envelope(): Envelope
     {
+        // Reply-To is not set here. The framework already applies the one in
+        // mail.reply_to to every message, and adding it again produced a
+        // header carrying the same address twice, which reads as malformed to
+        // exactly the filters this is written to satisfy.
         return new Envelope(
             subject: $this->isEdit
                 ? "Edit your {$this->schoolName} chapter"
                 : "Start the {$this->schoolName} chapter",
-            // A reachable human on the sending domain. Filters weigh an
-            // unroutable or absent reply-to against the sender.
-            replyTo: array_filter([config('mail.reply_to.address')]),
         );
     }
 
