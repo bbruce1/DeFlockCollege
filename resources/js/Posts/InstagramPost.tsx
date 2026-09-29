@@ -1,5 +1,8 @@
 import type { PostSlide } from '@/Posts/postTemplates';
+import { useEffect, useRef } from 'react';
 import { usePhoto } from '@/Posts/usePhoto';
+import { drawSlide } from '@/Posts/renderSlide';
+import { loadPostFonts, POST_FONTS } from '@/Posts/exportSlide';
 
 /**
  * One generated post, inside the chrome Instagram wraps around it.
@@ -13,63 +16,67 @@ import { usePhoto } from '@/Posts/usePhoto';
  * fabricated one would be the single number on this project that came from
  * nowhere, so the row simply carries the actions.
  */
-function MemeSquare({ slide }: { slide: PostSlide }) {
+/**
+ * The square itself, drawn by the same renderer that saves the PNG.
+ *
+ * Previewing with HTML and saving with canvas meant two drawings of every post
+ * that had to be kept in step by hand. Now there is one, so the post in the
+ * catalogue is byte-for-byte the post that gets saved.
+ */
+function SlideSquare({ slide, badge }: { slide: PostSlide; badge: string | null }) {
+    const canvasRef = useRef<HTMLCanvasElement>(null);
     const photo = usePhoto(slide.photo);
 
+    useEffect(() => {
+        const canvas = canvasRef.current;
+
+        if (!canvas) {
+            return;
+        }
+
+        // Waits for the webfonts, or the first draw measures fallback metrics
+        // and wraps the headline in the wrong places. The slide is drawn again
+        // once its photo arrives, and the earlier wait can finish second, so
+        // only the latest draw is allowed to paint.
+        let isCurrent = true;
+
+        loadPostFonts().then(() => {
+            if (isCurrent) {
+                drawSlide(canvas, slide, POST_FONTS, photo);
+            }
+        });
+
+        return () => {
+            isCurrent = false;
+        };
+    }, [slide, photo]);
+
     return (
-        <div
-            style={{
-                position: 'relative',
-                aspectRatio: '1 / 1',
-                background: photo ? `#000 url(${slide.photo}) center/cover` : slide.ground,
-                display: 'flex',
-                alignItems: 'flex-end',
-                padding: '6%',
-                overflow: 'hidden',
-            }}
-        >
-            <span
-                aria-hidden="true"
-                style={{
-                    position: 'absolute',
-                    inset: 0,
-                    background:
-                        'linear-gradient(to bottom, rgba(0,0,0,0) 35%, rgba(0,0,0,0.55) 72%, rgba(0,0,0,0.88) 100%)',
-                }}
+        <div style={{ position: 'relative', aspectRatio: '1 / 1', background: '#000' }}>
+            <canvas
+                ref={canvasRef}
+                role="img"
+                aria-label={slide.alt}
+                style={{ display: 'block', width: '100%', height: '100%' }}
             />
-
-            <span
-                style={{
-                    position: 'absolute',
-                    top: '6%',
-                    left: '6%',
-                    padding: '0.22rem 0.5rem',
-                    background: 'rgba(0,0,0,0.55)',
-                    color: '#fff',
-                    fontFamily: 'var(--font-data)',
-                    fontSize: '0.58rem',
-                    letterSpacing: '0.16em',
-                    textTransform: 'uppercase',
-                }}
-            >
-                {slide.eyebrow}
-            </span>
-
-            <p
-                style={{
-                    position: 'relative',
-                    margin: 0,
-                    color: '#fff',
-                    fontFamily: 'var(--font-display)',
-                    fontWeight: 800,
-                    fontSize: 'clamp(1.1rem, 11cqw, 2.6rem)',
-                    lineHeight: 0.94,
-                    letterSpacing: '-0.02em',
-                    textTransform: 'uppercase',
-                }}
-            >
-                {slide.overlay ?? slide.headline}
-            </p>
+            {badge ? (
+                <span
+                    style={{
+                        position: 'absolute',
+                        top: '4%',
+                        right: '4%',
+                        padding: '0.2rem 0.5rem',
+                        borderRadius: 999,
+                        background: 'rgba(0,0,0,0.6)',
+                        color: '#fff',
+                        fontFamily: 'var(--font-data)',
+                        fontSize: '0.6rem',
+                        letterSpacing: '0.08em',
+                    }}
+                >
+                    {badge}
+                </span>
+            ) : null}
         </div>
     );
 }
@@ -111,7 +118,7 @@ export default function InstagramPost({
                         borderRadius: '50%',
                         display: 'grid',
                         placeItems: 'center',
-                        background: `linear-gradient(45deg, ${accent}, ${slide.accent})`,
+                        background: `linear-gradient(45deg, ${accent}, ${slide.palette?.secondary ?? accent})`,
                         color: '#000',
                         fontSize: 12,
                         fontWeight: 700,
@@ -129,110 +136,7 @@ export default function InstagramPost({
                 </span>
             </header>
 
-            {slide.layout === 'meme' ? (
-                <MemeSquare slide={slide} />
-            ) : (
-                <div
-                style={{
-                    position: 'relative',
-                    aspectRatio: '1 / 1',
-                    background: slide.ground,
-                    color: slide.ink,
-                    padding: '9%',
-                    display: 'flex',
-                    flexDirection: 'column',
-                    justifyContent: 'space-between',
-                }}
-            >
-                {slideCount > 1 ? (
-                    <span
-                        style={{
-                            position: 'absolute',
-                            top: '4%',
-                            right: '4%',
-                            padding: '0.2rem 0.5rem',
-                            borderRadius: 999,
-                            background: 'rgba(0,0,0,0.55)',
-                            color: '#fff',
-                            fontFamily: 'var(--font-data)',
-                            fontSize: '0.6rem',
-                            letterSpacing: '0.08em',
-                        }}
-                    >
-                        {slideIndex + 1}/{slideCount}
-                    </span>
-                ) : null}
-
-                <p
-                    style={{
-                        margin: 0,
-                        fontFamily: 'var(--font-data)',
-                        fontSize: '0.62rem',
-                        letterSpacing: '0.18em',
-                        textTransform: 'uppercase',
-                        color: slide.accent,
-                    }}
-                >
-                    {slide.eyebrow}
-                </p>
-
-                <div>
-                    {slide.figure ? (
-                        <p
-                            style={{
-                                margin: '0 0 0.3rem',
-                                fontFamily: 'var(--font-data)',
-                                fontSize: 'clamp(2.2rem, 13cqw, 3.4rem)',
-                                fontWeight: 700,
-                                lineHeight: 0.9,
-                                color: slide.accent,
-                            }}
-                        >
-                            {slide.figure}
-                        </p>
-                    ) : null}
-
-                    <h3
-                        style={{
-                            margin: 0,
-                            fontSize: 'clamp(0.95rem, 6cqw, 1.35rem)',
-                            lineHeight: 1.1,
-                            letterSpacing: '-0.01em',
-                            textWrap: 'balance',
-                        }}
-                    >
-                        {slide.headline}
-                    </h3>
-
-                    {slide.body ? (
-                        <p
-                            style={{
-                                margin: '0.5rem 0 0',
-                                fontSize: 'clamp(0.6rem, 3.4cqw, 0.78rem)',
-                                lineHeight: 1.45,
-                                opacity: 0.82,
-                            }}
-                        >
-                            {slide.body}
-                        </p>
-                    ) : null}
-                </div>
-
-                <p
-                    style={{
-                        margin: 0,
-                        fontFamily: 'var(--font-data)',
-                        fontSize: '0.58rem',
-                        letterSpacing: '0.14em',
-                        textTransform: 'uppercase',
-                        opacity: 0.7,
-                    }}
-                >
-                    {slide.footer}
-                </p>
-            </div>
-
-            )}
+            <SlideSquare slide={slide} badge={slideCount > 1 ? `${slideIndex + 1}/${slideCount}` : null} />
 
             <div style={{ display: 'flex', alignItems: 'center', gap: 14, padding: '10px 12px 4px' }} aria-hidden="true">
                 <Heart />

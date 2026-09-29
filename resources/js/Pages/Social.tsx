@@ -1,8 +1,10 @@
 import { useState } from 'react';
 import { Head, Link } from '@inertiajs/react';
 import Shell from '@/Layouts/Shell';
+import PostActions from '@/Posts/PostActions';
+import SuggestPost from '@/Posts/SuggestPost';
 import PostDeck from '@/Posts/PostDeck';
-import { buildMemes, buildPosts } from '@/Posts/postTemplates';
+import { buildMemes, buildNews, buildPosts, type Post } from '@/Posts/postTemplates';
 import InstagramPost from '@/Posts/InstagramPost';
 
 interface ChapterSummary {
@@ -13,6 +15,8 @@ interface ChapterSummary {
     primaryColour: string;
     secondaryColour: string;
     readersWithinMile: number;
+    readersInState?: number | null;
+    stateName?: string | null;
 }
 
 const HEX = /^#[0-9a-f]{6}$/i;
@@ -28,9 +32,12 @@ const HEX = /^#[0-9a-f]{6}$/i;
 export default function Social({
     chapter,
     chapters,
+    suggestTo,
 }: {
     chapter: ChapterSummary | null;
     chapters: ChapterSummary[];
+    /** Where a post suggestion is emailed. Suggestions never land on the site. */
+    suggestTo: string;
 }) {
     const [picked, setPicked] = useState<ChapterSummary | null>(chapter);
     const [term, setTerm] = useState('');
@@ -63,11 +70,14 @@ export default function Social({
         primary: HEX.test(picked?.primaryColour ?? '') ? picked!.primaryColour : '#22d3ee',
         secondary: HEX.test(picked?.secondaryColour ?? '') ? picked!.secondaryColour : '#f43f5e',
         readersWithinMile: picked?.readersWithinMile ?? null,
+        readersInState: picked?.readersInState ?? null,
+        stateName: picked?.stateName ?? null,
         address: picked ? `deflock.school/${picked.slug}` : 'deflock.school',
     };
 
     const posts = buildPosts(input);
     const memes = buildMemes(input);
+    const news = buildNews(input);
 
     return (
         <Shell>
@@ -183,66 +193,44 @@ export default function Social({
 
             <section className="shell border-t border-hair py-12">
 
-                <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-                    {posts.map((post) => (
-                        <div key={post.id} className="grid gap-3" style={{ containerType: 'inline-size' }}>
-                            <InstagramPost
-                                slide={post.slides[0]}
-                                caption={post.caption}
-                                slideCount={post.slides.length}
-                                handle={handle}
-                                accent={input.primary}
-                            />
-
-                            <p className="annot text-faint">
-                                {post.purpose}
-                                {post.slides.length > 1 ? ` · ${post.slides.length} slides` : ''}
-                            </p>
-
-                            <Link
-                                href={`/social/${post.id}${picked ? `?chapter=${picked.slug}` : ''}`}
-                                className="btn btn-quiet justify-self-start"
-                            >
-                                Copy this post
-                            </Link>
-                        </div>
-                    ))}
-                </div>
+                <PostGrid posts={posts} handle={handle} accent={input.primary} slug={picked?.slug} />
             </section>
+
+            {news.length > 0 ? (
+                <section className="shell border-t border-hair py-12">
+                    <p className="annot text-faint">Just happened</p>
+                    <h2 className="mt-2 text-2xl uppercase">News</h2>
+                    <p className="mt-2 max-w-[52ch] text-sm text-dim">
+                        Wins, and the other kind. Each one is dated and sourced in the caption, so
+                        check the date before you post it.
+                    </p>
+
+                    <PostGrid posts={news} handle={handle} accent={input.primary} slug={picked?.slug} />
+                </section>
+            ) : null}
 
             <section className="shell border-t border-hair py-12">
                 <p className="annot text-faint">For the feed</p>
                 <h2 className="mt-2 text-2xl uppercase">Memes</h2>
                 <p className="mt-2 max-w-[52ch] text-sm text-dim">
-                    A picture, one line over it, and the payoff on the swipe. You put the photo in
-                    on the next screen — it stays on your machine. Every number in these is your
-                    campus's real one.
+                    A picture, one line over it, and the payoff on the swipe. Photos and all, in
+                    your colours. Every number in these is your campus's real one.
                 </p>
 
-                <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-                    {memes.map((post) => (
-                        <div key={post.id} className="grid gap-3" style={{ containerType: 'inline-size' }}>
-                            <InstagramPost
-                                slide={post.slides[0]}
-                                caption={post.caption}
-                                slideCount={post.slides.length}
-                                handle={handle}
-                                accent={input.primary}
-                            />
+                <PostGrid posts={memes} handle={handle} accent={input.primary} slug={picked?.slug} />
+            </section>
 
-                            <p className="annot text-faint">
-                                {post.purpose}
-                                {post.slides.length > 1 ? ` · ${post.slides.length} slides` : ''}
-                            </p>
+            <section className="shell border-t border-hair py-12">
+                <p className="annot text-faint">Missing one</p>
+                <h2 className="mt-2 text-2xl uppercase">Suggest a post</h2>
+                <p className="mt-2 max-w-[52ch] text-sm text-dim">
+                    If you have posted something that worked, or there is an argument these do not
+                    answer yet, say so. Good ones get drawn in every chapter's colours and appear
+                    here for everybody.
+                </p>
 
-                            <Link
-                                href={`/social/${post.id}${picked ? `?chapter=${picked.slug}` : ''}`}
-                                className="btn btn-quiet justify-self-start"
-                            >
-                                Copy this post
-                            </Link>
-                        </div>
-                    ))}
+                <div className="mt-8">
+                    <SuggestPost address={suggestTo} />
                 </div>
             </section>
 
@@ -257,3 +245,44 @@ export default function Social({
     );
 }
 
+
+function PostGrid({
+    posts,
+    handle,
+    accent,
+    slug,
+}: {
+    posts: Post[];
+    handle: string;
+    accent: string;
+    slug?: string;
+}) {
+    return (
+        <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+            {posts.map((post) => (
+                <div key={post.id} className="grid gap-3" style={{ containerType: 'inline-size' }}>
+                    <InstagramPost
+                        slide={post.slides[0]}
+                        caption={post.caption}
+                        slideCount={post.slides.length}
+                        handle={handle}
+                        accent={accent}
+                    />
+
+                    <p className="annot text-faint">
+                        {post.date ? (
+                            <>
+                                <time dateTime={post.date}>{post.date}</time>
+                                {' · '}
+                            </>
+                        ) : null}
+                        {post.purpose}
+                        {post.slides.length > 1 ? ` · ${post.slides.length} slides` : ''}
+                    </p>
+
+                    <PostActions post={post} slug={slug} />
+                </div>
+            ))}
+        </div>
+    );
+}

@@ -6,6 +6,7 @@ namespace App\Http\Controllers;
 
 use App\Chapters\Chapter;
 use App\Chapters\ChapterRepository;
+use App\Chapters\States;
 use Illuminate\Http\Request;
 use Inertia\Inertia;
 use Inertia\Response;
@@ -33,7 +34,18 @@ final class SocialController extends Controller
             // Every chapter, so somebody who arrived without a link can pick
             // their own and have it fill itself in.
             'chapters' => array_map(self::summarise(...), $this->chapters->all()),
+            // Suggestions go to an inbox rather than into the site. The same
+            // address the legal pages name, so there is one place to change it.
+            'suggestTo' => self::suggestionAddress(),
         ]);
+    }
+
+    /** @return string */
+    private static function suggestionAddress(): string
+    {
+        return (string) (config('mail.reply_to.address')
+            ?: config('mail.from.address')
+            ?: 'hello@deflock.school');
     }
 
     /**
@@ -65,6 +77,8 @@ final class SocialController extends Controller
             'primaryColour' => $chapter->colours->primary,
             'secondaryColour' => $chapter->colours->secondary,
             'readersWithinMile' => $chapter->survey->readersWithinMile,
+            'readersInState' => $chapter->survey->readersInState,
+            'stateName' => States::name($chapter->state),
         ];
     }
 

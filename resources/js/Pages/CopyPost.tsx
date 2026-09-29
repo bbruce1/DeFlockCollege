@@ -1,9 +1,9 @@
 import { useEffect, useRef, useState } from 'react';
 import { Head, Link } from '@inertiajs/react';
 import Shell from '@/Layouts/Shell';
-import { buildMemes, buildPosts } from '@/Posts/postTemplates';
-import type { PostSlide } from '@/Posts/postTemplates';
+import { allPosts, type Post, type PostSlide } from '@/Posts/postTemplates';
 import { drawSlide } from '@/Posts/renderSlide';
+import { loadPostFonts, POST_FONTS } from '@/Posts/exportSlide';
 import { usePhoto } from '@/Posts/usePhoto';
 
 interface ChapterSummary {
@@ -14,12 +14,9 @@ interface ChapterSummary {
     primaryColour: string;
     secondaryColour: string;
     readersWithinMile: number;
+    readersInState?: number | null;
+    stateName?: string | null;
 }
-
-const FONTS = {
-    display: '"Archivo Variable", Archivo, system-ui, sans-serif',
-    data: '"IBM Plex Mono", ui-monospace, monospace',
-};
 
 /**
  * One post, ready to be taken away.
@@ -41,11 +38,13 @@ export default function CopyPost({
         primary: chapter?.primaryColour ?? '#22d3ee',
         secondary: chapter?.secondaryColour ?? '#f43f5e',
         readersWithinMile: chapter?.readersWithinMile ?? null,
+        readersInState: chapter?.readersInState ?? null,
+        stateName: chapter?.stateName ?? null,
         address: chapter ? `deflock.school/${chapter.slug}` : 'deflock.school',
     };
 
     const post =
-        [...buildPosts(input), ...buildMemes(input)].find((p) => p.id === postId) ?? null;
+        allPosts(input).find((p) => p.id === postId) ?? null;
     const [copied, setCopied] = useState(false);
 
 
@@ -149,11 +148,25 @@ function SlideCard({
     useEffect(() => {
         const canvas = canvasRef.current;
 
-        if (canvas) {
-            // Waits for the webfonts, or the first draw measures fallback metrics
-            // and wraps the headline in the wrong places.
-            document.fonts?.ready.then(() => drawSlide(canvas, slide, FONTS, photo));
+        if (!canvas) {
+            return;
         }
+
+        // Waits for the webfonts, or the first draw measures fallback metrics
+        // and wraps the headline in the wrong places. The slide is drawn again
+        // once its photo arrives, and the earlier wait can finish second, so
+        // only the latest draw is allowed to paint.
+        let isCurrent = true;
+
+        loadPostFonts().then(() => {
+            if (isCurrent) {
+                drawSlide(canvas, slide, POST_FONTS, photo);
+            }
+        });
+
+        return () => {
+            isCurrent = false;
+        };
     }, [slide, photo]);
 
     function download() {
@@ -176,7 +189,7 @@ function SlideCard({
                 className="w-full border border-hair"
                 style={{ aspectRatio: '1 / 1' }}
                 role="img"
-                aria-label={`Slide ${index + 1}: ${slide.headline}`}
+                aria-label={slide.alt}
             />
 
             <div className="flex items-center justify-between gap-3">
@@ -208,7 +221,7 @@ function AudioSheet({
     audio,
     slides,
 }: {
-    audio: NonNullable<ReturnType<typeof buildPosts>[number]['audio']>;
+    audio: NonNullable<Post['audio']>;
     slides: number;
 }) {
     return (
@@ -244,6 +257,10 @@ function AudioSheet({
 
 function timecode(seconds: number): string {
     const minutes = Math.floor(seconds / 60);
+    const rest = seconds % 60;
+    // Half-second cues are real ("the drop at 2.5s"), so keep one decimal
+    // rather than rounding a cue onto the wrong beat.
+    const shown = Number.isInteger(rest) ? String(rest) : rest.toFixed(1);
 
-    return `${minutes}:${String(seconds % 60).padStart(2, '0')}`;
+    return `${minutes}:${shown.padStart(Number.isInteger(rest) ? 2 : 4, '0')}`;
 }

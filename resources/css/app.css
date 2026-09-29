@@ -1,7 +1,9 @@
 @import "tailwindcss";
 
 /* Self-hosted, so no external host sees who reads a chapter page. */
-@import "@fontsource-variable/archivo";
+/* The standard cut carries the width axis as well as weight, which the posts
+   use for both the condensed shout and the extra-wide one. */
+@import "@fontsource-variable/archivo/standard.css";
 @import "@fontsource/ibm-plex-mono/400.css";
 @import "@fontsource/ibm-plex-mono/500.css";
 @import "@fontsource/ibm-plex-mono/600.css";
