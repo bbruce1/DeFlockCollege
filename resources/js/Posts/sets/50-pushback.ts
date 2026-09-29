@@ -36,7 +36,7 @@ const family: PostFamily = (input) => {
             kind: 'info',
             purpose: 'Bait-and-switch how-to: the three things a follower can do today, letter first.',
             caption: lines(
-                "bro won't leave so we're calling his parents (the officials who decide if he stays)",
+                "he won't leave, so we're calling his parents (the officials who decide if he stays)",
                 "letter's already written, add a sentence and hit send 📧",
                 nearby,
                 input.address,
@@ -108,8 +108,8 @@ const family: PostFamily = (input) => {
             kind: 'info',
             purpose: 'The camera photographs everyone and nobody may touch it: why that is the joke, and why the email is the move.',
             caption: lines(
-                "he photographs every car that drives by with zero consent but you can't touch him lol",
-                "fr don't touch it tho, damaging one is a crime. email the officials who decide if he stays, the letter's already written",
+                "he photographs every car that drives by with zero consent, but you can't touch him 💀",
+                "seriously, don't touch it. damaging one is a crime. email the officials who decide if he stays, the letter's already written",
                 nearby,
                 input.address,
             ),
@@ -117,7 +117,7 @@ const family: PostFamily = (input) => {
                 style: AUDIO_STYLE,
                 cues: [
                     { atSeconds: 0, slide: 1, note: 'Hook on screen before the beat starts.' },
-                    { atSeconds: 3, slide: 2, note: 'Drop lands on "never heard of her".' },
+                    { atSeconds: 3, slide: 2, note: 'Drop lands on "he didn\'t ask".' },
                     { atSeconds: 6, slide: 3, note: 'The email, hold to the end.' },
                 ],
             },
@@ -140,9 +140,9 @@ const family: PostFamily = (input) => {
                     ...PHOTOS.highway,
                     tint: 'wash',
                     focus: [0.2, 0.5],
-                    alt: 'A highway full of cars, with the words: consent? Never heard of her. He photographs every car that passes and keeps the plate, time and place.',
+                    alt: 'A highway full of cars, with the words: consent? He didn\'t ask. He photographs every car that passes and keeps the plate, time and place.',
                     blocks: [
-                        shout('Consent?\nNever heard of her', { at: 'top', size: 'big' }),
+                        shout("Consent?\nHe didn't ask", { at: 'top', size: 'big' }),
                         // Plate, time, date and location of every car it passes:
                         // https://www.eff.org/cases/automated-license-plate-readers-aclu-eff-v-lapd-lasd
                         note('he photographs every car that passes and keeps the plate, the time and the place. nobody asked you'),

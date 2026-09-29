@@ -46,18 +46,18 @@ const STREET = { photo: '/posts/hypocrisy/street.jpg', credit: 'Photo: Bruxton /
 const AUTHORIZED = { photo: '/posts/hypocrisy/authorized.jpg', credit: 'Photo: dankeck / CC0' };
 const MODULES = { photo: '/posts/hypocrisy/modules.jpg', credit: 'Photo: Bruxton / CC0' };
 
-/** "there's 7 of these within a mile of Georgia Tech btw", or nothing before a survey. */
+/** "there are 7 of these within a mile of Georgia Tech", or nothing before a survey. */
 function nearbyLine(input: PostInput): string {
     const nearby = input.readersWithinMile;
 
     if (typeof nearby === 'number' && nearby > 0) {
-        return `there's ${count(nearby)} of these within a mile of ${input.shortName} btw\n\n`;
+        return `there are ${count(nearby)} of these within a mile of ${input.shortName}\n\n`;
     }
 
     const statewide = input.readersInState;
 
     if (typeof statewide === 'number' && statewide > 0 && input.stateName) {
-        return `there's ${count(statewide)} of these across ${input.stateName} btw\n\n`;
+        return `there are ${count(statewide)} of these across ${input.stateName}\n\n`;
     }
 
     return '';
@@ -97,9 +97,9 @@ const family: PostFamily = (input) => {
                     alt: 'Two Flock plate-reader cameras on one pole, with the words: your plate, when you ask Flock for it. Never heard of her.',
                     blocks: [
                         tag('Your plate, when YOU ask Flock for it'),
-                        // The two cameras hang under the panel at the bottom of
-                        // the frame, so the punchline sits over the panel instead.
-                        shout('Never heard of her', { at: 'upper' }),
+                        // Under the cameras, not across them: the joke is that
+                        // the camera is right there and still "never heard of" you.
+                        shout('Never heard of her'),
                     ],
                 },
             ],
@@ -146,7 +146,7 @@ const family: PostFamily = (input) => {
             purpose: 'Poking around Flock\'s system uninvited carries penalties, per Flock. Its camera logging your car uninvited is what it sells.',
             caption:
                 `their policy says "${UNAUTHORIZED_USE}"\n`
-                + 'meanwhile their camera logs my car without asking and that\'s the product lol 💀\n\n'
+                + 'meanwhile their camera logs my car without asking, and that\'s the product 💀\n\n'
                 + nearby
                 + `source: ${PRIVACY_PAGE}\n\n`
                 + input.address,

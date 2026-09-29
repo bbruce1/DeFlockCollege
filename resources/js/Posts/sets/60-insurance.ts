@@ -59,7 +59,7 @@ function caption(input: PostInput): string {
         // https://www.eff.org/deeplinks/2025/10/privacy-harm-harm — "Its customers include
         // law enforcement agencies and private companies, such as insurers, lenders, and
         // repossession firms."
-        "nah you're cooked, DRN's customers include insurers lenders and repo firms 💀",
+        "nope, you're cooked. DRN's customers include insurers, lenders and repo firms 💀",
         nearby,
         ['sources:', ...SOURCES.map((source) => `• ${source}`)].join('\n'),
         input.address,

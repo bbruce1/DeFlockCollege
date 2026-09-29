@@ -26,7 +26,9 @@ const SIZES: Record<TextBlock['size'], number> = {
     huge: SIZE * 0.115,
     big: SIZE * 0.062,
     medium: SIZE * 0.036,
-    label: SIZE * 0.028,
+    // Labels now carry context ("the camera on your street"), so they have
+    // to survive being read on a phone at arm's length.
+    label: SIZE * 0.032,
 };
 
 /** The shout never runs edge to edge; it keeps a column the photo frames. */

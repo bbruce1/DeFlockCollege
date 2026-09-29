@@ -1,4 +1,94 @@
 {
+  "/posts/apps/closeup.jpg": {
+    "author": "Paul Goyette",
+    "licence": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Flock_Camera_(54703882783).jpg",
+    "title": "File:Flock Camera (54703882783).jpg"
+  },
+  "/posts/apps/dusk.jpg": {
+    "author": "Paul Goyette",
+    "licence": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Flock_Camera_(54703676211).jpg",
+    "title": "File:Flock Camera (54703676211).jpg"
+  },
+  "/posts/apps/field.jpg": {
+    "author": "Mr. Matt\u00e9 (if there is an issue with this image, contact me using this image's Commons talk page, my Commons user talk page, or my English Wikipedia user talk page; I'll know about it a lot faster)",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Double_Flock_ALPR_camera,_Neshanic_Station,_NJ_(1),_June_2026.jpg",
+    "title": "File:Double Flock ALPR camera, Neshanic Station, NJ (1), June 2026.jpg"
+  },
+  "/posts/apps/pole.jpg": {
+    "author": "Paul Goyette",
+    "licence": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Flock_Camera_(54702850862).jpg",
+    "title": "File:Flock Camera (54702850862).jpg"
+  },
+  "/posts/apps/roadside.jpg": {
+    "author": "Grokflok",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Flock_Camera_Harrisburg_N_6th_St_and_Hurlock_St.jpg",
+    "title": "File:Flock Camera Harrisburg N 6th St and Hurlock St.jpg"
+  },
+  "/posts/apps/street.jpg": {
+    "author": "Paul Goyette",
+    "licence": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Flock_Camera_(54702850737).jpg",
+    "title": "File:Flock Camera (54702850737).jpg"
+  },
+  "/posts/apps/trees.jpg": {
+    "author": "MiracleMiles",
+    "licence": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Flock_ALPR_with_Solar_Panel,_Facing_Left_with_Trees,_Eatontown_NJ_(July_2026).jpg",
+    "title": "File:Flock ALPR with Solar Panel, Facing Left with Trees, Eatontown NJ (July 2026).jpg"
+  },
+  "/posts/campus/campus-road.jpg": {
+    "author": "Statecitizen1",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:ALPR_Flagstaff_W_University_Dr_%26_S_Knoles_Dr.jpg",
+    "title": "File:ALPR Flagstaff W University Dr & S Knoles Dr.jpg"
+  },
+  "/posts/campus/dorms.jpg": {
+    "author": "Bobobo666",
+    "licence": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Flock-camera-oakmore-heights.jpg",
+    "title": "File:Flock-camera-oakmore-heights.jpg"
+  },
+  "/posts/campus/drive-thru.jpg": {
+    "author": "Michael Gil from Toronto, ON, Canada",
+    "licence": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tim_Hortons_drive_through_menu_at_night.jpg",
+    "title": "File:Tim Hortons drive through menu at night.jpg"
+  },
+  "/posts/campus/dusk.jpg": {
+    "author": "Paul Goyette",
+    "licence": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Flock_Camera_(54703676211).jpg",
+    "title": "File:Flock Camera (54703676211).jpg"
+  },
+  "/posts/campus/lens.jpg": {
+    "author": "Paul Goyette",
+    "licence": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Flock_Camera_(54703882783).jpg",
+    "title": "File:Flock Camera (54703882783).jpg"
+  },
+  "/posts/campus/library.jpg": {
+    "author": "Pbritti",
+    "licence": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Earl_Gregg_Swem_Library_at_night_2021.jpg",
+    "title": "File:Earl Gregg Swem Library at night 2021.jpg"
+  },
+  "/posts/campus/minivan.jpg": {
+    "author": "CZmarlin  \u2014 Christopher Ziemnowicz would appreciate a photo credit if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you!",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:2019_Dodge_Grand_Caravan_(RT)_minivan_-_finished_in_white_-_Ocean_Drive_in_Miami_Beach.jpg",
+    "title": "File:2019 Dodge Grand Caravan (RT) minivan - finished in white - Ocean Drive in Miami Beach.jpg"
+  },
+  "/posts/campus/pole.jpg": {
+    "author": "Paul Goyette",
+    "licence": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Flock_Camera_(54702850862).jpg",
+    "title": "File:Flock Camera (54702850862).jpg"
+  },
   "/posts/clingy/field.jpg": {
     "author": "DividedFrame",
     "licence": "CC0",
@@ -148,18 +238,6 @@
     "licence": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:ALPR_Flock_Surveillance_Camera,_Kemah_TX,_518_Deke_Slatyon.jpg",
     "title": "File:ALPR Flock Surveillance Camera, Kemah TX, 518 Deke Slatyon.jpg"
-  },
-  "/posts/formats/phone-dark.jpg": {
-    "author": "www.Pixel.la Free Stock Photos",
-    "licence": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Apple-iphone-smartphone-desk-1_(24217686692).jpg",
-    "title": "File:Apple-iphone-smartphone-desk-1 (24217686692).jpg"
-  },
-  "/posts/formats/phone-desk.jpg": {
-    "author": "www.Pixel.la Free Stock Photos",
-    "licence": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Apple-iphone-smartphone-desk_(24243796611).jpg",
-    "title": "File:Apple-iphone-smartphone-desk (24243796611).jpg"
   },
   "/posts/formats/roadside.jpg": {
     "author": "Nicknimh",

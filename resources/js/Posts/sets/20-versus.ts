@@ -29,7 +29,7 @@ function nearbyCount(input: PostInput): number | null {
 
 function mostPhotos(input: PostInput): Post {
     const nearby = nearbyCount(input);
-    const local = nearby === null ? '' : `theres ${count(nearby)} of them within a mile of campus\n\n`;
+    const local = nearby === null ? '' : `there are ${count(nearby)} of them within a mile of campus\n\n`;
 
     return {
         id: 'versus-mom',
@@ -99,7 +99,7 @@ function flockRates(input: PostInput): Post[] {
             kind: 'meme',
             purpose: 'Flock reviews the campus. Our joke, not their words: the score is the real camera count.',
             caption:
-                `${score} is not a flex lol. its how many plate readers are within a mile of campus (flock didnt actually rate us, relax)\n\n`
+                `${score} is not a flex. it's how many plate readers are within a mile of campus (flock didn't actually rate us, relax)\n\n`
                 + input.address,
             slides: [
                 {

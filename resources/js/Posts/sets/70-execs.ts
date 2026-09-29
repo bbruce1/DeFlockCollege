@@ -93,8 +93,8 @@ const family: PostFamily = (input) => {
             kind: 'meme',
             purpose: 'Razr nostalgia, then the same company now: plate readers, and its CEO bragging about the database.',
             caption:
-                'bro motorola went from the pink razr to license plate cameras 💀\n'
-                + 'same company, the phones got spun off in 2011 and the part that stayed motorola bought vigilant in 2019\n'
+                'motorola went from the pink razr to license plate cameras 💀\n'
+                + 'same company. the phones got spun off in 2011, and the part that stayed motorola bought vigilant in 2019\n'
                 + local
                 + `source: ${VIGILANT_PAGE}\n`
                 + input.address,
@@ -141,7 +141,7 @@ const family: PostFamily = (input) => {
             purpose: 'Flock’s own CEO called what it collects "indiscriminate". His word, on his blog.',
             caption:
                 `flock’s ceo really put "${INDISCRIMINATE_SENTENCE}" on the company blog 💀\n`
-                + 'he meant it as a flex lol\n'
+                + 'he meant it as a flex\n'
                 + local
                 + `source: ${FRAMEWORK_PAGE}\n`
                 + input.address,

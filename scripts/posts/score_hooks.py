@@ -48,6 +48,10 @@ automated license plate reader cameras (Flock Safety and others) around campus.
 Audience: 18-22 year olds scrolling Instagram fast; they follow sports and meme
 accounts like @polymarketsports. Most ideas are mid; score like it.
 
+Slide 1 is required to show or name the camera, because people who don't
+know what these are have to get it's about being watched. That is the premise,
+not a spoiler: judge whether the joke still lands with it there.
+
 For each candidate you get the slide-1 hook, what the photo shows, the payoff
 on the swipe, and the caption. Rate 1-10:
 - stop_scroll: would a thumb stop on slide 1 alone?
@@ -57,7 +61,7 @@ on the swipe, and the caption. Rate 1-10:
 - payoff_lands: does the reveal make sense instantly, without the caption?
 Also:
 - risk: none | low | medium | high (defamation, vandalism, harassment, gets reported)
-- spoils_bait: true if slide 1 already gives away the payoff
+- spoils_bait: true if slide 1 already gives away the punchline itself (showing the camera doesn't count)
 - why: one blunt line, max 15 words
 - punch_up: a sharper slide-1 hook, max 4 words, that keeps the bait (never reveal the payoff)
 

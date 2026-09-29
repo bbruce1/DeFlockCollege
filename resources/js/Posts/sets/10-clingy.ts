@@ -18,7 +18,7 @@ const WATCHING = { photo: '/posts/clingy/watching.jpg', credit: 'Photo: Paul Goy
 const TREELINE = { photo: '/posts/clingy/field.jpg', credit: 'Photo: DividedFrame / CC0' };
 const LENS = { photo: '/posts/clingy/lens.jpg', credit: 'Photo: Bruxton / CC0' };
 
-/** "and theres 52 of him within a mile of campus" as a caption line, or nothing before a survey. */
+/** "and there are 52 of him within a mile of campus" as a caption line, or nothing before a survey. */
 function howManyOfHim(input: PostInput, pronoun: 'him' | 'them'): string {
     const nearby = input.readersWithinMile;
 
@@ -27,8 +27,8 @@ function howManyOfHim(input: PostInput, pronoun: 'him' | 'them'): string {
     }
 
     return nearby === 1
-        ? `and theres one of ${pronoun} within a mile of campus\n\n`
-        : `and theres ${count(nearby)} of ${pronoun} within a mile of campus\n\n`;
+        ? `and there's one of ${pronoun} within a mile of campus\n\n`
+        : `and there are ${count(nearby)} of ${pronoun} within a mile of campus\n\n`;
 }
 
 const family: PostFamily = (input) => [
@@ -77,7 +77,7 @@ const family: PostFamily = (input) => [
         purpose: 'Opens like a warning. Lands on a pole, and on who it reports to.',
         caption:
             'not a drill, something near campus has been watching you from the side of the road\n\n'
-            + 'its a plate reader lol. logs every car that goes by. and no you cant call the cops on it, flock sells these to the cops 💀\n\n'
+            + 'it\'s a plate reader. it logs every car that goes by, and no, you can\'t call the cops on it. flock sells these to the cops 💀\n\n'
             + howManyOfHim(input, 'them')
             + input.address,
         slides: [

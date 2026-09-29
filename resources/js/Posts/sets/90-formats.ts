@@ -13,8 +13,6 @@ import { count, hook, note, shout, sub, tag } from '@/Posts/kit';
  * plate, keeps the time and place, whether or not anybody is suspected.
  */
 
-const PHONE_DARK = { photo: '/posts/formats/phone-dark.jpg', credit: 'Photo: www.Pixel.la / CC0' };
-const PHONE_DESK = { photo: '/posts/formats/phone-desk.jpg', credit: 'Photo: www.Pixel.la / CC0' };
 const NIGHT_ROAD = { photo: '/posts/formats/night.jpg', credit: 'Photo: BigPipNic / CC0' };
 const OVER_THE_LOT = { photo: '/posts/formats/lot.jpg', credit: 'Photo: KneeHallHawk / CC0' };
 const CAMPUS_LAMP = { photo: '/posts/formats/lamp.jpg', credit: 'Photo: MrNicoolio / CC0' };
@@ -25,6 +23,9 @@ const STREET_CORNER = { photo: '/posts/formats/corner.jpg', credit: 'Photo: Paul
 const WINDSHIELD = { photo: '/posts/formats/windshield.jpg', credit: 'Photo: LemononoM / CC0' };
 const STADIUM_SEATS = { photo: '/posts/formats/seats.jpg', credit: 'Photo: SEBCLEM13 / CC BY 4.0' };
 const ROADSIDE = { photo: '/posts/formats/roadside.jpg', credit: 'Photo: Nicknimh / CC0' };
+// Borrowed from the explainer set: the clearest close-up of a camera we have,
+// for a slide that has to read as "camera" before anyone swipes.
+const CAMERA_CLOSEUP = { photo: '/posts/explainer/flock-closeup.jpg', credit: 'Photo: Epicdeflocker64 / CC0' };
 
 /** "\n\nthere's 12 of him within a mile of Georgia Tech", or nothing before a survey. */
 function howManyOfHim(input: PostInput): string {
@@ -36,7 +37,7 @@ function howManyOfHim(input: PostInput): string {
 
     return nearby === 1
         ? `\n\nthere's one of him within a mile of ${input.shortName}`
-        : `\n\nthere's ${count(nearby)} of him within a mile of ${input.shortName}`;
+        : `\n\nthere are ${count(nearby)} of him within a mile of ${input.shortName}`;
 }
 
 /** The sports-account stat lines, using only the counts the chapter actually has. */
@@ -63,16 +64,16 @@ const family: PostFamily = (input) => [
         purpose: 'Reads like a roommate red-flags post. The red flags are a plate reader, and so is the roommate.',
         caption:
             'new roommate clocked my car at 2am and kept pics of it 🚩\n'
-            + 'it\'s a plate reader lol. they photograph every car that goes by and save the time and place, suspect or not'
+            + 'it\'s a plate reader. they photograph every car that goes by and save the time and place, suspect or not'
             + howManyOfHim(input)
             + `\n\n${input.address}`,
         slides: [
             {
                 id: 'formats-red-flags-1',
-                ...PHONE_DARK,
+                ...CAMERA_CLOSEUP,
                 tint: 'wash',
-                focus: [0.45, 0.5],
-                alt: 'A phone lying face-up on a desk, with the words: roommate red flags. He knows my plate.',
+                focus: [0.5, 0.4],
+                alt: 'A license plate camera up close on its pole, with the words: roommate red flags. He knows my plate.',
                 blocks: [
                     tag('Roommate red flags'),
                     hook('He knows my plate'),
@@ -120,17 +121,18 @@ const family: PostFamily = (input) => [
         kind: 'meme',
         purpose: 'Opens as a dating-profile post over a sunset. The match is a plate reader, and its one fear is a council vote.',
         caption:
-            'bro matched with a plate reader on hinge 💀\n'
+            'matched with a plate reader on hinge 💀\n'
             + 'he saves the plate, time and place of every car that drives by and his biggest fear is a city council vote'
             + `\n\n${input.address}`,
         slides: [
             {
                 id: 'formats-hinge-1',
-                ...SUNSET,
-                // Left untinted: the pink sky is the dating-profile bait.
-                tint: 'none',
-                focus: [0.5, 0.4],
-                alt: 'A pink and purple sunset over a treeline, with the words: my Hinge match. Never forgets a plate.',
+                // The camera is his profile pic: the joke only works if you can
+                // see who you matched with.
+                ...DUSK_POLE,
+                tint: 'duotone',
+                focus: [0.3, 0.2],
+                alt: 'A plate reader on a pole by the road at dusk, with the words: my Hinge match. Never forgets a plate.',
                 blocks: [
                     tag('My Hinge match'),
                     shout('Never forgets a plate'),
@@ -138,10 +140,11 @@ const family: PostFamily = (input) => [
             },
             {
                 id: 'formats-hinge-2',
-                ...DUSK_POLE,
-                tint: 'duotone',
-                focus: [0.3, 0.2],
-                alt: 'A plate reader on a pole by the road at dusk, with the words: typical Sunday. Reading your plate.',
+                ...SUNSET,
+                // Left untinted: the pink sky is the dating-profile Sunday.
+                tint: 'none',
+                focus: [0.5, 0.4],
+                alt: 'A pink and purple sunset over a treeline, with the words: typical Sunday. Reading your plate.',
                 blocks: [
                     tag('Typical Sunday:'),
                     shout('Reading your plate'),
@@ -177,10 +180,12 @@ const family: PostFamily = (input) => [
         slides: [
             {
                 id: 'formats-mom-1',
-                ...PHONE_DESK,
+                // A camera far off by the road: enough to point at, still small
+                // enough that "a pole" on the next slide lands.
+                ...ROADSIDE,
                 tint: 'wash',
-                focus: [0.4, 0.6],
-                alt: 'A phone on a wooden desk beside a notebook and laptop, with the words: me explaining to my mom. My opp has my plate.',
+                focus: [0.6, 0.4],
+                alt: 'A camera on a pole beside a curving road, with the words: me explaining to my mom. My opp has my plate.',
                 blocks: [
                     tag('Me explaining to my mom'),
                     hook('My opp has my plate'),

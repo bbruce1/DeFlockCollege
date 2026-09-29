@@ -32,7 +32,7 @@ const family: PostFamily = (input) => {
     const friends = nearby === 1 ? '1 close friend' : `${count(nearby)} close friends`;
     const whoAddedYou = nearby === 1 ? "It's a plate reader" : "They're all plate readers";
     const statewide = typeof input.readersInState === 'number' && input.readersInState > 0 && input.stateName
-        ? ` (${count(input.readersInState)} across ${input.stateName} btw)`
+        ? `. ${count(input.readersInState)} across ${input.stateName}`
         : '';
 
     return [
@@ -42,7 +42,7 @@ const family: PostFamily = (input) => {
             purpose: 'Opens with the fact, dressed as a notification. Post this one first.',
             caption: [
                 nearby === 1
-                    ? `theres a plate reader within a mile of campus and it has never once said hi 💀`
+                    ? `there's a plate reader within a mile of campus and it has never once said hi 💀`
                     : `${count(nearby)} plate readers within a mile of campus and not one has said hi 💀`,
                 `they snap every car that drives by and keep it, suspect or not${statewide}`,
                 input.address,

@@ -34,7 +34,7 @@ const NIGHT = { photo: '/posts/receipts/night.jpg', credit: 'Photo: Themis3000 /
 const SOLAR = { photo: '/posts/receipts/solar.jpg', credit: 'Photo: MiracleMiles / CC BY 4.0' };
 const PASSING = { photo: '/posts/receipts/passing.jpg', credit: 'Photo: Themis3000 / CC0' };
 
-/** "(theres 52 within a mile of campus btw)" as a caption line, or nothing before the survey. */
+/** "there are 52 within a mile of campus" as a caption line, or nothing before the survey. */
 function nearbyLine(input: PostInput): string {
     const nearby = input.readersWithinMile;
 
@@ -43,8 +43,8 @@ function nearbyLine(input: PostInput): string {
     }
 
     return nearby === 1
-        ? `(theres 1 within a mile of campus btw)\n\n`
-        : `(theres ${count(nearby)} within a mile of campus btw)\n\n`;
+        ? `there's 1 within a mile of campus\n\n`
+        : `there are ${count(nearby)} within a mile of campus\n\n`;
 }
 
 const family: PostFamily = (input) => [
@@ -53,9 +53,9 @@ const family: PostFamily = (input) => [
         kind: 'meme',
         purpose: 'Flock denies mass surveillance, then sells colleges the same cameras running 24/7. Both lines are theirs.',
         caption:
-            `flock on whether its mass surveillance: "${NOT_EVERYONE} ${NOT_ALL_THE_TIME}"\n`
+            `flock on whether it's mass surveillance: "${NOT_EVERYONE} ${NOT_ALL_THE_TIME}"\n`
             + `flock selling it to colleges: "${PERIMETER_OPENING} ${PERIMETER_CLOSING}"\n\n`
-            + 'pick one bro 💀 both are on their own website\n\n'
+            + 'pick one 💀 both are on their own website\n\n'
             + nearbyLine(input)
             + `sources: ${PRIVACY_PAGE} + ${CAMPUS_PAGE}\n`
             + input.address,
@@ -93,7 +93,7 @@ const family: PostFamily = (input) => [
         purpose: 'Flock says its cameras capture vehicles, not people. Lands on what that is: location tracking, with the police as the parents.',
         caption:
             `"${VEHICLES_OPENING} ${VEHICLES_CLOSING}" ok and who do they think is driving 💀\n\n`
-            + 'every car it logs has a person in it. thats the whole point\n\n'
+            + 'every car it logs has a person in it. that\'s the whole point\n\n'
             + nearbyLine(input)
             + `source: ${PRIVACY_PAGE}\n`
             + input.address,

@@ -15,6 +15,12 @@ import { count, hook, note, shout, sub, tag } from '@/Posts/kit';
  * the correction. It is never left up because it performed.
  */
 
+/**
+ * Slide 2's headline sits on a box: these photos are city halls and courthouse
+ * facades, and a white shout over a wall of windows is unreadable.
+ */
+const HEADLINE = { at: 'upper', box: 'black', stroke: null } as const;
+
 const RACINE_CITY_HALL = { photo: '/posts/news/racine-city-hall.jpg', credit: 'Photo: Michael Barera / CC BY-SA 4.0' };
 const RACINE_COURTHOUSE = { photo: '/posts/news/racine-courthouse.jpg', credit: 'Photo: Tim Kiser / CC BY-SA 4.0' };
 const LA_CROSSE_POLE = { photo: '/posts/news/la-crosse-pole.jpg', credit: 'Photo: Snoowastaken / CC0' };
@@ -108,10 +114,9 @@ const family: PostFamily = (input) => [
                 // The camera hangs high in the frame. A condensed hook stays on one
                 // line, low enough to clear the bottom of the housing.
                 focus: [0.75, 0.4],
-                alt: 'A Flock camera on a pole at night in La Crosse, Wisconsin, with the words: Flock cameras, Racine, Wisconsin, September 2026. Racine votes out its plate cameras. Let’s gooo.',
+                alt: 'A Flock camera on a pole at night in La Crosse, Wisconsin, with the words: Flock cameras, Racine, Wisconsin, September 2026. Let’s gooo.',
                 blocks: [
                     tag('Flock cameras · Racine, WI · Sep 2026'),
-                    sub('Racine votes out its plate cameras', { at: 'lower' }),
                     shout('Let’s gooo'),
                 ],
             },
@@ -123,7 +128,7 @@ const family: PostFamily = (input) => [
                 alt: 'A Flock camera in La Crosse, Wisconsin, explaining that Racine’s council tied 7-7 and the mayor broke the tie to end the city’s Flock contract.',
                 blocks: [
                     tag('What happened'),
-                    sub('Tied 7-7', { at: 'upper' }),
+                    sub('Racine votes out its plate cameras', HEADLINE),
                     // WISN: "Mayor Cory Mason broke a 7-7 tie in favor of ending the agreement."
                     // WISN: "Oconomowoc's Common Council voted 5-2 Tuesday night to cancel its Flock contract."
                     // WISN: "Waukesha's Common Council also voted Tuesday to stop funding its Flock Safety program after 2026"
@@ -168,10 +173,9 @@ const family: PostFamily = (input) => [
                 tint: 'duotone',
                 // The camera sits under the solar panel, above where the hook lands.
                 focus: [0.5, 0.5],
-                alt: 'A Flock camera and solar panel on a pole at night in La Crosse, Wisconsin, with the words: Flock cameras, Racine County, Wisconsin, September 2026. The sheriff pulls every Flock camera. Holy s***.',
+                alt: 'A Flock camera and solar panel on a pole at night in La Crosse, Wisconsin, with the words: Flock cameras, Racine County, Wisconsin, September 2026. Holy s***.',
                 blocks: [
                     tag('Flock cameras · Racine County, WI · Sep 2026'),
-                    sub('The sheriff pulls every Flock camera', { at: 'lower' }),
                     hook('Holy s***'),
                 ],
             },
@@ -183,7 +187,7 @@ const family: PostFamily = (input) => [
                 alt: 'A Flock camera at night in Wisconsin, explaining that the Racine County sheriff ordered his office’s Flock cameras removed.',
                 blocks: [
                     tag('What happened'),
-                    sub('Even the sheriff', { at: 'upper' }),
+                    sub('The sheriff pulls every Flock camera', HEADLINE),
                     // TMJ4: "Racine County Sheriff Christopher Schmaling has ordered the removal of
                     // all Flock cameras that are being operated by the sheriff's office."
                     // TMJ4, quoting the sheriff's office: "Flock generates a separate data set from
@@ -224,7 +228,7 @@ const family: PostFamily = (input) => [
         purpose: 'Win, with the catch stated: LAPD let its Flock agreement lapse over civil liberties concerns, and is renegotiating.',
         caption:
             'even the lapd let its flock deal expire over civil liberties concerns 🫡\n'
-            + 'it’s renegotiating tho so it’s a pause not a ban\n\n'
+            + 'it’s renegotiating though, so it’s a pause, not a ban\n\n'
             + `sources: ${ABC7_LAPD} ${FORTUNE_LAPD}\n\n`
             + captionClose(input),
         slides: [
@@ -233,10 +237,9 @@ const family: PostFamily = (input) => [
                 ...HAYWARD,
                 tint: 'duotone',
                 focus: [0.55, 0.4],
-                alt: 'A Flock camera on a pole in Hayward, California, with the words: Flock cameras, Los Angeles, July 2026. LAPD lets its Flock deal expire. No shot.',
+                alt: 'A Flock camera on a pole in Hayward, California, with the words: Flock cameras, Los Angeles, July 2026. No shot.',
                 blocks: [
                     tag('Flock cameras · Los Angeles · Jul 2026'),
-                    sub('LAPD lets its Flock deal expire', { at: 'lower' }),
                     hook('No shot'),
                 ],
             },
@@ -248,7 +251,7 @@ const family: PostFamily = (input) => [
                 alt: 'Los Angeles City Hall, explaining that the LAPD let its Flock agreement expire over civil liberties concerns.',
                 blocks: [
                     tag('What happened'),
-                    sub('Even the LAPD', { at: 'upper' }),
+                    sub('LAPD lets its Flock deal expire', HEADLINE),
                     // ABC7: "LAPD announced that it will allow its agreement with the company to expire Saturday"
                     // ABC7, Dean Gialamas: "This contract is not being renewed because of serious concerns
                     // around civil liberties and civil rights issues" ... "discontinuing using Flock services
@@ -294,10 +297,9 @@ const family: PostFamily = (input) => [
                 tint: 'duotone',
                 // A tall frame: keep the camera in the top half and the bare pole under the hook.
                 focus: [0.5, 0.64],
-                alt: 'A Flock camera and solar panel on a pole against a grey sky, with the words: Flock cameras, Dayton, Ohio, May 2026. Top search reason on the plate cameras: ICE. What tf.',
+                alt: 'A Flock camera and solar panel on a pole against a grey sky, with the words: Flock cameras, Dayton, Ohio, May 2026. What tf.',
                 blocks: [
                     tag('Flock cameras · Dayton, OH · May 2026'),
-                    sub('Top search reason on the plate cameras: “ICE”', { at: 'lower' }),
                     hook('What tf'),
                 ],
             },
@@ -309,6 +311,7 @@ const family: PostFamily = (input) => [
                 alt: 'Dayton City Hall, explaining that the city suspended its plate readers after finding its safeguards were never put in place.',
                 blocks: [
                     tag('What happened'),
+                    sub('Top search reason: “ICE”', HEADLINE),
                     // WYSO: "The Dayton Police Department indefinitely suspended the use of its fixed
                     // Automated License Plate Readers" ... "didn't implement safeguards to restrict who could
                     // access the data" ... "That included 7,100 search requests citing immigration-related
@@ -357,11 +360,11 @@ const family: PostFamily = (input) => [
                 ...LAKEWOOD,
                 tint: 'duotone',
                 focus: [0.5, 0.2],
-                alt: 'A Flock camera on a pole in Lakewood, Washington, with the words: Flock cameras, Washington State, March 2026. New law reins in plate cameras. We’re so back.',
+                alt: 'A Flock camera on a pole in Lakewood, Washington, with the words: Flock cameras, Washington State, March 2026. We’re so back.',
                 blocks: [
                     tag('Flock cameras · Washington State · Mar 2026'),
-                    sub('New law reins in plate cameras', { at: 'lower' }),
-                    hook('We’re so back'),
+                    // Condensed: one line, so it clears the headline above it.
+                    shout('We’re so back'),
                 ],
             },
             {
@@ -372,6 +375,7 @@ const family: PostFamily = (input) => [
                 alt: 'The Washington State Capitol, listing what the state’s new law bans.',
                 blocks: [
                     tag('What’s banned'),
+                    sub('New law reins in plate cameras', HEADLINE),
                     // KOMO, citing the ACLU of Washington: "It also prohibits agencies from using the
                     // technology for immigration investigations and enforcement, or to track people accessing
                     // protected health care services or engaging in constitutionally protected activities
@@ -417,10 +421,9 @@ const family: PostFamily = (input) => [
                 ...FLOCK_SOLAR,
                 tint: 'duotone',
                 focus: [0.5, 0.4],
-                alt: 'A Flock camera under its solar panel against the sky, with the words: Flock cameras, Evanston, Illinois, September 2025. Evanston fired Flock, Flock put the cameras back up. Bro what.',
+                alt: 'A Flock camera under its solar panel against the sky, with the words: Flock cameras, Evanston, Illinois, September 2025. Bro what.',
                 blocks: [
                     tag('Flock cameras · Evanston, IL · Sep 2025'),
-                    sub('Evanston fired Flock. Flock put the cameras back up', { at: 'lower' }),
                     // Condensed so it stays on one line under the camera.
                     shout('Bro what'),
                 ],
@@ -433,6 +436,7 @@ const family: PostFamily = (input) => [
                 alt: 'A Flock camera in Illinois, explaining that Evanston switched off its Flock cameras after a state audit.',
                 blocks: [
                     tag('The breakup'),
+                    sub('Evanston fired Flock. Flock put the cameras back up', HEADLINE),
                     // City of Evanston, Aug. 26, 2025: "deactivated all 19 Flock Safety ALPR cameras" ...
                     // "issued a termination notice to Flock"
                     // RoundTable: "Illinois Secretary of State Alexi Giannoulias discovered that Flock had
