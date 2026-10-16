@@ -1,58 +1,92 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# DeFlock Campus
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Starting a campus chapter against automated license plate readers, as a
+twenty-minute, one-student job: pick a school, verify a school email, drop a pin
+on campus, and get a chapter page with every mapped reader nearby, the officials
+who decide, one-click letters to them, and a catalogue of Instagram posts in the
+school's colours.
 
-## About Laravel
+Laravel 13, Inertia, React 19, TypeScript and Tailwind 4 on PHP 8.5. There is no
+database: each chapter is a JSON file under `storage/app/chapters`, and
+ownership is a keyed hash inside that file. `vision.md`, `goal.md` and
+`security.md` are the design documents and are binding.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Running it locally
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+    composer install
+    npm install
+    cp .env.example .env
+    php artisan key:generate
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+    php artisan serve          # http://127.0.0.1:8000
+    npm run dev                # Vite, in a second terminal
 
-## Learning Laravel
+With `MAIL_MAILER=log` the verification link is written to
+`storage/logs/laravel.log` instead of being sent.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+    php artisan test           # the suite
+    npm run build              # tsc, then the production bundle
 
-In addition, [Laracasts](https://laracasts.com) contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Posts for `/social` are written one family per file in
+`resources/js/Posts/sets/`; see `public/posts/README.md` before adding one.
 
-You can also watch bite-sized lessons with real-world projects on [Laravel Learn](https://laravel.com/learn), where you will be guided through building a Laravel application from scratch while learning PHP fundamentals.
+## Deploying
 
-## Agentic Development
+### Server
 
-Laravel's predictable structure and conventions make it ideal for AI coding agents like Claude Code, Cursor, and GitHub Copilot. Install [Laravel Boost](https://laravel.com/docs/ai) to supercharge your AI workflow:
+- PHP 8.5 with the usual Laravel extensions, Composer, and Node 20+ to build.
+- `storage/` and `bootstrap/cache/` writable by the web server user.
+- HTTPS only. The chapter subdomains need a wildcard DNS record
+  (`*.deflock.school`) and a wildcard certificate.
 
-```bash
-composer require laravel/boost --dev
+### Environment
 
-php artisan boost:install
-```
+Start from `.env.example`. The values that must change for production:
 
-Boost provides your agent 15+ tools and skills that help agents build Laravel applications while following best practices.
+| Variable | Production value |
+| --- | --- |
+| `APP_ENV` / `APP_DEBUG` | `production` / `false` |
+| `APP_KEY` | Generated once, then **backed up**. Chapter ownership is keyed with it; losing it orphans every chapter. |
+| `APP_URL` | The public origin, e.g. `https://deflock.school` |
+| `APP_DOMAIN` | The apex chapters hang off, e.g. `deflock.school`. Turns on `slug.deflock.school`. |
+| `SESSION_SECURE_COOKIE` | `true` |
+| `TRUSTED_PROXIES` | The load balancer or CDN in front of the app (`*` behind Cloudflare or a platform proxy). Without it every visitor shares one IP and the per-IP rate limits become site-wide. |
+| `MAIL_*` | A transactional provider (Postmark, Resend, SES) with an authenticated from-address on the site's own domain. A personal Gmail account will hit sending caps and campus spam filters. |
+| `MAIL_REPLY_TO_ADDRESS` | The public contact address shown on /contact and in the legal pages. |
+| `ADMIN_PASSWORD_HASH` | Output of `php artisan admin:password`. Only the hash is stored; keep the passphrase in a password manager. |
+| `CLARITY_ID` | Optional. Microsoft Clarity runs cookieless and is kept off every private page. |
+| `LEGAL_OPERATOR` / `LEGAL_JURISDICTION` | Named in the terms and privacy policy. |
 
-## Contributing
+### Each release
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+    git pull
+    composer install --no-dev --optimize-autoloader
+    npm ci && npm run build
+    php artisan config:cache
+    php artisan route:cache
+    php artisan view:cache
 
-## Code of Conduct
+Then reload PHP-FPM (or the platform's equivalent). Run `php artisan
+config:clear` before `config:cache` if `.env` changed.
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+### Scheduler
 
-## Security Vulnerabilities
+The nightly survey refresh (`chapters:refresh`, 03:30) only runs if the
+scheduler is called every minute:
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+    * * * * * cd /path/to/app && php artisan schedule:run >> /dev/null 2>&1
 
-## License
+### Backups
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Chapters, metrics and rotation state live only on the server's disk and are
+not in git. Back up `storage/app/` off the server nightly, and keep a copy of
+`APP_KEY` somewhere other than the server.
+
+Do not deploy a development `storage/app/chapters` directory: test chapters
+created locally would appear on the home page and in the chapter list.
+
+### Taking a chapter down
+
+    php artisan chapter:remove <slug> --reason="…"
+
+Deletes the chapter and blocks the slug from being created again.

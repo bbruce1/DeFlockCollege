@@ -35,6 +35,15 @@ export function loadPostFonts(): Promise<unknown> {
     ]).then(() => document.fonts.ready);
 }
 
+/**
+ * The photo for an export: already loaded, still loading, or absent.
+ *
+ * A promise is accepted so a button can start the clipboard write inside the
+ * click itself (browsers refuse it afterwards) while the photo is still on its
+ * way.
+ */
+type PhotoSource = HTMLImageElement | null | undefined | Promise<HTMLImageElement | null>;
+
 /** Whether this browser can be handed an image directly. */
 export function canCopyImages(): boolean {
     return (
@@ -51,11 +60,8 @@ export function canCopyImages(): boolean {
  * metrics and wraps the headline in the wrong places, which is not obvious
  * until somebody has already posted it.
  */
-export async function slideToBlob(
-    slide: PostSlide,
-    photo?: HTMLImageElement | null,
-): Promise<Blob> {
-    await loadPostFonts();
+export async function slideToBlob(slide: PostSlide, source?: PhotoSource): Promise<Blob> {
+    const [photo] = await Promise.all([source, loadPostFonts()]);
 
     const canvas = document.createElement('canvas');
 
@@ -76,7 +82,7 @@ export async function slideToBlob(
  * ends the user gesture at the first await and refuses a write that arrives
  * after it. Chrome accepts either.
  */
-export async function copySlide(slide: PostSlide, photo?: HTMLImageElement | null): Promise<void> {
+export async function copySlide(slide: PostSlide, photo?: PhotoSource): Promise<void> {
     if (!canCopyImages()) {
         throw new Error('This browser cannot be handed an image.');
     }
@@ -90,7 +96,7 @@ export async function copySlide(slide: PostSlide, photo?: HTMLImageElement | nul
 export async function downloadSlide(
     slide: PostSlide,
     filename: string,
-    photo?: HTMLImageElement | null,
+    photo?: PhotoSource,
 ): Promise<void> {
     const blob = await slideToBlob(slide, photo);
     const url = URL.createObjectURL(blob);

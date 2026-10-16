@@ -6,6 +6,7 @@ namespace App\Maps;
 
 use Illuminate\Http\Client\Response;
 use Illuminate\Support\Facades\Http;
+use InvalidArgumentException;
 use RuntimeException;
 
 /**
@@ -18,6 +19,12 @@ use RuntimeException;
  * Overpass is a free community service with a small number of slots. Being rate
  * limited is our fault rather than theirs, so this backs off rather than
  * hammering, and identifies itself so they can contact us if we misbehave.
+ *
+ * Two budgets, because two very different callers wait on it. The nightly
+ * refresh has nobody watching and can afford to be patient. Chapter creation
+ * runs inside a visitor's request, behind proxies that give up after a minute
+ * or two; waiting out the patient policy there took up to nine minutes and the
+ * proxy dropped the request before the chapter was ever saved. See quick().
  */
 final class OverpassClient
 {
@@ -31,6 +38,12 @@ final class OverpassClient
 
     private const BACKOFF_BASE_MS = 8000;
 
+    /**
+     * Per query, inside a visitor's request. Creation runs at most two queries,
+     * so the worst case stays well inside a proxy's timeout.
+     */
+    private const QUICK_TIMEOUT_SECONDS = 20;
+
     /** @var callable(string): void */
     private $logger;
 
@@ -41,10 +54,34 @@ final class OverpassClient
      *                                   Only a test exercising the failure path
      *                                   has reason to shorten it.
      */
-    public function __construct(?callable $logger = null, ?int $backoffBaseMs = null)
-    {
+    public function __construct(
+        ?callable $logger = null,
+        ?int $backoffBaseMs = null,
+        private readonly int $timeoutSeconds = self::TIMEOUT_SECONDS,
+        private readonly int $maxAttempts = self::MAX_ATTEMPTS,
+    ) {
+        if ($maxAttempts < 1) {
+            throw new InvalidArgumentException("Overpass needs at least one attempt, got: {$maxAttempts}");
+        }
+
         $this->logger = $logger ?? static fn (string $line) => null;
         $this->backoffBaseMs = $backoffBaseMs ?? self::BACKOFF_BASE_MS;
+    }
+
+    /**
+     * One short attempt and no backoff, for a caller somebody is waiting on.
+     *
+     * Giving up early costs nothing that matters: a count that could not be
+     * fetched is saved as unknown rather than as nought, and the nightly
+     * refresh, which keeps the patient policy, fills it in.
+     */
+    public static function quick(): self
+    {
+        return new self(
+            backoffBaseMs: 0,
+            timeoutSeconds: self::QUICK_TIMEOUT_SECONDS,
+            maxAttempts: 1,
+        );
     }
 
     /**
@@ -56,7 +93,7 @@ final class OverpassClient
     {
         $lastError = 'unknown';
 
-        for ($attempt = 1; $attempt <= self::MAX_ATTEMPTS; $attempt++) {
+        for ($attempt = 1; $attempt <= $this->maxAttempts; $attempt++) {
             try {
                 $response = $this->send($query);
 
@@ -84,7 +121,7 @@ final class OverpassClient
                 $lastError = $e->getMessage();
             }
 
-            if ($attempt === self::MAX_ATTEMPTS) {
+            if ($attempt === $this->maxAttempts) {
                 break;
             }
 
@@ -96,7 +133,7 @@ final class OverpassClient
         }
 
         throw new RuntimeException(
-            "Could not reach OpenStreetMap after ".self::MAX_ATTEMPTS." attempts ({$lastError}). "
+            "Could not reach OpenStreetMap after {$this->maxAttempts} attempt(s) ({$lastError}). "
             .'It is usually busy rather than broken, so this is worth retrying shortly.'
         );
     }
@@ -105,7 +142,7 @@ final class OverpassClient
     {
         return Http::asForm()
             ->withHeaders(['User-Agent' => self::USER_AGENT])
-            ->timeout(self::TIMEOUT_SECONDS)
+            ->timeout($this->timeoutSeconds)
             ->post(self::ENDPOINT, ['data' => $query]);
     }
 }

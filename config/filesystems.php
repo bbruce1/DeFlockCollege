@@ -33,7 +33,10 @@ return [
         'local' => [
             'driver' => 'local',
             'root' => storage_path('app/private'),
-            'serve' => true,
+            // Off: serving registers public GET and PUT routes under /storage
+            // that nothing here uses. Chapters are read through their own
+            // repository, never through a disk URL.
+            'serve' => false,
             'throw' => false,
             'report' => false,
         ],

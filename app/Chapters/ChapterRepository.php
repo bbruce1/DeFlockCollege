@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace App\Chapters;
 
+use App\Storage\AtomicFile;
 use Illuminate\Support\Facades\File;
 use RuntimeException;
 
@@ -53,15 +54,32 @@ final class ChapterRepository
         return $this->find(Slug::fromString($raw));
     }
 
+    /** Replaces the chapter's file whole, so a reader never sees half of one. */
     public function save(Chapter $chapter): void
     {
         $slug = Slug::fromString($chapter->slug);
 
         File::ensureDirectoryExists($this->directory);
-        File::put(
-            $this->pathFor($slug),
-            json_encode($chapter->toArray(), JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES)."\n",
-        );
+        AtomicFile::write($this->pathFor($slug), self::encode($chapter));
+    }
+
+    /**
+     * Saves a new chapter, unless one already holds its slug.
+     *
+     * Creation checks the slug early so it can say so on the form, but a survey
+     * runs between that check and this write, and a second student can claim
+     * the same slug in that gap. Overwriting here would hand their chapter, and
+     * its edit key, to whoever finished last.
+     *
+     * @return bool false when the slug was taken first; nothing was written
+     */
+    public function create(Chapter $chapter): bool
+    {
+        $slug = Slug::fromString($chapter->slug);
+
+        File::ensureDirectoryExists($this->directory);
+
+        return AtomicFile::create($this->pathFor($slug), self::encode($chapter));
     }
 
     public function delete(Slug $slug): bool
@@ -141,6 +159,18 @@ final class ChapterRepository
         }
 
         return null;
+    }
+
+    /**
+     * Throws rather than returning false, which would otherwise be written out
+     * as a bare newline over a working chapter.
+     */
+    private static function encode(Chapter $chapter): string
+    {
+        return json_encode(
+            $chapter->toArray(),
+            JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_THROW_ON_ERROR,
+        )."\n";
     }
 
     private function pathFor(Slug $slug): string

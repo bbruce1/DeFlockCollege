@@ -79,6 +79,29 @@ interface FormData {
 
 const SLUG_SHAPE = /^[a-z0-9][a-z0-9-]{0,30}[a-z0-9]$/;
 
+/**
+ * Instagram's own rule: letters, numbers, dots and underscores, at most 30,
+ * and no trailing dot. Checked here so "deflock." on its own never reaches the
+ * review screen as if it were a handle.
+ */
+const INSTAGRAM_HANDLE = /^[a-z0-9._]{1,30}$/i;
+
+/** The handle out of whatever was typed or pasted, the way the server reads it. */
+function instagramHandle(value: string): string {
+    return value
+        .trim()
+        .replace(/^https?:\/\/(www\.)?instagram\.com\//i, '')
+        .replace(/^@/, '')
+        .replace(/\/$/, '')
+        .split('?')[0];
+}
+
+function isInstagramHandle(value: string): boolean {
+    const handle = instagramHandle(value);
+
+    return handle.length >= 3 && INSTAGRAM_HANDLE.test(handle) && !handle.endsWith('.');
+}
+
 const STEPS: Step[] = [
     {
         id: 'school',
@@ -108,7 +131,7 @@ const STEPS: Step[] = [
         id: 'instagram',
         title: 'Instagram',
         hint: 'This is crucial to how DeFlock builds virality and how you communicate.',
-        ready: (d) => d.instagram.trim().length >= 3,
+        ready: (d) => isInstagramHandle(d.instagram),
     },
     {
         id: 'petition',
@@ -144,7 +167,9 @@ export default function Create({
         city: '',
         slug: suggestedSlug,
         point: '',
-        instagram: 'deflock.',
+        // Empty, with the suggested handle as the placeholder: prefilling
+        // "deflock." led people to type the whole handle after it.
+        instagram: '',
         petitionUrl: '',
         // White, not a sample palette. A picker that opens on somebody else's
         // blue and gold invites leaving them there, and a chapter wearing
@@ -298,7 +323,7 @@ export default function Create({
         }
     }
 
-    const handle = form.data.instagram.trim().replace(/^@/, '');
+    const handle = instagramHandle(form.data.instagram);
 
     const postInput = useMemo(
         () => ({
@@ -408,14 +433,14 @@ export default function Create({
                                         label="Full name"
                                         value={form.data.schoolName}
                                         onChange={(v) => form.setData('schoolName', v)}
-                                        placeholder="Georgia Institute of Technology"
+                                        placeholder="e.g. University of Michigan"
                                         error={form.errors.schoolName}
                                     />
                                     <BigField
                                         label="What people call it"
                                         value={form.data.shortName}
                                         onChange={(v) => form.setData('shortName', v)}
-                                        placeholder="Georgia Tech"
+                                        placeholder="e.g. Michigan"
                                         error={form.errors.shortName}
                                     />
                                     <p className="annot text-faint">
@@ -431,7 +456,7 @@ export default function Create({
                                             ref={fieldRef}
                                             value={term}
                                             onChange={(e) => setTerm(e.target.value)}
-                                            placeholder="Georgia Tech, Atlanta"
+                                            placeholder="e.g. Michigan, Ann Arbor"
                                             aria-label="Search for your campus"
                                             type="search"
                                             inputMode="search"
@@ -639,7 +664,7 @@ export default function Create({
                                         error={form.errors.instagram}
                                     />
 
-                                    {handle ? (
+                                    {isInstagramHandle(form.data.instagram) ? (
                                         <a
                                             href={`https://instagram.com/${handle}`}
                                             target="_blank"

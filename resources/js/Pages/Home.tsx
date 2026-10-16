@@ -170,13 +170,20 @@ export default function Home({ chapters, liveCount, coverage }: Props) {
                             {chapters.length === 1 ? 'One campus' : `${chapters.length} campuses`}
                         </span>{' '}
                         marked in red
+                        {/*
+                          * A sum of each campus's own count: a reader within a
+                          * mile of two campuses is in both. Surveys keep counts,
+                          * not positions, so it cannot be de-duplicated here,
+                          * and the wording says how it was added up rather
+                          * than claiming a total it cannot vouch for.
+                          */}
                         {coverage.readersNearby > 0 && (
                             <>
                                 , with{' '}
                                 <span className="text-net">
                                     {coverage.readersNearby.toLocaleString()} plate readers
                                 </span>{' '}
-                                mapped within a mile of them all
+                                counted within a mile of them, campus by campus
                             </>
                         )}
                     </p>

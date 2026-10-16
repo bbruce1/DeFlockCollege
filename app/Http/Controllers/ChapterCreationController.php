@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace App\Http\Controllers;
 
+use App\Chapters\Blocklist;
 use App\Chapters\CampusPoint;
 use App\Chapters\Chapter;
 use App\Chapters\ChapterRepository;
@@ -61,6 +62,7 @@ final class ChapterCreationController extends Controller
         private readonly Geocoder $geocoder,
         private readonly LegislatorDirectory $legislators,
         private readonly InstagramProbe $instagram,
+        private readonly Blocklist $blocklist,
     ) {}
 
     /** Landing point of the emailed link. */
@@ -323,10 +325,19 @@ final class ChapterCreationController extends Controller
             return back()->withErrors(['officials' => $e->getMessage()])->withInput();
         }
 
-        if ($this->chapters->exists($slug)) {
+        // Worded like any other refusal and nothing more: saying that a school
+        // was blocked, or why, is not this form's business.
+        if ($this->blocklist->blocksDomain($ticket->domain->registrable)) {
             return back()->withErrors([
-                'slug' => "\"{$slug}\" is taken. Pick another address for your chapter.",
+                'email' => 'A chapter cannot be started from this school address. '
+                    .'If you think that is wrong, get in touch.',
             ])->withInput();
+        }
+
+        // A removed chapter's slug reads exactly as taken. Anything more
+        // specific would let anybody probing the form list what was taken down.
+        if ($this->chapters->exists($slug) || $this->blocklist->blocksSlug($slug)) {
+            return $this->slugTaken($slug);
         }
 
         // One school, one chapter — but a district domain is not one school. Every
@@ -372,7 +383,10 @@ final class ChapterCreationController extends Controller
         // backup, and not for a creator who asks.
         $editKey = EditKey::generate();
 
-        $this->chapters->save(new Chapter(
+        // Created only if the slug is still free: the survey above takes long
+        // enough for a second student to claim the same slug since it was
+        // checked, and saving over theirs would take their chapter from them.
+        $created = $this->chapters->create(new Chapter(
             slug: $slug->value,
             schoolName: $validated['schoolName'],
             shortName: $validated['shortName'],
@@ -391,9 +405,20 @@ final class ChapterCreationController extends Controller
             updatedAt: $now,
         ));
 
+        if (! $created) {
+            return $this->slugTaken($slug);
+        }
+
         // Flashed, so the key survives exactly one redirect and never lands in
         // a URL, a log line, or the browser's history.
         return redirect()->route('chapters.welcome', $slug->value)
             ->with('editKey', $editKey);
+    }
+
+    private function slugTaken(Slug $slug): RedirectResponse
+    {
+        return back()->withErrors([
+            'slug' => "\"{$slug}\" is taken. Pick another address for your chapter.",
+        ])->withInput();
     }
 }

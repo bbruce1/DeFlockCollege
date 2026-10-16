@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace Tests;
 
+use App\Chapters\Blocklist;
 use App\Chapters\ChapterRepository;
 use App\Chapters\StateCoverageRepository;
 use App\Metrics\OutreachLog;
@@ -30,6 +31,11 @@ abstract class TestCase extends BaseTestCase
         $this->app->singleton(
             ChapterRepository::class,
             fn (): ChapterRepository => new ChapterRepository($this->storageRoot.'/chapters'),
+        );
+
+        $this->app->singleton(
+            Blocklist::class,
+            fn (): Blocklist => new Blocklist($this->storageRoot.'/blocklist.json'),
         );
 
         $this->app->singleton(

@@ -323,6 +323,12 @@
     "source": "https://commons.wikimedia.org/wiki/File:Kings_Hwy_Nostrand_Av_td_(2018-08-12)_28.jpg",
     "title": "File:Kings Hwy Nostrand Av td (2018-08-12) 28.jpg"
   },
+  "/posts/news/addison.jpg": {
+    "author": "HolstMyBeer",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:ALPR_Addison_at_Quorum_Drive_%26_Cotton_Belt_Trail.jpg",
+    "title": "File:ALPR Addison at Quorum Drive & Cotton Belt Trail.jpg"
+  },
   "/posts/news/aurora.jpg": {
     "author": "LemononoM",
     "licence": "CC0",
@@ -341,11 +347,17 @@
     "source": "https://commons.wikimedia.org/wiki/File:City_Hall_of_Dayton,_Ohio_(2021).jpg",
     "title": "File:City Hall of Dayton, Ohio (2021).jpg"
   },
-  "/posts/news/evanston-civic-center.jpg": {
-    "author": "Zol87 from Chicago, IL, USA",
-    "licence": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Evanston_Civic_Center_(Marywood_Academy).jpg",
-    "title": "File:Evanston Civic Center (Marywood Academy).jpg"
+  "/posts/news/flock-fence.jpg": {
+    "author": "Epicdeflocker64",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Flock_camera_wesel_blvd_hagerstown_maryland.jpg",
+    "title": "File:Flock camera wesel blvd hagerstown maryland.jpg"
+  },
+  "/posts/news/flock-orchard.jpg": {
+    "author": "LemononoM",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Flock_Orchard_Southbound_2.jpg",
+    "title": "File:Flock Orchard Southbound 2.jpg"
   },
   "/posts/news/flock-sky.jpg": {
     "author": "Epicdeflocker64",
@@ -353,23 +365,17 @@
     "source": "https://commons.wikimedia.org/wiki/File:Flock_camera_up_close_salem_avenue_hagerstown_maryland.jpg",
     "title": "File:Flock camera up close salem avenue hagerstown maryland.jpg"
   },
-  "/posts/news/flock-solar.jpg": {
-    "author": "TexDoe",
+  "/posts/news/flock-trees.jpg": {
+    "author": "ILoveturles9",
     "licence": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Flock-1.jpg",
-    "title": "File:Flock-1.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Flock_surveillance_camera134353.jpg",
+    "title": "File:Flock surveillance camera134353.jpg"
   },
-  "/posts/news/hayward.jpg": {
-    "author": "RailTypes",
-    "licence": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Flock_ALPR_in_Hayward,_CA,_at_B_St_%26_Foothill_Blvd_(June_2026).jpg",
-    "title": "File:Flock ALPR in Hayward, CA, at B St & Foothill Blvd (June 2026).jpg"
-  },
-  "/posts/news/la-city-hall.jpg": {
-    "author": "Daniel L. Lu (user:dllu)",
+  "/posts/news/indianapolis-city-county.jpg": {
+    "author": "Momoneymoproblemz",
     "licence": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Los_Angeles_City_Hall_dllu.jpg",
-    "title": "File:Los Angeles City Hall dllu.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:City-County_Building_(Indianapolis)_exterior.jpg",
+    "title": "File:City-County Building (Indianapolis) exterior.jpg"
   },
   "/posts/news/la-crosse-close.jpg": {
     "author": "Snoowastaken",
@@ -395,6 +401,12 @@
     "source": "https://commons.wikimedia.org/wiki/File:Lakewood_WA_Veterans_Dr_SW_%26_American_Lk_Park_Flock_Camera.jpg",
     "title": "File:Lakewood WA Veterans Dr SW & American Lk Park Flock Camera.jpg"
   },
+  "/posts/news/midland-skyline.jpg": {
+    "author": "Quintin Soloviev",
+    "licence": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Midland,_TX_skyline.jpg",
+    "title": "File:Midland, TX skyline.jpg"
+  },
   "/posts/news/parma.jpg": {
     "author": "MilesHigher",
     "licence": "CC BY 4.0",
@@ -412,6 +424,18 @@
     "licence": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Racine_County_Courthouse_viewed_from_southeast,_2021-04-25-1840.jpg",
     "title": "File:Racine County Courthouse viewed from southeast, 2021-04-25-1840.jpg"
+  },
+  "/posts/news/texas-roadside.jpg": {
+    "author": "Biabee3",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:ALPR_McCart_near_Middle_School.jpg",
+    "title": "File:ALPR McCart near Middle School.jpg"
+  },
+  "/posts/news/tulsa-federal-building.jpg": {
+    "author": "G. Edward Johnson",
+    "licence": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Page_Belcher_Federal_Building_from_above_Tulsa_OK_2024-11-09_13-25-49_1.jpg",
+    "title": "File:Page Belcher Federal Building from above Tulsa OK 2024-11-09 13-25-49 1.jpg"
   },
   "/posts/news/wa-capitol.jpg": {
     "author": "Martin Kraft",

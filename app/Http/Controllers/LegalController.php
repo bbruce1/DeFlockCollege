@@ -62,7 +62,7 @@ final class LegalController extends Controller
                     .'record of who reads a page.',
                 '/privacy',
             ),
-            'updated' => self::UPDATED,
+            'updated' => self::PRIVACY_UPDATED,
             'contact' => self::contactAddress(),
             'operator' => self::operator(),
         ]);
@@ -98,4 +98,7 @@ final class LegalController extends Controller
 
     /** Bumped by hand when either document changes materially. */
     private const UPDATED = '9 September 2026';
+
+    /** Moved on its own when analytics stopped running on private pages. */
+    private const PRIVACY_UPDATED = '15 October 2026';
 }

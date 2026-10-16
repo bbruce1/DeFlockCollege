@@ -6,6 +6,7 @@ namespace App\Metrics;
 
 use App\Chapters\Slug;
 use Illuminate\Support\Facades\File;
+use RuntimeException;
 
 /**
  * How many letters were opened, per chapter, per day.
@@ -38,15 +39,45 @@ final class OutreachLog
 {
     public function __construct(private readonly string $directory) {}
 
-    /** One fresh letter drawn for this chapter. */
+    /**
+     * One fresh letter drawn for this chapter.
+     *
+     * Read, add one and write back under an exclusive lock. Without it, two
+     * presses landing together both read the same count and both write it plus
+     * one, and a letter goes uncounted — on the one number this project is
+     * judged by. The lock is held on the file itself and the file is rewritten
+     * in place, because replacing it would leave a waiting writer locked onto a
+     * file nobody reads any more.
+     */
     public function record(string $slug): void
     {
-        $day = now()->toDateString();
-        $counts = $this->read($slug);
-        $counts[$day] = ($counts[$day] ?? 0) + 1;
+        $path = $this->pathFor($slug);
 
         File::ensureDirectoryExists($this->directory);
-        File::put($this->pathFor($slug), json_encode($counts, JSON_PRETTY_PRINT)."\n");
+
+        $handle = fopen($path, 'c+');
+
+        if ($handle === false) {
+            throw new RuntimeException("Could not open the outreach log at {$path}.");
+        }
+
+        try {
+            if (! flock($handle, LOCK_EX)) {
+                throw new RuntimeException("Could not lock the outreach log at {$path}.");
+            }
+
+            $day = now()->toDateString();
+            $counts = self::decode((string) stream_get_contents($handle));
+            $counts[$day] = ($counts[$day] ?? 0) + 1;
+
+            ftruncate($handle, 0);
+            rewind($handle);
+            fwrite($handle, json_encode($counts, JSON_PRETTY_PRINT | JSON_THROW_ON_ERROR)."\n");
+            fflush($handle);
+        } finally {
+            flock($handle, LOCK_UN);
+            fclose($handle);
+        }
     }
 
     /** @return array<string, int> day => letters */
@@ -58,9 +89,7 @@ final class OutreachLog
             return [];
         }
 
-        $decoded = json_decode(File::get($path), true);
-
-        return is_array($decoded) ? array_map('intval', $decoded) : [];
+        return self::decode(File::get($path));
     }
 
     public function total(string $slug): int
@@ -87,6 +116,14 @@ final class OutreachLog
         arsort($totals);
 
         return $totals;
+    }
+
+    /** @return array<string, int> */
+    private static function decode(string $json): array
+    {
+        $decoded = json_decode($json, true);
+
+        return is_array($decoded) ? array_map('intval', $decoded) : [];
     }
 
     /** Validated before it becomes a filename, like every other path here. */

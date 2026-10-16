@@ -1,7 +1,6 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { Link } from '@inertiajs/react';
 import type { Post } from '@/Posts/postTemplates';
-import { usePhoto } from '@/Posts/usePhoto';
 import { canCopyImages, copySlide, downloadSlide, slideFilename } from '@/Posts/exportSlide';
 
 /**
@@ -23,7 +22,10 @@ export default function PostActions({
     slug?: string;
 }) {
     const [state, setState] = useState<'idle' | 'copied' | 'saved' | 'captioned' | 'failed'>('idle');
-    const photo = usePhoto(post.slides[0]?.photo);
+    // Fetched when a button is pressed, not when the card renders: the
+    // catalogue would otherwise download every post's photo up front.
+    const photoRequest = useRef<Promise<HTMLImageElement | null> | null>(null);
+    const photo = () => (photoRequest.current ??= loadImage(post.slides[0]?.photo));
     const single = post.slides.length === 1;
     const href = `/social/${post.id}${slug ? `?chapter=${slug}` : ''}`;
 
@@ -39,13 +41,13 @@ export default function PostActions({
 
     async function copyImage() {
         try {
-            await copySlide(post.slides[0], photo);
+            await copySlide(post.slides[0], photo());
             setState('copied');
         } catch {
             // A browser that will not take an image still gets the post: the
             // file is the thing, the clipboard was only the shortcut.
             try {
-                await downloadSlide(post.slides[0], slideFilename(post.id, 0, 1, slug), photo);
+                await downloadSlide(post.slides[0], slideFilename(post.id, 0, 1, slug), photo());
                 setState('saved');
             } catch {
                 setState('failed');
@@ -55,7 +57,7 @@ export default function PostActions({
 
     async function save() {
         try {
-            await downloadSlide(post.slides[0], slideFilename(post.id, 0, 1, slug), photo);
+            await downloadSlide(post.slides[0], slideFilename(post.id, 0, 1, slug), photo());
             setState('saved');
         } catch {
             setState('failed');
@@ -119,4 +121,20 @@ export default function PostActions({
             </p>
         </div>
     );
+}
+
+/** Resolves with the loaded image, or null if there is none or it fails. */
+function loadImage(src?: string): Promise<HTMLImageElement | null> {
+    if (!src) {
+        return Promise.resolve(null);
+    }
+
+    return new Promise((resolve) => {
+        const image = new Image();
+
+        image.onload = () => resolve(image);
+        // The slide still exports without its photo rather than not at all.
+        image.onerror = () => resolve(null);
+        image.src = src;
+    });
 }

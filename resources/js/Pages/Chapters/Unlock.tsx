@@ -35,16 +35,19 @@ export default function Unlock({ chapter }: Props) {
                     }}
                     className="mt-8 grid gap-4"
                 >
-                    <input
-                        value={form.data.key}
-                        onChange={(e) => form.setData('key', e.target.value)}
-                        className="field font-data text-lg tracking-[0.08em]"
-                        placeholder="ABCDE-FGHJK-LMNPQ-RSTUV"
-                        autoComplete="off"
-                        spellCheck={false}
-                        maxLength={60}
-                        autoFocus
-                    />
+                    <label className="grid gap-1">
+                        <span className="annot">Edit key</span>
+                        <input
+                            value={form.data.key}
+                            onChange={(e) => form.setData('key', e.target.value)}
+                            className="field font-data text-lg tracking-[0.08em]"
+                            placeholder="ABCDE-FGHJK-LMNPQ-RSTUV"
+                            autoComplete="off"
+                            spellCheck={false}
+                            maxLength={60}
+                            autoFocus
+                        />
+                    </label>
 
                     {errors?.key && <p className="font-data text-sm text-signal">{errors.key}</p>}
 
@@ -74,14 +77,17 @@ export default function Unlock({ chapter }: Props) {
                             Enter the school email this chapter was created with. A new key goes
                             to it, and the old one stops working. One an hour.
                         </p>
-                        <input
-                            type="email"
-                            value={recover.data.email}
-                            onChange={(e) => recover.setData('email', e.target.value)}
-                            className="field"
-                            placeholder="you@yourschool.edu"
-                            autoComplete="email"
-                        />
+                        <label className="grid gap-1">
+                            <span className="annot">School email</span>
+                            <input
+                                type="email"
+                                value={recover.data.email}
+                                onChange={(e) => recover.setData('email', e.target.value)}
+                                className="field"
+                                placeholder="you@yourschool.edu"
+                                autoComplete="email"
+                            />
+                        </label>
                         {recover.errors.email && (
                             <p className="font-data text-sm text-signal">{recover.errors.email}</p>
                         )}
@@ -97,13 +103,13 @@ export default function Unlock({ chapter }: Props) {
                     <button
                         type="button"
                         onClick={() => setForgot(true)}
-                        className="mt-8 text-sm text-dim underline underline-offset-4"
+                        className="mt-8 block text-sm text-dim underline underline-offset-4"
                     >
                         I forgot my key
                     </button>
                 )}
 
-                <Link href={`/${chapter.slug}`} className="mt-6 inline-block text-sm text-dim">
+                <Link href={`/${chapter.slug}`} className="mt-6 block text-sm text-dim">
                     ← Back to the chapter
                 </Link>
             </div>

@@ -7,6 +7,19 @@
     $meta = $page['props']['meta'] ?? [];
     $title = $meta['title'] ?? config('app.name', 'DeFlock Campus');
     $description = $meta['description'] ?? '';
+
+    /*
+     * Analytics stays off anywhere a page carries something private: a
+     * sign-in ticket or edit pass in the URL, a freshly issued edit key on the
+     * screen, the editor, or the admin page. Clarity records page URLs and
+     * replays the page, so on these it would be shipping access tokens to a
+     * third party. Matched by route as well as by noindex, because a page that
+     * forgets to mark itself private must not quietly start recording.
+     */
+    $isPrivatePage = ! empty($meta['noindex'])
+        || request()->routeIs('admin', 'admin.*', 'chapters.start', 'chapters.choose', 'chapters.edit', 'chapters.welcome', 'debug.*')
+        || request()->query->has('ticket')
+        || request()->query->has('pass');
 @endphp
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
@@ -50,7 +63,7 @@
             <meta name="twitter:image" content="{{ $meta['image'] }}">
         @endif
 
-        @if ($clarityId = config('services.clarity.id'))
+        @if (! $isPrivatePage && ($clarityId = config('services.clarity.id')))
             {{--
                 Microsoft Clarity, with consent withheld before the tag loads.
 

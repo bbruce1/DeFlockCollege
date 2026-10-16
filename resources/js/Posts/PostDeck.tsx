@@ -25,7 +25,9 @@ export default function PostDeck({ input, handle }: { input: PostInput; handle: 
     const wrap = (index: number) => ((index % posts.length) + posts.length) % posts.length;
 
     return (
-        <div>
+        // Clipped here, not on <body>: the fanned cards reach past a phone's
+        // edge, and a page-level overflow rule still lets iOS pan sideways.
+        <div style={{ overflowX: 'clip' }}>
             <div
                 tabIndex={0}
                 role="group"

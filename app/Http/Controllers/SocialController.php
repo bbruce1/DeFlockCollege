@@ -7,6 +7,7 @@ namespace App\Http\Controllers;
 use App\Chapters\Chapter;
 use App\Chapters\ChapterRepository;
 use App\Chapters\States;
+use App\Site\PostCatalogue;
 use Illuminate\Http\Request;
 use Inertia\Inertia;
 use Inertia\Response;
@@ -23,7 +24,10 @@ use Inertia\Response;
  */
 final class SocialController extends Controller
 {
-    public function __construct(private readonly ChapterRepository $chapters) {}
+    public function __construct(
+        private readonly ChapterRepository $chapters,
+        private readonly PostCatalogue $posts,
+    ) {}
 
     public function index(Request $request): Response
     {
@@ -52,11 +56,13 @@ final class SocialController extends Controller
      * One post, on its own page, ready to be taken away.
      *
      * The post itself is built in the browser exactly as it is on the catalogue,
-     * so this passes only which one was asked for. An unknown id is not an error
-     * worth a 404 from here — the page says so and offers the catalogue.
+     * so this passes only which one was asked for. An id that names no post is
+     * a real 404, so a stale or mistyped link is not indexed as a page.
      */
     public function post(Request $request, string $post): Response
     {
+        abort_unless($this->posts->has($post), 404);
+
         $chapter = $this->requested($request);
 
         return Inertia::render('CopyPost', [

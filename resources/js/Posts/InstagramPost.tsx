@@ -1,5 +1,5 @@
 import type { PostSlide } from '@/Posts/postTemplates';
-import { useEffect, useRef } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { usePhoto } from '@/Posts/usePhoto';
 import { drawSlide } from '@/Posts/renderSlide';
 import { loadPostFonts, POST_FONTS } from '@/Posts/exportSlide';
@@ -25,7 +25,11 @@ import { loadPostFonts, POST_FONTS } from '@/Posts/exportSlide';
  */
 function SlideSquare({ slide, badge }: { slide: PostSlide; badge: string | null }) {
     const canvasRef = useRef<HTMLCanvasElement>(null);
-    const photo = usePhoto(slide.photo);
+    const isNear = useIsNearViewport(canvasRef);
+    // The catalogue holds dozens of posts; fetching every photo up front cost
+    // about 9 MB before anyone scrolled. Until it comes near the screen the
+    // slide is drawn without its photo, words and all.
+    const photo = usePhoto(isNear ? slide.photo : undefined);
 
     useEffect(() => {
         const canvas = canvasRef.current;
@@ -211,4 +215,39 @@ function Bookmark() {
             <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" />
         </svg>
     );
+}
+
+/** Becomes true once the element is within a screen or so of the viewport, and stays true. */
+function useIsNearViewport(ref: React.RefObject<HTMLElement | null>): boolean {
+    const [isNear, setIsNear] = useState(false);
+
+    useEffect(() => {
+        const element = ref.current;
+
+        if (!element || isNear) {
+            return;
+        }
+
+        if (typeof IntersectionObserver === 'undefined') {
+            setIsNear(true);
+
+            return;
+        }
+
+        const observer = new IntersectionObserver(
+            (entries) => {
+                if (entries.some((entry) => entry.isIntersecting)) {
+                    setIsNear(true);
+                    observer.disconnect();
+                }
+            },
+            { rootMargin: '600px 0px' },
+        );
+
+        observer.observe(element);
+
+        return () => observer.disconnect();
+    }, [ref, isNear]);
+
+    return isNear;
 }

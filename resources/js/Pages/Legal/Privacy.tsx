@@ -27,10 +27,10 @@ export default function Privacy({ updated, contact, operator }: Props) {
                         chapter page.
                     </p>
                     <p>
-                        The short version: there are no accounts, no passwords, no advertising, no
-                        analytics profiles, and no third-party trackers. The only personal data we
-                        hold about a creator is an irreversible record derived from their email
-                        address.
+                        The short version: there are no accounts, no passwords, no advertising, and
+                        no advertising profiles. We use one analytics tool, without cookies, and
+                        never on a page that carries a private link. The only personal data we hold
+                        about a creator is an irreversible record derived from their email address.
                     </p>
                 </Section>
 
@@ -79,10 +79,11 @@ export default function Privacy({ updated, contact, operator }: Props) {
                             are used for security and diagnosing faults.
                         </li>
                         <li>
-                            <strong className="text-glow">A session cookie.</strong> Strictly
-                            necessary, used to protect forms against cross-site request forgery and
-                            to carry your edit key to the screen that shows it once. It contains no
-                            identifier for you and is not used for tracking.
+                            <strong className="text-glow">Two cookies, both strictly necessary.</strong>{' '}
+                            A session cookie, which carries your edit key to the screen that shows
+                            it once, and a security token that protects forms against cross-site
+                            request forgery. Neither contains an identifier for you or is used for
+                            tracking.
                         </li>
                     </ul>
 
@@ -97,12 +98,14 @@ export default function Privacy({ updated, contact, operator }: Props) {
                     <p className="mt-2">
                         We do use <strong className="text-glow">Microsoft Clarity</strong> to see
                         which parts of these pages people actually use. It records how pages are
-                        interacted with — clicks, scrolls, and the like — and sends that to
-                        Microsoft. We run it with consent withheld, which means it sets{' '}
+                        used (clicks, scrolls, and a replay of the page as it appeared) and sends
+                        that to Microsoft. We run it with consent withheld, which means it sets{' '}
                         <strong className="text-glow">no cookies</strong>; we checked. It keeps one
                         key in your browser's session storage, which your browser discards when you
-                        close the tab. You can block it with any tracker blocker and the site works
-                        exactly the same.
+                        close the tab. It is switched off on every page that carries something
+                        private: sign-in links, the screen that shows your edit key, the editor,
+                        and the admin page. You can block it with any tracker blocker and the site
+                        works exactly the same.
                     </p>
                 </Section>
 
@@ -135,9 +138,9 @@ export default function Privacy({ updated, contact, operator }: Props) {
 
                 <Section heading="5. Cookies">
                     <p>
-                        We set one strictly necessary session cookie. Because it is essential to
-                        the Service and is not used for analytics or advertising, no consent banner
-                        is required and none is shown. You can block cookies in your browser, but
+                        We set two strictly necessary cookies: a session cookie and a form security
+                        token. Because they are essential to the Service and are not used for
+                        analytics or advertising, no consent banner is required and none is shown. You can block cookies in your browser, but
                         forms on the Service will stop working.
                     </p>
                 </Section>

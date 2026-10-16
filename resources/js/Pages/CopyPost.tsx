@@ -89,7 +89,8 @@ export default function CopyPost({
 
     return (
         <Shell>
-            <Head title={`${post.purpose} — copy this post`} />
+            {/* `purpose` is a note to chapters, not a title: it reads as a sentence in a tab. */}
+            <Head title="Copy this post" />
 
             {/*
               * No headings, no explainer. Somebody arriving here has already
