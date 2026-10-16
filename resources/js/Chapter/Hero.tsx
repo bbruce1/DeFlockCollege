@@ -1,7 +1,7 @@
 import type { Chapter } from '@/templates/contract';
 import { FIXED, SPARSE_MAX } from '@/templates/contract';
 import type { Skin } from '@/templates/skins';
-import { Link } from '@inertiajs/react';
+import { usePage } from '@inertiajs/react';
 import { ActionLink } from '@/Chapter/Button';
 
 /**
@@ -21,6 +21,7 @@ export default function Hero({
     skin: Skin;
 }) {
     const { readersWithinMile, readersInState } = chapter.survey;
+    const { homeUrl } = usePage().props as unknown as { homeUrl: string };
     // Four states, not two: a real ring, a ring too thin to lead with, counted
     // and found none, and never counted. Each says something different and none
     // may be printed as another.
@@ -170,8 +171,10 @@ export default function Hero({
               * without this the only route onward is the browser's back button.
               */}
             <p style={{ margin: '1rem 0 0' }}>
-                <Link
-                    href="/"
+                {/* A plain anchor: the home page is on another origin, which an
+                    Inertia visit cannot reach. */}
+                <a
+                    href={homeUrl}
                     style={{
                         fontFamily: 'var(--data)',
                         fontSize: '0.8rem',
@@ -182,7 +185,7 @@ export default function Hero({
                     }}
                 >
                     Not your chapter? Go home
-                </Link>
+                </a>
             </p>
         </div>
     );

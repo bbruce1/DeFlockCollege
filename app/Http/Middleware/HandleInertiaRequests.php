@@ -45,6 +45,9 @@ class HandleInertiaRequests extends Middleware
                     .'and a written letter to each of them one click away.',
                 path: $request->getPathInfo(),
             )->toArray(),
+            // The front page's full address. A chapter is served on its own
+            // subdomain, where "/" is the chapter itself, not the home page.
+            'homeUrl' => PageMeta::baseUrl(),
             'flash' => [
                 'status' => fn () => $request->session()->get('status'),
                 // Set when somebody asks for a link at a domain that already has
