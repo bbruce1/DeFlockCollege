@@ -11,6 +11,7 @@ use App\Chapters\ChapterRepository;
 use App\Chapters\Ownership;
 use App\Chapters\ReaderSurvey;
 use App\Chapters\Slug;
+use App\Mail\MailDomain;
 use App\Mail\VerificationLink;
 use Illuminate\Support\Facades\Mail;
 use Illuminate\Support\Facades\RateLimiter;
@@ -98,6 +99,44 @@ final class VerificationFlowTest extends TestCase
             $status,
             'The window the link is good for is not stated.'
         );
+    }
+
+    public function test_the_confirmation_tells_a_high_schooler_what_to_do_if_it_never_comes(): void
+    {
+        // District policies bounce outside mail to student accounts before it
+        // reaches spam, so "check spam" alone leaves them stuck.
+        $status = $this->post(route('verify.send'), ['email' => 'baker@stanford.edu'])
+            ->getSession()
+            ->get('status');
+
+        $this->assertStringContainsString('block outside email', $status);
+        $this->assertStringContainsString('teacher or club advisor', $status);
+    }
+
+    public function test_a_domain_that_cannot_receive_mail_is_refused_before_sending(): void
+    {
+        $this->app->instance(MailDomain::class, new class extends MailDomain
+        {
+            public function receivesMail(string $email): bool
+            {
+                return false;
+            }
+        });
+
+        $this->post(route('verify.send'), ['email' => 's376541@gse.stanford.edu'])
+            ->assertSessionHasErrors('email');
+
+        $this->assertStringContainsString(
+            'gse.stanford.edu',
+            (string) session('errors')->first('email'),
+            'The error does not name the domain that was mistyped.',
+        );
+        Mail::assertNothingSent();
+    }
+
+    public function test_an_address_without_a_domain_cannot_receive_mail(): void
+    {
+        $this->assertFalse((new MailDomain)->receivesMail('nobody@'));
     }
 
     public function test_a_domain_with_a_chapter_is_told_rather_than_mailed(): void

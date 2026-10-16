@@ -7,6 +7,7 @@ namespace Tests;
 use App\Chapters\Blocklist;
 use App\Chapters\ChapterRepository;
 use App\Chapters\StateCoverageRepository;
+use App\Mail\MailDomain;
 use App\Metrics\OutreachLog;
 use App\Officials\RotationCounter;
 use Illuminate\Foundation\Testing\TestCase as BaseTestCase;
@@ -47,6 +48,16 @@ abstract class TestCase extends BaseTestCase
             OutreachLog::class,
             fn (): OutreachLog => new OutreachLog($this->storageRoot.'/metrics'),
         );
+
+        // Tests send to made-up school domains, which have no DNS. The check
+        // itself is exercised on its own, with a fake that says no.
+        $this->app->instance(MailDomain::class, new class extends MailDomain
+        {
+            public function receivesMail(string $email): bool
+            {
+                return true;
+            }
+        });
 
         $this->app->singleton(
             RotationCounter::class,

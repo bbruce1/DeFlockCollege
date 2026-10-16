@@ -8,6 +8,7 @@ use App\Chapters\ChapterRepository;
 use App\Chapters\Ownership;
 use App\Chapters\SchoolDomain;
 use App\Chapters\VerificationTicket;
+use App\Mail\MailDomain;
 use App\Mail\VerificationLink;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;
@@ -33,7 +34,10 @@ final class VerificationController extends Controller
     /** Per client, so we cannot be used as a relay to many addresses. */
     private const MAX_PER_IP_PER_HOUR = 10;
 
-    public function __construct(private readonly ChapterRepository $chapters) {}
+    public function __construct(
+        private readonly ChapterRepository $chapters,
+        private readonly MailDomain $mailDomain,
+    ) {}
 
     public function store(Request $request): RedirectResponse
     {
@@ -80,6 +84,13 @@ final class VerificationController extends Controller
             return back()->withErrors(['email' => $limit])->withInput();
         }
 
+        if (! $this->mailDomain->receivesMail($email)) {
+            return back()->withErrors([
+                'email' => 'Nothing at '.substr(strrchr($email, '@') ?: '', 1).' can receive email. '
+                    .'Check the spelling of your school address, including the part after the @.',
+            ])->withInput();
+        }
+
         $ticket = VerificationTicket::issue($email, $purpose);
         $schoolName = $domain->known()[0] ?? $domain->registrable;
         $url = $this->destinationFor($purpose, $domain, $ticket);
@@ -105,9 +116,17 @@ final class VerificationController extends Controller
         // comes from outside the university, carries a link, and asks for an
         // action, which is the shape a campus filter is tuned to catch — so a
         // student told only to "check their email" concludes it never arrived.
-        return back()->with('status', "Sent to {$email} — check your spam or junk "
+        //
+        // The second half is for high schools. Many districts set student
+        // accounts to accept mail only from inside the district, and the link
+        // is bounced before it ever reaches spam. Staff accounts are not
+        // restricted that way, and a teacher or advisor forwarding the link is
+        // how a school club starts anyway.
+        return back()->with('status', "Sent to {$email}. Check your spam or junk "
             .'folder, which is where school filters usually put it. The link works for '
-            .VerificationTicket::LIFETIME_MINUTES.' minutes.');
+            .VerificationTicket::LIFETIME_MINUTES.' minutes. Nothing after a few minutes? '
+            .'Many high schools block outside email to student accounts. Ask a teacher or '
+            .'club advisor to enter their school email here and forward you the link.');
     }
 
     /**
