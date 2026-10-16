@@ -324,17 +324,14 @@ export function withSchoolColours(skin: Skin, colours?: SchoolColours | null): S
     const surface = toHex(groundHue, chroma, SURFACE_LIGHTNESS);
     const line = toHex(groundHue, chroma, LINE_LIGHTNESS);
 
-    // The accent is whichever colour carries more of the school's identity —
-    // the more saturated one, since a school pairing a colour with white or
-    // black means the colour.
-    const accentSource = chromaOf(primary) >= chromaOf(secondary) ? primary : secondary;
-    const otherSource = accentSource === primary ? secondary : primary;
-
-    const accent = legibleAgainst(accentSource, bg);
+    // The accent is always the creator's primary. Picking whichever colour
+    // looked more saturated overrode what they chose: in HSL a very dark colour
+    // scores as highly saturated, so Georgia Tech's navy secondary beat its gold.
+    const accent = legibleAgainst(primary, bg);
 
     // The cameras keep their own mark, but in the school's other colour rather
     // than an imported red.
-    const signal = legibleAgainst(otherSource, bg, 4.5);
+    const signal = legibleAgainst(secondary, bg, 4.5);
 
     // Text is the ground's own hue carried to near-white. Still not a new
     // colour: at this lightness it reads as white, which every school pairs with.
@@ -352,11 +349,6 @@ export function withSchoolColours(skin: Skin, colours?: SchoolColours | null): S
         accentInk: legibleInkOn(accent),
         signal,
     };
-}
-
-/** Saturation, used to tell a school's colour from the white it sits on. */
-function chromaOf(hex: string): number {
-    return toHsl(hex)[1];
 }
 
 function darkerOf(a: string, b: string): string {
