@@ -13,10 +13,7 @@ export default function Contact({ email }: Props) {
         <Shell>
             <Head title="Contact" />
 
-            <Prose
-                title="Contact"
-                standfirst="One address, read by one person. There is no ticket queue behind it and no form to fill in."
-            >
+            <Prose title="Contact">
                 <Section heading="Email">
                     <p>Write to:</p>
 

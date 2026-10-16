@@ -35,8 +35,8 @@ final class LegalController extends Controller
             'email' => self::contactAddress(),
             'meta' => self::meta(
                 'Contact',
-                'One address, read by one person. For a chapter that has been abandoned, '
-                    .'something wrong in the shipped data, or a page that should come down.',
+                'Get in touch about a chapter that has been abandoned, something wrong in '
+                    .'the shipped data, or a page that should come down.',
                 '/contact',
             ),
         ]);
