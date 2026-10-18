@@ -88,9 +88,8 @@ export default function Instagram({ chapter }: { chapter: Chapter }) {
                         lineHeight: 1.6,
                     }}
                 >
-                    This chapter predates the requirement to attach an Instagram, so it has
-                    none yet. Whoever started it can add one from the edit button in the
-                    footer.
+                    This chapter has no Instagram yet. Whoever started it can add one from
+                    the edit button in the footer.
                 </p>
             )}
         </Section>

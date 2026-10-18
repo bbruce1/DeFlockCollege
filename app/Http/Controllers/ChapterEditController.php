@@ -243,7 +243,7 @@ final class ChapterEditController extends Controller
         $validated = $request->validate([
             'ticket' => ['nullable', 'string'],
             'pass' => ['nullable', 'string'],
-            'instagram' => ['required', 'string', 'max:120'],
+            'instagram' => ['nullable', 'string', 'max:120'],
             'tiktok' => ['nullable', 'string', 'max:120'],
             // A creator-supplied link leaves the site, so the scheme is allowlisted
             // rather than trusted, and the page marks it as not ours.

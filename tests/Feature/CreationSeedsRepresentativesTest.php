@@ -68,6 +68,32 @@ final class CreationSeedsRepresentativesTest extends TestCase
         $this->assertContains('Bryce Berry', $names, 'The representative for district 56 is missing.');
     }
 
+    /**
+     * Instagram is optional: most students starting a chapter have not made the
+     * account yet, and requiring it lost them at that step of the form.
+     */
+    public function test_a_chapter_can_be_started_without_an_instagram(): void
+    {
+        $this->fakeServices(censusReachable: true);
+
+        $this->post('/chapters', ['instagram' => ''] + $this->payload())->assertRedirect();
+
+        $chapter = app(ChapterRepository::class)->findBySlugString(self::SLUG);
+
+        $this->assertNotNull($chapter, 'A chapter without an Instagram was refused.');
+        $this->assertNull($chapter->instagram);
+    }
+
+    public function test_a_handle_that_is_given_must_still_be_a_handle(): void
+    {
+        $this->fakeServices(censusReachable: true);
+
+        $this->post('/chapters', ['instagram' => 'not a handle!'] + $this->payload())
+            ->assertSessionHasErrors('instagram');
+
+        $this->assertNull(app(ChapterRepository::class)->findBySlugString(self::SLUG));
+    }
+
     /** Losing the Census must not lose the chapter. */
     public function test_a_failed_lookup_still_produces_a_chapter(): void
     {

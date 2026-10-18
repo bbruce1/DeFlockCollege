@@ -130,8 +130,11 @@ const STEPS: Step[] = [
     {
         id: 'instagram',
         title: 'Instagram',
-        hint: 'This is crucial to how DeFlock builds virality and how you communicate.',
-        ready: (d) => isInstagramHandle(d.instagram),
+        hint: 'Optional, and worth it: it is how DeFlock spreads. No account yet? Skip this and add it later from your chapter page.',
+        // Optional, because the person most likely to start a chapter tonight is
+        // a student who has not made the account yet. Requiring it lost them at
+        // this step. Anything typed still has to be a real handle.
+        ready: (d) => d.instagram.trim() === '' || isInstagramHandle(d.instagram),
     },
     {
         id: 'petition',

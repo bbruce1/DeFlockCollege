@@ -284,7 +284,7 @@ final class ChapterCreationController extends Controller
             'city' => ['required', 'string', 'min:2', 'max:80'],
             'slug' => ['required', 'string', 'max:32'],
             'point' => ['required', 'string', 'max:64'],
-            'instagram' => ['required', 'string', 'max:120'],
+            'instagram' => ['nullable', 'string', 'max:120'],
             'tiktok' => ['nullable', 'string', 'max:120'],
             'petitionUrl' => ['nullable', 'url:https', 'max:300'],
             'primaryColour' => ['nullable', 'string', 'max:9'],
@@ -315,8 +315,6 @@ final class ChapterCreationController extends Controller
                 ...$this->representativesFor($point, $validated['state']),
                 ...($validated['officials'] ?? []),
             ]);
-            $instagram = SocialHandle::normalise($validated['instagram'] ?? null, 'instagram');
-            $tiktok = SocialHandle::normalise($validated['tiktok'] ?? null, 'tiktok');
             $colours = SchoolColours::fromInput(
                 $validated['primaryColour'] ?? null,
                 $validated['secondaryColour'] ?? null,
@@ -324,6 +322,17 @@ final class ChapterCreationController extends Controller
         } catch (InvalidArgumentException $e) {
             return back()->withErrors(['officials' => $e->getMessage()])->withInput();
         }
+
+        // Reported against the field it came from, so the form can show it there.
+        foreach (['instagram', 'tiktok'] as $platform) {
+            try {
+                $handles[$platform] = SocialHandle::normalise($validated[$platform] ?? null, $platform);
+            } catch (InvalidArgumentException $e) {
+                return back()->withErrors([$platform => $e->getMessage()])->withInput();
+            }
+        }
+
+        [$instagram, $tiktok] = [$handles['instagram'], $handles['tiktok']];
 
         // Worded like any other refusal and nothing more: saying that a school
         // was blocked, or why, is not this form's business.

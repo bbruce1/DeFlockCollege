@@ -340,10 +340,11 @@ export default function Edit({ chapter, ticket, pass, minutesRemaining, roles }:
 
                     <section className="grid gap-4 border-2 border-net/60 bg-net-wash p-5">
                         <div>
-                            <p className="annot text-net">Required</p>
+                            <p className="annot text-net">Recommended</p>
                             <h2 className="mt-2 text-xl font-bold">Your Instagram</h2>
                             <p className="mt-2 text-sm text-dim">
-                                The only way anyone can reach this chapter.
+                                The only way anyone can reach this chapter, so add it as soon as
+                                you have one.
                             </p>
                         </div>
 
