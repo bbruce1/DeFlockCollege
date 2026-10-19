@@ -3,6 +3,7 @@ import type { CSSProperties } from 'react';
 import { Head } from '@inertiajs/react';
 import Shell from '@/Layouts/Shell';
 import CoverageField from '@/Chapter/CoverageField';
+import { centreOf, groupNearby } from '@/Chapter/groupNearby';
 
 interface Marker {
     x: number;
@@ -33,6 +34,14 @@ const NATION_INSET = 0.74;
  * for the thing the page exists to show them.
  */
 const HIT_RADIUS = 26;
+
+/**
+ * Marks closer than this on screen are shown as one count instead.
+ *
+ * About where two pulsing rings start to overlap: closer than that and the two
+ * are one smear, and the one underneath cannot be pointed at at all.
+ */
+const GROUP_RADIUS = 24;
 
 /** A fingertip covers more than a cursor tip, so taps get a wider net. */
 const TOUCH_HIT_RADIUS = 40;
@@ -135,8 +144,14 @@ export default function MapPage({ coverage }: Props) {
         [coverage, onLayout, onTransform, zoom, pan.x, pan.y],
     );
 
-    const hovered = active !== null ? coverage.markers[active] : null;
-    const spot = active !== null ? placements[active] : null;
+    // Regrouped on every layout, so zooming in splits a group apart.
+    const groups = useMemo(() => groupNearby(placements, GROUP_RADIUS), [placements]);
+
+    // The active mark stands for its whole group: pointing at any one of the
+    // overlapping marks opens the card for all of them.
+    const activeGroup = active !== null ? groups.find((group) => group.includes(active)) ?? null : null;
+    const hovered = activeGroup ? activeGroup.map((index) => coverage.markers[index]) : null;
+    const spot = activeGroup ? centreOf(placements, activeGroup) : null;
 
     /** The mark nearest a point on screen, if one is within reach. */
     const nearest = useCallback(
@@ -407,9 +422,39 @@ export default function MapPage({ coverage }: Props) {
                 aria-hidden="true"
             />
 
+            {/*
+              * A count over each group, covering the marks it stands for. It
+              * takes no pointer events: the sheet underneath still does the
+              * hit testing, the same as for a single mark.
+              */}
+            {groups
+                .filter((group) => group.length > 1)
+                .map((group) => {
+                    const centre = centreOf(placements, group);
+
+                    return (
+                        <div
+                            key={group.join('-')}
+                            aria-hidden="true"
+                            className="grid place-items-center rounded-full border-2 border-signal bg-void font-data text-xs font-600 text-glow"
+                            style={{
+                                position: 'fixed',
+                                left: centre.x - GROUP_BADGE / 2,
+                                top: centre.y - GROUP_BADGE / 2,
+                                width: GROUP_BADGE,
+                                height: GROUP_BADGE,
+                                zIndex: 2,
+                                pointerEvents: 'none',
+                            }}
+                        >
+                            {group.length}
+                        </div>
+                    );
+                })}
+
             {hovered && spot ? (
                 <Card
-                    marker={hovered}
+                    markers={hovered}
                     at={spot}
                     onEnter={cancelClose}
                     onLeave={scheduleClose}
@@ -453,8 +498,14 @@ export default function MapPage({ coverage }: Props) {
     );
 }
 
+/** Diameter of a group's count, in CSS pixels: wide enough to hide the rings under it. */
+const GROUP_BADGE = 28;
+
 /** Roughly how tall a card gets, for keeping it on screen before it is measured. */
 const CARD = { width: 250, height: 240, gap: 16, margin: 8 } as const;
+
+/** Roughly what each further chapter adds to a group's card. */
+const CARD_ENTRY_HEIGHT = 110;
 
 /**
  * Placed beside the mark, then clamped into the viewport.
@@ -464,7 +515,7 @@ const CARD = { width: 250, height: 240, gap: 16, margin: 8 } as const;
  * it off the screen. Clamping keeps every edge reachable, which matters because
  * the card is the only way to reach a chapter from the map by pointer.
  */
-function place(at: { x: number; y: number }): { left: number; top: number } {
+function place(at: { x: number; y: number }, height: number): { left: number; top: number } {
     const viewportWidth = typeof window === 'undefined' ? 1024 : window.innerWidth;
     const viewportHeight = typeof window === 'undefined' ? 768 : window.innerHeight;
 
@@ -478,22 +529,23 @@ function place(at: { x: number; y: number }): { left: number; top: number } {
 
     return {
         left: clamp(preferredLeft, viewportWidth - CARD.width),
-        top: clamp(at.y - 12, viewportHeight - CARD.height),
+        top: clamp(at.y - 12, viewportHeight - height),
     };
 }
 
 function Card({
-    marker,
+    markers,
     at,
     onEnter,
     onLeave,
 }: {
-    marker: Marker;
+    markers: Marker[];
     at: { x: number; y: number };
     onEnter: () => void;
     onLeave: () => void;
 }) {
-    const { left, top } = place(at);
+    const isGroup = markers.length > 1;
+    const { left, top } = place(at, CARD.height + (markers.length - 1) * CARD_ENTRY_HEIGHT);
 
     return (
         <div
@@ -507,11 +559,48 @@ function Card({
                 width: CARD.width,
                 // A short window must never cut the buttons off the bottom: the
                 // card is the only pointer route from a mark to its chapter.
-                maxHeight: `calc(100dvh - ${CARD.margin * 2}px)`,
+                // Measured from where the card starts, so a long group list
+                // scrolls inside the card rather than running off the screen.
+                maxHeight: `calc(100dvh - ${top + CARD.margin}px)`,
                 overflowY: 'auto',
                 zIndex: 4,
             }}
         >
+            {isGroup ? (
+                <p className="annot mb-3 text-faint">{markers.length} chapters here</p>
+            ) : null}
+
+            {markers.map((marker, index) => (
+                <div
+                    key={marker.slug}
+                    className={index > 0 ? 'mt-3 border-t border-hair pt-3' : undefined}
+                >
+                    {isGroup ? <CompactEntry marker={marker} /> : <Entry marker={marker} />}
+                </div>
+            ))}
+        </div>
+    );
+}
+
+/** One chapter among several on the card: the same facts, folded onto fewer lines. */
+function CompactEntry({ marker }: { marker: Marker }) {
+    return (
+        <>
+            <p className="font-600 leading-tight text-glow">{marker.schoolName}</p>
+            <p className="annot mt-1 text-faint">
+                {marker.city} · <span className="text-signal">{marker.readersWithinMile}</span> readers
+                within a mile
+            </p>
+
+            <Links marker={marker} className="mt-2" />
+        </>
+    );
+}
+
+/** One chapter on the card: where it is, what is near it, and the way in. */
+function Entry({ marker }: { marker: Marker }) {
+    return (
+        <>
             <p className="font-600 leading-tight text-glow">{marker.schoolName}</p>
             <p className="annot mt-1 text-faint">
                 {marker.city}, {marker.stateName}
@@ -522,24 +611,31 @@ function Card({
                 mile · {marker.readersInState.toLocaleString()} in {marker.state}
             </p>
 
-            <div className="mt-4 flex flex-wrap gap-2">
+            <Links marker={marker} className="mt-4" />
+        </>
+    );
+}
+
+/** The way into a chapter: its page, and its Instagram when it has one. */
+function Links({ marker, className }: { marker: Marker; className: string }) {
+    return (
+        <div className={`${className} flex flex-wrap gap-2`}>
+            <a
+                href={`/${marker.slug}`}
+                className="bg-signal px-3 py-1.5 font-data text-xs font-600 text-void no-underline"
+            >
+                Visit chapter
+            </a>
+            {marker.instagram ? (
                 <a
-                    href={`/${marker.slug}`}
-                    className="bg-signal px-3 py-1.5 font-data text-xs font-600 text-void no-underline"
+                    href={`https://instagram.com/${marker.instagram}`}
+                    target="_blank"
+                    rel="noopener nofollow"
+                    className="border border-signal px-3 py-1.5 font-data text-xs font-600 text-glow no-underline"
                 >
-                    Visit chapter
+                    @{marker.instagram}
                 </a>
-                {marker.instagram ? (
-                    <a
-                        href={`https://instagram.com/${marker.instagram}`}
-                        target="_blank"
-                        rel="noopener nofollow"
-                        className="border border-signal px-3 py-1.5 font-data text-xs font-600 text-glow no-underline"
-                    >
-                        @{marker.instagram}
-                    </a>
-                ) : null}
-            </div>
+            ) : null}
         </div>
     );
 }
