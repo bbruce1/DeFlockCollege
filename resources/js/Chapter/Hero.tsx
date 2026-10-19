@@ -170,12 +170,14 @@ export default function Hero({
               * page is often the first thing a person sees of the network, and
               * without this the only route onward is the browser's back button.
               */}
-            <p style={{ margin: '1rem 0 0' }}>
+            <p style={{ margin: '0.4rem 0 0' }}>
                 {/* A plain anchor: the home page is on another origin, which an
                     Inertia visit cannot reach. */}
                 <a
                     href={homeUrl}
                     style={{
+                        display: 'inline-block',
+                        padding: '0.6rem 0',
                         fontFamily: 'var(--data)',
                         fontSize: '0.8rem',
                         letterSpacing: '0.06em',

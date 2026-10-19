@@ -1,10 +1,13 @@
-import { useState } from 'react';
+import { useRef, useState } from 'react';
 import type { PostInput } from '@/Posts/postTemplates';
 import { buildPosts } from '@/Posts/postTemplates';
 import InstagramPost from '@/Posts/InstagramPost';
 
 /** How many cards deep the stack goes before one stops being drawn. */
 const VISIBLE_DEPTH = 2;
+
+/** Sideways travel, in CSS pixels, before a touch counts as a swipe. */
+const SWIPE_DISTANCE = 44;
 
 /**
  * The posts, dealt face on with the rest angled away behind.
@@ -21,6 +24,9 @@ const VISIBLE_DEPTH = 2;
 export default function PostDeck({ input, handle }: { input: PostInput; handle: string }) {
     const posts = buildPosts(input);
     const [active, setActive] = useState(0);
+
+    // Swipe, because on a phone this is the obvious thing to try.
+    const touchStart = useRef<number | null>(null);
 
     const wrap = (index: number) => ((index % posts.length) + posts.length) % posts.length;
 
@@ -41,6 +47,21 @@ export default function PostDeck({ input, handle }: { input: PostInput; handle: 
                     if (event.key === 'ArrowRight') {
                         event.preventDefault();
                         setActive((n) => wrap(n + 1));
+                    }
+                }}
+                onTouchStart={(event) => {
+                    touchStart.current = event.touches[0].clientX;
+                }}
+                onTouchEnd={(event) => {
+                    if (touchStart.current === null) {
+                        return;
+                    }
+
+                    const travelled = event.changedTouches[0].clientX - touchStart.current;
+                    touchStart.current = null;
+
+                    if (Math.abs(travelled) > SWIPE_DISTANCE) {
+                        setActive((n) => wrap(n + (travelled < 0 ? 1 : -1)));
                     }
                 }}
                 style={{
@@ -111,7 +132,7 @@ export default function PostDeck({ input, handle }: { input: PostInput; handle: 
                     ‹
                 </button>
 
-                <div className="flex items-center gap-2">
+                <div className="flex items-center">
                     {posts.map((slide, index) => (
                         <button
                             key={slide.id}
@@ -119,16 +140,21 @@ export default function PostDeck({ input, handle }: { input: PostInput; handle: 
                             onClick={() => setActive(index)}
                             aria-label={`Show post ${index + 1}: ${slide.purpose}`}
                             aria-current={index === active}
-                            style={{
-                                width: index === active ? 22 : 8,
-                                height: 8,
-                                borderRadius: 4,
-                                border: 'none',
-                                cursor: 'pointer',
-                                background: index === active ? 'var(--color-net)' : 'var(--color-hair-lit)',
-                                transition: 'width 240ms, background 240ms',
-                            }}
-                        />
+                            // The dot stays small; the padding round it is the
+                            // finger's target.
+                            style={{ padding: '8px 4px', border: 'none', background: 'none', cursor: 'pointer' }}
+                        >
+                            <span
+                                style={{
+                                    display: 'block',
+                                    width: index === active ? 22 : 8,
+                                    height: 8,
+                                    borderRadius: 4,
+                                    background: index === active ? 'var(--color-net)' : 'var(--color-hair-lit)',
+                                    transition: 'width 240ms, background 240ms',
+                                }}
+                            />
+                        </button>
                     ))}
                 </div>
 

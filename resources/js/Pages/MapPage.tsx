@@ -34,6 +34,12 @@ const NATION_INSET = 0.74;
  */
 const HIT_RADIUS = 26;
 
+/** A fingertip covers more than a cursor tip, so taps get a wider net. */
+const TOUCH_HIT_RADIUS = 40;
+
+/** Movement, in CSS pixels, before a press counts as a drag rather than a tap. */
+const TAP_SLOP = 8;
+
 /**
  * How long the card survives the pointer leaving the mark.
  *
@@ -73,7 +79,15 @@ export default function MapPage({ coverage }: Props) {
     const [active, setActive] = useState<number | null>(null);
     const [zoom, setZoom] = useState(1);
     const [pan, setPan] = useState({ x: 0, y: 0 });
-    const drag = useRef<{ x: number; y: number; panX: number; panY: number } | null>(null);
+    const drag = useRef<{ x: number; y: number; panX: number; panY: number; moved: boolean } | null>(null);
+    // Every finger (or the mouse) currently pressed on the map, by pointer id.
+    const pointers = useRef(new Map<number, { x: number; y: number }>());
+    const pinch = useRef<{
+        distance: number;
+        zoom: number;
+        fieldX: number;
+        fieldY: number;
+    } | null>(null);
     const closeTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
     const transform = useRef<{
         scale: number;
@@ -124,31 +138,30 @@ export default function MapPage({ coverage }: Props) {
     const hovered = active !== null ? coverage.markers[active] : null;
     const spot = active !== null ? placements[active] : null;
 
-    const track = useCallback(
-        (event: React.MouseEvent<HTMLDivElement>) => {
-            if (drag.current) {
-                setPan({
-                    x: drag.current.panX + (event.clientX - drag.current.x),
-                    y: drag.current.panY + (event.clientY - drag.current.y),
-                });
-
-                return;
-            }
-
+    /** The mark nearest a point on screen, if one is within reach. */
+    const nearest = useCallback(
+        (clientX: number, clientY: number, radius: number): number | null => {
             let closest: number | null = null;
-            let best = HIT_RADIUS;
+            let best = radius;
 
             placements.forEach((placement, index) => {
-                const distance = Math.hypot(
-                    event.clientX - placement.x,
-                    event.clientY - placement.y,
-                );
+                const distance = Math.hypot(clientX - placement.x, clientY - placement.y);
 
                 if (distance < best) {
                     best = distance;
                     closest = index;
                 }
             });
+
+            return closest;
+        },
+        [placements],
+    );
+
+    /** Hover, for a mouse only: a finger has no hover, so it taps instead. */
+    const hover = useCallback(
+        (clientX: number, clientY: number) => {
+            const closest = nearest(clientX, clientY, HIT_RADIUS);
 
             if (closest !== null) {
                 cancelClose();
@@ -161,7 +174,7 @@ export default function MapPage({ coverage }: Props) {
             // Closing is deferred so it can get there.
             scheduleClose();
         },
-        [placements, cancelClose, scheduleClose],
+        [nearest, cancelClose, scheduleClose],
     );
 
     /**
@@ -215,6 +228,138 @@ export default function MapPage({ coverage }: Props) {
         });
     }, []);
 
+    /**
+     * The pan that puts a given point of the field under a given screen point
+     * at a given zoom. The same solve as zoomAt, used by the pinch so that the
+     * spot between two fingers stays between them as they spread.
+     */
+    const panFor = useCallback(
+        (fieldX: number, fieldY: number, clientX: number, clientY: number, nextZoom: number) => {
+            const current = transform.current;
+
+            if (!current || current.scale <= 0) {
+                return null;
+            }
+
+            const scale = current.fitScale * nextZoom;
+
+            return {
+                x: clientX - fieldX * scale - (window.innerWidth - current.fieldWidth * scale) / 2,
+                y: clientY - fieldY * scale - (window.innerHeight - current.fieldHeight * scale) / 2,
+            };
+        },
+        [],
+    );
+
+    const startPinch = useCallback(() => {
+        const [a, b] = [...pointers.current.values()];
+        const current = transform.current;
+
+        if (!a || !b || !current || current.scale <= 0) {
+            return;
+        }
+
+        const midX = (a.x + b.x) / 2;
+        const midY = (a.y + b.y) / 2;
+
+        pinch.current = {
+            distance: Math.hypot(a.x - b.x, a.y - b.y) || 1,
+            zoom,
+            fieldX: (midX - current.offsetX) / current.scale,
+            fieldY: (midY - current.offsetY) / current.scale,
+        };
+        drag.current = null;
+    }, [zoom]);
+
+    const onPointerDown = useCallback(
+        (event: React.PointerEvent<HTMLDivElement>) => {
+            event.currentTarget.setPointerCapture(event.pointerId);
+            pointers.current.set(event.pointerId, { x: event.clientX, y: event.clientY });
+
+            if (pointers.current.size === 2) {
+                startPinch();
+
+                return;
+            }
+
+            drag.current = { x: event.clientX, y: event.clientY, panX: pan.x, panY: pan.y, moved: false };
+        },
+        [pan.x, pan.y, startPinch],
+    );
+
+    const onPointerMove = useCallback(
+        (event: React.PointerEvent<HTMLDivElement>) => {
+            if (pointers.current.has(event.pointerId)) {
+                pointers.current.set(event.pointerId, { x: event.clientX, y: event.clientY });
+            }
+
+            if (pinch.current && pointers.current.size >= 2) {
+                const [a, b] = [...pointers.current.values()];
+                const spread = Math.hypot(a.x - b.x, a.y - b.y);
+                const next = Math.min(ZOOM.max, Math.max(ZOOM.min, pinch.current.zoom * (spread / pinch.current.distance)));
+                const target = panFor(pinch.current.fieldX, pinch.current.fieldY, (a.x + b.x) / 2, (a.y + b.y) / 2, next);
+
+                setZoom(next);
+                setPan(next === ZOOM.min ? { x: 0, y: 0 } : (target ?? pan));
+
+                return;
+            }
+
+            if (drag.current) {
+                const dx = event.clientX - drag.current.x;
+                const dy = event.clientY - drag.current.y;
+
+                if (!drag.current.moved && Math.hypot(dx, dy) < TAP_SLOP) {
+                    return;
+                }
+
+                drag.current.moved = true;
+                setPan({ x: drag.current.panX + dx, y: drag.current.panY + dy });
+
+                return;
+            }
+
+            if (event.pointerType === 'mouse') {
+                hover(event.clientX, event.clientY);
+            }
+        },
+        [hover, pan, panFor],
+    );
+
+    const onPointerEnd = useCallback(
+        (event: React.PointerEvent<HTMLDivElement>) => {
+            const wasDrag = drag.current;
+            const wasPinch = pinch.current !== null;
+
+            pointers.current.delete(event.pointerId);
+
+            if (pointers.current.size < 2) {
+                pinch.current = null;
+            }
+
+            // A finger lifted mid-pinch leaves one down: carry on as a drag from
+            // where it is, rather than jumping back to where it started.
+            if (wasPinch && pointers.current.size === 1) {
+                const [rest] = [...pointers.current.values()];
+                drag.current = { x: rest.x, y: rest.y, panX: pan.x, panY: pan.y, moved: true };
+
+                return;
+            }
+
+            drag.current = null;
+
+            // A touch or pen tap that did not move selects the nearest mark, or
+            // closes the open card when it lands on bare map.
+            if (event.type === 'pointerup' && event.pointerType !== 'mouse' && wasDrag && !wasDrag.moved && !wasPinch) {
+                const closest = nearest(event.clientX, event.clientY, TOUCH_HIT_RADIUS);
+
+                cancelClose();
+                setActive(closest);
+            }
+        },
+        [nearest, cancelClose, pan.x, pan.y],
+    );
+
     return (
         <Shell bare>
             <Head title="The network" />
@@ -229,18 +374,10 @@ export default function MapPage({ coverage }: Props) {
               * the list below is what works without a pointer at all.
               */}
             <div
-                onMouseMove={track}
-                onMouseDown={(event) => {
-                    drag.current = {
-                        x: event.clientX,
-                        y: event.clientY,
-                        panX: pan.x,
-                        panY: pan.y,
-                    };
-                }}
-                onMouseUp={() => {
-                    drag.current = null;
-                }}
+                onPointerDown={onPointerDown}
+                onPointerMove={onPointerMove}
+                onPointerUp={onPointerEnd}
+                onPointerCancel={onPointerEnd}
                 onWheel={(event) =>
                     zoomAt(
                         event.deltaY < 0 ? ZOOM.step : 1 / ZOOM.step,
@@ -248,8 +385,11 @@ export default function MapPage({ coverage }: Props) {
                         event.clientY,
                     )
                 }
-                onMouseLeave={() => {
-                    drag.current = null;
+                onPointerLeave={(event) => {
+                    if (event.pointerType !== 'mouse') {
+                        return;
+                    }
+
                     // Deferred, never immediate: the pointer leaving this sheet
                     // is usually the pointer arriving at the card, and clearing
                     // here destroyed the card before it could be reached.
@@ -259,7 +399,10 @@ export default function MapPage({ coverage }: Props) {
                     position: 'fixed',
                     inset: 0,
                     zIndex: 1,
-                    cursor: hovered ? 'pointer' : 'default',
+                    cursor: hovered ? 'pointer' : drag.current?.moved ? 'grabbing' : 'grab',
+                    // The page itself must not scroll or zoom under a finger:
+                    // every drag and pinch here belongs to the map.
+                    touchAction: 'none',
                 }}
                 aria-hidden="true"
             />

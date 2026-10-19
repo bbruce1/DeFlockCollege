@@ -178,7 +178,7 @@ export default function Carousel({
                         ←
                     </button>
 
-                    <div style={{ display: 'flex', gap: '0.45rem' }}>
+                    <div style={{ display: 'flex' }}>
                         {cards.map((card, index) => (
                             <button
                                 key={card.heading}
@@ -186,18 +186,27 @@ export default function Carousel({
                                 onClick={() => setActive(index)}
                                 aria-label={card.heading}
                                 aria-current={index === active}
+                                // The dot stays small; the padding round it is
+                                // the finger's target.
                                 style={{
-                                    width: index === active ? '1.6rem' : '0.5rem',
-                                    height: '0.5rem',
-                                    padding: 0,
+                                    padding: '0.5rem 0.225rem',
                                     border: 0,
+                                    background: 'none',
                                     cursor: 'pointer',
-                                    borderRadius: 'var(--radius)',
-                                    background:
-                                        index === active ? 'var(--accent)' : 'var(--line)',
-                                    transition: 'width 320ms ease, background 320ms ease',
                                 }}
-                            />
+                            >
+                                <span
+                                    style={{
+                                        display: 'block',
+                                        width: index === active ? '1.6rem' : '0.5rem',
+                                        height: '0.5rem',
+                                        borderRadius: 'var(--radius)',
+                                        background:
+                                            index === active ? 'var(--accent)' : 'var(--line)',
+                                        transition: 'width 320ms ease, background 320ms ease',
+                                    }}
+                                />
+                            </button>
                         ))}
                     </div>
 

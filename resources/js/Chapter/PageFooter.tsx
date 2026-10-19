@@ -25,13 +25,13 @@ export default function PageFooter({ chapter }: { chapter: Chapter }) {
                     with, endorsed by, or operated by the school.
                 </p>
 
-                <p style={{ margin: '0.8rem 0 0', display: 'flex', flexWrap: 'wrap', gap: '1.2rem' }}>
+                <p style={{ margin: '0.4rem 0 0', display: 'flex', flexWrap: 'wrap', columnGap: '1.2rem' }}>
                     {[
                         ['/about', 'About'],
                         ['/terms', 'Terms'],
                         ['/privacy', 'Privacy'],
                     ].map(([href, label]) => (
-                        <Link key={href} href={href} style={{ color: 'var(--ink-soft)' }}>
+                        <Link key={href} href={href} style={{ color: 'var(--ink-soft)', padding: '0.4rem 0' }}>
                             {label}
                         </Link>
                     ))}

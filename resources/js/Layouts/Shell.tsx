@@ -28,15 +28,16 @@ export default function Shell({
             <div className="scanlines" aria-hidden="true" />
 
             <header className="sticky top-0 z-40 border-b border-hair bg-void/80 backdrop-blur">
-                <div className="shell flex h-14 items-center justify-between gap-6">
-                    <Link href="/" className="font-data text-[13px] font-semibold tracking-[0.1em] no-underline">
+                <div className="shell flex h-14 items-center justify-between gap-4 sm:gap-6">
+                    <Link href="/" className="shrink-0 whitespace-nowrap font-data text-[13px] font-semibold tracking-[0.1em] no-underline">
                         <span className="text-net">DE</span>
                         <span className="text-glow">FLOCK</span>
-                        <span className="text-faint"> / CAMPUS</span>
+                        {/* A phone has room for the name or the nav, not both in full. */}
+                        <span className="hidden text-faint sm:inline"> / CAMPUS</span>
                     </Link>
 
-                    <div className="flex items-center gap-6">
-                        <nav className="flex items-center gap-6">
+                    <div className="flex min-w-0 items-center gap-4 sm:gap-6">
+                        <nav className="flex items-center gap-4 sm:gap-6">
                             {[
                                 ['/map', 'Map'],
                                 ['/social', 'Social'],
@@ -46,7 +47,8 @@ export default function Shell({
                                 <Link
                                     key={href}
                                     href={href}
-                                    className="annot text-dim no-underline hover:text-net"
+                                    // Padded out to a thumb's height without moving the text.
+                                    className="annot -my-3 py-3 text-dim no-underline hover:text-net"
                                 >
                                     {label}
                                 </Link>
@@ -62,7 +64,7 @@ export default function Shell({
             {bare ? null : (
             <footer className="mt-24 border-t border-hair">
                 <div className="shell grid gap-3 py-10">
-                    <nav className="flex flex-wrap gap-x-6 gap-y-2">
+                    <nav className="flex flex-wrap gap-x-6">
                         {[
                             ['/about', 'About'],
                             ['/chapters', 'Chapters'],
@@ -74,7 +76,7 @@ export default function Shell({
                             <Link
                                 key={href}
                                 href={href}
-                                className="annot text-dim no-underline hover:text-net"
+                                className="annot py-2 text-dim no-underline hover:text-net"
                             >
                                 {label}
                             </Link>

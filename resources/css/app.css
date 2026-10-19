@@ -149,6 +149,13 @@
   .field::placeholder { color: var(--color-faint); }
   .field:hover { border-color: var(--color-edge); }
 
+  /* iOS zooms the page into any field set under 16px when it is tapped, and
+     leaves it zoomed after, so the form a student came to fill in ends up
+     hanging off the side of the screen. */
+  @media (max-width: 640px) {
+    .field { font-size: 1rem; }
+  }
+
   .panel { background: var(--color-panel); border: 1px solid var(--color-hair); }
 
   /* Fixed, pointer-events-none, so scrolling never repaints it. */
